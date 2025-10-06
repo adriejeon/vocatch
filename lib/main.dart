@@ -1,49 +1,59 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'core/theme/app_theme.dart';
+import 'data/local/hive_service.dart';
+import 'data/local/sample_data.dart';
+import 'features/language_selection/screens/language_selection_screen.dart';
+import 'features/main_screen.dart';
 
-void main() {
-  runApp(const VocatchApp());
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  // 상태바 스타일 설정
+  SystemChrome.setSystemUIOverlayStyle(
+    const SystemUiOverlayStyle(
+      statusBarColor: Colors.transparent,
+      statusBarIconBrightness: Brightness.dark,
+    ),
+  );
+
+  // Hive 초기화
+  await HiveService.init();
+
+  // 샘플 데이터 로드
+  await _loadSampleData();
+
+  runApp(const ProviderScope(child: VocatchApp()));
 }
 
-class VocatchApp extends StatelessWidget {
-  const VocatchApp({super.key});
+/// 샘플 데이터를 데이터베이스에 로드합니다.
+Future<void> _loadSampleData() async {
+  final wordsBox = HiveService.getWordsBox();
+  
+  // 이미 데이터가 있으면 로드하지 않음
+  if (wordsBox.isNotEmpty) return;
 
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Vocatch',
-      theme: AppTheme.lightTheme,
-      home: const HomePage(),
-      debugShowCheckedModeBanner: false,
-    );
+  final sampleWords = SampleData.getAllSampleWords();
+  for (var word in sampleWords) {
+    await wordsBox.put(word.id, word);
   }
 }
 
-class HomePage extends StatelessWidget {
-  const HomePage({super.key});
+class VocatchApp extends ConsumerWidget {
+  const VocatchApp({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('Vocatch'),
-      ),
-      body: const Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text(
-              'Welcome to Vocatch!',
-              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
-            ),
-            SizedBox(height: 16),
-            Text(
-              '외국어 단어 학습 앱',
-              style: TextStyle(fontSize: 16),
-            ),
-          ],
-        ),
-      ),
+  Widget build(BuildContext context, WidgetRef ref) {
+    final settings = HiveService.getOrCreateSettings();
+
+    return MaterialApp(
+      title: 'Vocatch',
+      theme: AppTheme.lightTheme,
+      home: settings.isFirstLaunch
+          ? const LanguageSelectionScreen()
+          : const MainScreen(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
