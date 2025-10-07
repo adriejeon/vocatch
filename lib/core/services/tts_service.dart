@@ -99,11 +99,12 @@ class TtsService {
     }
   }
 
-  /// TTS 상태 확인
+  /// TTS 상태 확인 (현재 버전에서는 지원하지 않음)
   static Future<bool> isSpeaking() async {
     try {
-      // flutter_tts 3.8.5에서는 isSpeaking이 동기 메서드입니다
-      return _flutterTts.isSpeaking;
+      // flutter_tts 3.8.5에서는 isSpeaking 메서드가 없습니다
+      // 대신 false를 반환하여 항상 발음 가능한 상태로 처리
+      return false;
     } catch (e) {
       print('TTS 상태 확인 오류: $e');
       return false;
