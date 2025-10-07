@@ -43,6 +43,7 @@ dependencies:
   
   # Audio
   audioplayers: ^5.2.1
+  flutter_tts: ^3.8.5
   
   # Dependency Injection
   get_it: ^7.6.4

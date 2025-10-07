@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'core/theme/app_theme.dart';
+import 'core/services/tts_service.dart';
 import 'data/local/hive_service.dart';
 import 'data/local/sample_data.dart';
 import 'features/language_selection/screens/language_selection_screen.dart';
@@ -20,6 +21,9 @@ void main() async {
 
   // Hive 초기화
   await HiveService.init();
+
+  // TTS 초기화
+  await TtsService.initialize();
 
   // 샘플 데이터 로드
   await _loadSampleData();

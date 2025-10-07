@@ -5,6 +5,7 @@ import '../../../core/constants/app_spacing.dart';
 import '../../../core/constants/app_strings.dart';
 import '../../../core/constants/app_text_styles.dart';
 import '../../../core/providers/language_provider.dart';
+import '../../../core/services/tts_service.dart';
 import '../../../data/models/word_model.dart';
 
 class WordCard extends ConsumerWidget {
@@ -36,9 +37,29 @@ class WordCard extends ConsumerWidget {
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      Text(
-                        word.word,
-                        style: AppTextStyles.headline4,
+                      Row(
+                        children: [
+                          Expanded(
+                            child: Text(
+                              word.word,
+                              style: AppTextStyles.headline4,
+                            ),
+                          ),
+                          // 발음 듣기 버튼
+                          IconButton(
+                            onPressed: () => _speakWord(word, uiLang),
+                            icon: const Icon(
+                              Icons.volume_up,
+                              color: AppColors.primary,
+                            ),
+                            tooltip: '발음 듣기',
+                            padding: EdgeInsets.zero,
+                            constraints: const BoxConstraints(
+                              minWidth: 32,
+                              minHeight: 32,
+                            ),
+                          ),
+                        ],
                       ),
                       if (word.pronunciation != null)
                         Text(
@@ -127,5 +148,21 @@ class WordCard extends ConsumerWidget {
         ),
       ),
     );
+  }
+
+  /// 단어 발음 듣기
+  void _speakWord(WordModel word, String uiLang) async {
+    try {
+      // 학습 언어에 따라 발음
+      if (word.learningLanguage == 'en') {
+        // 영어 단어 발음
+        await TtsService.speakEnglish(word.word);
+      } else if (word.learningLanguage == 'ko') {
+        // 한국어 단어 발음
+        await TtsService.speakKorean(word.word);
+      }
+    } catch (e) {
+      print('발음 재생 오류: $e');
+    }
   }
 }
