@@ -24,18 +24,22 @@ class WordModelAdapter extends TypeAdapter<WordModel> {
       example: fields[4] as String?,
       level: fields[5] as String,
       type: fields[6] as String,
+      category: fields[12] as String?,
       learningLanguage: fields[7] as String,
       nativeLanguage: fields[8] as String,
       createdAt: fields[9] as DateTime,
       isInVocabulary: fields[10] as bool,
       groupIds: (fields[11] as List?)?.cast<String>(),
+      synonyms: (fields[13] as List?)?.cast<String>(),
+      antonyms: (fields[14] as List?)?.cast<String>(),
+      verbConjugations: (fields[15] as Map?)?.cast<String, dynamic>(),
     );
   }
 
   @override
   void write(BinaryWriter writer, WordModel obj) {
     writer
-      ..writeByte(12)
+      ..writeByte(16)
       ..writeByte(0)
       ..write(obj.id)
       ..writeByte(1)
@@ -50,6 +54,8 @@ class WordModelAdapter extends TypeAdapter<WordModel> {
       ..write(obj.level)
       ..writeByte(6)
       ..write(obj.type)
+      ..writeByte(12)
+      ..write(obj.category)
       ..writeByte(7)
       ..write(obj.learningLanguage)
       ..writeByte(8)
@@ -59,7 +65,13 @@ class WordModelAdapter extends TypeAdapter<WordModel> {
       ..writeByte(10)
       ..write(obj.isInVocabulary)
       ..writeByte(11)
-      ..write(obj.groupIds);
+      ..write(obj.groupIds)
+      ..writeByte(13)
+      ..write(obj.synonyms)
+      ..writeByte(14)
+      ..write(obj.antonyms)
+      ..writeByte(15)
+      ..write(obj.verbConjugations);
   }
 
   @override

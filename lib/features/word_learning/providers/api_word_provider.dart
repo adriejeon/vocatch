@@ -12,11 +12,11 @@ class ApiWordNotifier extends StateNotifier<List<WordModel>> {
     required String level,
     required String learningLanguage,
     required String nativeLanguage,
-    int count = 5,
+    int count = 20,
   }) async {
     try {
       state = []; // 로딩 상태
-      
+
       // API에서 단어 생성
       final words = await DictionaryApiService.generateDailyWords(
         level: level,
@@ -51,13 +51,14 @@ class ApiWordNotifier extends StateNotifier<List<WordModel>> {
         level: level,
         learningLanguage: learningLanguage,
         nativeLanguage: nativeLanguage,
+        category: 'daily',
       );
 
       if (wordModel != null) {
         // 데이터베이스에 저장
         final box = HiveService.getWordsBox();
         await box.put(wordModel.id, wordModel);
-        
+
         // 상태 업데이트
         state = [...state, wordModel];
       }
@@ -77,11 +78,13 @@ class ApiWordNotifier extends StateNotifier<List<WordModel>> {
     try {
       final box = HiveService.getWordsBox();
       final allWords = box.values.toList();
-      
+
       final filteredWords = allWords
-          .where((word) =>
-              word.level == level && 
-              word.learningLanguage == learningLanguage)
+          .where(
+            (word) =>
+                word.level == level &&
+                word.learningLanguage == learningLanguage,
+          )
           .toList();
 
       state = filteredWords;
@@ -96,13 +99,11 @@ class ApiWordNotifier extends StateNotifier<List<WordModel>> {
     try {
       final box = HiveService.getWordsBox();
       final word = box.get(wordId);
-      
+
       if (word != null) {
-        final updatedWord = word.copyWith(
-          isInVocabulary: !word.isInVocabulary,
-        );
+        final updatedWord = word.copyWith(isInVocabulary: !word.isInVocabulary);
         await box.put(wordId, updatedWord);
-        
+
         // 상태 업데이트
         final index = state.indexWhere((w) => w.id == wordId);
         if (index != -1) {
@@ -123,7 +124,7 @@ class ApiWordNotifier extends StateNotifier<List<WordModel>> {
     try {
       final box = HiveService.getWordsBox();
       await box.delete(wordId);
-      
+
       // 상태에서 제거
       state = state.where((word) => word.id != wordId).toList();
     } catch (e) {
@@ -133,6 +134,8 @@ class ApiWordNotifier extends StateNotifier<List<WordModel>> {
 }
 
 /// API 단어 Provider
-final apiWordProvider = StateNotifierProvider<ApiWordNotifier, List<WordModel>>((ref) {
-  return ApiWordNotifier();
-});
+final apiWordProvider = StateNotifierProvider<ApiWordNotifier, List<WordModel>>(
+  (ref) {
+    return ApiWordNotifier();
+  },
+);

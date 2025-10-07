@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../core/constants/app_colors.dart';
@@ -5,24 +6,69 @@ import '../../../core/constants/app_spacing.dart';
 import '../../../core/constants/app_strings.dart';
 import '../../../core/constants/app_text_styles.dart';
 import '../../../core/providers/language_provider.dart';
+import '../../../data/models/word_model.dart';
 import '../../word_learning/providers/word_provider.dart';
 import '../providers/group_provider.dart';
 
-class VocabularyScreen extends ConsumerWidget {
+class VocabularyScreen extends ConsumerStatefulWidget {
   const VocabularyScreen({super.key});
 
   @override
-  Widget build(BuildContext context, WidgetRef ref) {
+  ConsumerState<VocabularyScreen> createState() => _VocabularyScreenState();
+}
+
+class _VocabularyScreenState extends ConsumerState<VocabularyScreen> {
+  Timer? _refreshTimer;
+
+  @override
+  void initState() {
+    super.initState();
+    // 화면이 포커스될 때마다 단어 목록 새로고침
+    WidgetsBinding.instance.addPostFrameCallback((_) {
+      ref.invalidate(wordProvider);
+    });
+
+    // 2초마다 자동 새로고침
+    _refreshTimer = Timer.periodic(const Duration(seconds: 2), (timer) {
+      if (mounted) {
+        ref.invalidate(wordProvider);
+      }
+    });
+  }
+
+  @override
+  void dispose() {
+    _refreshTimer?.cancel();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
     final settings = ref.watch(languageProvider);
     final uiLang = settings.uiLanguage;
-    final wordNotifier = ref.read(wordProvider.notifier);
-    final vocabularyWords = wordNotifier.getVocabularyWords();
+    final allWords = ref.watch(wordProvider);
+    final vocabularyWords = allWords
+        .where((word) => word.isInVocabulary)
+        .toList();
 
     return Scaffold(
       backgroundColor: AppColors.background,
       appBar: AppBar(
         title: Text(AppStrings.get('vocabulary_title', uiLang)),
         actions: [
+          IconButton(
+            icon: const Icon(Icons.refresh),
+            onPressed: () {
+              ref.invalidate(wordProvider);
+              ScaffoldMessenger.of(context).showSnackBar(
+                SnackBar(
+                  content: Text(AppStrings.get('refreshed', uiLang)),
+                  backgroundColor: AppColors.success,
+                ),
+              );
+            },
+            tooltip: 'Refresh',
+          ),
           IconButton(
             icon: const Icon(Icons.create_new_folder_outlined),
             onPressed: () => _showCreateGroupDialog(context, ref),
@@ -35,11 +81,7 @@ class VocabularyScreen extends ConsumerWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  Icon(
-                    Icons.folder_open,
-                    size: 64,
-                    color: AppColors.grey40,
-                  ),
+                  Icon(Icons.folder_open, size: 64, color: AppColors.grey40),
                   const SizedBox(height: AppSpacing.paddingMedium),
                   Text(
                     AppStrings.get('no_vocabulary', uiLang),
@@ -56,7 +98,9 @@ class VocabularyScreen extends ConsumerWidget {
               itemBuilder: (context, index) {
                 final word = vocabularyWords[index];
                 return Card(
-                  margin: const EdgeInsets.only(bottom: AppSpacing.paddingMedium),
+                  margin: const EdgeInsets.only(
+                    bottom: AppSpacing.paddingMedium,
+                  ),
                   child: ListTile(
                     leading: CircleAvatar(
                       backgroundColor: AppColors.primary.withOpacity(0.1),
@@ -67,20 +111,33 @@ class VocabularyScreen extends ConsumerWidget {
                         ),
                       ),
                     ),
-                    title: Text(
-                      word.word,
-                      style: AppTextStyles.labelLarge,
-                    ),
+                    title: Text(word.word, style: AppTextStyles.labelLarge),
                     subtitle: Text(
                       word.meaning,
                       style: AppTextStyles.bodySmall,
                     ),
-                    trailing: IconButton(
-                      icon: const Icon(Icons.delete_outline),
-                      onPressed: () {
-                        ref.read(wordProvider.notifier).toggleVocabulary(word.id);
-                      },
-                      color: AppColors.error,
+                    trailing: Row(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        IconButton(
+                          icon: const Icon(Icons.create_new_folder_outlined),
+                          onPressed: () =>
+                              _showAddToGroupDialog(context, ref, word),
+                          color: AppColors.primary,
+                          tooltip: AppStrings.get('add_to_group', uiLang),
+                        ),
+                        IconButton(
+                          icon: const Icon(Icons.delete_outline),
+                          onPressed: () async {
+                            await ref
+                                .read(wordProvider.notifier)
+                                .toggleVocabulary(word.id);
+                            // 단어장 화면 새로고침
+                            ref.invalidate(wordProvider);
+                          },
+                          color: AppColors.error,
+                        ),
+                      ],
                     ),
                   ),
                 );
@@ -128,6 +185,73 @@ class VocabularyScreen extends ConsumerWidget {
               }
             },
             child: Text(AppStrings.get('create', uiLang)),
+          ),
+        ],
+      ),
+    );
+  }
+
+  void _showAddToGroupDialog(
+    BuildContext context,
+    WidgetRef ref,
+    WordModel word,
+  ) {
+    final settings = ref.read(languageProvider);
+    final uiLang = settings.uiLanguage;
+    final groups = ref.read(groupProvider);
+
+    if (groups.isEmpty) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(AppStrings.get('no_groups', uiLang)),
+          backgroundColor: AppColors.error,
+        ),
+      );
+      return;
+    }
+
+    showDialog(
+      context: context,
+      builder: (context) => AlertDialog(
+        title: Text(
+          AppStrings.get('select_group_to_add', uiLang),
+          style: AppTextStyles.headline4,
+        ),
+        content: SingleChildScrollView(
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: groups.map((group) {
+              return ListTile(
+                title: Text(group.name, style: AppTextStyles.labelLarge),
+                subtitle: Text(
+                  '${group.wordIds.length} ${AppStrings.get('word', uiLang)}',
+                  style: AppTextStyles.bodySmall,
+                ),
+                onTap: () {
+                  ref
+                      .read(groupProvider.notifier)
+                      .addWordToGroup(group.id, word.id);
+                  Navigator.pop(context);
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    SnackBar(
+                      content: Text(AppStrings.get('added_to_group', uiLang)),
+                      backgroundColor: AppColors.success,
+                    ),
+                  );
+                },
+              );
+            }).toList(),
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(context),
+            child: Text(
+              AppStrings.get('cancel', uiLang),
+              style: AppTextStyles.labelMedium.copyWith(
+                color: AppColors.textSecondary,
+              ),
+            ),
           ),
         ],
       ),

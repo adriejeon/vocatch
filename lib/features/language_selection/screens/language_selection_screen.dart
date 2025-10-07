@@ -4,7 +4,7 @@ import '../../../core/constants/app_colors.dart';
 import '../../../core/constants/app_spacing.dart';
 import '../../../core/constants/app_text_styles.dart';
 import '../../../core/providers/language_provider.dart';
-import '../../main_screen.dart';
+import 'level_test_screen.dart';
 
 class LanguageSelectionScreen extends ConsumerStatefulWidget {
   const LanguageSelectionScreen({super.key});
@@ -31,9 +31,11 @@ class _LanguageSelectionScreenState
             children: [
               // Progress Indicator
               LinearProgressIndicator(
-                value: (currentStep + 1) / 2,
+                value: (currentStep + 1) / 3,
                 backgroundColor: AppColors.grey20,
-                valueColor: const AlwaysStoppedAnimation<Color>(AppColors.primary),
+                valueColor: const AlwaysStoppedAnimation<Color>(
+                  AppColors.primary,
+                ),
               ),
               const SizedBox(height: AppSpacing.paddingXLarge),
 
@@ -109,7 +111,7 @@ class _LanguageSelectionScreenState
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         const Text(
-          'UI 언어를 선택하세요',
+          '앱 언어를 선택하세요',
           style: AppTextStyles.headline3,
           textAlign: TextAlign.center,
         ),
@@ -155,7 +157,9 @@ class _LanguageSelectionScreenState
         width: double.infinity,
         padding: const EdgeInsets.all(AppSpacing.paddingLarge),
         decoration: BoxDecoration(
-          color: isSelected ? AppColors.primary.withOpacity(0.1) : AppColors.surface,
+          color: isSelected
+              ? AppColors.primary.withOpacity(0.1)
+              : AppColors.surface,
           border: Border.all(
             color: isSelected ? AppColors.primary : AppColors.border,
             width: isSelected ? 2 : 1,
@@ -186,7 +190,9 @@ class _LanguageSelectionScreenState
                   Text(
                     label,
                     style: AppTextStyles.labelLarge.copyWith(
-                      color: isSelected ? AppColors.primary : AppColors.textPrimary,
+                      color: isSelected
+                          ? AppColors.primary
+                          : AppColors.textPrimary,
                     ),
                   ),
                   Text(
@@ -228,20 +234,17 @@ class _LanguageSelectionScreenState
     }
   }
 
-  Future<void> _completeSetup() async {
+  void _completeSetup() {
     if (selectedUiLanguage != null && selectedLearningLanguage != null) {
-      await ref.read(languageProvider.notifier).completeInitialSetup(
+      // 언어 수준 테스트 화면으로 이동
+      Navigator.of(context).pushReplacement(
+        MaterialPageRoute(
+          builder: (context) => LevelTestScreen(
             uiLanguage: selectedUiLanguage!,
             learningLanguage: selectedLearningLanguage!,
-          );
-
-      if (mounted) {
-        Navigator.of(context).pushReplacement(
-          MaterialPageRoute(
-            builder: (context) => const MainScreen(),
           ),
-        );
-      }
+        ),
+      );
     }
   }
 }

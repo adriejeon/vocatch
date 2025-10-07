@@ -13,21 +13,27 @@ class AppSettingsModel extends HiveObject {
   @HiveField(2)
   bool isFirstLaunch;
 
+  @HiveField(3)
+  String userLevel; // 'foundation', 'expression', 'native'
+
   AppSettingsModel({
     this.uiLanguage = 'ko',
     this.learningLanguage = 'en',
     this.isFirstLaunch = true,
+    this.userLevel = 'foundation',
   });
 
   AppSettingsModel copyWith({
     String? uiLanguage,
     String? learningLanguage,
     bool? isFirstLaunch,
+    String? userLevel,
   }) {
     return AppSettingsModel(
       uiLanguage: uiLanguage ?? this.uiLanguage,
       learningLanguage: learningLanguage ?? this.learningLanguage,
       isFirstLaunch: isFirstLaunch ?? this.isFirstLaunch,
+      userLevel: userLevel ?? this.userLevel,
     );
   }
 }

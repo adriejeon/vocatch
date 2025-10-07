@@ -20,15 +20,24 @@ class LanguageNotifier extends StateNotifier<AppSettingsModel> {
     state = newSettings;
   }
 
+  /// 사용자 수준 변경
+  Future<void> changeUserLevel(String level) async {
+    final newSettings = state.copyWith(userLevel: level);
+    await HiveService.updateSettings(newSettings);
+    state = newSettings;
+  }
+
   /// 초기 설정 완료
   Future<void> completeInitialSetup({
     required String uiLanguage,
     required String learningLanguage,
+    String? userLevel,
   }) async {
     final newSettings = AppSettingsModel(
       uiLanguage: uiLanguage,
       learningLanguage: learningLanguage,
       isFirstLaunch: false,
+      userLevel: userLevel ?? 'foundation',
     );
     await HiveService.updateSettings(newSettings);
     state = newSettings;
@@ -45,5 +54,5 @@ class LanguageNotifier extends StateNotifier<AppSettingsModel> {
 /// 언어 설정 Provider
 final languageProvider =
     StateNotifierProvider<LanguageNotifier, AppSettingsModel>((ref) {
-  return LanguageNotifier();
-});
+      return LanguageNotifier();
+    });

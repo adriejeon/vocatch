@@ -6,8 +6,8 @@ class AppTextStyles {
   // Private constructor to prevent instantiation
   AppTextStyles._();
 
-  // Font Family
-  static const String _fontFamily = 'Pretendard';
+  // Font Family - 시스템 기본 폰트 사용
+  static const String? _fontFamily = null;
 
   // Headline Styles
   static const TextStyle headline1 = TextStyle(

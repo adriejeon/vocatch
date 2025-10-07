@@ -39,9 +39,7 @@ class WordNotifier extends StateNotifier<List<WordModel>> {
     final box = HiveService.getWordsBox();
     final word = box.get(wordId);
     if (word != null) {
-      final updatedWord = word.copyWith(
-        isInVocabulary: !word.isInVocabulary,
-      );
+      final updatedWord = word.copyWith(isInVocabulary: !word.isInVocabulary);
       await box.put(wordId, updatedWord);
       _loadWords();
     }
@@ -78,8 +76,10 @@ class WordNotifier extends StateNotifier<List<WordModel>> {
   /// 레벨별 단어 가져오기
   List<WordModel> getWordsByLevel(String level, String learningLanguage) {
     return state
-        .where((word) =>
-            word.level == level && word.learningLanguage == learningLanguage)
+        .where(
+          (word) =>
+              word.level == level && word.learningLanguage == learningLanguage,
+        )
         .toList();
   }
 
@@ -94,9 +94,16 @@ class WordNotifier extends StateNotifier<List<WordModel>> {
         .where((word) => word.groupIds?.contains(groupId) ?? false)
         .toList();
   }
+
+  /// 데이터베이스에서 단어 목록 새로고침 (다른 Provider의 변경사항 반영)
+  Future<void> refreshWords() async {
+    _loadWords();
+  }
 }
 
 /// 단어 Provider
-final wordProvider = StateNotifierProvider<WordNotifier, List<WordModel>>((ref) {
+final wordProvider = StateNotifierProvider<WordNotifier, List<WordModel>>((
+  ref,
+) {
   return WordNotifier();
 });

@@ -20,9 +20,21 @@ class HiveService {
     Hive.registerAdapter(AppSettingsModelAdapter());
 
     // Open boxes
-    await Hive.openBox<WordModel>(wordsBoxName);
-    await Hive.openBox<VocabularyGroupModel>(groupsBoxName);
-    await Hive.openBox<AppSettingsModel>(settingsBoxName);
+    try {
+      await Hive.openBox<WordModel>(wordsBoxName);
+      await Hive.openBox<VocabularyGroupModel>(groupsBoxName);
+      await Hive.openBox<AppSettingsModel>(settingsBoxName);
+    } catch (e) {
+      // 호환성 문제 발생 시 기존 데이터 삭제하고 재시작
+      print('Hive compatibility error, clearing boxes: $e');
+      await Hive.deleteBoxFromDisk(wordsBoxName);
+      await Hive.deleteBoxFromDisk(groupsBoxName);
+      await Hive.deleteBoxFromDisk(settingsBoxName);
+
+      await Hive.openBox<WordModel>(wordsBoxName);
+      await Hive.openBox<VocabularyGroupModel>(groupsBoxName);
+      await Hive.openBox<AppSettingsModel>(settingsBoxName);
+    }
   }
 
   /// 단어 Box 가져오기

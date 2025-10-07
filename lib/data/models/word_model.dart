@@ -25,6 +25,9 @@ class WordModel extends HiveObject {
   @HiveField(6)
   final String type; // 'word' or 'expression'
 
+  @HiveField(12)
+  final String? category; // 'business', 'travel', 'daily', 'academic', 'casual'
+
   @HiveField(7)
   final String learningLanguage; // 'en' or 'ko'
 
@@ -40,6 +43,15 @@ class WordModel extends HiveObject {
   @HiveField(11)
   List<String>? groupIds;
 
+  @HiveField(13)
+  List<String>? synonyms;
+
+  @HiveField(14)
+  List<String>? antonyms;
+
+  @HiveField(15)
+  Map<String, dynamic>? verbConjugations; // 동사 변화형 정보
+
   WordModel({
     required this.id,
     required this.word,
@@ -48,11 +60,15 @@ class WordModel extends HiveObject {
     this.example,
     required this.level,
     required this.type,
+    this.category,
     required this.learningLanguage,
     required this.nativeLanguage,
     required this.createdAt,
     this.isInVocabulary = false,
     this.groupIds,
+    this.synonyms,
+    this.antonyms,
+    this.verbConjugations,
   });
 
   WordModel copyWith({
@@ -63,11 +79,15 @@ class WordModel extends HiveObject {
     String? example,
     String? level,
     String? type,
+    String? category,
     String? learningLanguage,
     String? nativeLanguage,
     DateTime? createdAt,
     bool? isInVocabulary,
     List<String>? groupIds,
+    List<String>? synonyms,
+    List<String>? antonyms,
+    Map<String, dynamic>? verbConjugations,
   }) {
     return WordModel(
       id: id ?? this.id,
@@ -77,11 +97,15 @@ class WordModel extends HiveObject {
       example: example ?? this.example,
       level: level ?? this.level,
       type: type ?? this.type,
+      category: category ?? this.category,
       learningLanguage: learningLanguage ?? this.learningLanguage,
       nativeLanguage: nativeLanguage ?? this.nativeLanguage,
       createdAt: createdAt ?? this.createdAt,
       isInVocabulary: isInVocabulary ?? this.isInVocabulary,
       groupIds: groupIds ?? this.groupIds,
+      synonyms: synonyms ?? this.synonyms,
+      antonyms: antonyms ?? this.antonyms,
+      verbConjugations: verbConjugations ?? this.verbConjugations,
     );
   }
 }

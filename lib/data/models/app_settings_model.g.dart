@@ -20,19 +20,22 @@ class AppSettingsModelAdapter extends TypeAdapter<AppSettingsModel> {
       uiLanguage: fields[0] as String,
       learningLanguage: fields[1] as String,
       isFirstLaunch: fields[2] as bool,
+      userLevel: fields[3] as String,
     );
   }
 
   @override
   void write(BinaryWriter writer, AppSettingsModel obj) {
     writer
-      ..writeByte(3)
+      ..writeByte(4)
       ..writeByte(0)
       ..write(obj.uiLanguage)
       ..writeByte(1)
       ..write(obj.learningLanguage)
       ..writeByte(2)
-      ..write(obj.isFirstLaunch);
+      ..write(obj.isFirstLaunch)
+      ..writeByte(3)
+      ..write(obj.userLevel);
   }
 
   @override
