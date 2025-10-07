@@ -52,6 +52,9 @@ dependencies:
   
   # UI
   flutter_svg: ^2.0.9
+  
+  # HTTP
+  http: ^1.1.0
 
 dev_dependencies:
   # The "flutter_lints" package below contains a set of recommended lints to

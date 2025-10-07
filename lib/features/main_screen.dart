@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../core/constants/app_strings.dart';
 import '../core/providers/language_provider.dart';
-import 'word_learning/screens/today_learning_screen.dart';
+import 'word_learning/screens/api_today_learning_screen.dart';
 import 'vocabulary/screens/vocabulary_screen.dart';
 import 'card_game/screens/card_matching_screen.dart';
 
@@ -22,7 +22,7 @@ class _MainScreenState extends ConsumerState<MainScreen> {
     final uiLang = settings.uiLanguage;
 
     final screens = [
-      const TodayLearningScreen(),
+      const ApiTodayLearningScreen(),
       const VocabularyScreen(),
       const CardMatchingScreen(),
     ];
