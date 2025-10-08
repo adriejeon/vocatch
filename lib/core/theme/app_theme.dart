@@ -14,7 +14,7 @@ class AppTheme {
     return ThemeData(
       useMaterial3: true,
       brightness: Brightness.light,
-      
+
       // Color Scheme
       colorScheme: const ColorScheme.light(
         primary: AppColors.primary,
@@ -155,16 +155,10 @@ class AppTheme {
       ),
 
       // Icon Theme
-      iconTheme: const IconThemeData(
-        color: AppColors.textPrimary,
-        size: 24,
-      ),
+      iconTheme: const IconThemeData(color: AppColors.textPrimary, size: 24),
 
       // Primary Icon Theme
-      primaryIconTheme: const IconThemeData(
-        color: AppColors.grey00,
-        size: 24,
-      ),
+      primaryIconTheme: const IconThemeData(color: AppColors.grey00, size: 24),
 
       // Text Theme
       textTheme: const TextTheme(

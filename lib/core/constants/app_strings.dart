@@ -96,6 +96,22 @@ class AppStrings {
     'select_group_to_add': '추가할 그룹을 선택하세요',
     'added_to_group': '그룹에 추가되었습니다',
 
+    // Add Word
+    'add_new_word': '새 단어 추가',
+    'word_text': '단어',
+    'word_hint': '단어를 입력하세요',
+    'meaning_hint': '의미를 입력하세요',
+    'pronunciation_hint': '발음을 입력하세요 (선택)',
+    'example_hint': '예문을 입력하세요 (선택)',
+    'select_level': '난이도 선택',
+    'select_type': '타입 선택',
+    'type_word': '단어',
+    'type_expression': '표현',
+    'word_added': '단어가 추가되었습니다',
+    'please_enter_word': '단어를 입력해주세요',
+    'please_enter_meaning': '의미를 입력해주세요',
+    'refreshed': '새로고침되었습니다',
+
     // Common
     'save': '저장',
     'delete': '삭제',
@@ -201,6 +217,22 @@ class AppStrings {
     'add_to_group': 'Add to Group',
     'select_group_to_add': 'Select a group to add',
     'added_to_group': 'Added to group',
+
+    // Add Word
+    'add_new_word': 'Add New Word',
+    'word_text': 'Word',
+    'word_hint': 'Enter word',
+    'meaning_hint': 'Enter meaning',
+    'pronunciation_hint': 'Enter pronunciation (optional)',
+    'example_hint': 'Enter example (optional)',
+    'select_level': 'Select Level',
+    'select_type': 'Select Type',
+    'type_word': 'Word',
+    'type_expression': 'Expression',
+    'word_added': 'Word added',
+    'please_enter_word': 'Please enter word',
+    'please_enter_meaning': 'Please enter meaning',
+    'refreshed': 'Refreshed',
 
     // Common
     'save': 'Save',

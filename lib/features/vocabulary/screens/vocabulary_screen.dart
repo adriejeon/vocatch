@@ -9,6 +9,7 @@ import '../../../core/providers/language_provider.dart';
 import '../../../data/models/word_model.dart';
 import '../../word_learning/providers/word_provider.dart';
 import '../providers/group_provider.dart';
+import '../widgets/add_word_dialog.dart';
 
 class VocabularyScreen extends ConsumerStatefulWidget {
   const VocabularyScreen({super.key});
@@ -63,7 +64,7 @@ class _VocabularyScreenState extends ConsumerState<VocabularyScreen> {
               ScaffoldMessenger.of(context).showSnackBar(
                 SnackBar(
                   content: Text(AppStrings.get('refreshed', uiLang)),
-                  backgroundColor: AppColors.success,
+                  backgroundColor: AppColors.grey80,
                 ),
               );
             },
@@ -143,7 +144,19 @@ class _VocabularyScreenState extends ConsumerState<VocabularyScreen> {
                 );
               },
             ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () => _showAddWordDialog(context),
+        backgroundColor: AppColors.primary,
+        foregroundColor: AppColors.grey00,
+        elevation: 4,
+        shape: const CircleBorder(),
+        child: const Icon(Icons.add, size: 28),
+      ),
     );
+  }
+
+  void _showAddWordDialog(BuildContext context) {
+    showDialog(context: context, builder: (context) => const AddWordDialog());
   }
 
   void _showCreateGroupDialog(BuildContext context, WidgetRef ref) {
@@ -179,7 +192,7 @@ class _VocabularyScreenState extends ConsumerState<VocabularyScreen> {
                 ScaffoldMessenger.of(context).showSnackBar(
                   SnackBar(
                     content: Text(AppStrings.get('success', uiLang)),
-                    backgroundColor: AppColors.success,
+                    backgroundColor: AppColors.grey80,
                   ),
                 );
               }
@@ -235,7 +248,7 @@ class _VocabularyScreenState extends ConsumerState<VocabularyScreen> {
                   ScaffoldMessenger.of(context).showSnackBar(
                     SnackBar(
                       content: Text(AppStrings.get('added_to_group', uiLang)),
-                      backgroundColor: AppColors.success,
+                      backgroundColor: AppColors.grey80,
                     ),
                   );
                 },
