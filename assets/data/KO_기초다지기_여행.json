@@ -1,401 +1,2321 @@
 [
   {
-    "word": "trip",
-    "meaning_ko": "여행",
+    "word": "공항",
+    "meaning_en": "airport",
     "pos": "noun",
-    "example": "This is an example with trip.",
+    "example": "우리 호텔 방은 매우 깨끗합니다.",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "travel",
-    "meaning_ko": "여행하다",
+    "word": "비행기",
+    "meaning_en": "plane",
     "pos": "noun",
-    "example": "This is an example with travel.",
+    "example": "여기 방 열쇠가 있습니다.",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "visit",
-    "meaning_ko": "방문하다",
+    "word": "표",
+    "meaning_en": "ticket",
     "pos": "noun",
-    "example": "This is an example with visit.",
+    "example": "지도에서 방향을 확인해 줄 수 있나요?",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "go",
-    "meaning_ko": "가다",
+    "word": "여권",
+    "meaning_en": "passport",
+    "pos": "noun",
+    "example": "박물관까지 택시를 탑시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "호텔",
+    "meaning_en": "hotel",
+    "pos": "noun",
+    "example": "버스 정류장이 바로 여기 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "방",
+    "meaning_en": "room",
+    "pos": "noun",
+    "example": "저는 기차로 여행하는 것을 선호합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "열쇠",
+    "meaning_en": "key",
+    "pos": "noun",
+    "example": "도시에서는 지하철이 빠릅니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "지도",
+    "meaning_en": "map",
+    "pos": "noun",
+    "example": "우리는 여행을 위해 차를 빌렸습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "택시",
+    "meaning_en": "taxi",
+    "pos": "noun",
+    "example": "공원 근처에서 자전거를 빌릴 수 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "버스",
+    "meaning_en": "bus",
+    "pos": "noun",
+    "example": "어느 역이 가장 가깝나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "기차",
+    "meaning_en": "train",
+    "pos": "noun",
+    "example": "저녁 식사할 좋은 식당을 찾아봅시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "지하철",
+    "meaning_en": "subway",
+    "pos": "noun",
+    "example": "저는 여기 현지 음식을 정말 좋아합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "자동차",
+    "meaning_en": "car",
+    "pos": "noun",
+    "example": "물 좀 주시겠어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "자전거",
+    "meaning_en": "bike",
+    "pos": "noun",
+    "example": "지금 커피 한 잔이 필요해요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "역",
+    "meaning_en": "station",
+    "pos": "noun",
+    "example": "가장 가까운 은행이 어디인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "식당",
+    "meaning_en": "restaurant",
+    "pos": "noun",
+    "example": "저는 환전을 좀 해야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "음식",
+    "meaning_en": "food",
+    "pos": "noun",
+    "example": "작은 가게에서 기념품을 샀습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "물",
+    "meaning_en": "water",
+    "pos": "noun",
+    "example": "야시장에 갑시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "커피",
+    "meaning_en": "coffee",
+    "pos": "noun",
+    "example": "공중 화장실이 어디인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "은행",
+    "meaning_en": "bank",
+    "pos": "noun",
+    "example": "이 길을 따라 걸어가면 중앙 광장이 나옵니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "돈",
+    "meaning_en": "money",
+    "pos": "noun",
+    "example": "오늘 길이 매우 붐빕니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "가게",
+    "meaning_en": "store",
+    "pos": "noun",
+    "example": "출발 시간이 몇 시인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "시장",
+    "meaning_en": "market",
+    "pos": "noun",
+    "example": "우리는 해변에서 멋진 하루를 보냈습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "화장실",
+    "meaning_en": "restroom",
+    "pos": "noun",
+    "example": "저는 아침에 걷는 것을 좋아합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "거리",
+    "meaning_en": "street",
+    "pos": "noun",
+    "example": "투어는 저녁에 시작합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "길",
+    "meaning_en": "road",
+    "pos": "noun",
+    "example": "호텔 직원에게 인사하세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "시간",
+    "meaning_en": "time",
+    "pos": "noun",
+    "example": "도와주셔서 감사합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "날, 하루",
+    "meaning_en": "day",
+    "pos": "noun",
+    "example": "미안해요, 당신이 거기 있는 줄 몰랐어요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "아침",
+    "meaning_en": "morning",
+    "pos": "noun",
+    "example": "제 가방 드는 것 좀 도와주세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "저녁",
+    "meaning_en": "evening",
+    "pos": "noun",
+    "example": "오늘 박물관이 문을 여나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "안녕하세요",
+    "meaning_en": "hello",
+    "pos": "interjection",
+    "example": "우리 다음엔 어디로 갈까요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "감사합니다",
+    "meaning_en": "thank you",
+    "pos": "phrase",
+    "example": "버스 타는 대신 걸어갑시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "죄송합니다",
+    "meaning_en": "sorry",
+    "pos": "adjective",
+    "example": "저는 그 유명한 탑을 보고 싶어요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "도움",
+    "meaning_en": "help",
+    "pos": "noun",
+    "example": "저는 기념품을 사야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "열다, 열린",
+    "meaning_en": "open",
+    "pos": "verb/adjective",
+    "example": "맛있는 것 좀 먹읍시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "닫다, 닫힌",
+    "meaning_en": "close",
+    "pos": "verb/adjective",
+    "example": "저는 차가운 주스를 마시고 싶어요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "가다",
+    "meaning_en": "go",
     "pos": "verb",
-    "example": "This is an example with go.",
+    "example": "제 탑승구 찾는 것 좀 도와주실 수 있나요?",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "come",
-    "meaning_ko": "오다",
+    "word": "걷다",
+    "meaning_en": "walk",
     "pos": "verb",
-    "example": "This is an example with come.",
+    "example": "우리는 버스를 기다려야 합니다.",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "arrive",
-    "meaning_ko": "도착하다",
-    "pos": "noun",
-    "example": "This is an example with arrive.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "leave",
-    "meaning_ko": "떠나다",
-    "pos": "noun",
-    "example": "This is an example with leave.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "stay",
-    "meaning_ko": "머물다",
-    "pos": "noun",
-    "example": "This is an example with stay.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "hotel",
-    "meaning_ko": "호텔",
-    "pos": "noun",
-    "example": "This is an example with hotel.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "room",
-    "meaning_ko": "방",
-    "pos": "noun",
-    "example": "This is an example with room.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "airport",
-    "meaning_ko": "공항",
-    "pos": "noun",
-    "example": "This is an example with airport.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "plane",
-    "meaning_ko": "비행기",
-    "pos": "noun",
-    "example": "This is an example with plane.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "train",
-    "meaning_ko": "기차",
-    "pos": "noun",
-    "example": "This is an example with train.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "bus",
-    "meaning_ko": "버스",
-    "pos": "noun",
-    "example": "This is an example with bus.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "taxi",
-    "meaning_ko": "택시",
-    "pos": "noun",
-    "example": "This is an example with taxi.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "car",
-    "meaning_ko": "차",
-    "pos": "noun",
-    "example": "This is an example with car.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "ticket",
-    "meaning_ko": "티켓",
-    "pos": "noun",
-    "example": "This is an example with ticket.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "passport",
-    "meaning_ko": "여권",
-    "pos": "noun",
-    "example": "This is an example with passport.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "bag",
-    "meaning_ko": "가방",
-    "pos": "noun",
-    "example": "This is an example with bag.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "luggage",
-    "meaning_ko": "짐",
-    "pos": "noun",
-    "example": "This is an example with luggage.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "map",
-    "meaning_ko": "지도",
-    "pos": "noun",
-    "example": "This is an example with map.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "guide",
-    "meaning_ko": "가이드",
-    "pos": "noun",
-    "example": "This is an example with guide.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "tour",
-    "meaning_ko": "투어",
-    "pos": "noun",
-    "example": "This is an example with tour.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "photo",
-    "meaning_ko": "사진",
-    "pos": "noun",
-    "example": "This is an example with photo.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "camera",
-    "meaning_ko": "카메라",
-    "pos": "noun",
-    "example": "This is an example with camera.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "beach",
-    "meaning_ko": "해변",
-    "pos": "noun",
-    "example": "This is an example with beach.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "mountain",
-    "meaning_ko": "산",
-    "pos": "noun",
-    "example": "This is an example with mountain.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "city",
-    "meaning_ko": "도시",
-    "pos": "noun",
-    "example": "This is an example with city.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "country",
-    "meaning_ko": "나라",
-    "pos": "noun",
-    "example": "This is an example with country.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "place",
-    "meaning_ko": "장소",
-    "pos": "noun",
-    "example": "This is an example with place.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "food",
-    "meaning_ko": "음식",
-    "pos": "noun",
-    "example": "This is an example with food.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "restaurant",
-    "meaning_ko": "레스토랑",
-    "pos": "noun",
-    "example": "This is an example with restaurant.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "shop",
-    "meaning_ko": "가게",
-    "pos": "noun",
-    "example": "This is an example with shop.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "buy",
-    "meaning_ko": "사다",
-    "pos": "noun",
-    "example": "This is an example with buy.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "money",
-    "meaning_ko": "돈",
-    "pos": "noun",
-    "example": "This is an example with money.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "price",
-    "meaning_ko": "가격",
-    "pos": "noun",
-    "example": "This is an example with price.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "cheap",
-    "meaning_ko": "싼",
-    "pos": "noun",
-    "example": "This is an example with cheap.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "expensive",
-    "meaning_ko": "비싼",
-    "pos": "noun",
-    "example": "This is an example with expensive.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "book",
-    "meaning_ko": "예약하다",
-    "pos": "noun",
-    "example": "This is an example with book.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "reserve",
-    "meaning_ko": "예약하다",
-    "pos": "noun",
-    "example": "This is an example with reserve.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "check",
-    "meaning_ko": "확인하다",
-    "pos": "noun",
-    "example": "This is an example with check.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "in",
-    "meaning_ko": "안",
-    "pos": "noun",
-    "example": "This is an example with in.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "out",
-    "meaning_ko": "밖",
-    "pos": "noun",
-    "example": "This is an example with out.",
-    "level": "기초다지기",
-    "category": "여행"
-  },
-  {
-    "word": "help",
-    "meaning_ko": "도움",
+    "word": "보다",
+    "meaning_en": "see",
     "pos": "verb",
-    "example": "This is an example with help.",
+    "example": "목적지에 몇 시에 도착할까요?",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "lost",
-    "meaning_ko": "잃어버린",
-    "pos": "noun",
-    "example": "This is an example with lost.",
+    "word": "사다",
+    "meaning_en": "buy",
+    "pos": "verb",
+    "example": "배가 언제 떠나나요?",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "find",
-    "meaning_ko": "찾다",
-    "pos": "noun",
-    "example": "This is an example with find.",
+    "word": "먹다",
+    "meaning_en": "eat",
+    "pos": "verb",
+    "example": "체크인 카운터는 저쪽에 있습니다.",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "where",
-    "meaning_ko": "어디",
-    "pos": "noun",
-    "example": "This is an example with where.",
+    "word": "마시다",
+    "meaning_en": "drink",
+    "pos": "verb",
+    "example": "짐을 조심하세요.",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "when",
-    "meaning_ko": "언제",
-    "pos": "noun",
-    "example": "This is an example with when.",
+    "word": "찾다",
+    "meaning_en": "find",
+    "pos": "verb",
+    "example": "이 가방은 너무 무겁습니다.",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "how",
-    "meaning_ko": "어떻게",
-    "pos": "noun",
-    "example": "This is an example with how.",
+    "word": "기다리다",
+    "meaning_en": "wait",
+    "pos": "verb",
+    "example": "카메라 잊지 마세요!",
     "level": "기초다지기",
     "category": "여행"
   },
   {
-    "word": "far",
-    "meaning_ko": "먼",
+    "word": "도착하다",
+    "meaning_en": "arrive",
+    "pos": "verb",
+    "example": "여기서 사진 찍읍시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "떠나다",
+    "meaning_en": "leave",
+    "pos": "verb",
+    "example": "우리는 가이드가 있는 시티 투어에 참여했습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "체크인",
+    "meaning_en": "check-in",
     "pos": "noun",
-    "example": "This is an example with far.",
+    "example": "에펠탑은 유명한 명소입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "짐, 수하물",
+    "meaning_en": "luggage",
+    "pos": "noun",
+    "example": "그 박물관은 일요일에 무료입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "가방",
+    "meaning_en": "bag",
+    "pos": "noun",
+    "example": "저는 해변에서 쉬고 싶습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "카메라",
+    "meaning_en": "camera",
+    "pos": "noun",
+    "example": "산에서 보는 경치가 정말 멋집니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "사진",
+    "meaning_en": "photo",
+    "pos": "noun",
+    "example": "저는 대도시로 여행하는 것을 선호합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "여행, 관광",
+    "meaning_en": "tour",
+    "pos": "noun",
+    "example": "어느 나라에서 오셨어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "구경거리",
+    "meaning_en": "sight",
+    "pos": "noun",
+    "example": "현지인에게 길을 물어봤습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "박물관",
+    "meaning_en": "museum",
+    "pos": "noun",
+    "example": "이 기념품 가격이 얼마인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "해변",
+    "meaning_en": "beach",
+    "pos": "noun",
+    "example": "이 근처에 저렴한 호텔이 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "산",
+    "meaning_en": "mountain",
+    "pos": "noun",
+    "example": "저 식당은 비싸 보입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "도시",
+    "meaning_en": "city",
+    "pos": "noun",
+    "example": "메뉴판 좀 볼 수 있을까요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "국가, 시골",
+    "meaning_en": "country",
+    "pos": "noun",
+    "example": "이 요리를 주문하고 싶습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "현지의, 지역의",
+    "meaning_en": "local",
+    "pos": "adjective",
+    "example": "계산서 좀 주시겠어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "가격",
+    "meaning_en": "price",
+    "pos": "noun",
+    "example": "현금 받으시나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "저렴한",
+    "meaning_en": "cheap",
+    "pos": "adjective",
+    "example": "카드로 계산해도 되나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "비싼",
+    "meaning_en": "expensive",
+    "pos": "adjective",
+    "example": "그 갤러리 주소가 어떻게 되나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "메뉴",
+    "meaning_en": "menu",
+    "pos": "noun",
+    "example": "방 번호가 몇 호인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "주문하다",
+    "meaning_en": "order",
+    "pos": "verb",
+    "example": "휴대폰을 충전해야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "계산서",
+    "meaning_en": "bill",
+    "pos": "noun",
+    "example": "무료 와이파이가 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "현금",
+    "meaning_en": "cash",
+    "pos": "noun",
+    "example": "밖이 매우 춥습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "카드",
+    "meaning_en": "card",
+    "pos": "noun",
+    "example": "이렇게 더운 날에는 시원한 음료가 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "주소",
+    "meaning_en": "address",
+    "pos": "noun",
+    "example": "우산 잊지 마세요. 비가 올지도 몰라요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "번호",
+    "meaning_en": "number",
+    "pos": "noun",
+    "example": "해가 밝게 빛나고 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "전화기",
+    "meaning_en": "phone",
+    "pos": "noun",
+    "example": "내일 날씨는 어떤가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "와이파이",
+    "meaning_en": "wifi",
+    "pos": "noun",
+    "example": "이 지역은 관광객에게 안전한가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "추운",
+    "meaning_en": "cold",
+    "pos": "adjective",
+    "example": "밤에는 위험을 조심하세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "더운",
+    "meaning_en": "hot",
+    "pos": "adjective",
+    "example": "길을 잃은 것 같아요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "비",
+    "meaning_en": "rain",
+    "pos": "noun",
+    "example": "영어 할 줄 아세요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "태양",
+    "meaning_en": "sun",
+    "pos": "noun",
+    "example": "저 표지판을 이해하지 못하겠습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "날씨",
+    "meaning_en": "weather",
+    "pos": "noun",
+    "example": "이것 좀 번역해 주실 수 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "안전한",
+    "meaning_en": "safe",
+    "pos": "adjective",
+    "example": "박물관이 이 근처에 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "위험",
+    "meaning_en": "danger",
+    "pos": "noun",
+    "example": "공항은 꽤 멉니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "길을 잃은",
+    "meaning_en": "lost",
+    "pos": "adjective",
+    "example": "신호등에서 왼쪽으로 도세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "말하다",
+    "meaning_en": "speak",
+    "pos": "verb",
+    "example": "입구는 오른쪽에 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "이해하다",
+    "meaning_en": "understand",
+    "pos": "verb",
+    "example": "탑이 보일 때까지 직진하세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "번역하다",
+    "meaning_en": "translate",
+    "pos": "verb",
+    "example": "웨이터를 불러서 계산서를 달라고 하세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "가까운",
+    "meaning_en": "near",
+    "pos": "adjective",
+    "example": "팁을 남겨야 하나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "먼",
+    "meaning_en": "far",
+    "pos": "adjective",
+    "example": "예약하셨나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "왼쪽",
+    "meaning_en": "left",
+    "pos": "adverb",
+    "example": "저는 전형적인 관광객처럼 보입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "오른쪽",
+    "meaning_en": "right",
+    "pos": "adverb",
+    "example": "우리 투어 가이드는 아는 것이 매우 많았습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "곧장",
+    "meaning_en": "straight",
+    "pos": "adverb",
+    "example": "여동생을 위해 작은 선물을 샀습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "종업원",
+    "meaning_en": "waiter",
+    "pos": "noun",
+    "example": "저는 편안하게 잘 곳이 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "팁",
+    "meaning_en": "tip",
+    "pos": "noun",
+    "example": "여기에 차를 세워주세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "예약",
+    "meaning_en": "reservation",
+    "pos": "noun",
+    "example": "얼마를 내야 하나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "관광객",
+    "meaning_en": "tourist",
+    "pos": "noun",
+    "example": "지도에서 길을 알려주실 수 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "가이드",
+    "meaning_en": "guide",
+    "pos": "noun",
+    "example": "언제 당신의 나라로 돌아가나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "선물",
+    "meaning_en": "gift",
+    "pos": "noun",
+    "example": "우리는 그 유명한 다리를 건넜습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "잠자다",
+    "meaning_en": "sleep",
+    "pos": "verb",
+    "example": "공원에서 잠시 쉽시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "깨다",
+    "meaning_en": "wake up",
+    "pos": "verb",
+    "example": "중앙 광장은 사람들로 가득 차 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "앉다",
+    "meaning_en": "sit",
+    "pos": "verb",
+    "example": "악천후로 인해 지연되고 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "멈추다",
+    "meaning_en": "stop",
+    "pos": "verb",
+    "example": "탑승권을 준비해 주세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "지불하다",
+    "meaning_en": "pay",
+    "pos": "verb",
+    "example": "저는 비행기에서 창가 좌석을 선호합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "보여주다",
+    "meaning_en": "show",
+    "pos": "verb",
+    "example": "저는 통로 쪽 좌석을 요청했습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "돌아가다, 반납하다",
+    "meaning_en": "return",
+    "pos": "verb",
+    "example": "내일 우리 일정이 어떻게 되나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "다리",
+    "meaning_en": "bridge",
+    "pos": "noun",
+    "example": "현지 통화는 무엇인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "공원",
+    "meaning_en": "park",
+    "pos": "noun",
+    "example": "저는 잔돈이 정확하게 없습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "광장",
+    "meaning_en": "square",
+    "pos": "noun",
+    "example": "운전기사에게 팁을 주는 것이 관례입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "게이트, 문",
+    "meaning_en": "gate",
+    "pos": "noun",
+    "example": "실례합니다, 안내 데스크가 어디인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "지연",
+    "meaning_en": "delay",
+    "pos": "noun",
+    "example": "커피 한 잔 주세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "탑승권",
+    "meaning_en": "boarding pass",
+    "pos": "noun",
+    "example": "기차에 화장실이 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "창가 좌석",
+    "meaning_en": "window seat",
+    "pos": "noun",
+    "example": "출구 표지판을 따라가세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "통로 좌석",
+    "meaning_en": "aisle seat",
+    "pos": "noun",
+    "example": "저는 관광 정보가 좀 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "일정",
+    "meaning_en": "schedule",
+    "pos": "noun",
+    "example": "그 탑은 도시의 주요 관광 명소입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "통화",
+    "meaning_en": "currency",
+    "pos": "noun",
+    "example": "이 수돗물은 마실 수 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "잔돈",
+    "meaning_en": "change",
+    "pos": "noun",
+    "example": "이 수프는 매우 맛있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "팁",
+    "meaning_en": "tip",
+    "pos": "verb",
+    "example": "지금 매우 배가 고픕니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "실례합니다",
+    "meaning_en": "excuse me",
+    "pos": "phrase",
+    "example": "걷고 났더니 목이 마릅니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "부디, 제발",
+    "meaning_en": "please",
+    "pos": "adverb",
+    "example": "배부릅니다, 감사합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "변기, 화장실",
+    "meaning_en": "toilet",
+    "pos": "noun",
+    "example": "저는 차가운 음료를 마시고 싶습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "입장",
+    "meaning_en": "entry",
+    "pos": "noun",
+    "example": "그녀는 따뜻한 차를 주문했습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "출구",
+    "meaning_en": "exit",
+    "pos": "noun",
+    "example": "커피에 설탕 필요하세요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "정보",
+    "meaning_en": "information",
+    "pos": "noun",
+    "example": "소금 좀 건네주시겠어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "관광 명소",
+    "meaning_en": "tourist attraction",
+    "pos": "noun",
+    "example": "이 디저트는 너무 달콤합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "마실 수 있는",
+    "meaning_en": "drinkable",
+    "pos": "adjective",
+    "example": "레몬 주스가 매우 십니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "맛있는",
+    "meaning_en": "delicious",
+    "pos": "adjective",
+    "example": "이 요리 매운가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "배고픈",
+    "meaning_en": "hungry",
+    "pos": "adjective",
+    "example": "저는 아침에 신선한 과일을 먹는 것을 좋아합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "목마른",
+    "meaning_en": "thirsty",
+    "pos": "adjective",
+    "example": "날씨가 갑자기 나빠졌습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "배부른, 가득 찬",
+    "meaning_en": "full",
+    "pos": "adjective",
+    "example": "우리는 정말 좋은 시간을 보냈습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "차가운 음료",
+    "meaning_en": "cold drink",
+    "pos": "noun",
+    "example": "저는 작은 물병 하나가 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "따뜻한 차",
+    "meaning_en": "hot tea",
+    "pos": "noun",
+    "example": "방에 있는 침대가 매우 큽니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "설탕",
+    "meaning_en": "sugar",
+    "pos": "noun",
+    "example": "긴 비행이었습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "소금",
+    "meaning_en": "salt",
+    "pos": "noun",
+    "example": "버스 타는 시간은 꽤 짧습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "달콤한",
+    "meaning_en": "sweet",
+    "pos": "adjective",
+    "example": "우리는 호텔을 매우 일찍 떠났습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "신",
+    "meaning_en": "sour",
+    "pos": "adjective",
+    "example": "기차가 늦게 도착했습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "매운",
+    "meaning_en": "spicy",
+    "pos": "adjective",
+    "example": "우리 오늘 뭐 하나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "신선한",
+    "meaning_en": "fresh",
+    "pos": "adjective",
+    "example": "우리는 내일 비행기로 집에 갑니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "나쁜",
+    "meaning_en": "bad",
+    "pos": "adjective",
+    "example": "우리는 어제 박물관을 방문했습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "좋은",
+    "meaning_en": "good",
+    "pos": "adjective",
+    "example": "저는 여기에 일주일 동안 머물고 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "작은",
+    "meaning_en": "small",
+    "pos": "adjective",
+    "example": "우리 여행은 한 달 동안 계속되었습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "큰",
+    "meaning_en": "big",
+    "pos": "adjective",
+    "example": "저는 내년에 다시 올 계획입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "긴",
+    "meaning_en": "long",
+    "pos": "adjective",
+    "example": "집이 조금 그립습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "짧은",
+    "meaning_en": "short",
+    "pos": "adjective",
+    "example": "저는 친구와 함께 여행 중입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "일찍",
+    "meaning_en": "early",
+    "pos": "adverb",
+    "example": "저는 가족들을 위해 선물을 샀습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "늦은",
+    "meaning_en": "late",
+    "pos": "adverb",
+    "example": "거리에 사람들이 많습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "오늘",
+    "meaning_en": "today",
+    "pos": "adverb",
+    "example": "관광 안내소에 지도를 요청하세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "내일",
+    "meaning_en": "tomorrow",
+    "pos": "adverb",
+    "example": "저는 환전소를 찾아야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "어제",
+    "meaning_en": "yesterday",
+    "pos": "adverb",
+    "example": "가장 가까운 약국이 어디인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "주",
+    "meaning_en": "week",
+    "pos": "noun",
+    "example": "저는 병원에 가야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "월",
+    "meaning_en": "month",
+    "pos": "noun",
+    "example": "저는 의사의 진료를 받아야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "년",
+    "meaning_en": "year",
+    "pos": "noun",
+    "example": "두통약 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "집",
+    "meaning_en": "home",
+    "pos": "noun",
+    "example": "저는 여행 중에 감기에 걸렸습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "친구",
+    "meaning_en": "friend",
+    "pos": "noun",
+    "example": "저는 두통이 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "가족",
+    "meaning_en": "family",
+    "pos": "noun",
+    "example": "수하물 찾는 곳으로 갑시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "사람들",
+    "meaning_en": "people",
+    "pos": "noun",
+    "example": "저는 세관을 빨리 통과했습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "관광 안내소",
+    "meaning_en": "tourist office",
+    "pos": "noun",
+    "example": "저는 입국 심사대에서 기다리고 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "환전소",
+    "meaning_en": "currency exchange",
+    "pos": "noun",
+    "example": "이 나라에 입국하려면 비자가 필요한가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "약국",
+    "meaning_en": "pharmacy",
+    "pos": "noun",
+    "example": "박물관 줄이 매우 깁니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "병원",
+    "meaning_en": "hospital",
+    "pos": "noun",
+    "example": "문을 열려면 미세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "의사",
+    "meaning_en": "doctor",
+    "pos": "noun",
+    "example": "창문을 닫으려면 손잡이를 당기세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "약",
+    "meaning_en": "medicine",
+    "pos": "noun",
+    "example": "이곳은 사진 찍기 좋은 장소입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "감기",
+    "meaning_en": "cold",
+    "pos": "noun",
+    "example": "제 자신을 위해 작은 기념품을 샀습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "두통",
+    "meaning_en": "headache",
+    "pos": "noun",
+    "example": "우체국에서 엽서를 보내고 싶습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "수하물 찾는 곳",
+    "meaning_en": "baggage claim",
+    "pos": "noun",
+    "example": "저는 지금 엽서를 쓰고 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "세관",
+    "meaning_en": "customs",
+    "pos": "noun",
+    "example": "국제우편용 우표는 얼마인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "출입국 심사대",
+    "meaning_en": "immigration",
+    "pos": "noun",
+    "example": "나갈 때 문을 잠그세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "비자",
+    "meaning_en": "visa",
+    "pos": "noun",
+    "example": "이제 게이트가 열렸습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "줄, 선",
+    "meaning_en": "line",
+    "pos": "noun",
+    "example": "그 상점은 휴일이라 문을 닫았습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "밀다",
+    "meaning_en": "push",
+    "pos": "verb",
+    "example": "이 수건은 깨끗한가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "당기다",
+    "meaning_en": "pull",
+    "pos": "verb",
+    "example": "실수로 더러운 바닥에 옷을 떨어뜨렸습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "사진 명소",
+    "meaning_en": "photo spot",
+    "pos": "noun",
+    "example": "기차가 매우 빠릅니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "기념품",
+    "meaning_en": "souvenir",
+    "pos": "noun",
+    "example": "버스 타는 시간은 놀랍게도 느렸습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "우체국",
+    "meaning_en": "post office",
+    "pos": "noun",
+    "example": "바에서 나오는 음악 소리가 너무 큽니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "엽서",
+    "meaning_en": "postcard",
+    "pos": "noun",
+    "example": "저는 쉴 수 있는 조용한 장소가 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "우표",
+    "meaning_en": "stamp",
+    "pos": "noun",
+    "example": "관광하기에 아름답고 화창한 날입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "잠그다",
+    "meaning_en": "lock",
+    "pos": "verb",
+    "example": "어제는 비가 오는 날이었습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "열린",
+    "meaning_en": "open",
+    "pos": "adjective",
+    "example": "밖에서 식사하기에는 바람이 너무 많이 붑니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "닫힌",
+    "meaning_en": "closed",
+    "pos": "adjective",
+    "example": "여행 중에 눈이 오지 않았으면 좋겠습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "1인용의",
+    "meaning_en": "single",
+    "pos": "adjective",
+    "example": "호텔에 우산을 두고 왔습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "2인용의",
+    "meaning_en": "double",
+    "pos": "adjective",
+    "example": "따뜻한 코트를 챙겨가세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "깨끗한",
+    "meaning_en": "clean",
+    "pos": "adjective",
+    "example": "걷기 편한 신발이 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "더러운",
+    "meaning_en": "dirty",
+    "pos": "adjective",
+    "example": "샌들과 슬리퍼만 챙겼습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "빠른",
+    "meaning_en": "fast",
+    "pos": "adjective",
+    "example": "오늘은 가벼운 원피스를 입을 거예요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "느린",
+    "meaning_en": "slow",
+    "pos": "adjective",
+    "example": "새 바지를 한 벌 사야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "시끄러운",
+    "meaning_en": "loud",
+    "pos": "adjective",
+    "example": "셔츠에 커피를 쏟았습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "조용한",
+    "meaning_en": "quiet",
+    "pos": "adjective",
+    "example": "햇볕 아래에서 모자 쓰는 것을 잊지 마세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "화창한",
+    "meaning_en": "sunny",
+    "pos": "adjective",
+    "example": "여기서 현지 유심카드를 살 수 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "비가 오는",
+    "meaning_en": "rainy",
+    "pos": "adjective",
+    "example": "여기서는 어떤 종류의 물건을 파나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "바람이 부는",
+    "meaning_en": "windy",
+    "pos": "adjective",
+    "example": "박물관 입장은 무료인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "눈",
+    "meaning_en": "snow",
+    "pos": "noun",
+    "example": "여기 주차는 유료로만 가능합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "우산",
+    "meaning_en": "umbrella",
+    "pos": "noun",
+    "example": "주차장이 완전히 꽉 찼습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "코트",
+    "meaning_en": "coat",
+    "pos": "noun",
+    "example": "기차 객실은 거의 비어 있었습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "신발",
+    "meaning_en": "shoe",
+    "pos": "noun",
+    "example": "이 근처에 기념품 가게가 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "샌들",
+    "meaning_en": "sandal",
+    "pos": "noun",
+    "example": "그 오래된 성은 도심에서 멀리 떨어져 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "드레스",
+    "meaning_en": "dress",
+    "pos": "noun",
+    "example": "여기서 기다리세요, 금방 돌아올게요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "바지",
+    "meaning_en": "pants",
+    "pos": "noun",
+    "example": "이걸로 주세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "셔츠",
+    "meaning_en": "shirt",
+    "pos": "noun",
+    "example": "저건 얼마인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "모자",
+    "meaning_en": "hat",
+    "pos": "noun",
+    "example": "우체국이 어디인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "구매하다",
+    "meaning_en": "buy",
+    "pos": "verb",
+    "example": "다음 버스는 언제 오나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "팔다",
+    "meaning_en": "sell",
+    "pos": "verb",
+    "example": "기차표는 얼마인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "무료의",
+    "meaning_en": "free",
+    "pos": "adjective",
+    "example": "박물관은 왜 문을 닫았나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "유료의",
+    "meaning_en": "paid",
+    "pos": "adjective",
+    "example": "우리 투어 가이드는 누구인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "가득 찬",
+    "meaning_en": "full",
+    "pos": "adjective",
+    "example": "이 건물은 무엇인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "빈",
+    "meaning_en": "empty",
+    "pos": "adjective",
+    "example": "영수증 주시겠어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "가까이에",
+    "meaning_en": "near",
+    "pos": "adverb",
+    "example": "저는 해변에 가고 싶습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "멀리 떨어진",
+    "meaning_en": "far away",
+    "pos": "adverb",
+    "example": "비행기에서 쓸 담요가 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "여기서 기다려주세요",
+    "meaning_en": "wait here",
+    "pos": "phrase",
+    "example": "이용 가능한 방이 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "이것",
+    "meaning_en": "this one",
+    "pos": "pronoun",
+    "example": "문제없어요, 기다릴 수 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "저것",
+    "meaning_en": "that one",
+    "pos": "pronoun",
+    "example": "정확한 시간은 모릅니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "어디",
+    "meaning_en": "where",
+    "pos": "adverb",
+    "example": "조심해요! 차가 오고 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "언제",
+    "meaning_en": "when",
+    "pos": "adverb",
+    "example": "우리는 다음 정류장에서 버스를 내립니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "얼마나",
+    "meaning_en": "how much",
+    "pos": "phrase",
+    "example": "서둘러서 기차에 타세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "왜",
+    "meaning_en": "why",
+    "pos": "adverb",
+    "example": "제 사진 좀 찍어 주시겠어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "누구",
+    "meaning_en": "who",
+    "pos": "pronoun",
+    "example": "분실물 센터에 잃어버린 지갑을 신고했습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "무엇",
+    "meaning_en": "what",
+    "pos": "pronoun",
+    "example": "매표소에서 표를 사야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~해도 될까요",
+    "meaning_en": "can i",
+    "pos": "phrase",
+    "example": "렌터카 업체는 길 건너편에 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~를 원합니다",
+    "meaning_en": "i want",
+    "pos": "phrase",
+    "example": "차에 연료가 더 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~가 필요합니다",
+    "meaning_en": "i need",
+    "pos": "phrase",
+    "example": "다음 주유소에서 멈춥시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~을 가지고 있나요",
+    "meaning_en": "do you have",
+    "pos": "phrase",
+    "example": "우리 어느 방향으로 걸어가야 하나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "문제없습니다",
+    "meaning_en": "no problem",
+    "pos": "phrase",
+    "example": "정문이 닫혀 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "모르겠습니다",
+    "meaning_en": "i don't know",
+    "pos": "phrase",
+    "example": "비상구는 어디인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "조심해",
+    "meaning_en": "look out",
+    "pos": "phrase",
+    "example": "화장실은 위층에 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "내리다",
+    "meaning_en": "get off",
+    "pos": "verb",
+    "example": "커피숍은 아래층에 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "타다",
+    "meaning_en": "get on",
+    "pos": "verb",
+    "example": "이 건물에 엘리베이터가 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "사진을 찍다",
+    "meaning_en": "take a photo",
+    "pos": "phrase",
+    "example": "엘리베이터 대신 계단을 이용하세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "분실물 센터",
+    "meaning_en": "lost and found",
+    "pos": "noun",
+    "example": "우리를 담당한 웨이트리스는 매우 친절했습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "매표소",
+    "meaning_en": "ticket office",
+    "pos": "noun",
+    "example": "냅킨 하나 더 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "렌터카",
+    "meaning_en": "rental car",
+    "pos": "noun",
+    "example": "숟가락을 떨어뜨렸습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "연료",
+    "meaning_en": "fuel",
+    "pos": "noun",
+    "example": "포크 좀 주시겠어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "주유소",
+    "meaning_en": "gas station",
+    "pos": "noun",
+    "example": "그 날카로운 칼을 조심하세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "방향",
+    "meaning_en": "direction",
+    "pos": "noun",
+    "example": "실수로 유리잔을 깼습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "입구",
+    "meaning_en": "entrance",
+    "pos": "noun",
+    "example": "음식은 큰 접시에 담겨 나왔습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "출구",
+    "meaning_en": "exit",
+    "pos": "noun",
+    "example": "설탕을 덜 넣어 주시겠어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "위층으로",
+    "meaning_en": "upstairs",
+    "pos": "adverb",
+    "example": "차에 우유를 넣어 드릴까요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "아래층으로",
+    "meaning_en": "downstairs",
+    "pos": "adverb",
+    "example": "갓 구운 빵을 좀 주문했습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "엘리베이터",
+    "meaning_en": "elevator",
+    "pos": "noun",
+    "example": "저는 치즈를 먹지 않습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "계단",
+    "meaning_en": "stairs",
+    "pos": "noun",
+    "example": "저는 고기 요리를 먹고 싶습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "여종업원",
+    "meaning_en": "waitress",
+    "pos": "noun",
+    "example": "저는 채소 요리를 선호합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "냅킨",
+    "meaning_en": "napkin",
+    "pos": "noun",
+    "example": "시장에서 현지 과일을 좀 샀습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "숟가락",
+    "meaning_en": "spoon",
+    "pos": "noun",
+    "example": "어떤 디저트를 추천하시나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "포크",
+    "meaning_en": "fork",
+    "pos": "noun",
+    "example": "방 가격에 아침 식사가 포함되어 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "나이프",
+    "meaning_en": "knife",
+    "pos": "noun",
+    "example": "정오에 점심 식사 같이 합시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "유리잔",
+    "meaning_en": "glass",
+    "pos": "noun",
+    "example": "오늘 밤 저녁 식사가 기대됩니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "접시",
+    "meaning_en": "plate",
+    "pos": "noun",
+    "example": "실례합니다, 웨이터님!",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "설탕",
+    "meaning_en": "sugar",
+    "pos": "noun",
+    "example": "창가 쪽 테이블로 주시겠어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "우유",
+    "meaning_en": "milk",
+    "pos": "noun",
+    "example": "이 자리 임자 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "빵",
+    "meaning_en": "bread",
+    "pos": "noun",
+    "example": "방 창문을 열어도 되나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "치즈",
+    "meaning_en": "cheese",
+    "pos": "noun",
+    "example": "현관문이 잠겨 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "고기",
+    "meaning_en": "meat",
+    "pos": "noun",
+    "example": "욕실 전등이 고장 났습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "채소",
+    "meaning_en": "vegetable",
+    "pos": "noun",
+    "example": "에어컨이 너무 강합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "과일",
+    "meaning_en": "fruit",
+    "pos": "noun",
+    "example": "히터 좀 켜 주시겠어요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "후식",
+    "meaning_en": "dessert",
+    "pos": "noun",
+    "example": "새 수건이 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "아침 식사",
+    "meaning_en": "breakfast",
+    "pos": "noun",
+    "example": "디스펜서에 비누가 있나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "점심 식사",
+    "meaning_en": "lunch",
+    "pos": "noun",
+    "example": "샴푸 챙기는 것을 잊었습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "저녁 식사",
+    "meaning_en": "dinner",
+    "pos": "noun",
+    "example": "헤어 브러시가 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "웨이터",
+    "meaning_en": "waiter",
+    "pos": "noun",
+    "example": "칫솔을 잊어버렸습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "테이블",
+    "meaning_en": "table",
+    "pos": "noun",
+    "example": "치약을 사야 하나요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "좌석",
+    "meaning_en": "seat",
+    "pos": "noun",
+    "example": "회의 전에 면도를 해야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "창문",
+    "meaning_en": "window",
+    "pos": "noun",
+    "example": "로비에 있는 거울은 아주 큽니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "문",
+    "meaning_en": "door",
+    "pos": "noun",
+    "example": "방에 작은 책상이 하나 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "층, 바닥",
+    "meaning_en": "floor",
+    "pos": "noun",
+    "example": "여분의 의자가 하나 필요합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "불, 빛",
+    "meaning_en": "light",
+    "pos": "noun",
+    "example": "침대가 매우 부드럽고 편안합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "에어컨",
+    "meaning_en": "air conditioning",
+    "pos": "noun",
+    "example": "오늘 밤 잘 주무시길 바랍니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "난방기",
+    "meaning_en": "heater",
+    "pos": "noun",
+    "example": "아름다운 우리 도시에 오신 것을 환영합니다!",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "수건",
+    "meaning_en": "towel",
+    "pos": "noun",
+    "example": "감사합니다, 좋은 하루 되세요!",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "비누",
+    "meaning_en": "soap",
+    "pos": "noun",
+    "example": "나중에 봐요, 저 지금 외출해요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "샴푸",
+    "meaning_en": "shampoo",
+    "pos": "noun",
+    "example": "여기서 기다려 주세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "솔, 빗",
+    "meaning_en": "brush",
+    "pos": "noun",
+    "example": "버스 정류장은 저쪽에 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "칫솔",
+    "meaning_en": "toothbrush",
+    "pos": "noun",
+    "example": "계단을 올라가세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "치약",
+    "meaning_en": "toothpaste",
+    "pos": "noun",
+    "example": "언덕을 걸어 내려가세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "면도하다",
+    "meaning_en": "shave",
+    "pos": "verb",
+    "example": "열쇠는 상자 안에 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "거울",
+    "meaning_en": "mirror",
+    "pos": "noun",
+    "example": "잠깐 밖에 나가 봐야 합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "책상",
+    "meaning_en": "desk",
+    "pos": "noun",
+    "example": "카페는 서점 옆에 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "의자",
+    "meaning_en": "chair",
+    "pos": "noun",
+    "example": "택시 승강장은 건물 뒤에 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "침대",
+    "meaning_en": "bed",
+    "pos": "noun",
+    "example": "분수대 앞에서 기다릴게요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "잘 자다",
+    "meaning_en": "sleep well",
+    "pos": "phrase",
+    "example": "은행은 공원 맞은편에 있습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "환영합니다",
+    "meaning_en": "welcome",
+    "pos": "interjection",
+    "example": "저는 커피와 빵을 원합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "좋은 하루 보내세요",
+    "meaning_en": "have a nice day",
+    "pos": "phrase",
+    "example": "차와 커피 중에 어떤 것을 선호하세요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "나중에 봐요",
+    "meaning_en": "see you later",
+    "pos": "phrase",
+    "example": "날씨는 좋지만 춥습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "여기",
+    "meaning_en": "here",
+    "pos": "adverb",
+    "example": "많이 걸어서 피곤합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "저기",
+    "meaning_en": "there",
+    "pos": "adverb",
+    "example": "저는 가족과 함께 여행 중입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "위로",
+    "meaning_en": "up",
+    "pos": "adverb",
+    "example": "여권 없이는 갈 수 없습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "아래로",
+    "meaning_en": "down",
+    "pos": "adverb",
+    "example": "안녕하세요, 오늘 어떠세요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "안에",
+    "meaning_en": "in",
+    "pos": "preposition",
+    "example": "안녕히 가세요, 내일 봬요!",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "밖에",
+    "meaning_en": "out",
+    "pos": "adverb",
+    "example": "도와주셔서 감사합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~옆에",
+    "meaning_en": "next to",
+    "pos": "preposition",
+    "example": "소금 좀 건네주세요.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~뒤에",
+    "meaning_en": "behind",
+    "pos": "preposition",
+    "example": "늦어서 미안합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~앞에",
+    "meaning_en": "in front of",
+    "pos": "preposition",
+    "example": "네, 당신 말에 동의합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~맞은편에",
+    "meaning_en": "across from",
+    "pos": "preposition",
+    "example": "아니요, 커피 원하지 않습니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "그리고",
+    "meaning_en": "and",
+    "pos": "conjunction",
+    "example": "좋아요, 이제 갑시다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "또는",
+    "meaning_en": "or",
+    "pos": "conjunction",
+    "example": "이름이 무엇인가요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "그러나",
+    "meaning_en": "but",
+    "pos": "conjunction",
+    "example": "몇 살이세요?",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~때문에",
+    "meaning_en": "because",
+    "pos": "conjunction",
+    "example": "그녀는 제 가장 친한 친구입니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~와 함께",
+    "meaning_en": "with",
+    "pos": "preposition",
+    "example": "우리 가족은 여행하는 것을 좋아합니다.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "~없이",
+    "meaning_en": "without",
+    "pos": "preposition",
+    "example": "우리 어머니는 맛있는 음식을 만드십니다.",
     "level": "기초다지기",
     "category": "여행"
   }

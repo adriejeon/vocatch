@@ -1,0 +1,2737 @@
+================================================================================
+VOCATCH - 모든 KO 파일의 Example 문장 모음
+================================================================================
+총 파일 수: 12
+총 예문 수: 2657
+생성일: /Users/jeonmyeonghee/Desktop/Adrie/vocatch
+================================================================================
+
+
+================================================================================
+파일: KO_기초다지기_뉴스-시사.json
+카테고리: 기초다지기_뉴스-시사
+예문 수: 193
+================================================================================
+
+  1. Did you see the latest news today?
+  2. They report on local politics.
+  3. I read the main headline this morning.
+  4. Listen to the weather forecast.
+  5. Let's talk about the big event.
+  6. The big sports event was yesterday.
+  7. There is a problem with traffic.
+  8. We need to find a quick solution.
+  9. The government announced a new plan.
+ 10. The country's leader spoke on TV.
+ 11. Many countries joined the meeting.
+ 12. The city is growing fast.
+ 13. The economy is focused on money issues.
+ 14. The job market is changing.
+ 15. New rules were introduced for schools.
+ 16. The hospital needs more doctors.
+ 17. The police are investigating the case.
+ 18. Many people attended the rally.
+ 19. Can we help the victims of the fire?
+ 20. The witness said he saw the car leave.
+ 21. Do you know the reason for the delay?
+ 22. What do you think about the new law?
+ 23. I agree with your point of view.
+ 24. Many people disagree with the policy.
+ 25. They want to achieve peace.
+ 26. We need to address this urgent matter.
+ 27. Reporters asked the minister a question.
+ 28. He answered the questions clearly.
+ 29. The data shows a clear increase in sales.
+ 30. Climate change is a big topic.
+ 31. We received good feedback on the product.
+ 32. There was a bad accident on the highway.
+ 33. This is a big step for the company.
+ 34. The government made a small adjustment to the rule.
+ 35. The meeting delivered an important message.
+ 36. The company launched a new phone.
+ 37. They discussed the old factory site.
+ 38. Public transport must be safe for everyone.
+ 39. The report highlights the danger of pollution.
+ 40. What is the reason behind the decision?
+ 41. Stick to the facts of the story.
+ 42. Everyone shared their opinion on the budget.
+ 43. He has a different view on the issue.
+ 44. The city has a plan for the future.
+ 45. We must prepare for the future.
+ 46. The stock market fell today.
+ 47. The storm hit the coast yesterday.
+ 48. The president will speak tomorrow.
+ 49. It will take some time to fix the issue.
+ 50. The new law takes effect next month.
+ 51. The case went to court.
+ 52. The police interviewed the witness.
+ 53. They reported an animal attack in the park.
+ 54. The two countries signed a peace treaty.
+ 55. The news talked about the end of the war.
+ 56. A huge fire broke out downtown.
+ 57. Heavy rains caused a serious flood.
+ 58. A severe storm is coming this week.
+ 59. The weather forecast is for clear skies.
+ 60. The workers held a large protest.
+ 61. People went out to vote in the election.
+ 62. The election results are expected soon.
+ 63. The government raised the tax rate.
+ 64. The stock market is stable today.
+ 65. Food prices are increasing rapidly.
+ 66. The company reported record sales.
+ 67. Consumers are choosing to buy less.
+ 68. The store will sell the products online.
+ 69. The report shows a loss of jobs.
+ 70. Workers demanded better pay.
+ 71. The technology company is expanding.
+ 72. The project was a huge success.
+ 73. The peace talks might fail.
+ 74. Which team will win the championship?
+ 75. The team lost the last match.
+ 76. Public health is a primary concern.
+ 77. A new disease is spreading quickly.
+ 78. Doctors are fighting the virus.
+ 79. The new drug has been approved.
+ 80. A new study on sleeping habits was released.
+ 81. Scientists research new energy sources.
+ 82. Science offers solutions to many problems.
+ 83. New technology is changing our lives.
+ 84. Access to the internet is essential.
+ 85. Social media influenced the campaign.
+ 86. The media covered the story extensively.
+ 87. I read an interesting article about travel.
+ 88. The newspaper published the photo of the winner.
+ 89. The concert was broadcast live.
+ 90. World leaders met for a summit.
+ 91. The region is facing economic challenges.
+ 92. The affected area is quite large.
+ 93. Many people lost their homes in the storm.
+ 94. The accident affected many families.
+ 95. The new policy helps poor children.
+ 96. She is the first woman to lead the party.
+ 97. The man was arrested by the police.
+ 98. Every person has the right to vote.
+ 99. Human rights are fundamental.
+100. It is our duty to protect the environment.
+101. The police maintained control of the crowd.
+102. The opposition party gained power.
+103. Taxpayers want to see where their money goes.
+104. The new budget was announced today.
+105. The city plans to spend money on new parks.
+106. Companies should invest in research.
+107. The country's national debt is growing.
+108. The average income has increased.
+109. The goal is to reduce poverty.
+110. The crime rate has dropped this year.
+111. People demand justice for the victims.
+112. The thief was sent to prison.
+113. The victim's family spoke to the press.
+114. Firefighters worked to save lives.
+115. The passengers were brought home safe.
+116. The financial report is due tomorrow.
+117. Always check the source of the information.
+118. Is this statement true or false?
+119. The rumors turned out to be false.
+120. The politicians argued about the best approach.
+121. The debate on foreign policy was intense.
+122. The company issued a public statement.
+123. The president's speech lasted one hour.
+124. The emergency meeting was held this morning.
+125. They discussed the implications of the change.
+126. The committee decided on the final date.
+127. We need to address the central issue.
+128. The new environmental policy is controversial.
+129. The company started a large construction project.
+130. They plan to build new roads.
+131. The storm caused extensive damage.
+132. It will take time to repair the damage.
+133. The project involves high financial risk.
+134. We must protect our natural resources.
+135. The public strongly supports the initiative.
+136. Many citizens oppose the tax increase.
+137. Can you explain the complexity of the law?
+138. It is difficult to understand the technical details.
+139. Please share your thoughts on the matter.
+140. The two agencies agreed to cooperate.
+141. The nation celebrated the holiday.
+142. Foreign leaders were invited to the summit.
+143. Local businesses are struggling.
+144. The new center benefits the whole community.
+145. Which media outlet broke the story?
+146. The headline dominated the front page.
+147. The public has a right to know the truth.
+148. The official statement was released at noon.
+149. The investigation remains private.
+150. They raised emergency funds for disaster relief.
+151. The charity received a large donation.
+152. The government increased border security.
+153. The military was called in to assist.
+154. Trade between the two countries has increased.
+155. The country exports grain.
+156. We import oil from abroad.
+157. The price tag was too high for most people.
+158. Consumers are worried about inflation.
+159. The new product gained market share quickly.
+160. Stock prices rose sharply today.
+161. He transferred the funds to a different bank account.
+162. The store offers discounts to loyal customers.
+163. They improved their customer service.
+164. The new transport system is very efficient.
+165. Follow the safety rules strictly.
+166. We need to manage our resources better.
+167. How will the city deal with the traffic?
+168. The world faces a serious energy crisis.
+169. The government is trying to avoid a crisis.
+170. Vaccines prevent the spread of disease.
+171. The final result of the election is in.
+172. The new policy had a positive effect.
+173. What is the environmental impact of the dam?
+174. The political force behind the movement is strong.
+175. The leader faced public pressure to resign.
+176. The protestors demand immediate action.
+177. The candidate promised lower taxes.
+178. The company claims the product is safe.
+179. The police need to prove the guilt.
+180. There is strong evidence of corruption.
+181. The expert testified in court yesterday.
+182. He lost public support after the scandal.
+183. The major party won the majority of seats.
+184. The presidential candidate made a speech.
+185. Every vote counts in a democracy.
+186. The proposal was passed by a majority vote.
+187. Minority groups demand equal rights.
+188. The emergency alert is happening right now.
+189. The police arrived at once.
+190. He spoke about his views in public.
+191. They held discussions in private.
+192. The long term effects of the policy are unknown.
+193. The changes will only have a short term impact.
+
+================================================================================
+파일: KO_기초다지기_비즈니스.json
+카테고리: 기초다지기_비즈니스
+예문 수: 150
+================================================================================
+
+194. She runs a successful business.
+195. I work at a big company.
+196. I have a lot of work today.
+197. She got a new job.
+198. My office is downtown.
+199. I sit at my desk.
+200. I use a computer at work.
+201. My phone rang.
+202. I sent an email.
+203. I got your message.
+204. I will give you a call.
+205. The meeting is at 2 PM.
+206. My schedule is full.
+207. I have an appointment tomorrow.
+208. Complete this task today.
+209. I am working on a project.
+210. My boss is very nice.
+211. The manager gave us instructions.
+212. The staff is helpful.
+213. The company has many employees.
+214. My colleagues are friendly.
+215. We have many customers.
+216. The client is satisfied.
+217. Our product is good.
+218. We provide good service.
+219. Our sales are good.
+220. The price is good.
+221. The cost is high.
+222. I need more money.
+223. My pay is good.
+224. I got a salary increase.
+225. The company made a profit.
+226. We had a loss this month.
+227. We have a budget.
+228. My expenses are high.
+229. I sent an invoice.
+230. I have the receipt.
+231. Payment is due tomorrow.
+232. We signed a contract.
+233. We made a good deal.
+234. We reached an agreement.
+235. I have a special offer.
+236. We have a 20% discount.
+237. We have a promotion.
+238. The market is growing.
+239. International trade is important.
+240. We export our products.
+241. We import materials.
+242. Delivery is tomorrow.
+243. The shipment arrived.
+244. I placed an order.
+245. The warehouse is full.
+246. The supply is limited.
+247. Demand is high.
+248. We have stock available.
+249. Check the inventory.
+250. We have a good strategy.
+251. Our goal is to grow.
+252. I have a plan.
+253. The deadline is Friday.
+254. I wrote a report.
+255. Sign this document.
+256. I saved the file.
+257. Put it in the folder.
+258. I need paper.
+259. I need a copy of this.
+260. Please print this document.
+261. I will send an email.
+262. I received your message.
+263. I will write a report.
+264. Read the instructions.
+265. Please sign here.
+266. Let's organize the files.
+267. Prepare the presentation.
+268. I will present tomorrow.
+269. She manages the team.
+270. Let's decide now.
+271. We discussed the project.
+272. We need to improve.
+273. Sales increased.
+274. Costs decreased.
+275. We sell products.
+276. I bought supplies.
+277. I will purchase this.
+278. I will pay tomorrow.
+279. How much do you charge?
+280. I went to the bank.
+281. I have a bank account.
+282. I paid with credit.
+283. I used my debit card.
+284. I have a business card.
+285. I sent the invoice.
+286. We pay taxes.
+287. The interest rate is 5%.
+288. I got a loan.
+289. This is a good investment.
+290. We made a profit.
+291. Our business is a success.
+292. We learned from failure.
+293. Business has risk.
+294. We have a problem.
+295. I found a solution.
+296. This is a good opportunity.
+297. We face a challenge.
+298. Quality is important.
+299. We have high standards.
+300. Follow the rules.
+301. We follow regulations.
+302. The policy is clear.
+303. Follow the procedure.
+304. What are the requirements?
+305. I have good skills.
+306. I have experience.
+307. We have training.
+308. Education is important.
+309. We want growth.
+310. We plan expansion.
+311. Marketing is important.
+312. We use advertising.
+313. Our brand is strong.
+314. Good customer service matters.
+315. We want your feedback.
+316. Customer satisfaction is high.
+317. I have a complaint.
+318. I got a response.
+319. Communication is key.
+320. We need cooperation.
+321. We have a partnership.
+322. Competition is tough.
+323. Our competitors are strong.
+324. The industry is growing.
+325. The tech sector is big.
+326. New trends emerge.
+327. We collect data.
+328. We do analysis.
+329. I need information.
+330. Knowledge is power.
+331. Innovation is important.
+332. We use new technology.
+333. We use software.
+334. Our system works well.
+335. Efficiency is important.
+336. We improve productivity.
+337. We save time.
+338. Speed matters.
+339. Good performance is expected.
+340. We got good results.
+341. We reached our target.
+342. We made progress.
+343. Success takes hard work.
+
+================================================================================
+파일: KO_기초다지기_여행.json
+카테고리: 기초다지기_여행
+예문 수: 290
+================================================================================
+
+344. Let's go to the airport early.
+345. The plane is taking off now.
+346. Do you have your ticket ready?
+347. I need to show my passport at customs.
+348. Our hotel room is very clean.
+349. I booked a single room.
+350. Here is your room key.
+351. Can you check the map for the direction?
+352. Let's take a taxi to the museum.
+353. The bus stop is right here.
+354. I prefer traveling by train.
+355. The subway is fast in the city.
+356. We rented a car for the trip.
+357. You can rent a bike near the park.
+358. Which station is the nearest?
+359. Let's find a good restaurant for dinner.
+360. I love the local food here.
+361. May I have some water, please?
+362. I need a cup of coffee now.
+363. Where is the nearest bank?
+364. I need to exchange some money.
+365. I bought souvenirs at the small store.
+366. Let's visit the night market.
+367. Where is the public restroom?
+368. Walk down this street to the main square.
+369. The road is very busy today.
+370. What time is the departure?
+371. We spent a wonderful day at the beach.
+372. I like to walk in the morning.
+373. The tour starts in the evening.
+374. Say hello to the hotel staff.
+375. Thank you for your help.
+376. Sorry, I didn't see you there.
+377. I need some help with my bags.
+378. Is the museum open today?
+379. The store closes at 9 PM.
+380. Where should we go next?
+381. Let's walk instead of taking a bus.
+382. I want to see the famous tower.
+383. I need to buy a souvenir.
+384. Let's eat something delicious.
+385. I want to drink cold juice.
+386. Can you help me find my gate?
+387. We have to wait for the bus.
+388. What time will we arrive at the destination?
+389. When does the ship leave?
+390. The check-in counter is over there.
+391. Be careful with your luggage.
+392. This bag is too heavy.
+393. Don't forget your camera!
+394. Let's take a photo here.
+395. We went on a guided city tour.
+396. The Eiffel Tower is a famous sight.
+397. The museum is free on Sundays.
+398. I want to relax on the beach.
+399. The view from the mountain is amazing.
+400. I prefer traveling to big cities.
+401. Which country are you from?
+402. I asked a local person for directions.
+403. What is the price of this souvenir?
+404. Is there a cheap hotel nearby?
+405. That restaurant looks expensive.
+406. Can I see the menu, please?
+407. I would like to order this dish.
+408. Could we have the bill, please?
+409. Do you accept cash?
+410. Can I pay by card?
+411. What is the address of the gallery?
+412. What is your room number?
+413. I need to charge my phone.
+414. Do you have free Wi-Fi?
+415. It is very cold outside.
+416. I need a cold drink on this hot day.
+417. Don't forget your umbrella, it might rain.
+418. The sun is shining brightly.
+419. How is the weather tomorrow?
+420. Is this area safe for tourists?
+421. Be aware of danger at night.
+422. I think I am lost.
+423. Do you speak English?
+424. I don't understand the sign.
+425. Can you translate this for me?
+426. Is the museum near here?
+427. The airport is quite far.
+428. Turn left at the traffic light.
+429. The entrance is on the right.
+430. Go straight until you see the tower.
+431. Call the waiter for the bill.
+432. Should I leave a tip?
+433. Do you have a reservation?
+434. I look like a typical tourist.
+435. Our tour guide was very knowledgeable.
+436. I bought a small gift for my sister.
+437. I need a comfortable place to sleep.
+438. I have to wake up early tomorrow.
+439. Please sit down and wait.
+440. Stop the car here, please.
+441. How much do I need to pay?
+442. Can you show me the way on the map?
+443. When will you return to your country?
+444. We crossed the famous bridge.
+445. Let's take a rest in the park.
+446. The main square is full of people.
+447. Which gate is for flight AB123?
+448. There is a delay due to bad weather.
+449. Please have your boarding pass ready.
+450. I prefer a window seat on the plane.
+451. I asked for an aisle seat.
+452. What is our schedule for tomorrow?
+453. What is the local currency?
+454. I don't have exact change.
+455. It's customary to tip the driver.
+456. Excuse me, where is the information desk?
+457. One coffee, please.
+458. Is there a toilet on the train?
+459. The entry fee is five dollars.
+460. Follow the exit signs.
+461. I need some tourist information.
+462. The tower is the city's main tourist attraction.
+463. Is this tap water drinkable?
+464. This soup is very delicious.
+465. I am very hungry now.
+466. I am thirsty after the walk.
+467. I am full, thank you.
+468. I would like a cold drink.
+469. She ordered a hot tea.
+470. Do you need sugar in your coffee?
+471. Can you pass the salt, please?
+472. This dessert is too sweet.
+473. The lemon juice is very sour.
+474. Is this dish spicy?
+475. I love fresh fruit in the morning.
+476. The weather turned bad quickly.
+477. We had a really good time.
+478. I need a small bottle of water.
+479. The bed in the room is very big.
+480. It was a long flight.
+481. The bus ride is quite short.
+482. We left the hotel very early.
+483. The train arrived late.
+484. What are we doing today?
+485. We fly home tomorrow.
+486. We visited the museum yesterday.
+487. I am staying here for one week.
+488. Our trip lasted for a month.
+489. I plan to come back next year.
+490. I miss my home a little.
+491. I'm traveling with a friend.
+492. I bought gifts for my family.
+493. There are many people on the street.
+494. Ask the tourist office for a map.
+495. I need to find a currency exchange.
+496. Where is the nearest pharmacy?
+497. I need to go to the hospital.
+498. I need to see a doctor.
+499. Do you have any medicine for a headache?
+500. I caught a cold while traveling.
+501. I have a headache.
+502. Let's go to baggage claim.
+503. I passed through customs quickly.
+504. I am waiting at immigration.
+505. Do I need a visa to enter this country?
+506. The line for the museum is very long.
+507. Please push the door to open it.
+508. Pull the handle to close the window.
+509. This is a great photo spot.
+510. I bought a small souvenir for myself.
+511. I want to send a postcard from the post office.
+512. I'm writing a postcard now.
+513. How much is a stamp for international mail?
+514. Lock the door when you leave.
+515. The gate is now open.
+516. The shop is closed for the holiday.
+517. I reserved a single room.
+518. We need a double room with two beds.
+519. Is this towel clean?
+520. I accidentally dropped my clothes on the dirty floor.
+521. The train is very fast.
+522. The bus ride was surprisingly slow.
+523. The music from the bar is too loud.
+524. I need a quiet place to rest.
+525. It's a beautiful sunny day for sightseeing.
+526. We had a rainy day yesterday.
+527. It's too windy to eat outside.
+528. I hope it doesn't snow during our trip.
+529. I forgot my umbrella at the hotel.
+530. Take your warm coat with you.
+531. I need comfortable shoes for walking.
+532. I packed only sandals and flip-flops.
+533. I'm going to wear a light dress today.
+534. I need to buy a new pair of pants.
+535. I spilled coffee on my shirt.
+536. Don't forget your hat under the sun.
+537. Can I buy a local SIM card here?
+538. What kind of items do they sell here?
+539. Is the museum entry free?
+540. Parking here is paid only.
+541. The parking lot is completely full.
+542. The train carriage was almost empty.
+543. Is there a souvenir shop near here?
+544. The old castle is far away from the city center.
+545. Wait here, I'll be right back.
+546. I will take this one, please.
+547. How much is that one?
+548. Where is the post office?
+549. When does the next bus come?
+550. How much does a train ticket cost?
+551. Why is the museum closed?
+552. Who is our tour guide?
+553. What is this building?
+554. Can I have a receipt?
+555. I want to visit the beach.
+556. I need a blanket for the flight.
+557. Do you have any available rooms?
+558. No problem, I can wait.
+559. I don't know the exact time.
+560. Look out! The car is coming.
+561. We get off the bus at the next stop.
+562. Hurry up and get on the train.
+563. Can you take a photo of me?
+564. I reported my lost wallet at the lost and found.
+565. I need to buy a ticket at the ticket office.
+566. The rental car agency is across the street.
+567. The car needs more fuel.
+568. Let's stop at the next gas station.
+569. Which direction should we walk?
+570. The main entrance is closed.
+571. Where is the emergency exit?
+572. The restrooms are upstairs.
+573. The coffee shop is downstairs.
+574. Is there an elevator in this building?
+575. Take the stairs instead of the elevator.
+576. Our waitress was very friendly.
+577. I need an extra napkin.
+578. I dropped my spoon.
+579. Can I have a fork, please?
+580. Be careful with that sharp knife.
+581. I accidentally broke the glass.
+582. The food was served on a large plate.
+583. Could you add less sugar?
+584. Do you want milk in your tea?
+585. I ordered some fresh bread.
+586. I don't eat cheese.
+587. I'd like a meat dish.
+588. I prefer vegetable dishes.
+589. I bought some local fruit at the market.
+590. Which dessert do you recommend?
+591. Is breakfast included in the room price?
+592. Let's meet for lunch at noon.
+593. I'm looking forward to dinner tonight.
+594. Excuse me, waiter!
+595. Can we have a table by the window?
+596. Is this seat taken?
+597. Can I open the window in the room?
+598. The front door is locked.
+599. Our room is on the third floor.
+600. The light in the bathroom is broken.
+601. The air conditioning is too strong.
+602. Can you turn on the heater?
+603. I need a fresh towel.
+604. Is there soap in the dispenser?
+605. I forgot to pack my shampoo.
+606. I need a hair brush.
+607. I forgot my toothbrush.
+608. Do I need to buy toothpaste?
+609. I need to shave before the meeting.
+610. The mirror in the lobby is huge.
+611. There is a small desk in the room.
+612. I need an extra chair.
+613. The bed is very soft and comfortable.
+614. I hope you sleep well tonight.
+615. Welcome to our beautiful city!
+616. Thank you, and have a nice day!
+617. See you later, I'm going out now.
+618. Wait here, please.
+619. The bus stop is over there.
+620. Go up the stairs.
+621. Walk down the hill.
+622. The key is in the box.
+623. I need to step out for a moment.
+624. The cafe is next to the bookstore.
+625. The taxi stand is behind the building.
+626. I'll wait in front of the fountain.
+627. The bank is across from the park.
+628. I want coffee and bread.
+629. Do you prefer tea or coffee?
+630. The weather is nice, but it's cold.
+631. I'm tired because I walked a lot.
+632. I'm traveling with my family.
+633. I can't go without my passport.
+
+================================================================================
+파일: KO_기초다지기_일상회화.json
+카테고리: 기초다지기_일상회화
+예문 수: 151
+================================================================================
+
+634. Hello, how are you today?
+635. Goodbye, see you tomorrow!
+636. Thank you for your help.
+637. Please pass me the salt.
+638. I'm sorry for being late.
+639. Yes, I agree with you.
+640. No, I don't want coffee.
+641. Okay, let's go now.
+642. What is your name?
+643. How old are you?
+644. She is my best friend.
+645. My family loves to travel.
+646. My mother makes delicious food.
+647. My father works as an engineer.
+648. My brother is two years older.
+649. My sister studies at university.
+650. I live in a big house.
+651. My bedroom is very small.
+652. I cook breakfast in the kitchen.
+653. The bathroom is upstairs.
+654. I sleep on a comfortable bed.
+655. The table is made of wood.
+656. Please sit on this chair.
+657. Please close the door quietly.
+658. Open the window for fresh air.
+659. The food here is delicious.
+660. I drink water every day.
+661. I have coffee in the morning.
+662. Would you like some tea?
+663. I buy bread from the bakery.
+664. Do you eat meat?
+665. I cook chicken for dinner.
+666. The fish is fresh today.
+667. I eat rice with every meal.
+668. This apple is sweet and juicy.
+669. I have a banana for breakfast.
+670. Orange juice is healthy.
+671. I drink milk before bed.
+672. Let's eat dinner together.
+673. I drink coffee every morning.
+674. I sleep eight hours a night.
+675. I wake up at 7 AM.
+676. I work at a bank.
+677. I study English every day.
+678. Children play in the park.
+679. I walk to school every day.
+680. He runs every morning.
+681. Please sit down here.
+682. Stand up when the teacher enters.
+683. I read books in the library.
+684. I write in my diary every night.
+685. We talk about the weather.
+686. I listen to music while working.
+687. I watch TV in the evening.
+688. Can you see the mountain?
+689. Look at the sunset!
+690. Can you help me with this?
+691. I ask my teacher for help.
+692. She answers all the questions.
+693. Do you know where the bank is?
+694. I think this is a good idea.
+695. I feel happy today.
+696. I like ice cream.
+697. I love my family.
+698. What do you want for dinner?
+699. I need your help.
+700. Can you give me a pen?
+701. Take this book with you.
+702. I buy groceries on Friday.
+703. They sell beautiful clothes.
+704. I pay the bill at the end of the month.
+705. How much does this cost?
+706. I don't have much money.
+707. What time is it now?
+708. Today is a beautiful day.
+709. I see her once a week.
+710. My birthday is next month.
+711. I've lived here for five years.
+712. I run every morning.
+713. I have a meeting this afternoon.
+714. We watch movies in the evening.
+715. It's very cold tonight.
+716. The weather is nice today.
+717. I like the sound of rain.
+718. It snows a lot in winter.
+719. The sun rises in the east.
+720. The moon is bright tonight.
+721. I can see the stars clearly.
+722. The weather is hot in summer.
+723. It's very cold outside today.
+724. This blanket is warm.
+725. The pool water is cool.
+726. That elephant is very big.
+727. The baby is small and cute.
+728. She has long black hair.
+729. I have short hair.
+730. He is very tall and handsome.
+731. The mountain is very high.
+732. The ceiling is low in this room.
+733. This car is very fast.
+734. The turtle moves slowly.
+735. This is a good restaurant.
+736. The weather is bad today.
+737. This problem is easy to solve.
+738. The test was very difficult.
+739. I'm happy to see you.
+740. She looks sad today.
+741. He was angry about the mistake.
+742. I'm tired after work.
+743. The children are excited about the trip.
+744. I feel sick today.
+745. He lives a healthy lifestyle.
+746. The sunset is beautiful.
+747. I think that building is ugly.
+748. Keep your room clean.
+749. My hands are dirty.
+750. I bought a new phone.
+751. This is an old building.
+752. She is young and talented.
+753. These shoes are cheap and nice.
+754. That restaurant is very expensive.
+755. It's a nice day to go outside.
+756. That movie is funny and entertaining.
+757. He has a serious expression.
+758. She is a smart student.
+759. He is a kind and helpful person.
+760. He is strong and athletic.
+761. This coffee is too weak.
+762. I'm very busy today.
+763. Are you free this weekend?
+764. My car is parked outside.
+765. I ride my bicycle to work.
+766. I go to school every weekday.
+767. My office is on the fifth floor.
+768. She works at the hospital.
+769. Let's eat at this restaurant.
+770. I buy clothes at the shop.
+771. Children play in the park.
+772. She walks down the street.
+773. I have a cute dog.
+774. My cat sleeps all day.
+775. The bird sings in the morning.
+776. The flowers bloom in spring.
+777. The tree is very tall.
+778. I read a book every night.
+779. Can you lend me a pen?
+780. I write on white paper.
+781. This picture is very beautiful.
+782. I love listening to music.
+783. I play sports every weekend.
+784. Do you want to play a game?
+
+================================================================================
+파일: KO_원어민수준_뉴스-시사.json
+카테고리: 원어민수준_뉴스-시사
+예문 수: 228
+================================================================================
+
+785. The aid package aims to alleviate the suffering of the victims.
+786. Efforts are underway to ameliorate the long-term economic prospects.
+787. The court's ruling sets an important legal precedent.
+788. The rapid spread of fake news presents a complex social conundrum.
+789. The shift to remote work marks a paradigm change in employment.
+790. The media often creates a false dichotomy between security and liberty.
+791. The veracity of the leaked documents has yet to be confirmed.
+792. The election gave the new leader a clear mandate for reform.
+793. Achieving a global consensus on climate targets is proving difficult.
+794. The politician deliberately chose to eschew inflammatory rhetoric.
+795. The drought will only exacerbate the food shortage in the region.
+796. Governments are seeking ways to mitigate the economic impact of the virus.
+797. The news agencies quickly disseminated the official statement.
+798. The finance committee will scrutinize the company's annual report.
+799. The expert was asked to elucidate the complex technical details.
+800. The new treaty serves to demarcate the maritime borders.
+801. The incumbent leader is facing a strong challenge from the opposition.
+802. A climate of trust is conducive to effective negotiations.
+803. The decision to abandon the project was deemed irrevocable.
+804. It is imperative that we address the root cause of the problem.
+805. The prosecutor failed to substantiate the claims of corruption.
+806. The link between the scandal and the high office is tenuous.
+807. She is a vocal proponent of universal basic income.
+808. The policy has many detractors who argue it is too costly.
+809. Political rhetoric has become increasingly polarized.
+810. Her sharp political acumen helped her navigate the crisis.
+811. The efficacy of the new economic measures is still being debated.
+812. The ostensible reason for the meeting was ignored by the hidden agenda.
+813. The official inadvertently revealed classified information during the interview.
+814. The nation is in a financial predicament due to soaring national debt.
+815. The party has endured the political vicissitudes of the past decade.
+816. The article was a fierce polemic against military intervention.
+817. The company reported adverse market conditions last quarter.
+818. The merger aims to create synergy between the two technological branches.
+819. Global oil prices continue to fluctuate based on geopolitical events.
+820. The threat of cyber attacks is ubiquitous in the digital age.
+821. The government took unprecedented measures to stabilize the economy.
+822. The official's aberrant behavior was quickly condemned by his party.
+823. The central bank's capricious decisions led to market instability.
+824. The opposition leader publicly denounced the new policy.
+825. It is unprofessional to disparage the work of your competitors.
+826. The president's statement on the conflict remained equivocal.
+827. New DNA evidence is expected to exonerate the wrongly convicted man.
+828. The entire media narrative was based on a fallacious premise.
+829. The discovery of new oil reserves was a fortuitous boost to the economy.
+830. Company directors have a strict fiduciary duty to the shareholders.
+831. His incendiary speech only served to inflame the public.
+832. There is an inherent conflict of interest in the current system.
+833. The new regulations proved inimical to small businesses.
+834. A judicious use of public funds is necessary during a crisis.
+835. The nascent technology industry is rapidly expanding in the region.
+836. He attempted to obfuscate the facts during the cross-examination.
+837. The pervasive influence of social media on politics is undeniable.
+838. The lawyer raised several pertinent questions about the timeline.
+839. The article was criticized for its plethora of statistical errors.
+840. The economy remains in a precarious state, needing careful management.
+841. The economist's warnings in the 1990s proved remarkably prescient.
+842. The regulatory body moved to proscribe certain financial practices.
+843. The defense attorney prepared a strong rebuttal to the prosecution's claims.
+844. The former dictator decided to renounce all political claims.
+845. The salient point of the argument is the question of funding.
+846. Despite the evidence, the spokesperson remained sanguine about the company's future.
+847. The sudden rise in stock price led to mass market speculation.
+848. The job market has remained stagnant despite government interventions.
+849. The political party used a legal subterfuge to bypass the rules.
+850. A core tenet of the party's platform is fiscal responsibility.
+851. The editorial offered a trenchant critique of the president's speech.
+852. The witness's testimony was considered unassailable.
+853. The company's defense against the charges was entirely untenable.
+854. They are searching for a financially viable alternative to the current system.
+855. The final report completely vindicated the former director.
+856. The region remains politically volatile following the coup attempt.
+857. The sheer scale of the crisis warrants immediate international attention.
+858. Several members chose to abstain from the final vote.
+859. The new regulations were criticized as arbitrary and unfair.
+860. The beleaguered minister resigned amid heavy pressure.
+861. The two firms were investigated for price collusion.
+862. He has been the de facto leader since the president's illness.
+863. The new government is not yet recognized as the de jure authority.
+864. The state decided to expropriate the land for public use.
+865. The ruling party was accused of trying to gerrymander the districts.
+866. The threat of impeachment looms over the presidential office.
+867. The movement is still in an inchoate stage of organization.
+868. The dispute is likely to result in costly litigation.
+869. The government imposed a moratorium on new factory construction.
+870. The press uncovered the company's nefarious financial activities.
+871. The witness was charged with perjury after giving false testimony.
+872. The controversial topic threatens to further polarize public opinion.
+873. The country is sinking into an economic quagmire.
+874. The trade agreement is based on the principle of reciprocity.
+875. Key parts of the classified report were heavily redacted.
+876. The contract stipulates a penalty for late delivery.
+877. The journalist received a subpoena to testify before the grand jury.
+878. The debate over universal suffrage lasted decades.
+879. The investigation uncovered surreptitious payments to foreign officials.
+880. The message of peace must transcend political differences.
+881. Emergency teams had to perform triage at the disaster site.
+882. The country made a unilateral decision to withdraw from the treaty.
+883. The president threatened to use his veto power on the bill.
+884. The online debate quickly descended into mutual vituperation.
+885. The commentator offered a wry observation on the state of political affairs.
+886. The social unrest captured the turbulent zeitgeist of the era.
+887. The international court will adjudicate the border dispute.
+888. The two state agencies will amalgamate to form a single department.
+889. New data was introduced to buttress the scientific findings.
+890. The minister faced a vote of censure after the scandal.
+891. The article tends to conflate economic growth with national well-being.
+892. The report is based more on conjecture than on hard evidence.
+893. The long-term deleterious effects of pollution are becoming clear.
+894. The white paper clearly delineates the government's future policy goals.
+895. The military attempted to depose the elected president.
+896. His claim of ignorance was entirely disingenuous.
+897. The official was fired for his financial duplicity.
+898. The new bill is designed to encompass all areas of environmental law.
+899. The budget was passed due to financial exigency.
+900. The media plays a role in inculcating civic responsibility.
+901. No political system is infallible; mistakes will always be made.
+902. The journalist juxtaposed the two leaders' competing statements.
+903. The recent economic growth has been widely described as lackluster.
+904. The constant presence of security forces was somewhat obtrusive.
+905. The leader ended his speech with a pithy summary of his goals.
+906. The committee was formed to redress historical injustices.
+907. The political interview turned into a sharp exchange of repartee.
+908. The media portrayed the disgraced executive as a financial reprobate.
+909. The speaker used a stentorian voice to address the huge crowd.
+910. The press conference ended after the truculent behavior of a few reporters.
+911. The minister took umbrage at the direct question about his assets.
+912. The government faces unremitting pressure from environmental groups.
+913. His views on global trade seemed like an anachronism.
+914. Experts ascribe the instability to systemic failures.
+915. Rumors circulated about a political cabal manipulating the markets.
+916. The scandal involved complex financial chicanery.
+917. The diplomat presented a cogent argument for peace talks.
+918. The media warned against the influence of populist demagogues.
+919. The political victory proved to be ephemeral.
+920. Scholars offered a deep exegesis of the ancient treaty.
+921. The media plays a crucial role in inculcating civic virtues.
+922. No single institution is infallible in its judgment.
+923. The commentary was unnecessarily lachrymose about the defeat.
+924. The government's unexpected largesse was met with skepticism.
+925. She is known as a political maverick who challenges the status quo.
+926. The parliament session was disrupted by obstreperous hecklers.
+927. There is a paucity of reliable data on the true environmental cost.
+928. The term 'elite' is often used pejorative in political debates.
+929. The exchange between the two leaders was unnecessarily puerile.
+930. The court is in a quandary over the complex jurisdiction issues.
+931. The recalcitrant provinces refused to comply with the federal law.
+932. The government worked to repatriate citizens stranded overseas.
+933. The financial media exposed him as a corporate reprobate.
+934. The leader was surrounded by sycophants who offered no honest advice.
+935. The neighboring state adopted a truculent tone in the negotiations.
+936. The politician was convicted of moral turpitude.
+937. The central bank continued to vacillate on its interest rate decision.
+938. The apparent calm was merely a thin veneer over deep internal divisions.
+939. The technical error could vitiate the entire election result.
+940. The new policy captures the current populist zeitgeist.
+941. The two government departments will amalgamate next year.
+942. The new evidence served to buttress the legal team's defense.
+943. The body issued a formal censure against the member for misconduct.
+944. Critics argue the report conflates correlation with causation.
+945. The cause of the fire remains conjecture, pending investigation.
+946. The long-term deleterious effects of deregulation are visible now.
+947. The agreement carefully delineates the responsibilities of each state.
+948. The ruling party had the power to depose the prime minister.
+949. His public statements contrasted sharply with his financial duplicity.
+950. The proposed treaty would encompass all aspects of trade and security.
+951. The emergency funding was released due to financial exigency.
+952. The threat of military intervention appears imminent.
+953. The report juxtaposes the promises with the reality of the situation.
+954. The economic performance has been disappointingly lackluster.
+955. Security measures at the summit were highly obtrusive.
+956. The leader made a pithy comment that resonated with voters.
+957. The committee was formed to redress historical injustices.
+958. The political interview turned into a sharp exchange of repartee.
+959. The media portrayed the disgraced executive as a financial reprobate.
+960. The speaker used a stentorian voice to address the huge crowd.
+961. The press conference ended after the truculent behavior of a few reporters.
+962. The minister took umbrage at the direct question about his assets.
+963. The government faces unremitting pressure from environmental groups.
+964. The political speech was a vapid recitation of old promises.
+965. The politician was surrounded by sycophantic aides.
+966. The news source was flagged for its mendacious reporting.
+967. His churlish response to the question drew wide criticism.
+968. The financial expert turned out to be a mere charlatan.
+969. The rebellious faction refused to capitulate to the government's demands.
+970. The foreign minister was accused of perfidious dealings with the enemy state.
+971. The country suffered an ignominious defeat in the trade war.
+972. The dictator's intentions remain inscrutable to foreign analysts.
+973. The CEO was indicted for gross financial malfeasance.
+974. The legal brief was a turgid, overly technical document.
+975. The politician was criticized as pusillanimous for avoiding the debate.
+976. The once-volatile region has been strangely quiescent recently.
+977. The union's recalcitrance delayed the signing of the new contract.
+978. The principle of free speech is considered sacrosanct.
+979. The new bureaucracy serves only to stultify innovation.
+980. The campaign used subliminal messages to influence voters.
+981. The agreement was reached through tacit consent, not formal talks.
+982. The ubiquity of smart devices has changed political campaigning.
+983. The report warns of the dangers of unfettered market capitalism.
+984. The venerable institution celebrated its 200th anniversary.
+985. The article accused the firm of wanton disregard for environmental law.
+986. The candidate's winsome personality appealed to swing voters.
+987. There is growing public antipathy toward the ruling party.
+988. The company operates under an autocratic management style.
+989. The official statement was completely bereft of factual support.
+990. The election results were allegedly manipulated through legal chicanery.
+991. The committee is working on the precise demarcation of responsibilities.
+992. The reporter’s style was often criticized for being too discursive.
+993. The prolonged crisis threatens to enervate the economy.
+994. The leaked emails could potentially inculpate the minister.
+995. The rise of insidious propaganda is a global concern.
+996. Political lassitude led to low turnout in the recent elections.
+997. The company is known for its highly litigious nature.
+998. The market is often mercurial in response to uncertain news.
+999. The new security protocol should obviate the need for further monitoring.
+1000. The political debate often descends into parochial concerns.
+1001. He denied receiving any pecuniary benefits from the contract.
+1002. The perspicacious analyst correctly predicted the market crash.
+1003. The leader's speech was full of empty political platitudes.
+1004. The government was accused of profligate spending on luxury items.
+1005. The company offered a specious argument for its controversial labor practices.
+1006. The media's coverage threatened to stigmatize the whole community.
+1007. The group was investigated for engaging in subversive activities.
+1008. The news report was criticized for being highly tendentious.
+1009. The scandal threatened to undermine the public's trust in the government.
+1010. The CEO remained unflappable during the intense cross-examination.
+1011. The journalist resigned after a vituperative online exchange.
+1012. The rise of nationalism fueled xenophobia in the border region.
+
+================================================================================
+파일: KO_원어민수준_비즈니스.json
+카테고리: 원어민수준_비즈니스
+예문 수: 141
+================================================================================
+
+1013. The corporation announced record profits this quarter.
+1014. This is a successful enterprise with global reach.
+1015. The conglomerate owns several subsidiaries across different industries.
+1016. The company acquired a major subsidiary in Asia.
+1017. All stakeholders must approve the merger agreement.
+1018. The company increased its dividend payout to shareholders.
+1019. The acquisition of the competitor strengthened our market position.
+1020. The merger created the largest company in the industry.
+1021. The company faced liquidation after declaring bankruptcy.
+1022. The company used leverage to finance the acquisition.
+1023. Shareholders own equity in the company.
+1024. The company's liabilities exceed its assets.
+1025. The company's total assets reached five billion dollars.
+1026. The investment portfolio includes stocks and bonds.
+1027. Annual revenue increased by 25 percent.
+1028. The profit margin has improved significantly this year.
+1029. The company expects to reach breakeven within two years.
+1030. The startup received funding from venture capital investors.
+1031. The company plans to go public with an IPO next year.
+1032. The fiscal year ended with record earnings.
+1033. The company's payroll costs are rising annually.
+1034. We need to reduce overhead expenses to improve profitability.
+1035. Operational efficiency is critical for success.
+1036. The company invested heavily in infrastructure development.
+1037. Disruptions in the supply chain affected production.
+1038. Efficient logistics ensure timely product delivery.
+1039. The procurement department handles all supplier contracts.
+1040. We negotiate terms with our vendors quarterly.
+1041. The company maintains optimal inventory levels.
+1042. Depreciation of equipment reduces taxable income.
+1043. Amortization of the loan occurs over five years.
+1044. The external audit confirmed our financial statements.
+1045. Compliance with regulations is mandatory for all employees.
+1046. Good corporate governance protects shareholder interests.
+1047. Transparency in business operations builds customer trust.
+1048. Fiduciary responsibility requires acting in clients' best interests.
+1049. The dispute was settled through arbitration.
+1050. The company faces costly litigation from the lawsuit.
+1051. Our intellectual property portfolio includes several patents.
+1052. The company holds a patent for this innovative technology.
+1053. The trademark is registered in multiple countries.
+1054. The musician receives royalties from streaming services.
+1055. Licensing agreements allow third parties to use our technology.
+1056. The restaurant chain operates through franchises worldwide.
+1057. The distributor supplies products to retail outlets.
+1058. We sell products at wholesale prices to retailers.
+1059. The retail sector shows strong growth this quarter.
+1060. E-commerce sales have surpassed brick-and-mortar stores.
+1061. The online marketplace connects buyers and sellers globally.
+1062. Our target demographic is millennials aged 25-35.
+1063. Understanding consumer behavior is essential for marketing.
+1064. Market segmentation helps us target specific customer groups.
+1065. The company's brand equity is worth billions.
+1066. The brand positioning emphasizes premium quality.
+1067. Product differentiation is key to our competitive advantage.
+1068. Our technological innovation provides competitive advantage.
+1069. The company increased its market share by five percent.
+1070. Market penetration in Asia is a strategic priority.
+1071. The company plans international expansion next year.
+1072. Diversification into new markets reduces business risk.
+1073. The business model has strong scalability potential.
+1074. Process optimization improved efficiency by 30 percent.
+1075. The merger creates significant synergies between operations.
+1076. The strategic alliance strengthens our market presence.
+1077. The joint venture combines expertise from both companies.
+1078. We outsource customer service to reduce costs.
+1079. Offshoring manufacturing reduced production expenses.
+1080. Automation of processes increased productivity significantly.
+1081. Artificial intelligence powers our recommendation engine.
+1082. Blockchain technology enhances supply chain transparency.
+1083. The company accepts cryptocurrency payments.
+1084. The fintech startup disrupted the banking industry.
+1085. Digital transformation is essential for staying competitive.
+1086. Cloud computing reduces IT infrastructure costs.
+1087. Cybersecurity measures protect our customer data.
+1088. Data analytics reveals customer preferences and trends.
+1089. Big data helps us make informed business decisions.
+1090. Machine learning algorithms improve prediction accuracy.
+1091. Sustainability initiatives reduce environmental impact.
+1092. Corporate social responsibility programs support local communities.
+1093. Stakeholder engagement ensures diverse perspectives in decisions.
+1094. Ethical business practices build long-term customer loyalty.
+1095. Accountability for results drives organizational performance.
+1096. Key performance metrics track business progress.
+1097. The project delivered a strong return on investment.
+1098. Financial forecasting helps with budget planning.
+1099. Market volatility affects investment portfolios.
+1100. Companies hedge against currency risks.
+1101. Derivatives are complex financial instruments.
+1102. Government bonds provide stable returns.
+1103. The equity market rallied after the announcement.
+1104. A bull market encourages investors to buy stocks.
+1105. A bear market saw widespread selling pressure.
+1106. The recession reduced consumer spending significantly.
+1107. Rising inflation erodes purchasing power.
+1108. Deflation can depress economic growth.
+1109. Monetary policy decisions affect interest rates.
+1110. Fiscal policy impacts government spending and taxation.
+1111. Trade tariffs increase the cost of imported goods.
+1112. Imports of raw materials have increased.
+1113. The company exports products to 50 countries.
+1114. The trade agreement reduces barriers between nations.
+1115. Customs clearance delayed the shipment.
+1116. Import quotas limit the quantity of goods allowed.
+1117. The embezzlement scandal led to several arrests.
+1118. Fraud detection systems protect against financial crimes.
+1119. Bribery is a serious corporate misconduct.
+1120. The whistleblower exposed illegal business practices.
+1121. Due diligence is required before major acquisitions.
+1122. A contingency plan prepares for unexpected events.
+1123. Scenario planning helps anticipate market changes.
+1124. The feasibility study determines project viability.
+1125. We consulted with key stakeholders about the decision.
+1126. The company launched a new sustainability initiative.
+1127. We benchmark our performance against industry leaders.
+1128. The strategic framework guides our business decisions.
+1129. Successful implementation requires careful planning.
+1130. The company reached a major milestone this quarter.
+1131. The company's growth trajectory is impressive.
+1132. Digital technology caused a paradigm shift in retail.
+1133. Disruption in the market creates new opportunities.
+1134. Innovation drives competitive advantage.
+1135. R&D spending increased for new product development.
+1136. The prototype underwent rigorous testing.
+1137. Beta testing revealed several product issues.
+1138. Understanding the product lifecycle helps with planning.
+1139. Rapid technology changes cause product obsolescence.
+1140. Agile methodology improves project flexibility.
+1141. Lean management eliminates wasteful processes.
+1142. Six Sigma methods improve quality control.
+1143. Total quality management involves all employees.
+1144. Continuous improvement is our operational philosophy.
+1145. Kaizen practices promote incremental improvements.
+1146. Just-in-time inventory reduces storage costs.
+1147. The production bottleneck slows delivery times.
+1148. Increasing throughput improves overall productivity.
+1149. Factory capacity is at maximum levels.
+1150. Resource utilization improved by 40 percent.
+1151. Operational efficiency is our top priority.
+1152. Employee productivity increased with new tools.
+1153. Accountability structures ensure responsible management.
+
+================================================================================
+파일: KO_원어민수준_여행.json
+카테고리: 원어민수준_여행
+예문 수: 264
+================================================================================
+
+1154. We have some discretionary funds for unexpected travel expenses.
+1155. The logistics of our 10-day cross-country trip were complex.
+1156. They embarked on a scientific expedition to Antarctica.
+1157. We will embark on the luxury liner at noon tomorrow.
+1158. Passengers are asked to disembark promptly upon arrival.
+1159. He spent his twenties living an itinerant lifestyle across Europe.
+1160. The town square was a veritable feast of local color and sound.
+1161. The trip offered a superb culinary journey through Southeast Asia.
+1162. The tour focused on the customs of the indigenous people of the island.
+1163. Travel insurance often covers emergency medical repatriation.
+1164. Always have a contingency plan in case of flight cancellations.
+1165. I enjoy the unfettered freedom of solo hiking in remote areas.
+1166. The customs official gave only a perfunctory glance at my passport.
+1167. The restaurant had a romantic and cozy ambiance.
+1168. The street artist captured a lovely vignette of Parisian life.
+1169. Our discovery of the hidden cave was entirely adventitious.
+1170. We found ourselves in a serious predicament when we missed the last bus.
+1171. We plan to traverse the entire mountain range by foot.
+1172. The taxi drivers charged an exorbitant fee during the rush hour.
+1173. The view from the summit was truly sublime.
+1174. Hostels are suitable for the gregarious traveler who loves meeting new people.
+1175. He sought the solitude of the wilderness during his gap year.
+1176. A passport is the requisite document for international travel.
+1177. I have vivid memories of the marketplace from my childhood trip.
+1178. The local temple featured intricate wood carvings.
+1179. The airline faced unprecedented delays due to the volcanic ash.
+1180. The visit to the ancient city was the culmination of our tour.
+1181. Tourist shops have proliferated near the main attractions.
+1182. Our travel plans started to diverge after the first week.
+1183. The area is known for the convergence of three distinct cultures.
+1184. The tribe maintained a traditional nomadic existence.
+1185. We paid extra to expedite the visa processing.
+1186. The new safety protocols should mitigate potential travel risks.
+1187. Her unwavering enthusiasm kept our spirits up during the delay.
+1188. The tranquil environment was conducive to relaxation.
+1189. I could only surmise the reason for the sudden route change.
+1190. We sought out a reclusive cabin far from the tourist crowds.
+1191. The beauty of the desert bloom was sadly ephemeral.
+1192. Ostensibly, the trip was for work, but I managed to squeeze in sightseeing.
+1193. The vendor’s claims about the antique's age seemed disingenuous.
+1194. It was a fortuitous moment when we stumbled upon the hidden path.
+1195. I inadvertently left my charging cable in the hotel room.
+1196. The border guards scrutinized every page of my travel history.
+1197. How do you perceive the local attitude toward tourists?
+1198. The hotel concierge validated our parking ticket.
+1199. There is an inherent charm to these ancient European cities.
+1200. Travelers must strictly adhere to the park's conservation guidelines.
+1201. We observed a striking disparity between the rich and poor neighborhoods.
+1202. The accommodation price felt commensurate with the quality of service.
+1203. Petty theft is unfortunately prevalent in this tourist area.
+1204. We made a tentative booking for the flight, subject to final approval.
+1205. Our hiking plans were ruined by inclement weather.
+1206. The locals were incredibly hospitable, sharing food and stories.
+1207. We discovered a quaint little café on a cobblestone street.
+1208. The village offers the most picturesque views of the valley.
+1209. We paid extra for a room with a panoramic ocean view.
+1210. The cruise ship was a gargantuan floating hotel.
+1211. We spent the afternoon meandering through the botanical gardens.
+1212. The best moments of my trip were pure serendipity.
+1213. We sat by the fire and reminisced about our adventures.
+1214. The palace domes were resplendent in the afternoon sun.
+1215. The map clearly delineates the restricted conservation areas.
+1216. The guide elucidated the complex history of the ancient ruins.
+1217. Wearing masks became a government mandate for public transport.
+1218. The high cost of the tickets precluded many from attending the festival.
+1219. Street vendors selling local snacks are ubiquitous in the city center.
+1220. There are no major hotels in the immediate vicinity of the park.
+1221. The political situation in the region is highly volatile.
+1222. We waited for the storm to abate before leaving the harbor.
+1223. I had to capitulate and buy the overpriced souvenir my child wanted.
+1224. We explored an interesting derelict building near the old dock.
+1225. After the 30-hour flight, I felt haggard and exhausted.
+1226. The student managed to travel the world on an impecunious budget.
+1227. I made an innocuous comment about the food that was misunderstood.
+1228. The train experienced intermittent signal failures, causing minor delays.
+1229. The juxtaposition of modern skyscrapers and ancient ruins was striking.
+1230. The city offers a myriad of attractions for every type of traveler.
+1231. Despite his wealth, the traveler avoided any sign of ostentation.
+1232. There was a paucity of affordable hotels in the downtown area.
+1233. The path to the temple was a precipitous climb.
+1234. The travel guide was replete with historical facts and photos.
+1235. The tourism industry was stagnant during the low season.
+1236. The feeling of homesickness was merely transient.
+1237. We visited the venerable 1000-year-old monastery.
+1238. The small town was filled with whimsical street art.
+1239. The city's rapid development captures the modern zeitgeist.
+1240. I try to embrace the challenges of traveling alone.
+1241. It was difficult to discern the local dialect.
+1242. The paradoxical calm of the city's busy center was surprising.
+1243. The local people showed great resilience after the natural disaster.
+1244. The chef explained the subtlety of the spices in the dish.
+1245. We questioned the veracity of the travel brochure's claims.
+1246. The synergy between history and modernity makes the city unique.
+1247. My phone is an indispensable travel tool.
+1248. The street performer adroitly juggled fire torches.
+1249. She curated a perfect itinerary for the group.
+1250. The museum housed an eclectic collection of artifacts.
+1251. The fastidious traveler complained about the tiny stain on the sheet.
+1252. The garrulous taxi driver gave us a running commentary on the city.
+1253. We enjoyed an impromptu dinner with some locals.
+1254. The insidious danger of pickpockets is something to watch out for.
+1255. We spent a languid afternoon relaxing by the Aegean Sea.
+1256. The mercurial nature of the island's weather requires constant vigilance.
+1257. The complicated bus schedule only served to obfuscate our route.
+1258. The smell of spices was pervasive throughout the old town market.
+1259. After weeks of adventure, returning to prosaic life was difficult.
+1260. The dinner conversation was full of clever repartee.
+1261. The local villagers were initially reticent with strangers.
+1262. We took a few surreptitious photos of the celebrity at the next table.
+1263. I continue to vacillate between visiting the north or the south.
+1264. I left the island with a wistful look over my shoulder.
+1265. The festival reached its zenith with a spectacular fireworks display.
+1266. It was a harrowing journey through the war-torn region.
+1267. You will soon become inured to the high altitude.
+1268. Police cordoned off the area around the ancient monument.
+1269. We tried to dissuade him from traveling during the monsoon season.
+1270. After a long trek, morning ablutions felt truly refreshing.
+1271. We stayed in a palatial suite overlooking the Mediterranean.
+1272. The sound of the temple bell reverberated through the valley.
+1273. Travelers are susceptible to digestive issues in unfamiliar environments.
+1274. I chose to travel with a strict sense of austerity to save money.
+1275. We encountered disparate views on the local government's tourism policy.
+1276. The small fishing village felt like a peaceful enclave.
+1277. I felt the incipient signs of jet lag immediately after landing.
+1278. The small tremor was a precursor to the major earthquake.
+1279. A colorful cavalcade of dancers moved through the streets during the festival.
+1280. We must avoid uncouth behavior that disrespects local customs.
+1281. I had to demur at the suggestion to skip the historical sites.
+1282. The experienced traveler eschewed the popular tourist spots.
+1283. The film romanticized the life of a joyful vagabond.
+1284. The high cost of travel is a concomitant challenge in this region.
+1285. The local festival was celebrated with incredible religious fervor.
+1286. The Sphinx maintained an inscrutable silence over the centuries.
+1287. I was charmed by the mellifluous voice of the storyteller.
+1288. Missing the final connection was the nadir of the entire journey.
+1289. The obdurate official refused to extend our visa validity.
+1290. We admired the resilient spirit of the impecunious street artists.
+1291. We checked in our ponderous luggage to avoid carrying it around.
+1292. The recalcitrant donkey refused to move on the narrow mountain path.
+1293. A sedentary vacation on a beach is not for me; I prefer adventure.
+1294. The sudden closure of the border stymied our plans to cross.
+1295. The unctuous waiter tried too hard to solicit a large tip.
+1296. The trip was marked by the usual vicissitudes of overland travel.
+1297. Our excitement began to wane as the delays continued.
+1298. A gentle zephyr cooled us down during the afternoon heat.
+1299. The city is situated at the confluence of two major rivers.
+1300. I became enamored with the ancient culture of Peru.
+1301. Due to the exigency of the situation, the flight was immediately diverted.
+1302. We remembered the halcyon days spent on the Italian coast.
+1303. The neighborhood project is still in an inchoate stage of development.
+1304. We were warned about the inimical wildlife in the jungle reserve.
+1305. We were offended by the insolent remarks made by the driver.
+1306. The historical performance was somewhat lackluster compared to our expectations.
+1307. The local community showed great largesse by hosting the travelers.
+1308. The tropical heat caused a feeling of profound lassitude.
+1309. Stepping into the bustling central station was like entering a maelstrom.
+1310. The hotel provided a munificent spread of complimentary snacks.
+1311. We witnessed the nascent stages of a new local art movement.
+1312. The new, modern building looked obtrusive next to the ancient church.
+1313. The guide gave a pithy summary of the site's history.
+1314. We sailed across the placid waters of the lake at dawn.
+1315. Local laws proscribe the consumption of alcohol in public areas.
+1316. His quixotic dream was to cycle across the Sahara desert alone.
+1317. The ancient streets were rife with tales of ghost sightings.
+1318. The salient feature of the old town is the huge clock tower.
+1319. Despite the delays, the tour operator remained sanguine about our schedule.
+1320. The sheer scale of the ruins was enough to stupefy the visitors.
+1321. I felt completely supine after climbing the volcano.
+1322. He had the temerity to challenge the ticket inspector.
+1323. The extreme humidity left us feeling torpid and unwilling to move.
+1324. The academic presentation on tourism felt turgid and unnecessary.
+1325. We encountered an untoward incident involving a lost key.
+1326. The frustrated traveler began to vituperate the airline staff.
+1327. The sunset over the temple displayed an inimitable beauty.
+1328. We were jubilant upon reaching the remote mountain base camp.
+1329. The chef received kudos for his creative fusion cuisine.
+1330. The security officer gave a laconic response to our question.
+1331. The lake was known for the striking luminosity of its water at midday.
+1332. We admired the opulent decorations inside the historic theater.
+1333. Travelers who ignored local customs were often ostracized by the community.
+1334. The tension in the crowded waiting room was palpable.
+1335. The guide tried to prevaricate when asked about the tour's excessive cost.
+1336. The clear skies provided a propitious start to our sailing trip.
+1337. We tried to avoid the pugnacious street dogs in the back alleys.
+1338. The querulous passenger complained about every minor detail of the flight.
+1339. There was a lingering rancor between the two rival tour groups.
+1340. The rapid development was driven by rapacious property developers.
+1341. His sanctimonious claims about traveling 'authentically' annoyed us.
+1342. Our guide's scintillating wit made the historical lecture engaging.
+1343. I avoided the sycophants who always complimented the tour leader.
+1344. We began the descent into the deep cave with some trepidation.
+1345. The flight experienced severe turbulence over the mountains.
+1346. The fortress's position on the hill was virtually unassailable.
+1347. We had a voracious appetite after a long day of hiking.
+1348. The intrepid explorer ventured into the uncharted territory.
+1349. I checked the veracity of the claims made in the travel blog.
+1350. He took notes in an unobtrusive manner, careful not to disturb the ceremony.
+1351. The waterproof material was impervious to the heavy rain.
+1352. The bridge felt precarious after the recent floods.
+1353. We helped disseminate information about the local festival to other travelers.
+1354. She was meticulous in planning every detail of the itinerary.
+1355. We took a pragmatic approach, choosing comfort over novelty.
+1356. The train routes in the city were extremely convoluted.
+1357. The spa treatment fully rejuvenated us for the next week of travel.
+1358. The afternoon rain provided a welcome respite from the intense heat.
+1359. We spent a week in an idyllic cottage by the lake.
+1360. The hotel still used an antiquated key system.
+1361. We hired a local history savant to guide us through the ancient city.
+1362. The city's central square is an eponym for the famous explorer.
+1363. The dichotomy between the rural and urban lifestyle was striking.
+1364. His attempt to use the local greeting was slightly gauche.
+1365. The beauty of the mountain scenery was ineffable.
+1366. The museum's audio guide was disappointingly jejune.
+1367. Meeting her on the train felt like kismet.
+1368. We spent a liminal time at the airport between two journeys.
+1369. The end of the trip left us feeling maudlin and teary.
+1370. Worrying about minor details proved to be nugatory.
+1371. The airline had to deal with an obstreperous group of passengers.
+1372. The pusillanimous tourist refused to try the challenging local delicacy.
+1373. He couldn't stop rhapsodizing about the sunset he witnessed.
+1374. The quiet beauty of the countryside offered us solace.
+1375. The long, quiet train ride was surprisingly soporific.
+1376. The announcement was made by a man with a stentorian voice.
+1377. The border crossing required a bit of subterfuge to expedite the process.
+1378. We suffered from a surfeit of heavy local dishes.
+1379. The travel writer offered a trenchant critique of mass tourism.
+1380. We avoided the truculent youths loitering near the docks.
+1381. The guide took umbrage at the suggestion that he was wrong.
+1382. The unremitting heat made sightseeing difficult.
+1383. The historical reconstruction lacked verisimilitude.
+1384. The traveler's loud vituperation only worsened the situation.
+1385. We saw signs of wanton destruction at the abandoned fortress.
+1386. He offered a wry comment about the cost of the tiny beverage.
+1387. The city's rapid development captures the modern zeitgeist.
+1388. She handled the flight delay with surprising aplomb.
+1389. It is churlish to refuse to try the host's food.
+1390. The market felt contrived and catered only to tourists.
+1391. We were unaware of the deleterious effects of the local water.
+1392. The innkeeper gave us an effusive welcome.
+1393. The traveler noted an ancient epigram carved on the stone wall.
+1394. His attempt to use the local greeting was slightly gauche.
+1395. The travel blogger acted like an iconoclast, dismissing all famous landmarks.
+1396. The area is in the inchoate stage of developing its tourist infrastructure.
+1397. The security officer gave a laconic response to our question.
+1398. The guide's quick thinking was a truly meritorious action.
+1399. We witnessed the nascent stages of a new local art movement.
+1400. The porter's obsequious manner was off-putting.
+1401. He was considered a paragon of independent travel.
+1402. Our momentary detour was a minor travel peccadillo.
+1403. He was dismissed as a philistine for only caring about the resort pool.
+1404. The travel show turned into a polemic against over-tourism.
+1405. We were amazed by the prodigious size of the ancient wall.
+1406. We faced a serious quandary after losing our booking confirmation.
+1407. Travel culture often relies on a sense of reciprocity among backpackers.
+1408. We sought redress from the airline for the damaged luggage.
+1409. His sartorial choices for the jungle trek were questionable.
+1410. I felt uncomfortable with the overly servile service.
+1411. The hotel staff were solicitous of our comfort.
+1412. The border official remained stolid despite my panicked explanation.
+1413. The guide gave a tenuous explanation for the history of the site.
+1414. The unctuous salesman tried to sell us an expensive tour.
+1415. The argument for staying indoors on such a beautiful day was untenable.
+1416. The disappointed traveler sent a vituperative email to the booking agency.
+1417. We saw signs of wanton destruction at the abandoned fortress.
+
+================================================================================
+파일: KO_원어민수준_일상회화.json
+카테고리: 원어민수준_일상회화
+예문 수: 275
+================================================================================
+
+1418. We must abide by the rules of the contract.
+1419. The committee adhered to the original plan.
+1420. A hot bath can alleviate muscle pain.
+1421. His response to the question was rather ambiguous.
+1422. The new policy is intended to ameliorate working conditions.
+1423. I felt a slight apprehension before the presentation.
+1424. The decision seemed arbitrary and unfair.
+1425. We need to ascertain the cause of the system failure.
+1426. She attributes her success to hard work.
+1427. He decided to augment his income with a second job.
+1428. We must ensure there is no gender bias in the hiring process.
+1429. The machine must be carefully calibrated for accurate results.
+1430. The team worked together to form a cohesive unit.
+1431. The ceremony will commence shortly after six o'clock.
+1432. I had to concede that his argument was stronger.
+1433. The two events happened at concurrent times.
+1434. Please confine your remarks to the topic.
+1435. That's just a conjecture, not a fact.
+1436. We need to reach a consensus on this matter.
+1437. Financial difficulties constrained their ability to expand.
+1438. I need time to contemplate his offer.
+1439. The movie followed a conventional storyline.
+1440. The various theories converge on a single conclusion.
+1441. Witness statements corroborated the victim's story.
+1442. What is the main criterion for success?
+1443. Timing is crucial for this project.
+1444. I deduced his nationality from his accent.
+1445. Iron deficiency can lead to fatigue.
+1446. The act was a deliberate attempt to mislead us.
+1447. The symbol 'X' denotes an unknown quantity.
+1448. The painting depicts a historical battle.
+1449. The word 'science' derives from a Latin word meaning 'knowledge'.
+1450. The quality of the product began to deteriorate.
+1451. They devised a clever solution to the problem.
+1452. The organization works to diffuse information about public health.
+1453. I'm facing a moral dilemma about what to do.
+1454. There's a noticeable discrepancy between the two reports.
+1455. The media's job is to disseminate news quickly.
+1456. It's hard to distinguish between the real and the fake.
+1457. The two paths diverge after the bridge.
+1458. The industry is constantly changing in a dynamic way.
+1459. The survey aims to elicit consumer feedback.
+1460. Can you elucidate the key points of your proposal?
+1461. The course encompasses a wide range of subjects.
+1462. The job will entail a lot of overseas travel.
+1463. We seek an equitable distribution of resources.
+1464. The goal is to eradicate poverty in this area.
+1465. He tried to evade answering the direct question.
+1466. Running will only exacerbate your knee injury.
+1467. The teacher had to explicate the difficult poem.
+1468. We need to check if the proposed plan is feasible.
+1469. Stock prices fluctuate throughout the day.
+1470. I could foresee the eventual outcome of the meeting.
+1471. She carefully formulated her ideas into a clear statement.
+1472. Bad weather hindered the rescue efforts.
+1473. The village is a culturally homogenous community.
+1474. Scientists hypothesize about the origins of the universe.
+1475. The speech ignited a wave of protests.
+1476. She sought to impart her knowledge to her students.
+1477. The service at the hotel was absolutely impeccable.
+1478. It is imperative that we act immediately.
+1479. There was an implicit understanding between them.
+1480. I inadvertently deleted the important file.
+1481. The company offers financial incentives for high performance.
+1482. Koalas are indigenous to Australia.
+1483. Change is an inevitable part of life.
+1484. Copying the work would infringe copyright laws.
+1485. There is an inherent risk in almost all sports.
+1486. She has an innate ability to connect with people.
+1487. We need to integrate the new system with the old one.
+1488. The government intervened to stop the strike.
+1489. The clock had an intricate mechanism.
+1490. He invoked the Fifth Amendment.
+1491. The decision to leave was irrevocable.
+1492. The company's legacy is one of innovation.
+1493. We can leverage our connections to get the deal.
+1494. The disease often manifests as a high fever.
+1495. We must take action to mitigate the environmental damage.
+1496. The speaker needs to modulate his tone to sound sincere.
+1497. I'm tired of the mundane routine of office life.
+1498. The new evidence negated his previous testimony.
+1499. She understood the subtle nuances of the language.
+1500. The law obliges parents to send their children to school.
+1501. The technical jargon made the document opaque to laymen.
+1502. The discovery shifted the existing scientific paradigm.
+1503. How do you perceive the current economic climate?
+1504. The sudden question greatly perplexed the speaker.
+1505. Please stick to the facts pertinent to the case.
+1506. She took a pragmatic approach to solving the problem.
+1507. The introduction precedes the main body of the report.
+1508. The disease is more prevalent in tropical areas.
+1509. Rumors about the merger began to proliferate rapidly.
+1510. The school is valued for its proximity to the station.
+1511. It is difficult to quantify happiness.
+1512. Let me briefly recapitulate the main points.
+1513. The trade agreement is based on reciprocity.
+1514. It's difficult to reconcile these two opposing views.
+1515. Using both 'past history' is completely redundant.
+1516. The evidence helps to reinforce the theory.
+1517. The experiment results were difficult to replicate.
+1518. Her emotional resilience helped her cope with the loss.
+1519. In retrospect, I should have taken the job offer.
+1520. The accountant scrutinized the financial records.
+1521. I'm skeptical about the company's bold claims.
+1522. We can only speculate about the reasons for his resignation.
+1523. You must substantiate your claims with data.
+1524. The actress conveyed the emotional subtlety of the role.
+1525. Avoid making superficial judgments based on appearance.
+1526. His performance surpassed all our expectations.
+1527. The merger created an unexpected synergy between the two departments.
+1528. We need tangible evidence, not just rumors.
+1529. The link between the two events is rather tenuous.
+1530. Smartphones are becoming ubiquitous in modern society.
+1531. The jury reached a unanimous verdict.
+1532. The recent tragedy underscores the need for better safety.
+1533. The crisis reached an unprecedented scale.
+1534. The results of the study validate the new hypothesis.
+1535. We need to find a commercially viable strategy.
+1536. The global oil market remains highly volatile.
+1537. His poor performance warrants immediate dismissal.
+1538. The experiment should yield interesting results.
+1539. I chose to abstain from voting on the controversial motion.
+1540. He received the highest accolade for his contribution to science.
+1541. The teacher had to admonish the student for cheating.
+1542. Her work is driven by pure altruism.
+1543. It takes time to assimilate into a new culture.
+1544. The weather in spring can be quite capricious.
+1545. His salary is commensurate with his experience.
+1546. This book is a compendium of medieval philosophy.
+1547. The quiet atmosphere is conducive to studying.
+1548. The question of eternal life remains a deep conundrum.
+1549. Smoking has a clearly deleterious effect on health.
+1550. The new fence demarcates the property line.
+1551. The team members came from disparate backgrounds.
+1552. There is a significant disparity between the rich and the poor.
+1553. The study confirmed the efficacy of the new drug.
+1554. Her comments elicited a roar of laughter from the audience.
+1555. He tended to embellish his stories to make them more exciting.
+1556. Fame in the modern world is often ephemeral.
+1557. The politician tried to equivocate when asked about the scandal.
+1558. The prices in that tourist area are exorbitant.
+1559. We need to expedite the delivery of the essential parts.
+1560. He has a fiduciary duty to protect the client's assets.
+1561. It was a fortuitous meeting that changed the course of my career.
+1562. The sample group was intentionally homogeneous for the experiment.
+1563. Let's consider a purely hypothetical scenario.
+1564. The modern sculpture looked incongruous in the ancient temple.
+1565. A good editor is indispensable to a successful book.
+1566. No human system is entirely infallible.
+1567. The article was full of malicious innuendo.
+1568. The insidious spread of misinformation is a concern.
+1569. We experienced intermittent rain showers all day.
+1570. The artwork has intrinsic beauty.
+1571. The artist juxtaposed bright colors with dark shades.
+1572. The therapy aims to unlock his latent talents.
+1573. The normally loquacious host was unusually silent.
+1574. He was magnanimous in his victory, praising his opponent.
+1575. The company has a mandate to reduce its carbon footprint.
+1576. Her mercurial temper made her difficult to work with.
+1577. The villain's nefarious scheme was foiled by the hero.
+1578. The politician tried to obfuscate the truth with vague statements.
+1579. The ostensible reason for his visit was to check on the progress.
+1580. The medicine offers palliative care, but not a cure.
+1581. It's a paradoxical situation where more choice leads to less satisfaction.
+1582. He has a penchant for collecting rare books.
+1583. The security check was somewhat perfunctory.
+1584. The internet can have a pernicious influence on young minds.
+1585. Her explanation was the most plausible one we heard.
+1586. The climber was in a precarious position on the cliff edge.
+1587. The economist's warning proved prescient.
+1588. The new regulations proscribe any public gathering over ten people.
+1589. The lawyer provided a strong rebuttal to the prosecution's claims.
+1590. The writer led a reclusive life in the mountains.
+1591. He decided to renounce his claim to the throne.
+1592. He looked at her with a look of mild reproach.
+1593. The queen wore a resplendent gown for the coronation.
+1594. The UN imposed sanctions on the rogue nation.
+1595. She is scrupulous about keeping accurate records.
+1596. He disliked the way the staff were so servile to the manager.
+1597. The organization solicits donations from the public.
+1598. The economy has been stagnant for the past decade.
+1599. The group planned to subvert the political system.
+1600. I surmise that he missed the train.
+1601. There was a tacit agreement not to discuss the issue.
+1602. The feeling of happiness was transient.
+1603. The hikers traversed the mountain range in three days.
+1604. She faced the difficult interview with trepidation.
+1605. The depths of the ocean are truly unfathomable.
+1606. She showed unwavering commitment to her principles.
+1607. He issued a vehement denial of the accusation.
+1608. The venerable professor retired after fifty years of service.
+1609. The new evidence vindicated the defendant.
+1610. He is a zealous supporter of environmental causes.
+1611. He is adroit at handling difficult negotiations.
+1612. I was surprised by her curt reply.
+1613. The report clearly delineates the project goals.
+1614. She tried to emulate the success of her mentor.
+1615. The professor took time to explicate the complex theory.
+1616. He is fastidious about keeping his workspace perfectly clean.
+1617. A gregarious person makes friends easily at parties.
+1618. His haughty attitude made him unpopular with his colleagues.
+1619. We had an impromptu meeting in the hallway.
+1620. The school aims to inculcate respect for the elderly.
+1621. The indolent cat slept all day long.
+1622. The remark seemed innocuous at the time.
+1623. The man's motives remained inscrutable.
+1624. A languid afternoon by the pool was exactly what I needed.
+1625. He's a corporate maverick who challenges traditional business models.
+1626. The old recluse was known as a confirmed misanthrope.
+1627. The waiter was overly obsequious to the rich diners.
+1628. Technology is often seen as a panacea for all educational problems.
+1629. The parsimonious man never spent money on anything unnecessary.
+1630. He rose from a life of penury to become a successful businessman.
+1631. The couple is known for their philanthropic endeavors.
+1632. The prodigal son wasted his inheritance on frivolous pursuits.
+1633. His quixotic quest to save the local bookstore failed.
+1634. The recalcitrant child refused to follow directions.
+1635. A large meal was enough to satiate his hunger.
+1636. The warm room made the audience somnolent.
+1637. They had a surreptitious meeting in the park after dark.
+1638. The critic's trenchant observations were widely discussed.
+1639. He tends to vacillate between two career choices.
+1640. She gave a wistful look at the old photograph.
+1641. He reached the zenith of his career in the 1990s.
+1642. Her business acumen allowed her to spot profitable ventures.
+1643. Adverse weather conditions delayed the flight.
+1644. The phrase was particularly apt for the situation.
+1645. Different groups coalesced to form a single opposition party.
+1646. I called my friend to commiserate with her after her job loss.
+1647. The war left thousands of people destitute.
+1648. His apologies felt somewhat disingenuous.
+1649. He was accused of duplicity in his financial dealings.
+1650. The rescue dog was severely emaciated when found.
+1651. Enjoy the ephemeral beauty of the cherry blossoms.
+1652. The exigent circumstances required immediate action.
+1653. The whole argument is based on a fallacious assumption.
+1654. She handled the delicate situation with great finesse.
+1655. The garrulous passenger kept talking for the entire flight.
+1656. The project is still in an inchoate stage.
+1657. It was an invidious task to select only one winner.
+1658. He worked as an itinerant farm laborer.
+1659. The jury quickly realized the witness was mendacious.
+1660. She tried to appear nonchalant despite her nervousness.
+1661. The government remained obdurate in its refusal to change the law.
+1662. His pertinacious efforts finally led to success.
+1663. The report contained a plethora of data.
+1664. He showed a natural proclivity for music.
+1665. The artist captured the natural pulchritude of the landscape.
+1666. We seek to redress the injustice caused by the accident.
+1667. No one respected him because he was a sycophant.
+1668. The politician's speech was turgid and difficult to follow.
+1669. The coach had to upbraid the team for their poor performance.
+1670. We questioned the veracity of the witness's statement.
+1671. The building was damaged by an act of wanton vandalism.
+1672. His aberrant behavior worried his parents.
+1673. The army was forced to capitulate after a long siege.
+1674. The ending of the film felt contrived and unrealistic.
+1675. The surgeon performed the delicate operation with deft precision.
+1676. Critics derided his new play as a childish farce.
+1677. The old woman was known for her eccentric fashion sense.
+1678. He constantly extolled the virtues of a healthy diet.
+1679. The Amazon is a fecund region for biological discovery.
+1680. We wasted the afternoon discussing inane celebrity gossip.
+1681. Fear can inhibit your ability to perform well.
+1682. She was given an award for her meritorious service to the community.
+1683. New regulations were introduced to mitigate the risks.
+1684. The advance planning obviated any need for rushed decisions.
+1685. There is a paucity of reliable data on the subject.
+1686. The critics found the new novel rather prosaic.
+1687. The conversation was filled with witty repartee.
+1688. He remains reticent about the details of the scandal.
+1689. I spent the weekend ruminating on the meaning of life.
+1690. The philosophy criticizes excessive individualism as solipsism.
+1691. A core tenet of democracy is the right to vote.
+1692. Coffee shops are ubiquitous in the downtown area.
+
+================================================================================
+파일: KO_표현력확장_뉴스-시사.json
+카테고리: 표현력확장_뉴스-시사
+예문 수: 240
+================================================================================
+
+1693. The new tax plan sparked public controversy.
+1694. The company faces serious allegations of fraud.
+1695. A formal investigation into the accident has begun.
+1696. The leader's past has come under media scrutiny.
+1697. What are the long-term implications of this trade deal?
+1698. The city needs investment in its aging infrastructure.
+1699. New environmental legislation will be introduced next year.
+1700. There is a growing consensus on the need for reform.
+1701. Diplomats initiated a peaceful dialogue between the two nations.
+1702. The government launched a new initiative to boost employment.
+1703. The company needs a new marketing strategy to remain competitive.
+1704. They decided to allocate more resources to public services.
+1705. The national budget is showing a huge deficit.
+1706. Inflation is causing the price of basic goods to soar.
+1707. Experts predict a slight recession next quarter.
+1708. The stock market continues to fluctuate wildly.
+1709. The mortality rate for the new virus is concerning.
+1710. The regional government is struggling to contain the epidemic.
+1711. The global pandemic drastically changed travel habits.
+1712. The new vaccine provides high immunity.
+1713. The drug is currently in its final clinical trial phase.
+1714. The industry must innovate to meet new consumer demands.
+1715. AI is a disruptive technology changing the labor market.
+1716. The company secured a patent for its new device.
+1717. Concerns over cyber security are rising globally.
+1718. The media is fighting the spread of misinformation online.
+1719. The public demands greater accountability from elected officials.
+1720. Transparency in government spending is crucial.
+1721. The scandal revealed deep-seated corruption within the system.
+1722. There were calls to impeach the local governor.
+1723. The incumbent president faces a tough re-election campaign.
+1724. His main opponent dropped out of the race unexpectedly.
+1725. The political campaign is gaining momentum in key states.
+1726. The politician used strong rhetoric to rally his supporters.
+1727. The parliament voted to ratify the treaty.
+1728. They proposed an amendment to the constitution.
+1729. The global community imposed economic sanctions on the nation.
+1730. The crisis requires delicate diplomacy.
+1731. The country accepted thousands of refugees fleeing conflict.
+1732. A humanitarian crisis is unfolding in the region.
+1733. Focusing on sustainability is key for the future.
+1734. Governments are aiming to reduce carbon emissions.
+1735. Wildlife conservation efforts are increasing.
+1736. Investment in renewable energy is skyrocketing.
+1737. The debate on how to tackle global warming continues.
+1738. The pollution destroyed the natural habitat of many species.
+1739. The company promotes cultural diversity in the workplace.
+1740. We need to challenge social prejudice.
+1741. The program helps marginalized communities.
+1742. The law prohibits discrimination based on age or gender.
+1743. The successful integration of immigrants is key to social harmony.
+1744. The new leader promised immediate economic reform.
+1745. The company decided to restructure its entire organization.
+1746. The merger of the two airlines created a new market leader.
+1747. The tech giant announced its acquisition of a smaller startup.
+1748. The government is investigating the company for illegal monopoly practices.
+1749. Our main competitor just launched a similar product.
+1750. The company's quarterly revenue exceeded expectations.
+1751. We need to control public expenditure more tightly.
+1752. The economic forecast for the next year is positive.
+1753. We can only speculate on the true motives behind the deal.
+1754. The spokesperson attempted to refute the negative claims.
+1755. Witness statements corroborate the official version of events.
+1756. The scandal seriously damaged his credibility as a journalist.
+1757. The advertisement was criticized for being highly misleading.
+1758. The report raises serious ethical concerns about the research.
+1759. We must ensure the committee remains impartial in its judgment.
+1760. The judge delivered his final judgement today.
+1761. The jury returned a guilty verdict.
+1762. The judge handed down a harsh sentence.
+1763. The defense lawyer announced plans to appeal the sentence.
+1764. The prosecutor presented compelling evidence.
+1765. The defendant maintained his innocence.
+1766. The new surveillance law threatens civil liberties.
+1767. The debate centers on privacy versus security.
+1768. Increased surveillance measures were put in place.
+1769. The police are on high alert due to the threat of terrorism.
+1770. He was held in police detention for questioning.
+1771. The union is ready to negotiate better working conditions.
+1772. Both sides had to reach a difficult compromise.
+1773. Negotiations reached a political deadlock.
+1774. The parties agreed to enter mediation to resolve the dispute.
+1775. The two countries are involved in a territorial dispute.
+1776. Millions of people live below the poverty line.
+1777. The government is planning cuts to social security benefits.
+1778. The unemployment rate is the lowest in a decade.
+1779. The aging population is shrinking the labor force.
+1780. The union initiated collective bargaining with management.
+1781. Gender equality in pay remains a major goal.
+1782. The city is currently dealing with a severe housing crisis.
+1783. The new policy aims to increase affordable housing options.
+1784. The cost of living in the suburb is lower than in the city center.
+1785. Rapid urbanization creates new challenges for city planning.
+1786. More investment is needed in rural areas.
+1787. The transition away from fossil fuels is slow.
+1788. He is often criticized for being a prominent climate denier.
+1789. The oil spill caused a massive ecological disaster.
+1790. Protecting biodiversity is critical for the planet's health.
+1791. The company aims to reduce its carbon footprint to zero.
+1792. Environmental protection is a key area of policy debate.
+1793. We must manage our natural resources responsibly.
+1794. The article was criticized for exhibiting clear media bias.
+1795. The newspaper published a strongly worded editorial.
+1796. The magazine ran a feature article on space exploration.
+1797. The company issued a press release denying the rumors.
+1798. Always verify your source material before quoting.
+1799. Reporters must quote the source accurately.
+1800. The article is based purely on speculation.
+1801. The information has been verified by multiple sources.
+1802. Avoid sharing unverified claims on social media.
+1803. Developing critical thinking skills is vital for interpreting news.
+1804. Try to see the issue from a different perspective.
+1805. The debate captures the nuance of the complex situation.
+1806. I need to clarify the terms of the agreement.
+1807. She articulated her concerns clearly and precisely.
+1808. Can you elaborate on your main argument?
+1809. The opposition presented a strong counter-argument.
+1810. She is a strong proponent of universal healthcare.
+1811. The opponent of the bill gave a powerful speech.
+1812. What is the rationale behind the change in policy?
+1813. The argument is based on a flawed premise.
+1814. The report draws a clear conclusion about the findings.
+1815. Journalists must strive to remain objective.
+1816. His interpretation of the data is highly subjective.
+1817. The review was clearly biased in favor of the author's friend.
+1818. The jury must be unbiased to ensure a fair trial.
+1819. Always fact-check sensational claims before believing them.
+1820. The story went viral immediately after it was posted.
+1821. Do not engage with internet trolls.
+1822. Social media influencers promote various products.
+1823. The government is trying to bridge the digital divide.
+1824. Artificial intelligence is rapidly transforming industries.
+1825. The field of robotics is developing quickly.
+1826. Automation is affecting many manufacturing jobs.
+1827. We need to future-proof our skills to stay relevant.
+1828. The company is focused on improving its workplace culture.
+1829. Remote work has become the new normal for many.
+1830. The gig economy offers flexible but often unstable work.
+1831. There is a debate over raising the minimum wage.
+1832. Reducing income disparity is a central policy goal.
+1833. The two parties reached a settlement after months of talks.
+1834. Authorities are trying to secure the release of the hostages.
+1835. Residents were asked to evacuate immediately due to the fire.
+1836. The city council mandated the use of helmets for all cyclists.
+1837. The political coalition dissolved after policy disagreements.
+1838. They established a provisional government until the next election.
+1839. The background vetting process for new employees is strict.
+1840. The company accepted full liability for the damage caused.
+1841. The country demanded reparations for war damages.
+1842. Citizens pledge their allegiance to the flag.
+1843. The dispute challenges the nation's sovereignty over the territory.
+1844. The protests were a prelude to a wider social upheaval.
+1845. Strict penalties act as a deterrent to crime.
+1846. The government granted general amnesty to political prisoners.
+1847. The bill received bipartisan support in the legislature.
+1848. The campaign relies heavily on grassroots activism.
+1849. The former president chose to endorse the leading candidate.
+1850. Three members chose to abstain from the vote.
+1851. The region is holding a referendum on whether to secede.
+1852. The board will sanction the new spending plan tomorrow.
+1853. The trade war involved imposing high tariffs on imported goods.
+1854. The government provides subsidies to local farmers.
+1855. The bank requested a massive government bailout.
+1856. The central bank injected liquidity into the financial system.
+1857. The company declared insolvency after failing to meet its debts.
+1858. The startup secured a large round of venture capital funding.
+1859. The central bank adjusted its monetary policy to fight inflation.
+1860. The government's fiscal policy involves tax hikes and spending cuts.
+1861. The price of basic commodities like wheat and sugar has surged.
+1862. Low consumer confidence signals a potential economic slowdown.
+1863. The economic prognosis for the coming year is uncertain.
+1864. The prevalence of obesity is a major public health concern.
+1865. The goal is the rehabilitation of patients back into society.
+1866. The report addresses the rising costs of treating chronic illnesses.
+1867. The country has achieved a low infant mortality rate.
+1868. Palliative care focuses on relieving suffering.
+1869. Telemedicine allows doctors to treat patients remotely.
+1870. The social media platform changed its content algorithm.
+1871. Biometrics are used for high-security identification.
+1872. The volatility of cryptocurrency is a concern for investors.
+1873. Blockchain technology is highly decentralized.
+1874. The user interface of the new app is very intuitive.
+1875. The country was accused of engaging in cyber espionage.
+1876. The massive data breach exposed millions of customer records.
+1877. The whistleblower revealed the company's illegal activities.
+1878. He filed a lawsuit for defamation against the newspaper.
+1879. The CEO was issued a subpoena to testify.
+1880. The prisoner's lawyer filed a writ of habeas corpus.
+1881. The court ruled that it lacked jurisdiction over the case.
+1882. The testimony of the key witness was crucial.
+1883. The trial was adjourned until the following week.
+1884. He was released from prison and put on probation.
+1885. The two nations signed an extradition treaty.
+1886. A nightly curfew was imposed to restore order.
+1887. The famous dissident was finally released from jail.
+1888. The region is demanding greater political autonomy.
+1889. The army staged a successful coup d'état.
+1890. The neighboring countries have adopted a belligerent stance.
+1891. Both sides agreed to an immediate ceasefire.
+1892. The temporary truce allowed aid workers into the zone.
+1893. The rebels relied on guerilla warfare tactics.
+1894. The conflict has been described as a proxy war between major powers.
+1895. The larger country threatened to annex the disputed territory.
+1896. The ruling coalition holds a slim parliamentary majority.
+1897. The country held a referendum on constitutional changes.
+1898. Long queues were reported outside the polling station.
+1899. Voter turnout was significantly higher than expected.
+1900. Industry groups spent millions on lobbying efforts.
+1901. The environmental movement started as a small grassroots campaign.
+1902. Protestors gathered peacefully outside the capitol building.
+1903. The student demonstration shut down the main street.
+1904. The government struggled to contain the civil unrest.
+1905. The dissolution of the parliament triggered snap elections.
+1906. The party held a secret caucus to select its candidate.
+1907. The opposition used a filibuster to delay the vote.
+1908. Deforestation contributes significantly to climate change.
+1909. Consumers prefer biodegradable packaging.
+1910. Pollution severely damaged the local marine ecosystem.
+1911. We need to conserve our finite resources.
+1912. The city aims to achieve carbon neutrality by 2050.
+1913. The government subsidizes solar power installation.
+1914. The new bond issue will fund major infrastructure projects.
+1915. The negotiation aims to resolve the ongoing labor dispute.
+1916. The union threatened to take strike action next week.
+1917. The rise in living costs affects many retirees.
+1918. The stability of the national pension fund is a concern.
+1919. Changing demographics are reshaping the consumer market.
+1920. The income disparity between urban and rural areas is widening.
+1921. The inquiry revealed widespread financial mismanagement.
+1922. The committee provides oversight for public spending.
+1923. The executive was charged with fraudulent accounting practices.
+1924. The company hired a new independent accountant.
+1925. The internal audit uncovered several irregularities.
+1926. The law aims to punish financial transgressors severely.
+1927. 'Downsizing' is often used as a euphemism for layoffs.
+1928. The media often uses hyperbole to sensationalize stories.
+1929. The newspaper was accused of harmful sensationalism.
+1930. Political pundits offered their analysis after the debate.
+1931. A financial analyst commented on the quarterly results.
+1932. The public discourse on immigration has become heated.
+
+================================================================================
+파일: KO_표현력확장_비즈니스.json
+카테고리: 표현력확장_비즈니스
+예문 수: 173
+================================================================================
+
+1933. She started her own business last year.
+1934. I work for a large technology company.
+1935. The manager oversees the entire department.
+1936. The company has 500 employees.
+1937. The employer provides health insurance.
+1938. My colleagues are very supportive.
+1939. We need to satisfy our clients.
+1940. Customer service is our priority.
+1941. We have a reliable supplier for materials.
+1942. We are looking for a business partner.
+1943. We hired a consultant to improve our strategy.
+1944. The finance department manages our budget.
+1945. We need to stay within our budget.
+1946. The company made a good profit this year.
+1947. We suffered a loss in the last quarter.
+1948. Please send me an invoice for the services.
+1949. We accept payment by credit card.
+1950. Please submit your travel expenses.
+1951. The transaction was completed successfully.
+1952. This is a good investment opportunity.
+1953. We took out a loan to expand the business.
+1954. We signed a contract with the supplier.
+1955. We reached an agreement on the terms.
+1956. We closed a major deal yesterday.
+1957. I received a job offer.
+1958. Please review our proposal.
+1959. We need to negotiate the price.
+1960. We communicate with our team daily.
+1961. We collaborate with other departments.
+1962. Please coordinate with the team.
+1963. The manager delegates tasks to the team.
+1964. She supervises the production process.
+1965. We evaluate employee performance annually.
+1966. We analyze market trends regularly.
+1967. We plan our marketing strategy quarterly.
+1968. Let's organize the conference.
+1969. Please schedule a meeting for tomorrow.
+1970. The deadline is next Friday.
+1971. I am working on a new project.
+1972. Complete this task by today.
+1973. Our goal is to increase sales.
+1974. The main objective is to reduce costs.
+1975. We have a clear business strategy.
+1976. We have a five-year plan.
+1977. Marketing is essential for growth.
+1978. Sales increased by 20 percent.
+1979. Our product is very popular.
+1980. We provide excellent service.
+1981. Quality is our top priority.
+1982. The price is very reasonable.
+1983. The production cost is high.
+1984. We offer a 10% discount.
+1985. The promotion increased sales.
+1986. Our advertisement reaches millions.
+1987. Our brand is well-known.
+1988. Our main competitor is strong.
+1989. Competition in this market is fierce.
+1990. The tech industry is growing rapidly.
+1991. The market is expanding.
+1992. Demand for our products is high.
+1993. Supply is limited right now.
+1994. Our profit margin is healthy.
+1995. The investment provided good returns.
+1996. Staff turnover is a concern.
+1997. The company has experienced rapid growth.
+1998. We plan international expansion.
+1999. The acquisition was successful.
+2000. The merger created synergies.
+2001. He owns a stake in the company.
+2002. Stock shares increased in value.
+2003. Our stock price is rising.
+2004. Shareholders approved the decision.
+2005. The board director made an announcement.
+2006. The executive team met today.
+2007. The CEO announced the new strategy.
+2008. The CFO manages company finances.
+2009. I work in the sales department.
+2010. The company has three divisions.
+2011. Our team is very dedicated.
+2012. Recruitment is ongoing.
+2013. Employee training is important.
+2014. We focus on staff development.
+2015. His performance is excellent.
+2016. The salary is competitive.
+2017. Employees receive an annual bonus.
+2018. The company offers good benefits.
+2019. Health insurance is provided.
+2020. The pension plan is generous.
+2021. Tax rates are increasing.
+2022. Our accounting is transparent.
+2023. Please submit your report.
+2024. The presentation was successful.
+2025. The meeting is at 3 PM.
+2026. The conference was informative.
+2027. We attended a useful seminar.
+2028. The workshop taught new skills.
+2029. Networking is valuable for business.
+2030. This is a great opportunity.
+2031. We face several challenges.
+2032. We assess business risks regularly.
+2033. We handled the crisis well.
+2034. We found a good solution.
+2035. We improved efficiency significantly.
+2036. Productivity has increased.
+2037. We use the latest technology.
+2038. Innovation drives our success.
+2039. Our system is efficient.
+2040. We improved our process.
+2041. The framework is well-designed.
+2042. We maintain high standards.
+2043. We comply with all regulations.
+2044. Compliance is mandatory.
+2045. The company policy is clear.
+2046. Follow the procedure carefully.
+2047. Follow these guidelines.
+2048. Meet all requirements.
+2049. Check the specifications.
+2050. Delivery is on schedule.
+2051. The shipment arrived on time.
+2052. The warehouse is full.
+2053. Logistics management is complex.
+2054. Distribution network is expanding.
+2055. Retail sales are strong.
+2056. We sell wholesale to retailers.
+2057. Customer service is our strength.
+2058. We value customer feedback.
+2059. Address customer complaints promptly.
+2060. Customer satisfaction is high.
+2061. Customer loyalty is strong.
+2062. Customer retention is important.
+2063. Customer acquisition is costly.
+2064. Revenue is increasing.
+2065. Income rose this quarter.
+2066. Earnings exceeded expectations.
+2067. The fiscal year ends in December.
+2068. Quarterly reports are released.
+2069. Earnings are reported annually.
+2070. The forecast looks promising.
+2071. Projections show growth.
+2072. We reached our sales target.
+2073. Meet your sales quota.
+2074. We set industry benchmarks.
+2075. Track key metrics daily.
+2076. Economic indicators are positive.
+2077. Conduct a thorough analysis.
+2078. Market research is essential.
+2079. We conducted a customer survey.
+2080. Analyze the data carefully.
+2081. The report provides valuable insights.
+2082. Market trends are changing.
+2083. We identified a buying pattern.
+2084. The business cycle is changing.
+2085. Sales vary by season.
+2086. Peak season is coming.
+2087. The market has great potential.
+2088. Our main strength is innovation.
+2089. We must address our weaknesses.
+2090. We have a competitive advantage.
+2091. High costs are a disadvantage.
+2092. New competitors pose a threat.
+2093. New markets offer opportunities.
+2094. Vertical integration is our strategy.
+2095. Horizontal expansion into new markets.
+2096. Our company has a strong legacy.
+2097. Sustainability is our priority.
+2098. CSR programs benefit communities.
+2099. We use green practices.
+2100. Ethical practices are essential.
+2101. We maintain transparent operations.
+2102. Accountability is important.
+2103. Business integrity is paramount.
+2104. Our reputation is excellent.
+2105. Crisis management is critical.
+
+================================================================================
+파일: KO_표현력확장_여행.json
+카테고리: 표현력확장_여행
+예문 수: 224
+================================================================================
+
+2106. Finding comfortable accommodation is important for a long trip.
+2107. I finalized our itinerary for the European trip.
+2108. Our final destination is the coastal town of Amalfi.
+2109. I made a dinner reservation for two at 7 PM.
+2110. I received a full refund after the flight cancellation.
+2111. Check the daily exchange rate before converting your currency.
+2112. I bought several unique souvenirs at the local craft market.
+2113. The check out time is strictly 11 AM.
+2114. Fill out the customs declaration form before landing.
+2115. Our flight departs from Terminal 3.
+2116. Please note the change in the boarding time.
+2117. I have a two-hour layover for my connecting flight.
+2118. A long layover allows us to explore the transit city.
+2119. Domestic flights usually require less security time.
+2120. International flights depart from this section of the airport.
+2121. I'm still suffering from jet lag after the long journey.
+2122. The city has excellent public transportation options.
+2123. Take the free shuttle bus to the hotel entrance.
+2124. We got a great deal on a car rental for the week.
+2125. Is my driver's license valid in this country?
+2126. My passport is expiring next month, so I need to renew it.
+2127. The hotel required a security deposit upon check-in.
+2128. The receptionist gave me a map of the area.
+2129. You can leave your key at the front desk.
+2130. The bellhop carried our bags to the suite.
+2131. Breakfast is complimentary for all guests.
+2132. I enjoyed the view from the balcony of our room.
+2133. The resort offers a full range of luxury amenities.
+2134. Does the hotel provide laundry service?
+2135. Call housekeeping if you need extra towels.
+2136. You should definitely try the local cuisine.
+2137. Do you have any recommendation for a seafood place?
+2138. The chef's specialty is this pasta dish.
+2139. Do you have any vegetarian options on the menu?
+2140. A 15% gratuity is included in the total bill.
+2141. Can I have a receipt for this purchase?
+2142. I think the taxi driver tried to overcharge me.
+2143. I requested a full refund for the damaged goods.
+2144. It's common to haggle over prices in this market.
+2145. Watch out for pedestrians crossing the busy street.
+2146. We were stuck in a huge traffic jam for an hour.
+2147. Due to road work, we had to take a long detour.
+2148. The castle is the most recognizable landmark in the city.
+2149. Visiting the historical site was a moving experience.
+2150. The art gallery features modern local artists.
+2151. Let's browse the souvenir shops near the temple.
+2152. I want to experience the true culture of this region.
+2153. We plan to explore the hidden alleyways of the old town.
+2154. I like to sit and observe the local people's life.
+2155. Try to immerse yourself in the local atmosphere.
+2156. We have a strict travel budget this time.
+2157. We made a spontaneous decision to visit the waterfall.
+2158. All of our transportation was pre-arranged.
+2159. I'm looking for an authentic cultural experience.
+2160. Travel insurance is essential for long journeys.
+2161. Did you purchase travel insurance?
+2162. A portable charger is crucial for a long day of sightseeing.
+2163. The hotel location is very convenient for tourists.
+2164. We hiked to a remote village in the mountains.
+2165. We asked a local resident for the best path.
+2166. There are many foreigners studying in this city.
+2167. The visa application process took three weeks.
+2168. The security check line was unexpectedly long.
+2169. I only brought a small carry-on bag.
+2170. My suitcase is in the checked baggage area.
+2171. The customs officer asked me a few questions.
+2172. I bought perfume at the duty-free shop.
+2173. Make sure you sign the declaration form.
+2174. We are currently in transit through Singapore.
+2175. We need to transfer from the train to the subway.
+2176. I only need a single ticket to the beach.
+2177. A round trip ticket is cheaper than two singles.
+2178. I entered the country on a standard tourist visa.
+2179. We decided to stay in a cozy guesthouse this time.
+2180. Hostels are great for meeting other travelers.
+2181. We chose a self-catering apartment with a kitchen.
+2182. The resort offers an all-inclusive package.
+2183. We spent the whole day sightseeing in the capital.
+2184. We took a day excursion to the nearby volcano.
+2185. I enjoy souvenir hunting in antique shops.
+2186. The market is known for its beautiful local handicrafts.
+2187. Trying the famous street food is a must-do here.
+2188. The local fish is considered a rare delicacy.
+2189. Would you like a beverage with your meal?
+2190. We started with a light appetizer.
+2191. What would you like for your main course?
+2192. Do you have any dietary restrictions I should know about?
+2193. I need to check for food allergies before ordering.
+2194. What is the spice level of this curry?
+2195. Is it safe to drink the tap water here?
+2196. We decided to hike up to the viewpoint for sunset.
+2197. The national park is famous for its week-long trekking routes.
+2198. We took the scenic route along the coast.
+2199. The best viewpoint is at the top of the tower.
+2200. Don't forget to apply plenty of sunscreen.
+2201. Insects are active, so bring mosquito repellent.
+2202. Always carry a small first aid kit when hiking.
+2203. I need to take my medication twice a day.
+2204. What are your current symptoms?
+2205. Call the local emergency number immediately.
+2206. Please provide your emergency contact details.
+2207. Our travel agent organized the entire trip.
+2208. We decided against a package tour this year.
+2209. I prefer independent travel to group tours.
+2210. I picked up a brochure about the local attractions.
+2211. Good map reading skills are essential for exploring.
+2212. The time difference between the two countries is nine hours.
+2213. Take precautions against altitude sickness when climbing.
+2214. I use a currency converter app on my phone.
+2215. I need to find a reliable ATM to withdraw cash.
+2216. You can leave your spare change in the tip jar.
+2217. The viewpoint offers excellent photo opportunities.
+2218. A comfortable backpack is necessary for trekking.
+2219. Don't forget your trekking poles for the steep climb.
+2220. Always pack comfortable shoes for long walks.
+2221. A visa is required for stays longer than 90 days.
+2222. Please proceed to passport control.
+2223. Check the screen for your departure gate number.
+2224. Our connecting city is Amsterdam.
+2225. The train is expected to arrive on time.
+2226. The flight was delayed due to technical issues.
+2227. Everything is running smoothly and on schedule.
+2228. I spent too much time souvenir shopping.
+2229. Hiring a local guide enriched our experience.
+2230. We booked a guided tour of the castle.
+2231. We opted for a self-guided tour using an audio device.
+2232. The entry fee to the national park is $20.
+2233. There is a small admission charge for the gallery.
+2234. Do you offer a student discount?
+2235. I tried to bargain with the street vendor.
+2236. We bought fresh juice from a street vendor.
+2237. The local market is the best place for fresh produce.
+2238. The museum displays ancient historical artifacts.
+2239. We spent hours exploring the ancient ruins.
+2240. I admire the unique architecture of the old buildings.
+2241. The palace is open to the public only on weekdays.
+2242. Remember to cover your shoulders when visiting the temple.
+2243. The cathedral is famous for its stained glass windows.
+2244. We met near the big fountain in the square.
+2245. A huge bronze statue stands in the center of the park.
+2246. The drive along the coastline was breathtaking.
+2247. We hiked for two hours to reach the hidden waterfall.
+2248. Traveling across the desert requires careful planning.
+2249. The tour includes a trek through the rainforest.
+2250. The climate in this area is mild all year round.
+2251. We are visiting a tropical island.
+2252. Where can I find a luggage cart?
+2253. I need to report my lost luggage.
+2254. Customs clearance was quick and easy.
+2255. The immigration officer checked my visa carefully.
+2256. Check the validity period of your travel document.
+2257. Keep all your travel documents organized.
+2258. Follow the signs to the connecting gates.
+2259. The express train is much faster than the local one.
+2260. We took the local bus to save money.
+2261. The commuter rail runs frequently during peak hours.
+2262. Use a currency converter to avoid confusion.
+2263. The downtown area is a major tourist hotspot.
+2264. I prefer to travel off the beaten track.
+2265. Experiencing culture shock is part of traveling.
+2266. The street is lined with souvenir stalls.
+2267. We must respect the local customs and traditions.
+2268. The language barrier made communication difficult.
+2269. I rely heavily on a translator app.
+2270. We discussed all safety concerns before the trip.
+2271. Finding a reliable travel companion is key.
+2272. Solo travel offers a unique sense of freedom.
+2273. It was truly a memorable trip for the whole family.
+2274. The sunset view was absolutely unforgettable.
+2275. Our trip turned into a great adventure.
+2276. It's easy to get around the city by bike.
+2277. The cathedral is a must-see in this town.
+2278. Be careful, that restaurant is a well-known tourist trap.
+2279. I suffer from travel sickness on long bus rides.
+2280. Take some medicine to prevent sea sickness.
+2281. Check if you need any vaccinations for this region.
+2282. Keep your documents safe in a passport holder.
+2283. I forgot to bring a travel adapter for my charger.
+2284. Is there a free power outlet near my seat?
+2285. The street is filled with colorful souvenir stands.
+2286. Let's visit the main shopping district this afternoon.
+2287. I found a vintage map in an antique shop.
+2288. Local crafts make great gifts.
+2289. We joined a free walking tour of the historical center.
+2290. A hop-on, hop-off bus tour is very convenient.
+2291. The boat trip along the river was relaxing.
+2292. We took a cable car up the mountain.
+2293. The ferry schedule is posted by the dock.
+2294. Many shops are closed due to the public holiday.
+2295. Accommodation prices double during peak season.
+2296. Traveling in the off-season saves a lot of money.
+2297. I flew with a low cost carrier to save on airfare.
+2298. We paid extra for priority boarding.
+2299. I put my name on the waitlist for the fully booked flight.
+2300. Do you have the confirmation email for the booking?
+2301. Please provide your confirmation number.
+2302. Make sure your tourist visa is not expired.
+2303. My country has a visa exemption agreement here.
+2304. We stayed at a luxury resort by the ocean.
+2305. I booked an afternoon at the hotel spa.
+2306. The hotel gym is open 24 hours.
+2307. The room includes a continental breakfast.
+2308. Dinner is served buffet-style.
+2309. Can I get this order to go (takeout)?
+2310. Are you dining in or taking out?
+2311. Be mindful of local table manners.
+2312. Always be polite to the service staff.
+2313. Show a respectful attitude toward the elderly.
+2314. I need to apologize for my mistake.
+2315. You should compliment the chef on this dish.
+2316. The price is open to negotiation.
+2317. The tourist map includes all the walking routes.
+2318. The meeting point is at the main square.
+2319. The restaurant is hidden down a small side street.
+2320. Turn right at the third traffic light.
+2321. Use the crosswalk to safely cross the road.
+2322. Get your travel passes at the tourist information center.
+2323. I saved the emergency contact number in my phone.
+2324. Do you know basic first aid?
+2325. She had a sudden illness during the trip.
+2326. I need a prescription from a local doctor.
+2327. Make sure your medical insurance covers overseas travel.
+2328. Traveler's checks are rarely used nowadays.
+2329. Be vigilant to prevent credit card fraud.
+
+================================================================================
+파일: KO_표현력확장_일상회화.json
+카테고리: 표현력확장_일상회화
+예문 수: 316
+================================================================================
+
+2330. I appreciate your understanding.
+2331. I'll arrange the meeting for tomorrow.
+2332. I assume you're familiar with the project.
+2333. I attempted to fix the problem.
+2334. She achieved her goal through hard work.
+2335. Try to avoid unnecessary stress.
+2336. I need to balance work and family.
+2337. Everyone benefits from this new policy.
+2338. Don't blame yourself for the mistake.
+2339. Can I borrow your pen?
+2340. We celebrate our anniversary every year.
+2341. I challenge you to a game.
+2342. I need to change my plans.
+2343. Check if the door is locked.
+2344. You can choose any color you like.
+2345. He claims to be an expert.
+2346. We communicate via email.
+2347. Compare these two options carefully.
+2348. Athletes compete for medals.
+2349. Don't complain about the weather.
+2350. I completed the project on time.
+2351. I'm concerned about your health.
+2352. We concluded the meeting at 5 PM.
+2353. Can you confirm the reservation?
+2354. Connect the cable to the device.
+2355. Consider all the options before deciding.
+2356. The team consists of five members.
+2357. Everyone contributes to the project.
+2358. Control your emotions.
+2359. I convinced him to join us.
+2360. We cooperated to solve the problem.
+2361. Copy this file to your computer.
+2362. Artists create beautiful paintings.
+2363. How do you deal with stress?
+2364. I decided to study abroad.
+2365. The price decreased this month.
+2366. He defended his opinion strongly.
+2367. Define the problem before solving it.
+2368. The flight was delayed by two hours.
+2369. The package will be delivered tomorrow.
+2370. He demands perfection from his team.
+2371. He denied all the accusations.
+2372. I depend on my friends for support.
+2373. Describe what you saw.
+2374. You deserve a vacation.
+2375. She designed a new building.
+2376. I desire to travel the world.
+2377. The storm destroyed many houses.
+2378. Can you detect the problem?
+2379. They develop new software.
+2380. I discovered a new restaurant.
+2381. Let's discuss the project.
+2382. He was dismissed from his job.
+2383. The museum displays ancient artifacts.
+2384. Don't disturb me while I'm working.
+2385. Divide the cake into eight pieces.
+2386. Document all your expenses.
+2387. I doubt that's true.
+2388. She draws beautiful pictures.
+2389. I drive to work every day.
+2390. I'll call you during lunch.
+2391. He earns a good salary.
+2392. I want to emphasize this point.
+2393. This feature enables better communication.
+2394. I encountered some difficulties.
+2395. I encourage you to try again.
+2396. Ensure the windows are closed.
+2397. Enter your password here.
+2398. The company was established in 1990.
+2399. Teachers evaluate student performance.
+2400. He eventually succeeded after many tries.
+2401. What evidence do you have?
+2402. The doctor examined me carefully.
+2403. Don't exceed the speed limit.
+2404. I exchanged the defective item.
+2405. Excuse me, where's the restroom?
+2406. Execute the plan carefully.
+2407. The company plans to expand.
+2408. I expect you at 3 PM.
+2409. I experienced culture shock.
+2410. Can you explain this to me?
+2411. Don't expose your skin to the sun.
+2412. Express your feelings openly.
+2413. Can you extend the deadline?
+2414. Extract the important information.
+2415. Cost is an important factor.
+2416. I failed the test.
+2417. Treat everyone fairly.
+2418. Can you do me a favor?
+2419. What are the main features?
+2420. I figured out the answer.
+2421. This is my final decision.
+2422. Focus on the main goal.
+2423. Follow me to the office.
+2424. Don't force your opinion on others.
+2425. I speak foreign languages.
+2426. Wear formal clothes to the event.
+2427. My former teacher visited us.
+2428. Use this formula to calculate.
+2429. Move forward with the plan.
+2430. Frequent visitors are welcome.
+2431. Does this machine function well?
+2432. I need further information.
+2433. Gather all the documents.
+2434. In general, I enjoy reading.
+2435. Generate new ideas.
+2436. She made a friendly gesture.
+2437. This is a global issue.
+2438. What's your main goal?
+2439. What grade did you get?
+2440. The university granted him a scholarship.
+2441. I'm grateful for your help.
+2442. We guarantee quality products.
+2443. Guard your personal information.
+2444. I'll guide you through the process.
+2445. He pleaded guilty.
+2446. Reading is my daily habit.
+2447. Handle with care.
+2448. Don't harbor negative thoughts.
+2449. The weather is harsh.
+2450. Farmers harvest crops in autumn.
+2451. Beware of potential hazards.
+2452. Don't hesitate to ask questions.
+2453. Highlight the important parts.
+2454. We hired a new manager.
+2455. This is a historic building.
+2456. It's an honor to meet you.
+2457. He has a hostile attitude.
+2458. That's a huge opportunity.
+2459. Human rights are important.
+2460. He's a humble person.
+2461. She has a good sense of humor.
+2462. Hurry up, we're late!
+2463. Can you identify this plant?
+2464. Don't ignore the warning signs.
+2465. The example illustrates the point.
+2466. What's the impact of this decision?
+2467. Implement the new system.
+2468. What are you trying to imply?
+2469. I want to improve my skills.
+2470. There was an incident at work.
+2471. Does the price include tax?
+2472. What's your annual income?
+2473. Sales increased this quarter.
+2474. The signs indicate danger.
+2475. Take the indirect route.
+2476. Each individual has rights.
+2477. Don't let others influence you.
+2478. I'll inform you of the changes.
+2479. What was your initial reaction?
+2480. He suffered a serious injury.
+2481. He was declared innocent.
+2482. Inquire about the job details.
+2483. That's a beautiful insect.
+2484. That's a valuable insight.
+2485. We inspect the goods carefully.
+2486. Her success inspires me.
+2487. They work for a research institute.
+2488. She insisted on paying the bill.
+2489. I intend to finish this today.
+2490. Children interact with each other.
+2491. How do you interpret this data?
+2492. Don't interrupt me while I'm talking.
+2493. The job involves a lot of travel.
+2494. We need to discuss this issue.
+2495. How can you justify your actions?
+2496. They will launch a new product next month.
+2497. Don't lean against the wall.
+2498. Seek legal advice before signing.
+2499. We should limit the spending.
+2500. Can you locate the nearest train station?
+2501. It's hard to maintain a perfect balance.
+2502. I can manage this task easily.
+2503. She is mature for her age.
+2504. Did he mention the party?
+2505. It was merely a misunderstanding.
+2506. We need a minimum of three people.
+2507. We have a mutual agreement.
+2508. The road is too narrow for two cars.
+2509. They need to negotiate a new contract.
+2510. Observe the rules carefully.
+2511. I obtained the necessary permits.
+2512. The answer is obvious.
+2513. This calls for a special occasion.
+2514. The new furniture occupies too much space.
+2515. I strongly oppose that idea.
+2516. You have two options.
+2517. It was just an ordinary day.
+2518. Let's organize the party.
+2519. What was the outcome of the meeting?
+2520. The overall situation is good.
+2521. She overcame her fear of heights.
+2522. I want to participate in the race.
+2523. Is there a particular reason?
+2524. All passengers must fasten their seatbelts.
+2525. We noticed a clear pattern in the data.
+2526. He performs well under pressure.
+2527. We are looking for a permanent solution.
+2528. He persisted despite the difficulties.
+2529. Try to see it from my perspective.
+2530. We are in the final phase of the project.
+2531. He enjoys physical activity.
+2532. We have plenty of time.
+2533. He possesses great courage.
+2534. She has great potential.
+2535. We must preserve our traditions.
+2536. I feel under a lot of pressure.
+2537. You should prevent further damage.
+2538. The previous chapter was difficult.
+2539. My primary concern is safety.
+2540. I have a prior engagement.
+2541. The application process is simple.
+2542. Smoking is prohibited here.
+2543. We need to promote this event.
+2544. I propose a toast to the happy couple.
+2545. Can you prove your innocence?
+2546. I need to purchase new equipment.
+2547. She qualified for the final round.
+2548. The prices range from $10 to $50.
+2549. The ratio of men to women is 2:1.
+2550. How did he react to the news?
+2551. I suddenly realized my mistake.
+2552. I can't recall his name right now.
+2553. Did you receive my email?
+2554. I didn't recognize you at first.
+2555. I highly recommend this book.
+2556. We need to reduce waste.
+2557. Please refer to the manual.
+2558. His work reflects his dedication.
+2559. I regret not telling the truth.
+2560. They rejected my application.
+2561. This problem relates to the budget.
+2562. The movie will be released soon.
+2563. Is this information relevant?
+2564. You can rely on me.
+2565. Please remain seated.
+2566. We visited a remote island.
+2567. Could you please repeat that?
+2568. We need to replace the old computer.
+2569. She represents our company.
+2570. This job requires creativity.
+2571. I'd like to reserve a table.
+2572. We need to resolve the conflict.
+2573. We should use our resources wisely.
+2574. Please respond to the invitation.
+2575. They restored the old painting.
+2576. Don't reveal the secret to anyone.
+2577. The decision can be reversed.
+2578. Review the report before submission.
+2579. Parents often sacrifice for their children.
+2580. The results satisfied the customer.
+2581. What's your schedule for today?
+2582. They developed a new marketing scheme.
+2583. Search for the information online.
+2584. Secure your documents in the safe.
+2585. We must seize this opportunity.
+2586. Select the best candidate.
+2587. She has a good sense of direction.
+2588. Separate the garbage for recycling.
+2589. Let's settle this argument now.
+2590. The cold weather is severe.
+2591. There has been a big shift in public opinion.
+2592. There is a shortage of water.
+2593. This is a significant event.
+2594. Can you simplify the instructions?
+2595. She has excellent communication skills.
+2596. We found a simple solution to the problem.
+2597. What is the source of this rumor?
+2598. Be more specific about your request.
+2599. We are at a crucial stage of the development.
+2600. We must maintain high standards.
+2601. The company released a formal statement.
+2602. What is the status of the order?
+2603. I need more cloud storage.
+2604. We need a new business strategy.
+2605. I want to stress the importance of safety.
+2606. The structure of the building is solid.
+2607. She succeeded in finding a job.
+2608. Is this amount sufficient?
+2609. I suggest we take a break.
+2610. I support your decision.
+2611. I suppose you're right.
+2612. Only a few people survived the accident.
+2613. Can we sustain this level of growth?
+2614. I offered my sympathy to the family.
+2615. We hit our sales target.
+2616. He uses a unique painting technique.
+2617. This is only a temporary solution.
+2618. There was a lot of tension in the room.
+2619. Can you explain the theory?
+2620. Climate change is a global threat.
+2621. I can't tolerate rude behavior.
+2622. What is the total cost?
+2623. The police tried to trace the source.
+2624. It's an old family tradition.
+2625. I need to transfer money to my bank account.
+2626. The renovation transformed the house.
+2627. This is the latest fashion trend.
+2628. His ultimate goal is to retire early.
+2629. We will undertake the challenge.
+2630. She has a unique sense of style.
+2631. Love is a universal language.
+2632. Please update your software.
+2633. This is an urgent matter.
+2634. Your passport is still valid.
+2635. What value do you place on honesty?
+2636. Prices vary depending on the season.
+2637. He was a victim of fraud.
+2638. The storm was extremely violent.
+2639. We had a virtual meeting.
+2640. The stars are clearly visible tonight.
+2641. Sleep is vital for health.
+2642. I volunteered to help at the event.
+2643. The rumor is widespread.
+2644. I need to withdraw some cash.
+2645. Did anyone witness the accident?

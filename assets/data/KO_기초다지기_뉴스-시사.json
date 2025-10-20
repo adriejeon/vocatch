@@ -1,402 +1,1546 @@
 [
   {
-    "word": "news",
-    "meaning_ko": "뉴스",
+    "word": "뉴스",
+    "meaning_en": "news",
     "pos": "noun",
-    "example": "This is an example with news.",
+    "example": "오늘 나온 최신 뉴스 봤어요?",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "report",
-    "meaning_ko": "보고서",
+    "word": "보도하다",
+    "meaning_en": "report",
+    "pos": "verb",
+    "example": "그들은 지역 정치에 대해 보도합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "읽다",
+    "meaning_en": "read",
+    "pos": "verb",
+    "example": "오늘 아침에 주요 헤드라인을 읽었어요.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "듣다",
+    "meaning_en": "listen",
+    "pos": "verb",
+    "example": "일기 예보를 들어보세요.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "말하다",
+    "meaning_en": "talk",
+    "pos": "verb",
+    "example": "그 큰 행사에 대해 이야기해 봅시다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사건, 행사",
+    "meaning_en": "event",
     "pos": "noun",
-    "example": "This is an example with report.",
+    "example": "그 큰 스포츠 행사는 어제였습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "story",
-    "meaning_ko": "이야기",
+    "word": "문제",
+    "meaning_en": "problem",
     "pos": "noun",
-    "example": "This is an example with story.",
+    "example": "교통에 문제가 있습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "read",
-    "meaning_ko": "읽다",
+    "word": "해결책",
+    "meaning_en": "solution",
     "pos": "noun",
-    "example": "This is an example with read.",
+    "example": "우리는 빠른 해결책을 찾아야 합니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "watch",
-    "meaning_ko": "보다",
+    "word": "정부",
+    "meaning_en": "government",
     "pos": "noun",
-    "example": "This is an example with watch.",
+    "example": "정부가 새로운 계획을 발표했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "listen",
-    "meaning_ko": "듣다",
+    "word": "지도자",
+    "meaning_en": "leader",
+    "pos": "noun",
+    "example": "그 나라의 지도자가 TV에서 연설했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "국가",
+    "meaning_en": "country",
+    "pos": "noun",
+    "example": "많은 나라가 그 회의에 참여했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "도시",
+    "meaning_en": "city",
+    "pos": "noun",
+    "example": "그 도시는 빠르게 성장하고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "돈",
+    "meaning_en": "money",
+    "pos": "noun",
+    "example": "경제는 돈 문제에 초점을 맞추고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "일, 직장",
+    "meaning_en": "work",
+    "pos": "noun",
+    "example": "고용 시장이 변화하고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "학교",
+    "meaning_en": "school",
+    "pos": "noun",
+    "example": "학교에 대한 새로운 규칙이 도입되었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "병원",
+    "meaning_en": "hospital",
+    "pos": "noun",
+    "example": "그 병원은 의사가 더 필요합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "경찰",
+    "meaning_en": "police",
+    "pos": "noun",
+    "example": "경찰이 그 사건을 조사하고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사람들",
+    "meaning_en": "people",
+    "pos": "noun",
+    "example": "많은 사람이 그 집회에 참석했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "돕다",
+    "meaning_en": "help",
     "pos": "verb",
-    "example": "This is an example with listen.",
+    "example": "우리가 화재 피해자들을 도울 수 있을까요?",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "tell",
-    "meaning_ko": "말하다",
+    "word": "말하다",
+    "meaning_en": "say",
     "pos": "verb",
-    "example": "This is an example with tell.",
+    "example": "그 목격자는 차가 떠나는 것을 봤다고 말했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "know",
-    "meaning_ko": "알다",
+    "word": "알다",
+    "meaning_en": "know",
     "pos": "verb",
-    "example": "This is an example with know.",
+    "example": "지연 이유를 아시나요?",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "hear",
-    "meaning_ko": "듣다",
+    "word": "생각하다",
+    "meaning_en": "think",
     "pos": "verb",
-    "example": "This is an example with hear.",
+    "example": "새 법에 대해 어떻게 생각하세요?",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "see",
-    "meaning_ko": "보다",
+    "word": "동의하다",
+    "meaning_en": "agree",
     "pos": "verb",
-    "example": "This is an example with see.",
+    "example": "당신의 관점에 동의합니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "today",
-    "meaning_ko": "오늘",
+    "word": "동의하지 않다",
+    "meaning_en": "disagree",
+    "pos": "verb",
+    "example": "많은 사람이 그 정책에 동의하지 않습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "원하다",
+    "meaning_en": "want",
+    "pos": "verb",
+    "example": "그들은 평화를 성취하기를 원합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "필요하다",
+    "meaning_en": "need",
+    "pos": "verb",
+    "example": "우리는 이 긴급한 문제를 다뤄야 합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "묻다, 요청하다",
+    "meaning_en": "ask",
+    "pos": "verb",
+    "example": "기자들이 장관에게 질문을 했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "대답하다",
+    "meaning_en": "answer",
+    "pos": "verb",
+    "example": "그는 질문에 명확하게 대답했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "보여주다",
+    "meaning_en": "show",
+    "pos": "verb",
+    "example": "데이터는 매출이 명확히 증가했음을 보여줍니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "변화",
+    "meaning_en": "change",
+    "pos": "noun",
+    "example": "기후 변화는 큰 주제입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "좋은",
+    "meaning_en": "good",
+    "pos": "adjective",
+    "example": "우리는 그 제품에 대해 좋은 피드백을 받았습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "나쁜",
+    "meaning_en": "bad",
+    "pos": "adjective",
+    "example": "고속도로에서 큰 사고가 있었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "큰",
+    "meaning_en": "big",
+    "pos": "adjective",
+    "example": "이것은 그 회사에 큰 진전입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "작은",
+    "meaning_en": "small",
+    "pos": "adjective",
+    "example": "정부는 그 규칙을 약간 조정했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "중요한",
+    "meaning_en": "important",
+    "pos": "adjective",
+    "example": "그 회의는 중요한 메시지를 전달했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "새로운",
+    "meaning_en": "new",
+    "pos": "adjective",
+    "example": "그 회사가 새 휴대폰을 출시했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "오래된",
+    "meaning_en": "old",
+    "pos": "adjective",
+    "example": "그들은 옛 공장 부지에 대해 논의했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "안전한",
+    "meaning_en": "safe",
+    "pos": "adjective",
+    "example": "대중교통은 모두에게 안전해야 합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "위험",
+    "meaning_en": "danger",
+    "pos": "noun",
+    "example": "그 보고서는 오염의 위험성을 강조합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "이유",
+    "meaning_en": "reason",
+    "pos": "noun",
+    "example": "그 결정의 배후에 있는 이유는 무엇인가요?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사실",
+    "meaning_en": "fact",
+    "pos": "noun",
+    "example": "그 이야기의 사실에만 충실하세요.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "의견",
+    "meaning_en": "opinion",
+    "pos": "noun",
+    "example": "모두가 예산에 대한 자신의 의견을 공유했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "관점",
+    "meaning_en": "view",
+    "pos": "noun",
+    "example": "그는 그 문제에 대해 다른 견해를 가지고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "계획",
+    "meaning_en": "plan",
+    "pos": "noun",
+    "example": "그 도시에는 미래를 위한 계획이 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "미래",
+    "meaning_en": "future",
+    "pos": "noun",
+    "example": "우리는 미래를 대비해야 합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "오늘",
+    "meaning_en": "today",
     "pos": "adverb",
-    "example": "This is an example with today.",
+    "example": "오늘 주식 시장이 하락했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "now",
-    "meaning_ko": "지금",
+    "word": "어제",
+    "meaning_en": "yesterday",
+    "pos": "adverb",
+    "example": "어제 폭풍이 해안을 강타했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "내일",
+    "meaning_en": "tomorrow",
+    "pos": "adverb",
+    "example": "대통령이 내일 연설할 것입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시간",
+    "meaning_en": "time",
     "pos": "noun",
-    "example": "This is an example with now.",
+    "example": "그 문제를 해결하는 데는 시간이 좀 걸릴 것입니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회회"
   },
   {
-    "word": "new",
-    "meaning_ko": "새로운",
+    "word": "법",
+    "meaning_en": "law",
     "pos": "noun",
-    "example": "This is an example with new.",
+    "example": "새 법은 다음 달부터 시행됩니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "old",
-    "meaning_ko": "오래된",
+    "word": "법원",
+    "meaning_en": "court",
     "pos": "noun",
-    "example": "This is an example with old.",
+    "example": "그 사건은 법정으로 갔습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "big",
-    "meaning_ko": "큰",
+    "word": "목격자",
+    "meaning_en": "witness",
     "pos": "noun",
-    "example": "This is an example with big.",
+    "example": "경찰이 목격자를 면담했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "small",
-    "meaning_ko": "작은",
+    "word": "공격",
+    "meaning_en": "attack",
     "pos": "noun",
-    "example": "This is an example with small.",
+    "example": "그들은 공원에서 동물 공격이 있었다고 보도했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "important",
-    "meaning_ko": "중요한",
+    "word": "평화",
+    "meaning_en": "peace",
     "pos": "noun",
-    "example": "This is an example with important.",
+    "example": "두 나라는 평화 조약에 서명했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "happen",
-    "meaning_ko": "일어나다",
+    "word": "전쟁",
+    "meaning_en": "war",
     "pos": "noun",
-    "example": "This is an example with happen.",
+    "example": "뉴스에서 전쟁의 끝에 대해 이야기했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "event",
-    "meaning_ko": "사건",
+    "word": "화재",
+    "meaning_en": "fire",
     "pos": "noun",
-    "example": "This is an example with event.",
+    "example": "시내에서 큰불이 났습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "thing",
-    "meaning_ko": "것",
+    "word": "홍수",
+    "meaning_en": "flood",
     "pos": "noun",
-    "example": "This is an example with thing.",
+    "example": "폭우로 인해 심각한 홍수가 발생했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "people",
-    "meaning_ko": "사람들",
+    "word": "폭풍",
+    "meaning_en": "storm",
     "pos": "noun",
-    "example": "This is an example with people.",
+    "example": "이번 주에 심한 폭풍이 오고 있습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "person",
-    "meaning_ko": "사람",
+    "word": "날씨",
+    "meaning_en": "weather",
     "pos": "noun",
-    "example": "This is an example with person.",
+    "example": "일기 예보에 따르면 날씨가 맑을 것입니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "man",
-    "meaning_ko": "남자",
+    "word": "시위",
+    "meaning_en": "protest",
     "pos": "noun",
-    "example": "This is an example with man.",
+    "example": "노동자들이 대규모 시위를 벌였습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "woman",
-    "meaning_ko": "여자",
+    "word": "투표",
+    "meaning_en": "vote",
+    "pos": "verb",
+    "example": "사람들이 선거에서 투표하기 위해 나갔습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "선거",
+    "meaning_en": "election",
     "pos": "noun",
-    "example": "This is an example with woman.",
+    "example": "선거 결과가 곧 나올 것으로 예상됩니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "child",
-    "meaning_ko": "아이",
+    "word": "세금",
+    "meaning_en": "tax",
     "pos": "noun",
-    "example": "This is an example with child.",
+    "example": "정부가 세율을 인상했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "place",
-    "meaning_ko": "장소",
+    "word": "시장",
+    "meaning_en": "market",
     "pos": "noun",
-    "example": "This is an example with place.",
+    "example": "오늘 주식 시장은 안정적입니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "city",
-    "meaning_ko": "도시",
+    "word": "가격",
+    "meaning_en": "price",
     "pos": "noun",
-    "example": "This is an example with city.",
+    "example": "식품 가격이 빠르게 오르고 있습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "country",
-    "meaning_ko": "나라",
+    "word": "판매",
+    "meaning_en": "sale",
     "pos": "noun",
-    "example": "This is an example with country.",
+    "example": "그 회사는 기록적인 매출을 보고했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "world",
-    "meaning_ko": "세계",
+    "word": "사다",
+    "meaning_en": "buy",
+    "pos": "verb",
+    "example": "소비자들은 더 적게 구매하기로 선택하고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "팔다",
+    "meaning_en": "sell",
+    "pos": "verb",
+    "example": "그 상점은 제품을 온라인으로 판매할 것입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "일자리",
+    "meaning_en": "job",
     "pos": "noun",
-    "example": "This is an example with world.",
+    "example": "그 보고서는 일자리 감소를 보여줍니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "home",
-    "meaning_ko": "집",
+    "word": "노동자",
+    "meaning_en": "worker",
     "pos": "noun",
-    "example": "This is an example with home.",
+    "example": "노동자들은 더 나은 임금을 요구했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "good",
-    "meaning_ko": "좋은",
+    "word": "회사",
+    "meaning_en": "company",
+    "pos": "noun",
+    "example": "그 기술 회사는 확장하고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "성공",
+    "meaning_en": "success",
+    "pos": "noun",
+    "example": "그 프로젝트는 큰 성공을 거두었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "실패하다",
+    "meaning_en": "fail",
+    "pos": "verb",
+    "example": "평화 회담은 실패할지도 모릅니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "이기다",
+    "meaning_en": "win",
+    "pos": "verb",
+    "example": "어느 팀이 챔피언십에서 우승할까요?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지다, 잃다",
+    "meaning_en": "lose",
+    "pos": "verb",
+    "example": "그 팀은 마지막 경기에서 졌습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "건강",
+    "meaning_en": "health",
+    "pos": "noun",
+    "example": "공중 보건은 주요 관심사입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "질병",
+    "meaning_en": "disease",
+    "pos": "noun",
+    "example": "새로운 질병이 빠르게 퍼지고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "의사",
+    "meaning_en": "doctor",
+    "pos": "noun",
+    "example": "의사들이 바이러스와 싸우고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "약물",
+    "meaning_en": "drug",
+    "pos": "noun",
+    "example": "그 신약은 승인되었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "연구",
+    "meaning_en": "study",
+    "pos": "noun",
+    "example": "수면 습관에 대한 새로운 연구가 발표되었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "연구하다",
+    "meaning_en": "research",
+    "pos": "verb",
+    "example": "과학자들은 새로운 에너지원을 연구합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "과학",
+    "meaning_en": "science",
+    "pos": "noun",
+    "example": "과학은 많은 문제에 대한 해결책을 제공합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "기술",
+    "meaning_en": "technology",
+    "pos": "noun",
+    "example": "새로운 기술이 우리의 삶을 변화시키고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "인터넷",
+    "meaning_en": "internet",
+    "pos": "noun",
+    "example": "인터넷 접속은 필수적입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소셜 미디어",
+    "meaning_en": "social media",
+    "pos": "noun",
+    "example": "소셜 미디어가 선거 운동에 영향을 미쳤습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "언론",
+    "meaning_en": "media",
+    "pos": "noun",
+    "example": "언론이 그 이야기를 광범위하게 다루었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "기사",
+    "meaning_en": "article",
+    "pos": "noun",
+    "example": "여행에 관한 흥미로운 기사를 읽었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사진",
+    "meaning_en": "photo",
+    "pos": "noun",
+    "example": "신문이 우승자의 사진을 실었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "생방송의",
+    "meaning_en": "live",
     "pos": "adjective",
-    "example": "This is an example with good.",
+    "example": "그 콘서트는 생방송 되었습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "bad",
-    "meaning_ko": "나쁜",
+    "word": "세계",
+    "meaning_en": "world",
+    "pos": "noun",
+    "example": "세계 지도자들이 정상 회담을 위해 만났습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지역",
+    "meaning_en": "region",
+    "pos": "noun",
+    "example": "그 지역은 경제적 어려움에 직면해 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지역",
+    "meaning_en": "area",
+    "pos": "noun",
+    "example": "피해 지역은 꽤 넓습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "집",
+    "meaning_en": "home",
+    "pos": "noun",
+    "example": "많은 사람이 폭풍으로 집을 잃었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "가족",
+    "meaning_en": "family",
+    "pos": "noun",
+    "example": "그 사고는 많은 가정에 영향을 미쳤습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "아이",
+    "meaning_en": "child",
+    "pos": "noun",
+    "example": "새로운 정책은 가난한 아이들을 돕습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "여성",
+    "meaning_en": "woman",
+    "pos": "noun",
+    "example": "그녀는 그 정당을 이끄는 첫 번째 여성입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "남성",
+    "meaning_en": "man",
+    "pos": "noun",
+    "example": "그 남자는 경찰에 체포되었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사람",
+    "meaning_en": "person",
+    "pos": "noun",
+    "example": "모든 사람은 투표할 권리가 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "권리",
+    "meaning_en": "right",
+    "pos": "noun",
+    "example": "인권은 근본적입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "의무",
+    "meaning_en": "duty",
+    "pos": "noun",
+    "example": "환경을 보호하는 것은 우리의 의무입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "통제",
+    "meaning_en": "control",
+    "pos": "noun",
+    "example": "경찰은 군중을 통제했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "권력",
+    "meaning_en": "power",
+    "pos": "noun",
+    "example": "야당이 권력을 얻었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "납세자",
+    "meaning_en": "taxpayer",
+    "pos": "noun",
+    "example": "납세자들은 그들의 돈이 어디에 쓰이는지 보고 싶어 합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "예산",
+    "meaning_en": "budget",
+    "pos": "noun",
+    "example": "새로운 예산이 오늘 발표되었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소비하다",
+    "meaning_en": "spend",
+    "pos": "verb",
+    "example": "그 도시는 새 공원에 돈을 쓸 계획입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "투자하다",
+    "meaning_en": "invest",
+    "pos": "verb",
+    "example": "기업들은 연구에 투자해야 합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "부채",
+    "meaning_en": "debt",
+    "pos": "noun",
+    "example": "국가 부채가 증가하고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "수입",
+    "meaning_en": "income",
+    "pos": "noun",
+    "example": "평균 소득이 증가했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "빈곤",
+    "meaning_en": "poverty",
+    "pos": "noun",
+    "example": "목표는 빈곤을 줄이는 것입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "범죄",
+    "meaning_en": "crime",
+    "pos": "noun",
+    "example": "올해 범죄율이 하락했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "정의",
+    "meaning_en": "justice",
+    "pos": "noun",
+    "example": "사람들은 희생자들을 위한 정의를 요구합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "감옥",
+    "meaning_en": "prison",
+    "pos": "noun",
+    "example": "그 도둑은 감옥에 보내졌습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "피해자",
+    "meaning_en": "victim",
+    "pos": "noun",
+    "example": "희생자의 가족이 언론에 말했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "구하다",
+    "meaning_en": "save",
+    "pos": "verb",
+    "example": "소방관들이 생명을 구하기 위해 일했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "안전하게",
+    "meaning_en": "safe",
+    "pos": "adverb",
+    "example": "승객들은 안전하게 집으로 돌아왔습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "보고서",
+    "meaning_en": "report",
+    "pos": "noun",
+    "example": "재무 보고서 마감일은 내일입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "출처",
+    "meaning_en": "source",
+    "pos": "noun",
+    "example": "항상 정보의 출처를 확인하세요.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사실인",
+    "meaning_en": "true",
     "pos": "adjective",
-    "example": "This is an example with bad.",
+    "example": "이 진술은 사실입니까, 거짓입니까?",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "right",
-    "meaning_ko": "옳은",
+    "word": "거짓인",
+    "meaning_en": "false",
+    "pos": "adjective",
+    "example": "그 소문들은 거짓으로 드러났습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "논쟁하다",
+    "meaning_en": "argue",
+    "pos": "verb",
+    "example": "정치인들은 최선의 접근 방식에 대해 논쟁했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "토론",
+    "meaning_en": "debate",
     "pos": "noun",
-    "example": "This is an example with right.",
+    "example": "외교 정책에 대한 토론은 격렬했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "wrong",
-    "meaning_ko": "틀린",
+    "word": "성명",
+    "meaning_en": "statement",
     "pos": "noun",
-    "example": "This is an example with wrong.",
+    "example": "그 회사는 공식 성명을 발표했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "true",
-    "meaning_ko": "진실",
+    "word": "연설",
+    "meaning_en": "speech",
     "pos": "noun",
-    "example": "This is an example with true.",
+    "example": "대통령의 연설은 한 시간 동안 계속되었습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "false",
-    "meaning_ko": "거짓",
+    "word": "회의",
+    "meaning_en": "meeting",
     "pos": "noun",
-    "example": "This is an example with false.",
+    "example": "긴급 회의가 오늘 아침에 열렸습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "say",
-    "meaning_ko": "말하다",
+    "word": "논의하다",
+    "meaning_en": "discuss",
     "pos": "verb",
-    "example": "This is an example with say.",
+    "example": "그들은 그 변화의 영향에 대해 논의했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "talk",
-    "meaning_ko": "말하다",
+    "word": "결정하다",
+    "meaning_en": "decide",
     "pos": "verb",
-    "example": "This is an example with talk.",
+    "example": "위원회는 최종 날짜를 결정했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "speak",
-    "meaning_ko": "말하다",
-    "pos": "verb",
-    "example": "This is an example with speak.",
-    "level": "기초다지기",
-    "category": "뉴스-시사"
-  },
-  {
-    "word": "ask",
-    "meaning_ko": "묻다",
-    "pos": "verb",
-    "example": "This is an example with ask.",
-    "level": "기초다지기",
-    "category": "뉴스-시사"
-  },
-  {
-    "word": "answer",
-    "meaning_ko": "대답하다",
-    "pos": "verb",
-    "example": "This is an example with answer.",
-    "level": "기초다지기",
-    "category": "뉴스-시사"
-  },
-  {
-    "word": "think",
-    "meaning_ko": "생각하다",
-    "pos": "verb",
-    "example": "This is an example with think.",
-    "level": "기초다지기",
-    "category": "뉴스-시사"
-  },
-  {
-    "word": "believe",
-    "meaning_ko": "믿다",
+    "word": "쟁점, 문제",
+    "meaning_en": "issue",
     "pos": "noun",
-    "example": "This is an example with believe.",
+    "example": "우리는 중심 문제를 다뤄야 합니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "feel",
-    "meaning_ko": "느끼다",
-    "pos": "verb",
-    "example": "This is an example with feel.",
-    "level": "기초다지기",
-    "category": "뉴스-시사"
-  },
-  {
-    "word": "like",
-    "meaning_ko": "좋아하다",
-    "pos": "verb",
-    "example": "This is an example with like.",
-    "level": "기초다지기",
-    "category": "뉴스-시사"
-  },
-  {
-    "word": "want",
-    "meaning_ko": "원하다",
-    "pos": "verb",
-    "example": "This is an example with want.",
-    "level": "기초다지기",
-    "category": "뉴스-시사"
-  },
-  {
-    "word": "need",
-    "meaning_ko": "필요하다",
-    "pos": "verb",
-    "example": "This is an example with need.",
-    "level": "기초다지기",
-    "category": "뉴스-시사"
-  },
-  {
-    "word": "help",
-    "meaning_ko": "도움",
-    "pos": "verb",
-    "example": "This is an example with help.",
-    "level": "기초다지기",
-    "category": "뉴스-시사"
-  },
-  {
-    "word": "problem",
-    "meaning_ko": "문제",
+    "word": "정책",
+    "meaning_en": "policy",
     "pos": "noun",
-    "example": "This is an example with problem.",
+    "example": "새로운 환경 정책은 논란의 여지가 있습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "change",
-    "meaning_ko": "변화",
+    "word": "사업",
+    "meaning_en": "project",
     "pos": "noun",
-    "example": "This is an example with change.",
+    "example": "그 회사는 대규모 건설 프로젝트를 시작했습니다.",
     "level": "기초다지기",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "짓다",
+    "meaning_en": "build",
+    "pos": "verb",
+    "example": "그들은 새 도로를 건설할 계획입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "손해",
+    "meaning_en": "damage",
+    "pos": "noun",
+    "example": "폭풍이 막대한 피해를 야기했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "수리하다",
+    "meaning_en": "repair",
+    "pos": "verb",
+    "example": "피해를 복구하는 데는 시간이 걸릴 것입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "위험",
+    "meaning_en": "risk",
+    "pos": "noun",
+    "example": "그 프로젝트는 높은 재정적 위험을 수반합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "보호하다",
+    "meaning_en": "protect",
+    "pos": "verb",
+    "example": "우리는 천연자원을 보호해야 합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지지하다",
+    "meaning_en": "support",
+    "pos": "verb",
+    "example": "대중은 그 계획을 강력하게 지지합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "반대하다",
+    "meaning_en": "oppose",
+    "pos": "verb",
+    "example": "많은 시민이 세금 인상에 반대합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "설명하다",
+    "meaning_en": "explain",
+    "pos": "verb",
+    "example": "그 법의 복잡성을 설명해 주실 수 있나요?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "이해하다",
+    "meaning_en": "understand",
+    "pos": "verb",
+    "example": "기술적인 세부 사항을 이해하기는 어렵습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공유하다",
+    "meaning_en": "share",
+    "pos": "verb",
+    "example": "그 문제에 대한 당신의 생각을 공유해 주세요.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "협력하다",
+    "meaning_en": "cooperate",
+    "pos": "verb",
+    "example": "두 기관은 협력하기로 합의했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "국가",
+    "meaning_en": "nation",
+    "pos": "noun",
+    "example": "온 국민이 그 휴일을 축하했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "해외의, 외국의",
+    "meaning_en": "foreign",
+    "pos": "adjective",
+    "example": "외국 지도자들이 정상 회담에 초대되었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지역의",
+    "meaning_en": "local",
+    "pos": "adjective",
+    "example": "지역 상점들이 어려움을 겪고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공동체",
+    "meaning_en": "community",
+    "pos": "noun",
+    "example": "새로운 센터는 지역 사회 전체에 혜택을 줍니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "언론 매체",
+    "meaning_en": "media outlet",
+    "pos": "noun",
+    "example": "어느 언론 매체가 그 이야기를 특종으로 보도했나요?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "헤드라인",
+    "meaning_en": "headline",
+    "pos": "noun",
+    "example": "대중은 진실을 알 권리가 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "대중",
+    "meaning_en": "public",
+    "pos": "noun",
+    "example": "공식 성명은 정오에 발표되었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공식적인",
+    "meaning_en": "official",
+    "pos": "adjective",
+    "example": "그 조사는 비공개로 남아 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사적인, 민간의",
+    "meaning_en": "private",
+    "pos": "adjective",
+    "example": "그들은 재난 구호를 위한 긴급 자금을 모금했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "자금",
+    "meaning_en": "fund",
+    "pos": "noun",
+    "example": "그 자선 단체는 큰 기부금을 받았습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "기부",
+    "meaning_en": "donation",
+    "pos": "noun",
+    "example": "정부는 국경 보안을 강화했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "안보, 보안",
+    "meaning_en": "security",
+    "pos": "noun",
+    "example": "군대가 지원을 위해 투입되었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "군대",
+    "meaning_en": "military",
+    "pos": "noun",
+    "example": "두 나라 간의 무역이 증가했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "무역",
+    "meaning_en": "trade",
+    "pos": "noun",
+    "example": "그 나라는 곡물을 수출합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "수출하다",
+    "meaning_en": "export",
+    "pos": "verb",
+    "example": "우리는 해외에서 석유를 수입합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "수입하다",
+    "meaning_en": "import",
+    "pos": "verb",
+    "example": "가격표는 대부분의 사람에게 너무 비쌌습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "가격표",
+    "meaning_en": "price tag",
+    "pos": "noun",
+    "example": "소비자들은 인플레이션을 걱정하고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소비자",
+    "meaning_en": "consumer",
+    "pos": "noun",
+    "example": "신제품이 빠르게 시장 점유율을 얻었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시장 점유율",
+    "meaning_en": "market share",
+    "pos": "noun",
+    "example": "오늘 주가가 급등했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "주식",
+    "meaning_en": "stock",
+    "pos": "noun",
+    "example": "그는 자금을 다른 은행 계좌로 이체했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "은행 계좌",
+    "meaning_en": "bank account",
+    "pos": "noun",
+    "example": "그 상점은 단골 고객에게 할인을 제공합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "고객",
+    "meaning_en": "customer",
+    "pos": "noun",
+    "example": "그들은 고객 서비스를 개선했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "서비스",
+    "meaning_en": "service",
+    "pos": "noun",
+    "example": "새로운 교통 시스템은 매우 효율적입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시스템",
+    "meaning_en": "system",
+    "pos": "noun",
+    "example": "안전 규칙을 엄격하게 따르세요.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "규칙",
+    "meaning_en": "rule",
+    "pos": "noun",
+    "example": "우리는 자원을 더 잘 관리해야 합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "관리하다",
+    "meaning_en": "manage",
+    "pos": "verb",
+    "example": "도시는 교통 문제를 어떻게 처리할 것인가요?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "~을 다루다",
+    "meaning_en": "deal with",
+    "pos": "verb",
+    "example": "세계는 심각한 에너지 위기에 직면해 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "직면하다",
+    "meaning_en": "face",
+    "pos": "verb",
+    "example": "정부는 위기를 피하려고 노력하고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "피하다",
+    "meaning_en": "avoid",
+    "pos": "verb",
+    "example": "백신은 질병의 확산을 막습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "막다, 예방하다",
+    "meaning_en": "prevent",
+    "pos": "verb",
+    "example": "선거의 최종 결과가 나왔습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "결과",
+    "meaning_en": "result",
+    "pos": "noun",
+    "example": "새로운 정책은 긍정적인 효과를 가져왔습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "영향",
+    "meaning_en": "effect",
+    "pos": "noun",
+    "example": "그 댐이 환경에 미치는 영향은 무엇인가요?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "영향",
+    "meaning_en": "impact",
+    "pos": "noun",
+    "example": "그 운동의 배후에 있는 정치적 힘은 강력합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "힘",
+    "meaning_en": "force",
+    "pos": "noun",
+    "example": "그 지도자는 사임하라는 대중의 압력에 직면했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "압력, 압박",
+    "meaning_en": "pressure",
+    "pos": "noun",
+    "example": "시위대들은 즉각적인 조치를 요구합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "요구하다",
+    "meaning_en": "demand",
+    "pos": "verb",
+    "example": "그 후보는 세금 인하를 약속했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "약속하다",
+    "meaning_en": "promise",
+    "pos": "verb",
+    "example": "그 회사는 제품이 안전하다고 주장합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "주장하다",
+    "meaning_en": "claim",
+    "pos": "verb",
+    "example": "경찰은 유죄를 증명해야 합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "입증하다",
+    "meaning_en": "prove",
+    "pos": "verb",
+    "example": "부패에 대한 강력한 증거가 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "증거",
+    "meaning_en": "evidence",
+    "pos": "noun",
+    "example": "그 전문가는 어제 법정에서 증언했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "증언하다",
+    "meaning_en": "testify",
+    "pos": "verb",
+    "example": "그는 그 스캔들 이후 대중의 지지를 잃었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지지",
+    "meaning_en": "support",
+    "pos": "noun",
+    "example": "거대 정당이 과반수 의석을 차지했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "정당",
+    "meaning_en": "party",
+    "pos": "noun",
+    "example": "대통령 후보가 연설을 했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "후보자",
+    "meaning_en": "candidate",
+    "pos": "noun",
+    "example": "민주주의에서는 모든 표가 중요합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "표",
+    "meaning_en": "vote",
+    "pos": "noun",
+    "example": "그 제안은 과반수 투표로 통과되었습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "다수",
+    "meaning_en": "majority",
+    "pos": "noun",
+    "example": "소수 집단은 동등한 권리를 요구합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소수",
+    "meaning_en": "minority",
+    "pos": "noun",
+    "example": "지금 바로 긴급 경보가 울리고 있습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지금 당장",
+    "meaning_en": "right now",
+    "pos": "phrase",
+    "example": "경찰이 즉시 도착했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "즉시",
+    "meaning_en": "at once",
+    "pos": "phrase",
+    "example": "그는 공개적으로 자신의 견해에 대해 말했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공개적으로",
+    "meaning_en": "in public",
+    "pos": "phrase",
+    "example": "그들은 비공개로 논의를 했습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "개인적으로",
+    "meaning_en": "in private",
+    "pos": "phrase",
+    "example": "그 정책의 장기적인 효과는 알려지지 않았습니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "장기적인",
+    "meaning_en": "long term",
+    "pos": "adjective",
+    "example": "그 변화들은 단기적인 영향만 미칠 것입니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "단기적인",
+    "meaning_en": "short term",
+    "pos": "adjective",
+    "example": "그녀는 성공적인 사업체를 운영합니다.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
   }
 ]

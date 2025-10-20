@@ -1,385 +1,2113 @@
 [
   {
-    "word": "expedition",
-    "meaning_ko": "expedition",
-    "pos": "noun",
-    "example": "This is an example with expedition.",
+    "word": "자유 재량의",
+    "meaning_en": "discretionary",
+    "pos": "adjective",
+    "example": "새로운 안전 규약은 잠재적인 여행 위험을 완화할 것입니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "pilgrimage",
-    "meaning_ko": "pilgrimage",
+    "word": "세부 계획, 물류",
+    "meaning_en": "logistics",
     "pos": "noun",
-    "example": "This is an example with pilgrimage.",
+    "example": "그녀의 확고한 열정 덕분에 우리는 지연되는 동안에도 기운을 낼 수 있었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "odyssey",
-    "meaning_ko": "odyssey",
+    "word": "탐험, 원정",
+    "meaning_en": "expedition",
     "pos": "noun",
-    "example": "This is an example with odyssey.",
+    "example": "고요한 환경은 휴식에 도움이 되었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "sojourn",
-    "meaning_ko": "sojourn",
-    "pos": "noun",
-    "example": "This is an example with sojourn.",
+    "word": "승선하다, 착수하다",
+    "meaning_en": "embark",
+    "pos": "verb",
+    "example": "저는 갑작스러운 경로 변경의 이유를 짐작만 할 수 있었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "itinerant",
-    "meaning_ko": "itinerant",
-    "pos": "noun",
-    "example": "This is an example with itinerant.",
+    "word": "하선하다, 내리다",
+    "meaning_en": "disembark",
+    "pos": "verb",
+    "example": "우리는 관광객 인파로부터 멀리 떨어진 외딴 오두막을 찾았습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "nomadic",
-    "meaning_ko": "nomadic",
-    "pos": "noun",
-    "example": "This is an example with nomadic.",
+    "word": "순회하는, 떠돌아다니는",
+    "meaning_en": "itinerant",
+    "pos": "adjective",
+    "example": "사막에서 핀 꽃의 아름다움은 안타깝게도 순식간이었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "cosmopolitan",
-    "meaning_ko": "cosmopolitan",
-    "pos": "noun",
-    "example": "This is an example with cosmopolitan.",
+    "word": "진정한, 참된",
+    "meaning_en": "veritable",
+    "pos": "adjective",
+    "example": "표면상으로는 출장이었지만, 저는 관광할 시간을 겨우 낼 수 있었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "expatriate",
-    "meaning_ko": "expatriate",
-    "pos": "noun",
-    "example": "This is an example with expatriate.",
+    "word": "요리의",
+    "meaning_en": "culinary",
+    "pos": "adjective",
+    "example": "그 골동품의 연대에 대한 상인의 주장은 불성실해 보였습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "diaspora",
-    "meaning_ko": "diaspora",
-    "pos": "noun",
-    "example": "This is an example with diaspora.",
+    "word": "토착의, 고유의",
+    "meaning_en": "indigenous",
+    "pos": "adjective",
+    "example": "우리가 그 숨겨진 길을 우연히 발견한 것은 행운의 순간이었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "displacement",
-    "meaning_ko": "displacement",
+    "word": "본국 송환",
+    "meaning_en": "repatriation",
     "pos": "noun",
-    "example": "This is an example with displacement.",
+    "example": "저는 부주의로 호텔 방에 충전 케이블을 두고 왔습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "migration",
-    "meaning_ko": "migration",
+    "word": "만일의 사태",
+    "meaning_en": "contingency",
     "pos": "noun",
-    "example": "This is an example with migration.",
+    "example": "국경 수비대는 제 여행 기록의 모든 페이지를 꼼꼼히 조사했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "emigration",
-    "meaning_ko": "emigration",
-    "pos": "noun",
-    "example": "This is an example with emigration.",
+    "word": "제한받지 않는, 자유로운",
+    "meaning_en": "unfettered",
+    "pos": "adjective",
+    "example": "관광객에 대한 현지인의 태도를 어떻게 생각하시나요?",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "colonization",
-    "meaning_ko": "colonization",
-    "pos": "noun",
-    "example": "This is an example with colonization.",
+    "word": "형식적인, 마지못해 하는",
+    "meaning_en": "perfunctory",
+    "pos": "adjective",
+    "example": "호텔 컨시어지가 우리 주차권을 확인해 주었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "exploration",
-    "meaning_ko": "exploration",
+    "word": "분위기",
+    "meaning_en": "ambiance",
     "pos": "noun",
-    "example": "This is an example with exploration.",
+    "example": "이 고대 유럽 도시들에는 내재된 매력이 있습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "pioneering",
-    "meaning_ko": "pioneering",
+    "word": "짧은 묘사, 삽화",
+    "meaning_en": "vignette",
     "pos": "noun",
-    "example": "This is an example with pioneering.",
+    "example": "여행자들은 공원의 보존 지침을 엄격하게 준수해야 합니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "traversal",
-    "meaning_ko": "traversal",
-    "pos": "noun",
-    "example": "This is an example with traversal.",
+    "word": "우연한, 뜻밖의",
+    "meaning_en": "adventitious",
+    "pos": "adjective",
+    "example": "우리는 부유한 동네와 가난한 동네 사이의 현저한 차이를 목격했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "circumnavigation",
-    "meaning_ko": "circumnavigation",
+    "word": "곤경, 궁지",
+    "meaning_en": "predicament",
     "pos": "noun",
-    "example": "This is an example with circumnavigation.",
+    "example": "숙박 가격은 서비스의 질에 상응하는 것처럼 느껴졌습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "embarkation",
-    "meaning_ko": "embarkation",
-    "pos": "noun",
-    "example": "This is an example with embarkation.",
+    "word": "가로지르다, 횡단하다",
+    "meaning_en": "traverse",
+    "pos": "verb",
+    "example": "안타깝게도 이 관광지에서는 좀도둑질이 만연합니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "disembarkation",
-    "meaning_ko": "disembarkation",
-    "pos": "noun",
-    "example": "This is an example with disembarkation.",
+    "word": "터무니없이 비싼",
+    "meaning_en": "exorbitant",
+    "pos": "adjective",
+    "example": "우리는 최종 승인을 조건으로 항공편을 임시 예약했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "layover",
-    "meaning_ko": "layover",
-    "pos": "noun",
-    "example": "This is an example with layover.",
+    "word": "숭고한, 장엄한",
+    "meaning_en": "sublime",
+    "pos": "adjective",
+    "example": "궂은 날씨로 우리 하이킹 계획은 망쳐졌습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "stopover",
-    "meaning_ko": "stopover",
-    "pos": "noun",
-    "example": "This is an example with stopover.",
+    "word": "사교적인",
+    "meaning_en": "gregarious",
+    "pos": "adjective",
+    "example": "현지인들은 음식과 이야기를 나누며 믿을 수 없을 정도로 환대해 주었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "transit",
-    "meaning_ko": "transit",
+    "word": "고독",
+    "meaning_en": "solitude",
     "pos": "noun",
-    "example": "This is an example with transit.",
+    "example": "우리는 자갈이 깔린 거리에서 고풍스러운 작은 카페를 발견했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "consulate",
-    "meaning_ko": "consulate",
-    "pos": "noun",
-    "example": "This is an example with consulate.",
+    "word": "필요한, 필수품",
+    "meaning_en": "requisite",
+    "pos": "adjective",
+    "example": "그 마을은 계곡의 가장 그림 같은 전망을 제공합니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "embassy",
-    "meaning_ko": "embassy",
-    "pos": "noun",
-    "example": "This is an example with embassy.",
+    "word": "생생한",
+    "meaning_en": "vivid",
+    "pos": "adjective",
+    "example": "우리는 탁 트인 바다 전망이 있는 방을 위해 추가 비용을 지불했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "jurisdiction",
-    "meaning_ko": "jurisdiction",
-    "pos": "noun",
-    "example": "This is an example with jurisdiction.",
+    "word": "복잡한, 정교한",
+    "meaning_en": "intricate",
+    "pos": "adjective",
+    "example": "그 크루즈선은 거대한 떠다니는 호텔이었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "sovereignty",
-    "meaning_ko": "sovereignty",
-    "pos": "noun",
-    "example": "This is an example with sovereignty.",
+    "word": "전례 없는",
+    "meaning_en": "unprecedented",
+    "pos": "adjective",
+    "example": "우리는 식물원을 거닐며 오후를 보냈습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "territory",
-    "meaning_ko": "territory",
+    "word": "정점",
+    "meaning_en": "culmination",
     "pos": "noun",
-    "example": "This is an example with territory.",
+    "example": "제 여행의 최고의 순간들은 순전한 뜻밖의 행운이었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "frontier",
-    "meaning_ko": "frontier",
-    "pos": "noun",
-    "example": "This is an example with frontier.",
+    "word": "급증하다",
+    "meaning_en": "proliferate",
+    "pos": "verb",
+    "example": "우리는 불 옆에 앉아 우리의 모험에 대해 회상했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "boundary",
-    "meaning_ko": "boundary",
-    "pos": "noun",
-    "example": "This is an example with boundary.",
+    "word": "갈라지다, 벗어나다",
+    "meaning_en": "diverge",
+    "pos": "verb",
+    "example": "궁전의 돔들은 오후 햇살에 눈부시게 빛났습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "demarcation",
-    "meaning_ko": "demarcation",
+    "word": "집중, 수렴",
+    "meaning_en": "convergence",
     "pos": "noun",
-    "example": "This is an example with demarcation.",
+    "example": "그 지도는 제한된 보존 구역을 명확하게 보여줍니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "infrastructure",
-    "meaning_ko": "infrastructure",
-    "pos": "noun",
-    "example": "This is an example with infrastructure.",
+    "word": "유목민의, 떠도는",
+    "meaning_en": "nomadic",
+    "pos": "adjective",
+    "example": "그 가이드는 고대 유적의 복잡한 역사를 명확히 설명했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "logistics",
-    "meaning_ko": "logistics",
-    "pos": "noun",
-    "example": "This is an example with logistics.",
+    "word": "신속히 처리하다",
+    "meaning_en": "expedite",
+    "pos": "verb",
+    "example": "마스크 착용은 대중교통 이용 시 정부의 명령이 되었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "provisions",
-    "meaning_ko": "provisions",
-    "pos": "noun",
-    "example": "This is an example with provisions.",
+    "word": "완화시키다",
+    "meaning_en": "mitigate",
+    "pos": "verb",
+    "example": "비싼 티켓 가격 때문에 많은 사람이 그 축제에 참석할 수 없었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "sustenance",
-    "meaning_ko": "sustenance",
-    "pos": "noun",
-    "example": "This is an example with sustenance.",
+    "word": "확고한, 흔들림 없는",
+    "meaning_en": "unwavering",
+    "pos": "adjective",
+    "example": "현지 간식을 파는 노점상들은 도심 어디에나 있습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "subsistence",
-    "meaning_ko": "subsistence",
-    "pos": "noun",
-    "example": "This is an example with subsistence.",
+    "word": "도움이 되는",
+    "meaning_en": "conducive",
+    "pos": "adjective",
+    "example": "공원 바로 인근에는 주요 호텔이 없습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "indigenous",
-    "meaning_ko": "indigenous",
-    "pos": "noun",
-    "example": "This is an example with indigenous.",
+    "word": "추측하다",
+    "meaning_en": "surmise",
+    "pos": "verb",
+    "example": "그 지역의 정치 상황은 매우 불안정합니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "aboriginal",
-    "meaning_ko": "aboriginal",
-    "pos": "noun",
-    "example": "This is an example with aboriginal.",
+    "word": "은둔적인",
+    "meaning_en": "reclusive",
+    "pos": "adjective",
+    "example": "우리는 항구를 떠나기 전에 폭풍이 잦아들기를 기다렸습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "ethnic",
-    "meaning_ko": "ethnic",
-    "pos": "noun",
-    "example": "This is an example with ethnic.",
+    "word": "덧없는, 순간적인",
+    "meaning_en": "ephemeral",
+    "pos": "adjective",
+    "example": "저는 제 아이가 원했던 터무니없이 비싼 기념품을 사주고 굴복해야 했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "multicultural",
-    "meaning_ko": "multicultural",
-    "pos": "noun",
-    "example": "This is an example with multicultural.",
+    "word": "표면상으로는",
+    "meaning_en": "ostensibly",
+    "pos": "adverb",
+    "example": "우리는 오래된 부두 근처의 흥미로운 버려진 건물을 탐험했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "intercultural",
-    "meaning_ko": "intercultural",
-    "pos": "noun",
-    "example": "This is an example with intercultural.",
+    "word": "솔직하지 못한",
+    "meaning_en": "disingenuous",
+    "pos": "adjective",
+    "example": "그 학생은 빠듯한 예산으로 세계 여행을 해냈습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "transnational",
-    "meaning_ko": "transnational",
-    "pos": "noun",
-    "example": "This is an example with transnational.",
+    "word": "뜻밖의 행운의",
+    "meaning_en": "fortuitous",
+    "pos": "adjective",
+    "example": "제가 음식에 대해 악의 없이 한 말이 오해를 샀습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "globalization",
-    "meaning_ko": "globalization",
-    "pos": "noun",
-    "example": "This is an example with globalization.",
+    "word": "무심코",
+    "meaning_en": "inadvertently",
+    "pos": "adverb",
+    "example": "기차는 간헐적인 신호 장애를 겪어 약간의 지연을 일으켰습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "acculturation",
-    "meaning_ko": "acculturation",
-    "pos": "noun",
-    "example": "This is an example with acculturation.",
+    "word": "정밀 조사하다",
+    "meaning_en": "scrutinize",
+    "pos": "verb",
+    "example": "현대적인 고층 빌딩과 고대 유적의 병치는 인상적이었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "assimilation",
-    "meaning_ko": "assimilation",
-    "pos": "noun",
-    "example": "This is an example with assimilation.",
+    "word": "인식하다",
+    "meaning_en": "perceive",
+    "pos": "verb",
+    "example": "그 도시는 모든 유형의 여행자를 위한 무수한 볼거리를 제공합니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "adaptation",
-    "meaning_ko": "adaptation",
-    "pos": "noun",
-    "example": "This is an example with adaptation.",
+    "word": "입증하다, 확인하다",
+    "meaning_en": "validate",
+    "pos": "verb",
+    "example": "그의 부에도 불구하고, 그 여행자는 어떤 과시의 흔적도 피했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "orientation",
-    "meaning_ko": "orientation",
-    "pos": "noun",
-    "example": "This is an example with orientation.",
+    "word": "내재된",
+    "meaning_en": "inherent",
+    "pos": "adjective",
+    "example": "시내 지역에는 저렴한 호텔이 부족했습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "disorientation",
-    "meaning_ko": "disorientation",
-    "pos": "noun",
-    "example": "This is an example with disorientation.",
+    "word": "고수하다",
+    "meaning_en": "adhere",
+    "pos": "verb",
+    "example": "사원으로 가는 길은 가파른 등반 길이었습니다.",
     "level": "원어민수준",
     "category": "여행"
   },
   {
-    "word": "alienation",
-    "meaning_ko": "alienation",
+    "word": "격차, 차이",
+    "meaning_en": "disparity",
     "pos": "noun",
-    "example": "This is an example with alienation.",
+    "example": "그 여행 가이드북은 역사적 사실과 사진으로 가득 차 있었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "비례하는",
+    "meaning_en": "commensurate",
+    "pos": "adjective",
+    "example": "관광 산업은 비수기 동안 침체되어 있었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "널리 퍼져 있는",
+    "meaning_en": "prevalent",
+    "pos": "adjective",
+    "example": "향수병은 그저 일시적인 감정이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "잠정적인",
+    "meaning_en": "tentative",
+    "pos": "adjective",
+    "example": "그 작은 마을은 기발한 거리 예술로 가득 차 있었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "혹독한 (날씨)",
+    "meaning_en": "inclement",
+    "pos": "adjective",
+    "example": "그 도시의 빠른 발전은 현대의 시대정신을 포착합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "환대하는",
+    "meaning_en": "hospitable",
+    "pos": "adjective",
+    "example": "저는 혼자 여행하는 것의 어려움들을 받아들이려 노력합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "예스러운, 진기한",
+    "meaning_en": "quaint",
+    "pos": "adjective",
+    "example": "현지 방언을 알아듣기 어려웠습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "그림 같은",
+    "meaning_en": "picturesque",
+    "pos": "adjective",
+    "example": "그 도시의 분주한 중심가의 역설적인 고요함은 놀라웠습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "파노라마식의, 전경의",
+    "meaning_en": "panoramic",
+    "pos": "adjective",
+    "example": "현지 사람들은 자연재해 이후에 훌륭한 회복력을 보여주었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "거대한",
+    "meaning_en": "gargantuan",
+    "pos": "adjective",
+    "example": "요리사는 그 요리에 들어간 향신료의 미묘함에 대해 설명했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "구불구불 걷다",
+    "meaning_en": "meander",
+    "pos": "verb",
+    "example": "우리는 여행 책자의 주장의 진실성에 의문을 제기했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "뜻밖의 발견",
+    "meaning_en": "serendipity",
+    "pos": "noun",
+    "example": "역사와 현대성 사이의 시너지가 그 도시를 독특하게 만듭니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "추억에 잠기다, 회상하다",
+    "meaning_en": "reminisce",
+    "pos": "verb",
+    "example": "제 휴대폰은 없어서는 안 될 여행 도구입니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "눈부시게 빛나는",
+    "meaning_en": "resplendent",
+    "pos": "adjective",
+    "example": "거리 공연자는 능숙하게 불타는 횃불로 저글링을 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "윤곽을 그리다, 정확히 묘사하다",
+    "meaning_en": "delineate",
+    "pos": "verb",
+    "example": "그녀는 그룹을 위해 완벽한 여행 일정을 짰습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "설명하다, 명확히 하다",
+    "meaning_en": "elucidate",
+    "pos": "verb",
+    "example": "그 박물관은 다양한 유물들을 소장하고 있었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "지시, 의무 사항",
+    "meaning_en": "mandate",
+    "pos": "noun",
+    "example": "그 까다로운 여행자는 시트에 있는 작은 얼룩에 대해 불평했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "배제하다, 막다",
+    "meaning_en": "preclude",
+    "pos": "verb",
+    "example": "수다스러운 택시 기사는 우리에게 도시에 대해 계속 해설을 해주었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "어디에나 있는",
+    "meaning_en": "ubiquitous",
+    "pos": "adjective",
+    "example": "우리는 몇몇 현지인들과 즉흥적인 저녁 식사를 즐겼습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "주변, 근방",
+    "meaning_en": "vicinity",
+    "pos": "noun",
+    "example": "소매치기의 잠재적 위험은 조심해야 할 것입니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "변동성이 큰, 불안정한",
+    "meaning_en": "volatile",
+    "pos": "adjective",
+    "example": "우리는 에게 해 옆에서 나른한 오후를 보냈습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "약화시키다, 줄이다",
+    "meaning_en": "abate",
+    "pos": "verb",
+    "example": "그 섬 날씨의 변덕스러운 특성은 지속적인 경계를 요구합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "굴복하다, 항복하다",
+    "meaning_en": "capitulate",
+    "pos": "verb",
+    "example": "복잡한 버스 시간표는 우리의 경로를 혼란스럽게 만들 뿐이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "버려진, 유기된",
+    "meaning_en": "derelict",
+    "pos": "adjective",
+    "example": "향신료 냄새가 구시가지 시장 전체에 만연했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "수척한, 지친",
+    "meaning_en": "haggard",
+    "pos": "adjective",
+    "example": "몇 주간의 모험 후에, 평범한 일상으로 돌아가는 것은 어려웠습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "가난한, 무일푼의",
+    "meaning_en": "impecunious",
+    "pos": "adjective",
+    "example": "저녁 식사 대화는 재치 있는 문답으로 가득 찼습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "무해한, 악의 없는",
+    "meaning_en": "innocuous",
+    "pos": "adjective",
+    "example": "현지 마을 사람들은 처음에는 낯선 사람들에게 과묵했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "간헐적인",
+    "meaning_en": "intermittent",
+    "pos": "adjective",
+    "example": "우리는 옆 테이블에 있는 연예인의 사진을 몇 장 몰래 찍었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "병치, 대비",
+    "meaning_en": "juxtaposition",
+    "pos": "noun",
+    "example": "저는 북쪽을 방문할지 남쪽을 방문할지 계속 망설이고 있습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "무수히 많은",
+    "meaning_en": "myriad",
+    "pos": "noun",
+    "example": "저는 아쉬운 표정으로 어깨너머로 돌아보며 섬을 떠났습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "과시, 허세",
+    "meaning_en": "ostentation",
+    "pos": "noun",
+    "example": "그 축제는 화려한 불꽃놀이로 절정에 달했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "부족",
+    "meaning_en": "paucity",
+    "pos": "noun",
+    "example": "전쟁으로 피폐해진 지역을 통과하는 것은 끔찍한 여정이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "험준한, 가파른",
+    "meaning_en": "precipitous",
+    "pos": "adjective",
+    "example": "당신은 곧 높은 고도에 익숙해질 것입니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "가득 찬",
+    "meaning_en": "replete",
+    "pos": "adjective",
+    "example": "경찰은 고대 기념물 주변 지역을 통제했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "침체된",
+    "meaning_en": "stagnant",
+    "pos": "adjective",
+    "example": "우리는 그가 몬순(우기) 시즌 동안 여행하는 것을 단념시키려고 노력했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "일시적인",
+    "meaning_en": "transient",
+    "pos": "adjective",
+    "example": "긴 트레킹 후에, 아침 세수는 정말 상쾌하게 느껴졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "존경할 만한",
+    "meaning_en": "venerable",
+    "pos": "adjective",
+    "example": "우리는 지중해가 내려다보이는 궁전 같은 스위트룸에 묵었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "엉뚱한, 변덕스러운",
+    "meaning_en": "whimsical",
+    "pos": "adjective",
+    "example": "사원의 종소리가 계곡을 통해 울려 퍼졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "시대정신",
+    "meaning_en": "zeitgeist",
+    "pos": "noun",
+    "example": "여행자들은 익숙하지 않은 환경에서 소화기 문제에 취약합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "수용하다, 받아들이다",
+    "meaning_en": "embrace",
+    "pos": "verb",
+    "example": "저는 돈을 아끼기 위해 엄격한 긴축 여행을 하기로 선택했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "분별하다, 식별하다",
+    "meaning_en": "discern",
+    "pos": "verb",
+    "example": "우리는 현지 정부의 관광 정책에 대해 이질적인 견해들을 접했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "역설적인",
+    "meaning_en": "paradoxical",
+    "pos": "adjective",
+    "example": "그 작은 어촌 마을은 평화로운 안식처처럼 느껴졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "회복력",
+    "meaning_en": "resilience",
+    "pos": "noun",
+    "example": "저는 착륙 직후 시차증의 초기 징후를 느꼈습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "미묘함, 섬세함",
+    "meaning_en": "subtlety",
+    "pos": "noun",
+    "example": "그 작은 진동은 대지진의 전조였습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "진실성",
+    "meaning_en": "veracity",
+    "pos": "noun",
+    "example": "축제 동안 화려한 행렬의 댄서들이 거리를 통과해 움직였습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "시너지 효과",
+    "meaning_en": "synergy",
+    "pos": "noun",
+    "example": "우리는 현지 관습을 무시하는 무례한 행동을 피해야 합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "필수 불가결한",
+    "meaning_en": "indispensable",
+    "pos": "adjective",
+    "example": "저는 유적지를 건너뛰자는 제안에 반대 의사를 표해야 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "능숙하게",
+    "meaning_en": "adroitly",
+    "pos": "adverb",
+    "example": "그 숙련된 여행자는 인기 있는 관광지들을 피했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "큐레이팅하다, 선별하다",
+    "meaning_en": "curate",
+    "pos": "verb",
+    "example": "그 영화는 즐거운 방랑자의 삶을 낭만적으로 묘사했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "다방면에 걸친",
+    "meaning_en": "eclectic",
+    "pos": "adjective",
+    "example": "비싼 여행 비용은 이 지역에서 부수적인 어려움입니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "까다로운",
+    "meaning_en": "fastidious",
+    "pos": "adjective",
+    "example": "현지 축제는 놀라운 종교적 열정으로 축하되었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "수다스러운",
+    "meaning_en": "garrulous",
+    "pos": "adjective",
+    "example": "스핑크스는 수 세기 동안 불가사의한 침묵을 유지했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "즉흥적인",
+    "meaning_en": "impromptu",
+    "pos": "adjective",
+    "example": "저는 이야기꾼의 감미로운 목소리에 매료되었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "교활한, 서서히 퍼지는",
+    "meaning_en": "insidious",
+    "pos": "adjective",
+    "example": "마지막 연결 항공편을 놓친 것은 전체 여정의 최악의 순간이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "나른한, 활기 없는",
+    "meaning_en": "languid",
+    "pos": "adjective",
+    "example": "그 완고한 관리는 우리 비자 유효 기간 연장을 거부했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "변덕스러운",
+    "meaning_en": "mercurial",
+    "pos": "adjective",
+    "example": "우리는 가난한 거리 예술가들의 회복력 있는 정신에 감탄했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "혼란스럽게 하다",
+    "meaning_en": "obfuscate",
+    "pos": "verb",
+    "example": "우리는 들고 다니는 것을 피하기 위해 육중한 짐을 부쳤습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "널리 퍼지는",
+    "meaning_en": "pervasive",
+    "pos": "adjective",
+    "example": "그 고집 센 당나귀는 좁은 산길에서 움직이기를 거부했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "평범한, 지루한",
+    "meaning_en": "prosaic",
+    "pos": "adjective",
+    "example": "해변에서의 정적인 휴가는 저를 위한 것이 아닙니다; 저는 모험을 선호합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "재치 있는 응답",
+    "meaning_en": "repartee",
+    "pos": "noun",
+    "example": "갑작스러운 국경 폐쇄는 국경을 넘으려던 우리의 계획을 좌절시켰습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "말이 없는",
+    "meaning_en": "reticent",
+    "pos": "adjective",
+    "example": "그 번지르르한 웨이터는 많은 팁을 얻어내려고 너무 애를 썼습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "은밀한",
+    "meaning_en": "surreptitious",
+    "pos": "adjective",
+    "example": "그 여행은 육로 여행의 일상적인 우여곡절로 특징지어졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "동요하다, 망설이다",
+    "meaning_en": "vacillate",
+    "pos": "verb",
+    "example": "지연이 계속되면서 우리의 흥분은 식기 시작했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "애석해 하는",
+    "meaning_en": "wistful",
+    "pos": "adjective",
+    "example": "부드러운 산들바람이 오후의 더위 동안 우리를 식혀주었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "정점",
+    "meaning_en": "zenith",
+    "pos": "noun",
+    "example": "그 도시는 두 개의 주요 강이 합류하는 지점에 위치해 있습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "충격적인, 비참한",
+    "meaning_en": "harrowing",
+    "pos": "adjective",
+    "example": "저는 페루의 고대 문화에 매료되었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "익숙하게 하다",
+    "meaning_en": "inure",
+    "pos": "verb",
+    "example": "상황의 긴급성 때문에, 항공편은 즉시 우회되었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "(접근을) 통제하다",
+    "meaning_en": "cordon",
+    "pos": "verb",
+    "example": "우리는 이탈리아 해안에서 보낸 평화롭고 행복했던 시절을 기억했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "단념시키다",
+    "meaning_en": "dissuade",
+    "pos": "verb",
+    "example": "그 지역 프로젝트는 아직 개발의 초기 단계에 있습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "세정, 목욕재계",
+    "meaning_en": "ablution",
+    "pos": "noun",
+    "example": "우리는 정글 보호 구역의 적대적인 야생 동물에 대해 경고를 받았습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "호화로운",
+    "meaning_en": "palatial",
+    "pos": "adjective",
+    "example": "우리는 운전사가 한 무례한 발언에 불쾌했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "울려 퍼지다",
+    "meaning_en": "reverberate",
+    "pos": "verb",
+    "example": "역사 공연은 우리의 기대에 비해 다소 활기가 없었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "취약한",
+    "meaning_en": "susceptible",
+    "pos": "adjective",
+    "example": "지역 사회는 여행자들을 환대함으로써 큰 아량을 보여주었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "긴축, 검소",
+    "meaning_en": "austerity",
+    "pos": "noun",
+    "example": "열대 지방의 더위는 심각한 나른함을 유발했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "이질적인",
+    "meaning_en": "disparate",
+    "pos": "adjective",
+    "example": "붐비는 중앙역으로 들어서는 것은 마치 큰 혼란 속으로 들어가는 것 같았습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "고립된 지역",
+    "meaning_en": "enclave",
+    "pos": "noun",
+    "example": "그 호텔은 푸짐한 무료 간식을 제공했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "초기의",
+    "meaning_en": "incipient",
+    "pos": "adjective",
+    "example": "우리는 새로운 현지 예술 운동의 초기 단계를 목격했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "전조",
+    "meaning_en": "precursor",
+    "pos": "noun",
+    "example": "그 새롭고 현대적인 건물은 고대 교회 옆에서 눈에 거슬려 보였습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "행렬",
+    "meaning_en": "cavalcade",
+    "pos": "noun",
+    "example": "그 가이드는 그 유적지의 역사를 간결하게 요약해 주었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "무례한, 세련되지 못한",
+    "meaning_en": "uncouth",
+    "pos": "adjective",
+    "example": "우리는 새벽에 호수의 잔잔한 물 위를 항해했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "이의를 제기하다",
+    "meaning_en": "demur",
+    "pos": "verb",
+    "example": "현지 법률은 공공장소에서의 음주를 금지합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "피하다, 삼가다",
+    "meaning_en": "eschew",
+    "pos": "verb",
+    "example": "그의 비현실적인 꿈은 혼자서 사하라 사막을 자전거로 횡단하는 것이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "방랑자",
+    "meaning_en": "vagabond",
+    "pos": "noun",
+    "example": "고대 거리들은 유령 목격담으로 가득 차 있었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "수반되는",
+    "meaning_en": "concomitant",
+    "pos": "adjective",
+    "example": "구시가지의 두드러진 특징은 거대한 시계탑입니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "열정",
+    "meaning_en": "fervor",
+    "pos": "noun",
+    "example": "지연에도 불구하고, 여행사 직원은 우리 일정에 대해 여전히 낙관적이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "헤아릴 수 없는",
+    "meaning_en": "inscrutable",
+    "pos": "adjective",
+    "example": "그 유적의 엄청난 규모는 방문객들을 아연실색하게 하기에 충분했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "감미로운",
+    "meaning_en": "mellifluous",
+    "pos": "adjective",
+    "example": "화산을 등반한 후 완전히 무기력해진 기분이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "최저점",
+    "meaning_en": "nadir",
+    "pos": "noun",
+    "example": "그는 표 검사원에게 감히 이의를 제기했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "고집 센",
+    "meaning_en": "obdurate",
+    "pos": "adjective",
+    "example": "극심한 습도는 우리를 무기력하게 만들고 움직이기 싫게 만들었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "몹시 가난한",
+    "meaning_en": "penurious",
+    "pos": "adjective",
+    "example": "관광에 대한 그 학술 발표는 지루하고 불필요하게 느껴졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "묵직한, 다루기 힘든",
+    "meaning_en": "ponderous",
+    "pos": "adjective",
+    "example": "우리는 열쇠를 잃어버리는 뜻밖의 사건을 겪었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "저항하는",
+    "meaning_en": "recalcitrant",
+    "pos": "adjective",
+    "example": "그 좌절한 여행자는 항공사 직원들을 맹비난하기 시작했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "앉아서 지내는",
+    "meaning_en": "sedentary",
+    "pos": "adjective",
+    "example": "사원 위로 지는 일몰은 비할 데 없는 아름다움을 보여주었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "방해하다",
+    "meaning_en": "stymie",
+    "pos": "verb",
+    "example": "우리는 외딴 산악 베이스캠프에 도착하자 환호했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "지나치게 상냥한",
+    "meaning_en": "unctuous",
+    "pos": "adjective",
+    "example": "그 요리사는 그의 창의적인 퓨전 요리로 찬사를 받았습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "변천, 우여곡절",
+    "meaning_en": "vicissitude",
+    "pos": "noun",
+    "example": "보안 요원은 우리 질문에 무뚝뚝하게 대답했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "약해지다, 줄어들다",
+    "meaning_en": "wane",
+    "pos": "verb",
+    "example": "그 호수는 정오에 수면이 눈에 띄게 빛나는 것으로 유명했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "미풍",
+    "meaning_en": "zephyr",
+    "pos": "noun",
+    "example": "우리는 유서 깊은 극장 안의 호화로운 장식에 감탄했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "합류점",
+    "meaning_en": "confluence",
+    "pos": "noun",
+    "example": "현지 관습을 무시한 여행자들은 종종 공동체로부터 외면당했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "매료시키다",
+    "meaning_en": "enamor",
+    "pos": "verb",
+    "example": "붐비는 대기실의 긴장감은 손에 잡힐 듯했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "긴급 사태",
+    "meaning_en": "exigency",
+    "pos": "noun",
+    "example": "그 가이드는 투어의 과도한 비용에 대해 질문을 받자 얼버무리려고 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "평온한",
+    "meaning_en": "halcyon",
+    "pos": "adjective",
+    "example": "맑은 하늘은 우리 항해 여행에 순조로운 시작을 제공했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "초기의, 미완성의",
+    "meaning_en": "inchoate",
+    "pos": "adjective",
+    "example": "우리는 뒷골목에서 호전적인 길거리 개들을 피하려고 노력했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "해로운, 적대적인",
+    "meaning_en": "inimical",
+    "pos": "adjective",
+    "example": "그 불평 많은 승객은 비행의 모든 사소한 세부 사항에 대해 불평했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "무례한",
+    "meaning_en": "insolent",
+    "pos": "adjective",
+    "example": "두 라이벌 투어 그룹 사이에는 오래된 원한이 남아 있었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "활기 없는",
+    "meaning_en": "lackluster",
+    "pos": "adjective",
+    "example": "그 빠른 개발은 탐욕스러운 부동산 개발업자들에 의해 주도되었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "아낌없는 선물",
+    "meaning_en": "largesse",
+    "pos": "noun",
+    "example": "그는 '진정성 있게' 여행하는 것에 대한 독실한 체하는 주장으로 우리를 짜증 나게 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "나른함, 권태",
+    "meaning_en": "lassitude",
+    "pos": "noun",
+    "example": "우리 가이드의 번득이는 재치는 역사 강의를 매력적으로 만들었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "대혼란, 소용돌이",
+    "meaning_en": "maelstrom",
+    "pos": "noun",
+    "example": "저는 항상 투어 리더에게 아첨하는 아첨꾼들을 피했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "아낌없이 주는",
+    "meaning_en": "munificent",
+    "pos": "adjective",
+    "example": "우리는 약간의 두려움을 안고 깊은 동굴 속으로 내려가기 시작했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "초기의",
+    "meaning_en": "nascent",
+    "pos": "adjective",
+    "example": "비행기는 산 위에서 심한 난기류를 겪었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "눈에 띄는, 방해하는",
+    "meaning_en": "obtrusive",
+    "pos": "adjective",
+    "example": "언덕 위 그 요새의 위치는 사실상 난공불락이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "간결하지만 강력한",
+    "meaning_en": "pithy",
+    "pos": "adjective",
+    "example": "긴 하이킹 후에 우리는 왕성한 식욕을 느꼈습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "평온한",
+    "meaning_en": "placid",
+    "pos": "adjective",
+    "example": "그 용감한 탐험가는 미지의 영역으로 과감히 들어갔습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "금지하다",
+    "meaning_en": "proscribe",
+    "pos": "verb",
+    "example": "저는 그 여행 블로그에 나온 주장들의 진실성을 확인했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "돈키호테식의, 비현실적인",
+    "meaning_en": "quixotic",
+    "pos": "adjective",
+    "example": "그는 의식을 방해하지 않도록 조심하며 눈에 띄지 않게 필기했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "가득한, 만연한",
+    "meaning_en": "rife",
+    "pos": "adjective",
+    "example": "그 방수 소재는 폭우에도 끄떡없었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "가장 중요한",
+    "meaning_en": "salient",
+    "pos": "adjective",
+    "example": "그 다리는 최근 홍수 후에 위태롭게 느껴졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "낙관적인",
+    "meaning_en": "sanguine",
+    "pos": "adjective",
+    "example": "우리는 다른 여행자들에게 현지 축제에 대한 정보를 퍼뜨리는 것을 도왔습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "망연자실하게 하다",
+    "meaning_en": "stupefy",
+    "pos": "verb",
+    "example": "그녀는 여행 일정의 모든 세부 사항을 꼼꼼하게 계획했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "무기력한, 드러누운",
+    "meaning_en": "supine",
+    "pos": "adjective",
+    "example": "우리는 참신함보다 편안함을 선택하는 실용적인 접근 방식을 택했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "무모함",
+    "meaning_en": "temerity",
+    "pos": "noun",
+    "example": "그 도시의 기차 노선은 매우 복잡했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "무기력한",
+    "meaning_en": "torpid",
+    "pos": "adjective",
+    "example": "스파 트리트먼트는 다음 주 여행을 위해 우리의 기운을 완전히 회복시켜 주었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "과장된",
+    "meaning_en": "turgid",
+    "pos": "adjective",
+    "example": "오후에 내린 비는 강렬한 더위로부터 반가운 휴식을 제공했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "예상치 못한",
+    "meaning_en": "untoward",
+    "pos": "adjective",
+    "example": "우리는 호숫가에 있는 목가적인 오두막에서 일주일을 보냈습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "욕설을 퍼붓다",
+    "meaning_en": "vituperate",
+    "pos": "verb",
+    "example": "그 호텔은 여전히 구식 열쇠 시스템을 사용했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "독특한, 흉내낼 수 없는",
+    "meaning_en": "inimitable",
+    "pos": "adjective",
+    "example": "우리는 고대 도시를 안내해 줄 현지 역사 전문가를 고용했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "환희에 찬",
+    "meaning_en": "jubilant",
+    "pos": "adjective",
+    "example": "그 도시의 중앙 광장은 그 유명한 탐험가의 이름을 딴 것입니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "영광, 찬사",
+    "meaning_en": "kudos",
+    "pos": "noun",
+    "example": "농촌과 도시 생활 방식 사이의 이분법은 두드러졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "간결한",
+    "meaning_en": "laconic",
+    "pos": "adjective",
+    "example": "현지 인사를 사용하려는 그의 시도는 약간 어색했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "광채",
+    "meaning_en": "luminosity",
+    "pos": "noun",
+    "example": "산 경치의 아름다움은 말로 다 표현할 수 없었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "호화로운",
+    "meaning_en": "opulent",
+    "pos": "adjective",
+    "example": "박물관의 오디오 가이드는 실망스럽게도 내용이 빈약했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "배척하다",
+    "meaning_en": "ostracize",
+    "pos": "verb",
+    "example": "기차에서 그녀를 만난 것은 운명처럼 느껴졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "감지할 수 있는",
+    "meaning_en": "palpable",
+    "pos": "adjective",
+    "example": "우리는 두 여정 사이 공항에서 어중간한(경계의) 시간을 보냈습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "얼버무리다",
+    "meaning_en": "prevaricate",
+    "pos": "verb",
+    "example": "여행의 끝은 우리를 감상적이고 눈물짓게 만들었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "좋은, 길조의",
+    "meaning_en": "propitious",
+    "pos": "adjective",
+    "example": "사소한 세부 사항에 대해 걱정하는 것은 쓸모없는 일임이 증명되었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "호전적인",
+    "meaning_en": "pugnacious",
+    "pos": "adjective",
+    "example": "항공사는 시끄럽게 떠드는 승객 무리를 상대해야 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "불평하는",
+    "meaning_en": "querulous",
+    "pos": "adjective",
+    "example": "그 소심한 관광객은 도전적인 현지 별미를 맛보기를 거부했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "원한, 앙심",
+    "meaning_en": "rancor",
+    "pos": "noun",
+    "example": "그는 자신이 목격한 일몰에 대해 열변을 토하는 것을 멈출 수 없었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "탐욕스러운",
+    "meaning_en": "rapacious",
+    "pos": "adjective",
+    "example": "시골의 조용한 아름다움은 우리에게 위안을 주었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "독실한 체하는",
+    "meaning_en": "sanctimonious",
+    "pos": "adjective",
+    "example": "길고 조용한 기차 여행은 놀랍게도 졸음을 유발했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "재치 있는, 반짝이는",
+    "meaning_en": "scintillating",
+    "pos": "adjective",
+    "example": "그 안내 방송은 우렁찬 목소리를 가진 남자에 의해 이루어졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "아첨꾼",
+    "meaning_en": "sycophant",
+    "pos": "noun",
+    "example": "국경을 넘는 데는 절차를 신속히 처리하기 위한 약간의 속임수가 필요했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "두려움, 불안",
+    "meaning_en": "trepidation",
+    "pos": "noun",
+    "example": "우리는 과도하게 많은 기름진 현지 요리로 고생했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "난기류",
+    "meaning_en": "turbulence",
+    "pos": "noun",
+    "example": "그 여행 작가는 대중 관광에 대해 신랄한 비판을 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "공격할 수 없는",
+    "meaning_en": "unassailable",
+    "pos": "adjective",
+    "example": "우리는 부두 근처에서 어슬렁거리는 공격적인 청소년들을 피했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "탐욕스러운",
+    "meaning_en": "voracious",
+    "pos": "adjective",
+    "example": "그 가이드는 그가 틀렸다는 지적에 불쾌해했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "대담한",
+    "meaning_en": "intrepid",
+    "pos": "adjective",
+    "example": "끊임없는 더위는 관광을 어렵게 만들었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "진실성",
+    "meaning_en": "veracity",
+    "pos": "noun",
+    "example": "그 역사적 재현은 사실성이 부족했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "겸손한, 눈에 띄지 않는",
+    "meaning_en": "unobtrusive",
+    "pos": "adjective",
+    "example": "그 여행자의 시끄러운 욕설은 상황을 악화시킬 뿐이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "영향을 받지 않는",
+    "meaning_en": "impervious",
+    "pos": "adjective",
+    "example": "우리는 버려진 요새에서 무분별한 파괴의 흔적을 보았습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "불안정한",
+    "meaning_en": "precarious",
+    "pos": "adjective",
+    "example": "그는 그 작은 음료의 가격에 대해 냉소적인 평을 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "퍼뜨리다",
+    "meaning_en": "disseminate",
+    "pos": "verb",
+    "example": "그 도시의 빠른 발전은 현대의 시대정신을 포착합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "꼼꼼한",
+    "meaning_en": "meticulous",
+    "pos": "adjective",
+    "example": "그녀는 놀라운 침착함으로 비행 지연을 처리했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "실용적인",
+    "meaning_en": "pragmatic",
+    "pos": "adjective",
+    "example": "주인이 권하는 음식을 거절하는 것은 무례한 일입니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "복잡한",
+    "meaning_en": "convoluted",
+    "pos": "adjective",
+    "example": "그 시장은 인위적이고 관광객들만을 위한 것처럼 느껴졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "활력을 되찾게 하다",
+    "meaning_en": "rejuvenate",
+    "pos": "verb",
+    "example": "우리는 현지 물의 해로운 영향에 대해 알지 못했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "짧은 휴식",
+    "meaning_en": "respite",
+    "pos": "noun",
+    "example": "여관 주인은 우리에게 열렬한 환영을 해주었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "목가적인",
+    "meaning_en": "idyllic",
+    "pos": "adjective",
+    "example": "그 여행자는 돌담에 새겨진 고대의 경구를 발견했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "구식의",
+    "meaning_en": "antiquated",
+    "pos": "adjective",
+    "example": "현지 인사를 사용하려는 그의 시도는 약간 어색했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "석학, 전문가",
+    "meaning_en": "savant",
+    "pos": "noun",
+    "example": "그 여행 블로거는 모든 유명한 랜드마크를 무시하며 인습 타파주의자처럼 행동했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "이름의 근원",
+    "meaning_en": "eponym",
+    "pos": "noun",
+    "example": "그 지역은 관광 인프라 개발의 초기 단계에 있습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "양분, 이분법",
+    "meaning_en": "dichotomy",
+    "pos": "noun",
+    "example": "보안 요원은 우리 질문에 무뚝뚝하게 대답했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "서투른, 솜씨 없는",
+    "meaning_en": "gauche",
+    "pos": "adjective",
+    "example": "그 가이드의 빠른 상황 대처는 실로 칭찬할 만한 행동이었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "형언할 수 없는",
+    "meaning_en": "ineffable",
+    "pos": "adjective",
+    "example": "우리는 새로운 현지 예술 운동의 초기 단계를 목격했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "지루한, 재미없는",
+    "meaning_en": "jejune",
+    "pos": "adjective",
+    "example": "그 포터의 지나치게 굽실거리는 태도는 불쾌했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "운명, 숙명",
+    "meaning_en": "kismet",
+    "pos": "noun",
+    "example": "그는 독립 여행의 귀감으로 여겨졌습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "경계의, 과도기의",
+    "meaning_en": "liminal",
+    "pos": "adjective",
+    "example": "우리의 순간적인 우회는 사소한 여행상의 실수였습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "감상적인, 눈물을 잘 흘리는",
+    "meaning_en": "maudlin",
+    "pos": "adjective",
+    "example": "그는 리조트 수영장에만 신경 쓴다는 이유로 교양 없는 사람으로 무시당했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "하찮은, 무가치한",
+    "meaning_en": "nugatory",
+    "pos": "adjective",
+    "example": "그 여행 쇼는 과잉 관광에 반대하는 논쟁으로 변했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "떠들썩한, 시끄러운",
+    "meaning_en": "obstreperous",
+    "pos": "adjective",
+    "example": "우리는 고대 성벽의 엄청난 크기에 놀랐습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "소심한, 겁 많은",
+    "meaning_en": "pusillanimous",
+    "pos": "adjective",
+    "example": "우리는 예약 확인서를 잃어버린 후 심각한 곤경에 직면했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "열광적으로 이야기하다",
+    "meaning_en": "rhapsodize",
+    "pos": "verb",
+    "example": "여행 문화는 종종 배낭여행객들 사이의 상호주의에 의존합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "위안, 위로",
+    "meaning_en": "solace",
+    "pos": "noun",
+    "example": "우리는 손상된 수하물에 대해 항공사에 보상을 요구했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "잠이 오게 하는",
+    "meaning_en": "soporific",
+    "pos": "adjective",
+    "example": "정글 트레킹을 위한 그의 복장 선택은 의문스러웠습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "목소리가 우렁찬",
+    "meaning_en": "stentorian",
+    "pos": "adjective",
+    "example": "저는 지나치게 비굴한 서비스에 불편함을 느꼈습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "속임수, 술책",
+    "meaning_en": "subterfuge",
+    "pos": "noun",
+    "example": "호텔 직원들은 우리의 편안함을 세심하게 배려했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "과다, 과도",
+    "meaning_en": "surfeit",
+    "pos": "noun",
+    "example": "국경 관리는 나의 당황한 설명에도 불구하고 무표정하게 있었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "날카로운, 신랄한",
+    "meaning_en": "trenchant",
+    "pos": "adjective",
+    "example": "그 가이드는 그 유적지의 역사에 대해 설득력이 약한 설명을 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "공격적인, 싸우기 좋아하는",
+    "meaning_en": "truculent",
+    "pos": "adjective",
+    "example": "그 번지르르한 세일즈맨은 우리에게 비싼 투어를 팔려고 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "불쾌, 분개",
+    "meaning_en": "umbrage",
+    "pos": "noun",
+    "example": "그렇게 아름다운 날 실내에 머물러야 한다는 주장은 옹호될 수 없었습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "끊임없는",
+    "meaning_en": "unremitting",
+    "pos": "adjective",
+    "example": "그 실망한 여행자는 예약 대행사에 독설에 찬 이메일을 보냈습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "사실성",
+    "meaning_en": "verisimilitude",
+    "pos": "noun",
+    "example": "우리는 버려진 요새에서 무분별한 파괴의 흔적을 보았습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "비난, 욕설",
+    "meaning_en": "vituperation",
+    "pos": "noun",
+    "example": "우리는 계약서의 규칙을 준수해야 합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "제멋대로의, 부주의한",
+    "meaning_en": "wanton",
+    "pos": "adjective",
+    "example": "위원회는 원래 계획을 고수했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "비꼬는, 씁쓸한",
+    "meaning_en": "wry",
+    "pos": "adjective",
+    "example": "뜨거운 목욕은 근육통을 완화할 수 있습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "시대정신",
+    "meaning_en": "zeitgeist",
+    "pos": "noun",
+    "example": "그 질문에 대한 그의 대답은 다소 모호했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "침착함",
+    "meaning_en": "aplomb",
+    "pos": "noun",
+    "example": "새로운 정책은 근무 환경을 개선하기 위한 것입니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "무례한, 막된",
+    "meaning_en": "churlish",
+    "pos": "adjective",
+    "example": "저는 발표 전에 약간의 불안감을 느꼈습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "억지로 꾸민 듯한",
+    "meaning_en": "contrived",
+    "pos": "adjective",
+    "example": "그 결정은 자의적이고 불공평해 보였습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "해로운",
+    "meaning_en": "deleterious",
+    "pos": "adjective",
+    "example": "우리는 시스템 오류의 원인을 규명해야 합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "과장된, 넘치는",
+    "meaning_en": "effusive",
+    "pos": "adjective",
+    "example": "그녀는 자신의 성공을 노력 덕분이라고 생각합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "경구, 짧은 풍자시",
+    "meaning_en": "epigram",
+    "pos": "noun",
+    "example": "그는 부업으로 수입을 늘리기로 결정했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "서투른, 솜씨 없는",
+    "meaning_en": "gauche",
+    "pos": "adjective",
+    "example": "우리는 채용 과정에서 성 편견이 없는지 확인해야 합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "우상 파괴자",
+    "meaning_en": "iconoclast",
+    "pos": "noun",
+    "example": "정확한 결과를 위해 기계는 신중하게 조정되어야 합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "초기의, 미완성의",
+    "meaning_en": "inchoate",
+    "pos": "adjective",
+    "example": "그 팀은 응집력 있는 단위(팀)를 형성하기 위해 협력했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "간결한",
+    "meaning_en": "laconic",
+    "pos": "adjective",
+    "example": "저는 그의 주장이 더 설득력 있다는 것을 인정해야 했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "칭찬할 만한",
+    "meaning_en": "meritorious",
+    "pos": "adjective",
+    "example": "두 사건은 동시에 일어났습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "초기의",
+    "meaning_en": "nascent",
+    "pos": "adjective",
+    "example": "발언은 주제에 국한해 주시기 바랍니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "아부하는",
+    "meaning_en": "obsequious",
+    "pos": "adjective",
+    "example": "그것은 사실이 아니라 단지 추측일 뿐입니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "모범, 귀감",
+    "meaning_en": "paragon",
+    "pos": "noun",
+    "example": "우리는 이 문제에 대해 의견 일치를 이뤄야 합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "가벼운 죄",
+    "meaning_en": "peccadillo",
+    "pos": "noun",
+    "example": "재정적 어려움이 그들의 확장 능력을 제약했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "속물, 교양 없는 사람",
+    "meaning_en": "philistine",
+    "pos": "noun",
+    "example": "저는 그의 제안을 심사숙고할 시간이 필요합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "논쟁, 비판",
+    "meaning_en": "polemic",
+    "pos": "noun",
+    "example": "그 영화는 관습적인 줄거리를 따랐습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "엄청난, 거대한",
+    "meaning_en": "prodigious",
+    "pos": "adjective",
+    "example": "다양한 이론들이 단 하나의 결론으로 수렴됩니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "진퇴양난, 곤경",
+    "meaning_en": "quandary",
+    "pos": "noun",
+    "example": "목격자 진술은 피해자의 이야기를 뒷받침했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "상호 호혜",
+    "meaning_en": "reciprocity",
+    "pos": "noun",
+    "example": "성공의 주요 기준은 무엇인가요?",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "보상, 시정",
+    "meaning_en": "redress",
+    "pos": "noun",
+    "example": "이 프로젝트에는 타이밍이 매우 중요합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "재봉의, 의복의",
+    "meaning_en": "sartorial",
+    "pos": "adjective",
+    "example": "저는 그의 억양으로 그의 국적을 추론했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "굽신거리는",
+    "meaning_en": "servile",
+    "pos": "adjective",
+    "example": "철분 결핍은 피로로 이어질 수 있습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "세심히 배려하는",
+    "meaning_en": "solicitous",
+    "pos": "adjective",
+    "example": "그 행동은 우리를 오도하려는 의도적인 시도였습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "무감각한, 둔감한",
+    "meaning_en": "stolid",
+    "pos": "adjective",
+    "example": "기호 'X'는 미지수를 나타냅니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "미약한, 보잘것없는",
+    "meaning_en": "tenuous",
+    "pos": "adjective",
+    "example": "그 그림은 역사적인 전투를 묘사합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "지나치게 상냥한",
+    "meaning_en": "unctuous",
+    "pos": "adjective",
+    "example": "'과학'이라는 단어는 '지식'을 의미하는 라틴어 단어에서 유래합니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "옹호할 수 없는",
+    "meaning_en": "untenable",
+    "pos": "adjective",
+    "example": "제품의 품질이 악화되기 시작했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "독설을 퍼붓는",
+    "meaning_en": "vituperative",
+    "pos": "adjective",
+    "example": "그들은 그 문제에 대한 기발한 해결책을 고안했습니다.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "제멋대로의, 부주의한",
+    "meaning_en": "wanton",
+    "pos": "adjective",
+    "example": "그 단체는 공중 보건에 대한 정보를 퍼뜨리기 위해 노력합니다.",
     "level": "원어민수준",
     "category": "여행"
   }

@@ -1,418 +1,1826 @@
 [
   {
-    "word": "investigative",
-    "meaning_ko": "investigative",
-    "pos": "noun",
-    "example": "This is an example with investigative.",
+    "word": "완화하다",
+    "meaning_en": "alleviate",
+    "pos": "verb",
+    "example": "신뢰의 분위기는 효과적인 협상에 도움이 됩니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "editorial",
-    "meaning_ko": "editorial",
-    "pos": "noun",
-    "example": "This is an example with editorial.",
+    "word": "개선하다",
+    "meaning_en": "ameliorate",
+    "pos": "verb",
+    "example": "그 프로젝트를 포기하기로 한 결정은 돌이킬 수 없는 것으로 간주되었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "documentary",
-    "meaning_ko": "documentary",
+    "word": "선례",
+    "meaning_en": "precedent",
     "pos": "noun",
-    "example": "This is an example with documentary.",
+    "example": "우리가 문제의 근본 원인을 다루는 것이 필수적입니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "propaganda",
-    "meaning_ko": "propaganda",
+    "word": "난제",
+    "meaning_en": "conundrum",
     "pos": "noun",
-    "example": "This is an example with propaganda.",
+    "example": "검사는 부패 주장을 입증하지 못했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "censorship",
-    "meaning_ko": "censorship",
+    "word": "패러다임",
+    "meaning_en": "paradigm",
     "pos": "noun",
-    "example": "This is an example with censorship.",
+    "example": "그 스캔들과 고위직 사이의 연관성은 미약합니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "freedom",
-    "meaning_ko": "freedom",
+    "word": "양분, 이분법",
+    "meaning_en": "dichotomy",
     "pos": "noun",
-    "example": "This is an example with freedom.",
+    "example": "그녀는 보편적 기본 소득의 강력한 지지자입니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "liberty",
-    "meaning_ko": "liberty",
+    "word": "진실성",
+    "meaning_en": "veracity",
     "pos": "noun",
-    "example": "This is an example with liberty.",
+    "example": "그 정책은 비용이 너무 많이 든다고 주장하는 많은 반대자들이 있습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "democracy",
-    "meaning_ko": "democracy",
+    "word": "권한, 위임 사항",
+    "meaning_en": "mandate",
     "pos": "noun",
-    "example": "This is an example with democracy.",
+    "example": "정치적 수사는 점점 더 양극화되고 있습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "autocracy",
-    "meaning_ko": "autocracy",
+    "word": "합의, 의견 일치",
+    "meaning_en": "consensus",
     "pos": "noun",
-    "example": "This is an example with autocracy.",
+    "example": "그녀의 날카로운 정치적 통찰력이 그녀가 위기를 헤쳐나가는 데 도움이 되었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "totalitarian",
-    "meaning_ko": "totalitarian",
-    "pos": "noun",
-    "example": "This is an example with totalitarian.",
+    "word": "피하다, 삼가다",
+    "meaning_en": "eschew",
+    "pos": "verb",
+    "example": "새로운 경제 조치의 효과는 여전히 논의 중입니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "authoritarian",
-    "meaning_ko": "authoritarian",
-    "pos": "noun",
-    "example": "This is an example with authoritarian.",
+    "word": "악화시키다",
+    "meaning_en": "exacerbate",
+    "pos": "verb",
+    "example": "회의의 표면적인 이유는 숨겨진 의제에 의해 무시되었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "sovereignty",
-    "meaning_ko": "sovereignty",
-    "pos": "noun",
-    "example": "This is an example with sovereignty.",
+    "word": "완화하다",
+    "meaning_en": "mitigate",
+    "pos": "verb",
+    "example": "그 관리는 인터뷰 중에 부주의로 기밀 정보를 공개했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "jurisdiction",
-    "meaning_ko": "jurisdiction",
-    "pos": "noun",
-    "example": "This is an example with jurisdiction.",
+    "word": "퍼뜨리다",
+    "meaning_en": "disseminate",
+    "pos": "verb",
+    "example": "그 국가는 치솟는 국가 부채로 인해 재정적 곤경에 처해 있습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "legislation",
-    "meaning_ko": "legislation",
-    "pos": "noun",
-    "example": "This is an example with legislation.",
+    "word": "정밀 조사하다",
+    "meaning_en": "scrutinize",
+    "pos": "verb",
+    "example": "그 기사는 군사 개입에 반대하는 격렬한 논평이었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "regulation",
-    "meaning_ko": "regulation",
-    "pos": "noun",
-    "example": "This is an example with regulation.",
+    "word": "명확히 설명하다",
+    "meaning_en": "elucidate",
+    "pos": "verb",
+    "example": "그 회사는 지난 분기에 불리한 시장 상황을 보고했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "constitution",
-    "meaning_ko": "constitution",
-    "pos": "noun",
-    "example": "This is an example with constitution.",
+    "word": "경계를 정하다, 한정하다",
+    "meaning_en": "demarcate",
+    "pos": "verb",
+    "example": "그 합병은 두 기술 부문 간의 시너지를 창출하는 것을 목표로 합니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "amendment",
-    "meaning_ko": "amendment",
-    "pos": "noun",
-    "example": "This is an example with amendment.",
+    "word": "현직의",
+    "meaning_en": "incumbent",
+    "pos": "adjective",
+    "example": "국제 유가는 지정학적 사건에 따라 계속 변동하고 있습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "ratification",
-    "meaning_ko": "ratification",
-    "pos": "noun",
-    "example": "This is an example with ratification.",
+    "word": "도움이 되는",
+    "meaning_en": "conducive",
+    "pos": "adjective",
+    "example": "사이버 공격의 위협은 디지털 시대에 어디에나 존재합니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "referendum",
-    "meaning_ko": "referendum",
-    "pos": "noun",
-    "example": "This is an example with referendum.",
+    "word": "돌이킬 수 없는",
+    "meaning_en": "irrevocable",
+    "pos": "adjective",
+    "example": "정부는 경제를 안정시키기 위해 전례 없는 조치를 취했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "plebiscite",
-    "meaning_ko": "plebiscite",
-    "pos": "noun",
-    "example": "This is an example with plebiscite.",
+    "word": "필수적인, 긴급한",
+    "meaning_en": "imperative",
+    "pos": "adjective",
+    "example": "그 관리의 비정상적인 행동은 그의 정당으로부터 즉시 비난받았습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "electoral",
-    "meaning_ko": "electoral",
-    "pos": "noun",
-    "example": "This is an example with electoral.",
+    "word": "입증하다",
+    "meaning_en": "substantiate",
+    "pos": "verb",
+    "example": "중앙은행의 변덕스러운 결정은 시장 불안정을 초래했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "parliamentary",
-    "meaning_ko": "parliamentary",
-    "pos": "noun",
-    "example": "This is an example with parliamentary.",
+    "word": "미약한, 빈약한",
+    "meaning_en": "tenuous",
+    "pos": "adjective",
+    "example": "야당 지도자는 새 정책을 공개적으로 비난했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "congressional",
-    "meaning_ko": "congressional",
+    "word": "옹호자",
+    "meaning_en": "proponent",
     "pos": "noun",
-    "example": "This is an example with congressional.",
+    "example": "경쟁자들의 작업을 폄하하는 것은 비전문적입니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "geopolitical",
-    "meaning_ko": "geopolitical",
+    "word": "비방자, 폄훼자",
+    "meaning_en": "detractor",
     "pos": "noun",
-    "example": "This is an example with geopolitical.",
+    "example": "그 갈등에 대한 대통령의 성명은 모호한 채로 남아있었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "diplomatic",
-    "meaning_ko": "diplomatic",
+    "word": "수사(학)",
+    "meaning_en": "rhetoric",
     "pos": "noun",
-    "example": "This is an example with diplomatic.",
+    "example": "새로운 DNA 증거가 부당하게 유죄 판결을 받은 그 남자의 무죄를 입증할 것으로 예상됩니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "bilateral",
-    "meaning_ko": "bilateral",
+    "word": "통찰력, 판단력",
+    "meaning_en": "acumen",
     "pos": "noun",
-    "example": "This is an example with bilateral.",
+    "example": "전체 언론 보도는 그릇된 전제에 기반을 두고 있었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "multilateral",
-    "meaning_ko": "multilateral",
+    "word": "효능, 유효성",
+    "meaning_en": "efficacy",
     "pos": "noun",
-    "example": "This is an example with multilateral.",
+    "example": "새로운 석유 매장량의 발견은 경제에 뜻밖의 활력소가 되었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "macroeconomic",
-    "meaning_ko": "macroeconomic",
-    "pos": "noun",
-    "example": "This is an example with macroeconomic.",
+    "word": "표면상의, 겉보기의",
+    "meaning_en": "ostensible",
+    "pos": "adjective",
+    "example": "회사 이사들은 주주들에 대해 엄격한 신 fiduciary 의무를 가집니다. ( fiduciary duty: 수탁자로서의 의무)",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "microeconomic",
-    "meaning_ko": "microeconomic",
-    "pos": "noun",
-    "example": "This is an example with microeconomic.",
+    "word": "무심코, 부주의로",
+    "meaning_en": "inadvertently",
+    "pos": "adverb",
+    "example": "그의 선동적인 연설은 대중을 자극할 뿐이었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "fiscal",
-    "meaning_ko": "fiscal",
+    "word": "곤경, 궁지",
+    "meaning_en": "predicament",
     "pos": "noun",
-    "example": "This is an example with fiscal.",
+    "example": "현 시스템에는 내재적인 이해 상충이 있습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "monetary",
-    "meaning_ko": "monetary",
+    "word": "변천, 우여곡절",
+    "meaning_en": "vicissitude",
     "pos": "noun",
-    "example": "This is an example with monetary.",
+    "example": "새로운 규제는 중소기업에 불리한 것으로 판명되었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "inflation",
-    "meaning_ko": "inflation",
+    "word": "논쟁, 비판",
+    "meaning_en": "polemic",
     "pos": "noun",
-    "example": "This is an example with inflation.",
+    "example": "위기 동안에는 공적 자금을 현명하게 사용하는 것이 필요합니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "deflation",
-    "meaning_ko": "deflation",
-    "pos": "noun",
-    "example": "This is an example with deflation.",
+    "word": "불리한, 역의",
+    "meaning_en": "adverse",
+    "pos": "adjective",
+    "example": "신생 기술 산업이 그 지역에서 빠르게 확장되고 있습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "recession",
-    "meaning_ko": "recession",
+    "word": "시너지 효과",
+    "meaning_en": "synergy",
     "pos": "noun",
-    "example": "This is an example with recession.",
+    "example": "그는 반대 심문 중에 사실을 모호하게 하려고 시도했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "depression",
-    "meaning_ko": "depression",
-    "pos": "noun",
-    "example": "This is an example with depression.",
+    "word": "변동하다",
+    "meaning_en": "fluctuate",
+    "pos": "verb",
+    "example": "소셜 미디어가 정치에 미치는 만연한 영향력은 부인할 수 없습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "prosperity",
-    "meaning_ko": "prosperity",
-    "pos": "noun",
-    "example": "This is an example with prosperity.",
+    "word": "어디에나 있는",
+    "meaning_en": "ubiquitous",
+    "pos": "adjective",
+    "example": "변호사는 일정에 대해 몇 가지 적절한 질문을 제기했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "austerity",
-    "meaning_ko": "austerity",
-    "pos": "noun",
-    "example": "This is an example with austerity.",
+    "word": "전례 없는",
+    "meaning_en": "unprecedented",
+    "pos": "adjective",
+    "example": "그 기사는 통계적 오류가 과다하다는 이유로 비판받았습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "stimulus",
-    "meaning_ko": "stimulus",
-    "pos": "noun",
-    "example": "This is an example with stimulus.",
+    "word": "일탈적인",
+    "meaning_en": "aberrant",
+    "pos": "adjective",
+    "example": "경제는 여전히 위태로운 상태에 있어 세심한 관리가 필요합니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "subsidy",
-    "meaning_ko": "subsidy",
-    "pos": "noun",
-    "example": "This is an example with subsidy.",
+    "word": "변덕스러운",
+    "meaning_en": "capricious",
+    "pos": "adjective",
+    "example": "규제 기관은 특정 금융 관행을 금지하기 위해 움직였습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "catastrophe",
-    "meaning_ko": "catastrophe",
-    "pos": "noun",
-    "example": "This is an example with catastrophe.",
+    "word": "맹렬히 비난하다",
+    "meaning_en": "denounce",
+    "pos": "verb",
+    "example": "피고측 변호인은 검찰측 주장에 대한 강력한 반박을 준비했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "calamity",
-    "meaning_ko": "calamity",
-    "pos": "noun",
-    "example": "This is an example with calamity.",
+    "word": "폄하하다",
+    "meaning_en": "disparage",
+    "pos": "verb",
+    "example": "전 독재자는 모든 정치적 주장을 포기하기로 결정했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "disaster",
-    "meaning_ko": "disaster",
-    "pos": "noun",
-    "example": "This is an example with disaster.",
+    "word": "모호한",
+    "meaning_en": "equivocal",
+    "pos": "adjective",
+    "example": "그 주장의 핵심은 자금 조달 문제입니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "tragedy",
-    "meaning_ko": "tragedy",
-    "pos": "noun",
-    "example": "This is an example with tragedy.",
+    "word": "무죄임을 입증하다",
+    "meaning_en": "exonerate",
+    "pos": "verb",
+    "example": "증거에도 불구하고, 대변인은 회사의 미래에 대해 여전히 낙관적이었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "epidemic",
-    "meaning_ko": "epidemic",
-    "pos": "noun",
-    "example": "This is an example with epidemic.",
+    "word": "잘못된, 허위의",
+    "meaning_en": "fallacious",
+    "pos": "adjective",
+    "example": "갑작스러운 주가 상승은 대규모 시장 투기로 이어졌습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "pandemic",
-    "meaning_ko": "pandemic",
-    "pos": "noun",
-    "example": "This is an example with pandemic.",
+    "word": "우연한, 행운의",
+    "meaning_en": "fortuitous",
+    "pos": "adjective",
+    "example": "고용 시장은 정부의 개입에도 불구하고 침체된 상태를 유지하고 있습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "endemic",
-    "meaning_ko": "endemic",
-    "pos": "noun",
-    "example": "This is an example with endemic.",
+    "word": "신탁의, 수탁의",
+    "meaning_en": "fiduciary",
+    "pos": "adjective",
+    "example": "그 정당은 규칙을 피하기 위해 법적 속임수를 사용했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "humanitarian",
-    "meaning_ko": "humanitarian",
-    "pos": "noun",
-    "example": "This is an example with humanitarian.",
+    "word": "선동적인",
+    "meaning_en": "incendiary",
+    "pos": "adjective",
+    "example": "그 정당 공약의 핵심 신조는 재정적 책임입니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "philanthropic",
-    "meaning_ko": "philanthropic",
-    "pos": "noun",
-    "example": "This is an example with philanthropic.",
+    "word": "내재된",
+    "meaning_en": "inherent",
+    "pos": "adjective",
+    "example": "그 사설은 대통령의 연설에 대해 신랄한 비판을 제공했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "altruistic",
-    "meaning_ko": "altruistic",
-    "pos": "noun",
-    "example": "This is an example with altruistic.",
+    "word": "해로운, 적대적인",
+    "meaning_en": "inimical",
+    "pos": "adjective",
+    "example": "그 증인의 증언은 공격할 여지가 없는 것으로 간주되었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "benevolent",
-    "meaning_ko": "benevolent",
-    "pos": "noun",
-    "example": "This is an example with benevolent.",
+    "word": "현명한, 신중한",
+    "meaning_en": "judicious",
+    "pos": "adjective",
+    "example": "그 혐의에 대한 회사의 방어는 전적으로 옹호할 수 없는 것이었습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "charitable",
-    "meaning_ko": "charitable",
-    "pos": "noun",
-    "example": "This is an example with charitable.",
+    "word": "초기의, 발생기의",
+    "meaning_en": "nascent",
+    "pos": "adjective",
+    "example": "그들은 현 시스템에 대한 재정적으로 실행 가능한 대안을 찾고 있습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "advocacy",
-    "meaning_ko": "advocacy",
-    "pos": "noun",
-    "example": "This is an example with advocacy.",
+    "word": "혼란스럽게 하다",
+    "meaning_en": "obfuscate",
+    "pos": "verb",
+    "example": "최종 보고서는 전 이사의 무죄를 완전히 입증했습니다.",
     "level": "원어민수준",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "널리 퍼지는",
+    "meaning_en": "pervasive",
+    "pos": "adjective",
+    "example": "그 지역은 쿠데타 시도 이후 정치적으로 불안정한 상태를 유지하고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "적절한, 관련된",
+    "meaning_en": "pertinent",
+    "pos": "adjective",
+    "example": "그 위기의 엄청난 규모는 즉각적인 국제적 관심을 필요로 합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "과다, 과잉",
+    "meaning_en": "plethora",
+    "pos": "noun",
+    "example": "몇몇 의원들은 최종 투표에서 기권하기로 선택했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "불안정한, 위태로운",
+    "meaning_en": "precarious",
+    "pos": "adjective",
+    "example": "새로운 규제는 자의적이고 불공평하다는 비판을 받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "선견지명이 있는",
+    "meaning_en": "prescient",
+    "pos": "adjective",
+    "example": "궁지에 몰린 장관은 거센 압력 속에서 사임했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "금지하다",
+    "meaning_en": "proscribe",
+    "pos": "verb",
+    "example": "두 회사는 가격 담합 혐의로 조사를 받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "반박",
+    "meaning_en": "rebuttal",
+    "pos": "noun",
+    "example": "그는 대통령이 아픈 이후로 사실상의 지도자였습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "포기하다, 단념하다",
+    "meaning_en": "renounce",
+    "pos": "verb",
+    "example": "새 정부는 아직 법적 권한으로 인정받지 못하고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "가장 중요한",
+    "meaning_en": "salient",
+    "pos": "adjective",
+    "example": "주는 공공용으로 그 땅을 수용하기로 결정했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "낙관적인",
+    "meaning_en": "sanguine",
+    "pos": "adjective",
+    "example": "여당은 선거구를 게리맨더링(자의적으로 획정)하려 한다는 비난을 받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "추측, 투기",
+    "meaning_en": "speculation",
+    "pos": "noun",
+    "example": "탄핵의 위협이 대통령 집무실을 감돌고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "침체된",
+    "meaning_en": "stagnant",
+    "pos": "adjective",
+    "example": "그 운동은 아직 조직의 초기 단계에 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "속임수, 술책",
+    "meaning_en": "subterfuge",
+    "pos": "noun",
+    "example": "그 분쟁은 비용이 많이 드는 소송으로 이어질 가능성이 높습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "주의, 교리",
+    "meaning_en": "tenet",
+    "pos": "noun",
+    "example": "정부는 신규 공장 건설에 대한 일시적 중지를 명령했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "날카로운, 신랄한",
+    "meaning_en": "trenchant",
+    "pos": "adjective",
+    "example": "언론은 그 회사의 사악한 금융 활동을 폭로했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공격할 수 없는",
+    "meaning_en": "unassailable",
+    "pos": "adjective",
+    "example": "그 증인은 위증을 한 후 위증죄로 기소되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "옹호할 수 없는",
+    "meaning_en": "untenable",
+    "pos": "adjective",
+    "example": "그 논쟁적인 주제는 여론을 더욱 양극화시킬 위험이 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "실행 가능한",
+    "meaning_en": "viable",
+    "pos": "adjective",
+    "example": "그 나라는 경제적 수렁에 빠져들고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "정당성을 입증하다",
+    "meaning_en": "vindicate",
+    "pos": "verb",
+    "example": "그 무역 협정은 상호주의 원칙에 기반을 두고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "변동성이 큰, 불안정한",
+    "meaning_en": "volatile",
+    "pos": "adjective",
+    "example": "그 기밀 보고서의 핵심 부분들은 심하게 수정되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "정당화하다",
+    "meaning_en": "warrant",
+    "pos": "verb",
+    "example": "그 계약은 납품 지연에 대한 위약금을 규정하고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "기권하다",
+    "meaning_en": "abstain",
+    "pos": "verb",
+    "example": "그 기자는 대배심 앞에서 증언하라는 소환장을 받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "임의적인, 독단적인",
+    "meaning_en": "arbitrary",
+    "pos": "adjective",
+    "example": "보통 선거권에 대한 논쟁은 수십 년간 지속되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "포위된, 곤경에 처한",
+    "meaning_en": "beleaguered",
+    "pos": "adjective",
+    "example": "그 조사는 외국 관리들에게 은밀하게 지급된 돈을 밝혀냈습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공모",
+    "meaning_en": "collusion",
+    "pos": "noun",
+    "example": "평화의 메시지는 정치적 차이를 초월해야 합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사실상의",
+    "meaning_en": "de facto",
+    "pos": "adjective",
+    "example": "긴급 구조팀은 재난 현장에서 (부상자) 분류 작업을 수행해야 했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "법률상의",
+    "meaning_en": "de jure",
+    "pos": "adjective",
+    "example": "그 나라는 조약에서 탈퇴하기로 일방적인 결정을 내렸습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "수용하다",
+    "meaning_en": "expropriate",
+    "pos": "verb",
+    "example": "대통령은 그 법안에 대해 거부권을 사용하겠다고 위협했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "게리맨더링(선거구 개편)",
+    "meaning_en": "gerrymander",
+    "pos": "verb",
+    "example": "온라인 토론은 금세 상호 비방으로 전락했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "탄핵",
+    "meaning_en": "impeachment",
+    "pos": "noun",
+    "example": "그 해설자는 정치 상황에 대해 냉소적인 논평을 했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "초기의, 미완성의",
+    "meaning_en": "inchoate",
+    "pos": "adjective",
+    "example": "그 사회적 불안은 그 시대의 격동적인 시대정신을 포착했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소송",
+    "meaning_en": "litigation",
+    "pos": "noun",
+    "example": "국제 사법 재판소는 그 국경 분쟁을 판결할 것입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "일시 중지",
+    "meaning_en": "moratorium",
+    "pos": "noun",
+    "example": "두 국가 기관은 합병하여 단일 부서를 형성할 것입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사악한, 부정한",
+    "meaning_en": "nefarious",
+    "pos": "adjective",
+    "example": "새로운 데이터가 그 과학적 발견을 뒷받침하기 위해 도입되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "위증",
+    "meaning_en": "perjury",
+    "pos": "noun",
+    "example": "그 장관은 스캔들 이후 불신임 투표에 직면했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "양극화하다",
+    "meaning_en": "polarize",
+    "pos": "verb",
+    "example": "그 기사는 경제 성장과 국가의 웰빙을 혼동하는 경향이 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "진퇴양난, 수렁",
+    "meaning_en": "quagmire",
+    "pos": "noun",
+    "example": "그 보고서는 확실한 증거보다는 추측에 더 기반을 두고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "상호 호혜",
+    "meaning_en": "reciprocity",
+    "pos": "noun",
+    "example": "오염의 장기적인 유해한 영향이 분명해지고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "편집하여 삭제하다",
+    "meaning_en": "redact",
+    "pos": "verb",
+    "example": "그 백서는 정부의 미래 정책 목표를 명확하게 기술하고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "규정하다, 명기하다",
+    "meaning_en": "stipulate",
+    "pos": "verb",
+    "example": "군부는 선출된 대통령을 축출하려고 시도했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소환장",
+    "meaning_en": "subpoena",
+    "pos": "noun",
+    "example": "그의 무지했다는 주장은 전적으로 불성실했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "투표권",
+    "meaning_en": "suffrage",
+    "pos": "noun",
+    "example": "그 관리는 재정적 이중성(표리부동함)으로 인해 해고되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "은밀한",
+    "meaning_en": "surreptitious",
+    "pos": "adjective",
+    "example": "새 법안은 환경법의 모든 영역을 포괄하도록 설계되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "초월하다",
+    "meaning_en": "transcend",
+    "pos": "verb",
+    "example": "예산은 재정적 긴급 상황으로 인해 통과되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "우선순위를 정하다",
+    "meaning_en": "triage",
+    "pos": "noun",
+    "example": "언론은 시민적 책임을 심어주는 데 역할을 합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "일방적인",
+    "meaning_en": "unilateral",
+    "pos": "adjective",
+    "example": "어떤 정치 제도도 결코 오류가 없을 수는 없습니다; 실수는 항상 발생할 것입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "거부권",
+    "meaning_en": "veto",
+    "pos": "noun",
+    "example": "그 기자는 두 지도자의 상반된 성명을 나란히 배치했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "비난, 욕설",
+    "meaning_en": "vituperation",
+    "pos": "noun",
+    "example": "최근의 경제 성장은 대체로 활기 없는 것으로 묘사되어 왔습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "비꼬는, 씁쓸한",
+    "meaning_en": "wry",
+    "pos": "adjective",
+    "example": "보안 병력의 지속적인 주둔은 다소 눈에 거슬렸습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시대정신",
+    "meaning_en": "zeitgeist",
+    "pos": "noun",
+    "example": "그 지도자는 자신의 목표를 간결하게 요약하며 연설을 마쳤습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "판결을 내리다",
+    "meaning_en": "adjudicate",
+    "pos": "verb",
+    "example": "그 위원회는 역사적 불의를 바로잡기 위해 구성되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "합병하다, 통합하다",
+    "meaning_en": "amalgamate",
+    "pos": "verb",
+    "example": "그 정치 인터뷰는 날카로운 재치 문답의 교환으로 변했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "강화하다, 지지하다",
+    "meaning_en": "buttress",
+    "pos": "verb",
+    "example": "언론은 불명예를 안은 그 임원을 재정적 타락자로 묘사했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "불신임, 비난",
+    "meaning_en": "censure",
+    "pos": "noun",
+    "example": "연사는 거대한 군중에게 연설하기 위해 우렁찬 목소리를 사용했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "융합하다, 뒤섞다",
+    "meaning_en": "conflate",
+    "pos": "verb",
+    "example": "기자 회견은 몇몇 기자들의 공격적인 행동 이후 끝났습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "추측",
+    "meaning_en": "conjecture",
+    "pos": "noun",
+    "example": "그 장관은 자신의 자산에 대한 직접적인 질문에 불쾌해했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "해로운",
+    "meaning_en": "deleterious",
+    "pos": "adjective",
+    "example": "정부는 환경 단체로부터 끊임없는 압력에 직면해 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "윤곽을 그리다, 명확히 묘사하다",
+    "meaning_en": "delineate",
+    "pos": "verb",
+    "example": "글로벌 무역에 대한 그의 견해는 시대착오적인 것처럼 보였습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "퇴위시키다",
+    "meaning_en": "depose",
+    "pos": "verb",
+    "example": "전문가들은 그 불안정성을 체계적 실패 탓으로 돌립니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "솔직하지 못한",
+    "meaning_en": "disingenuous",
+    "pos": "adjective",
+    "example": "시장을 조작하는 정치적 비밀 결사에 대한 소문이 돌았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "이중성, 표리부동",
+    "meaning_en": "duplicity",
+    "pos": "noun",
+    "example": "그 스캔들은 복잡한 금융 사기를 포함했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "포괄하다",
+    "meaning_en": "encompass",
+    "pos": "verb",
+    "example": "그 외교관은 평화 회담을 위한 설득력 있는 주장을 제시했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "긴급 사태",
+    "meaning_en": "exigency",
+    "pos": "noun",
+    "example": "언론은 포퓰리스트 선동가들의 영향력에 대해 경고했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "주입하다, 심어주다",
+    "meaning_en": "inculcate",
+    "pos": "verb",
+    "example": "그 정치적 승리는 일시적인 것으로 판명되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "결코 틀리지 않는",
+    "meaning_en": "infallible",
+    "pos": "adjective",
+    "example": "학자들은 그 고대 조약에 대한 깊은 주해를 제공했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "병치하다, 대비시키다",
+    "meaning_en": "juxtapose",
+    "pos": "verb",
+    "example": "언론은 시민적 미덕을 심어주는 데 결정적인 역할을 합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "활기 없는, 부진한",
+    "meaning_en": "lackluster",
+    "pos": "adjective",
+    "example": "어떤 단일 기관도 그 판단에 있어 절대적으로 옳을 수는 없습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "눈에 띄는, 방해하는",
+    "meaning_en": "obtrusive",
+    "pos": "adjective",
+    "example": "그 논평은 패배에 대해 불필요하게 눈물을 자아냈습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "간결하지만 강력한",
+    "meaning_en": "pithy",
+    "pos": "adjective",
+    "example": "정부의 예상치 못한 관대함은 회의적인 반응을 맞았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "바로잡다, 보상하다",
+    "meaning_en": "redress",
+    "pos": "verb",
+    "example": "그녀는 현상 유지에 도전하는 정치적 독불장군으로 알려져 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "재치 있는 응답",
+    "meaning_en": "repartee",
+    "pos": "noun",
+    "example": "의회 회기는 시끄럽게 야유하는 사람들로 인해 방해받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "타락한 사람, 비난하다",
+    "meaning_en": "reprobate",
+    "pos": "noun",
+    "example": "실제 환경 비용에 대한 신뢰할 만한 데이터가 부족합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "목소리가 우렁찬",
+    "meaning_en": "stentorian",
+    "pos": "adjective",
+    "example": "'엘리트'라는 용어는 정치 토론에서 종종 경멸적으로 사용됩니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공격적인, 호전적인",
+    "meaning_en": "truculent",
+    "pos": "adjective",
+    "example": "두 지도자 간의 설전은 불필요하게 유치했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "불쾌, 분개",
+    "meaning_en": "umbrage",
+    "pos": "noun",
+    "example": "법원은 복잡한 관할권 문제로 곤경에 처해 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "끊임없는",
+    "meaning_en": "unremitting",
+    "pos": "adjective",
+    "example": "반항적인 주(州)들은 연방법 준수를 거부했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시대착오",
+    "meaning_en": "anachronism",
+    "pos": "noun",
+    "example": "정부는 해외에 발이 묶인 시민들을 본국으로 송환하기 위해 노력했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "돌리다, ~의 탓으로 하다",
+    "meaning_en": "ascribe",
+    "pos": "verb",
+    "example": "금융 언론은 그를 기업의 타락자로 폭로했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "음모단",
+    "meaning_en": "cabal",
+    "pos": "noun",
+    "example": "그 지도자는 정직한 조언을 제공하지 않는 아첨꾼들에게 둘러싸여 있었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "속임수, 교묘한 수법",
+    "meaning_en": "chicanery",
+    "pos": "noun",
+    "example": "이웃 국가는 협상에서 공격적인 어조를 채택했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "설득력 있는",
+    "meaning_en": "cogent",
+    "pos": "adjective",
+    "example": "그 정치인은 도덕적 타락으로 유죄 판결을 받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "선동 정치가",
+    "meaning_en": "demagogue",
+    "pos": "noun",
+    "example": "중앙은행은 금리 결정에 대해 계속 망설였습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "덧없는, 수명이 짧은",
+    "meaning_en": "ephemeral",
+    "pos": "adjective",
+    "example": "겉보기의 평온함은 깊은 내부 분열을 덮는 얇은 겉치레에 불과했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "해설, 주해",
+    "meaning_en": "exegesis",
+    "pos": "noun",
+    "example": "그 기술적 오류는 전체 선거 결과를 무효화시킬 수 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "주입하다, 심어주다",
+    "meaning_en": "inculcate",
+    "pos": "verb",
+    "example": "새 정책은 현재의 포퓰리즘적 시대정신을 포착하고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "결코 틀리지 않는",
+    "meaning_en": "infallible",
+    "pos": "adjective",
+    "example": "두 정부 부처는 내년에 합병될 것입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "눈물이 많은, 구슬픈",
+    "meaning_en": "lachrymose",
+    "pos": "adjective",
+    "example": "새로운 증거는 법무팀의 변호를 뒷받침하는 데 도움이 되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "아낌없는 기부",
+    "meaning_en": "largesse",
+    "pos": "noun",
+    "example": "그 기구는 그 의원의 직권 남용에 대해 공식적인 견책을 발표했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "독불장군, 이단아",
+    "meaning_en": "maverick",
+    "pos": "noun",
+    "example": "비평가들은 그 보고서가 상관관계를 인과관계와 혼동한다고 주장합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "다루기 힘든, 시끄러운",
+    "meaning_en": "obstreperous",
+    "pos": "adjective",
+    "example": "화재 원인은 조사가 진행 중인 가운데 추측으로 남아 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "부족",
+    "meaning_en": "paucity",
+    "pos": "noun",
+    "example": "규제 완화의 장기적인 유해한 영향이 지금 가시화되고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "경멸적인",
+    "meaning_en": "pejorative",
+    "pos": "adjective",
+    "example": "그 협정은 각 주의 책임을 신중하게 기술하고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "어리석은, 유치한",
+    "meaning_en": "puerile",
+    "pos": "adjective",
+    "example": "여당은 총리를 퇴진시킬 권한을 가졌습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "진퇴양난, 곤경",
+    "meaning_en": "quandary",
+    "pos": "noun",
+    "example": "그의 공개 성명은 그의 재정적 이중성과 극명한 대조를 이루었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "저항하는",
+    "meaning_en": "recalcitrant",
+    "pos": "adjective",
+    "example": "제안된 조약은 무역과 안보의 모든 측면을 망라할 것입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "본국으로 송환하다",
+    "meaning_en": "repatriate",
+    "pos": "verb",
+    "example": "긴급 자금은 재정적 긴급 상황으로 인해 방출되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "타락한 사람",
+    "meaning_en": "reprobate",
+    "pos": "noun",
+    "example": "군사 개입의 위협이 임박한 것으로 보입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "아첨꾼",
+    "meaning_en": "sycophant",
+    "pos": "noun",
+    "example": "그 보고서는 약속과 현실의 상황을 나란히 보여줍니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공격적인, 호전적인",
+    "meaning_en": "truculent",
+    "pos": "adjective",
+    "example": "경제 성과는 실망스러울 정도로 활기가 없었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "타락, 비열",
+    "meaning_en": "turpitude",
+    "pos": "noun",
+    "example": "정상 회담의 보안 조치는 매우 눈에 거슬렸습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "동요하다, 망설이다",
+    "meaning_en": "vacillate",
+    "pos": "verb",
+    "example": "그 지도자는 유권자들의 공감을 얻는 간결한 발언을 했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "겉모습",
+    "meaning_en": "veneer",
+    "pos": "noun",
+    "example": "그 위원회는 역사적 불의를 바로잡기 위해 구성되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "손상시키다, 무효화하다",
+    "meaning_en": "vitiate",
+    "pos": "verb",
+    "example": "그 정치 인터뷰는 날카로운 재치 문답의 교환으로 변했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시대정신",
+    "meaning_en": "zeitgeist",
+    "pos": "noun",
+    "example": "언론은 불명예를 안은 그 임원을 재정적 타락자로 묘사했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "통합하다",
+    "meaning_en": "amalgamate",
+    "pos": "verb",
+    "example": "연사는 거대한 군중에게 연설하기 위해 우렁찬 목소리를 사용했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "강화하다, 지지하다",
+    "meaning_en": "buttress",
+    "pos": "verb",
+    "example": "기자 회견은 몇몇 기자들의 공격적인 행동 이후 끝났습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "불신임, 비난",
+    "meaning_en": "censure",
+    "pos": "noun",
+    "example": "그 장관은 자신의 자산에 대한 직접적인 질문에 불쾌해했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "융합하다, 뒤섞다",
+    "meaning_en": "conflate",
+    "pos": "verb",
+    "example": "정부는 환경 단체로부터 끊임없는 압력에 직면해 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "추측",
+    "meaning_en": "conjecture",
+    "pos": "noun",
+    "example": "그 정치 연설은 오래된 약속들의 공허한 반복이었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "해로운",
+    "meaning_en": "deleterious",
+    "pos": "adjective",
+    "example": "그 정치인은 아첨하는 보좌관들에게 둘러싸여 있었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "윤곽을 그리다",
+    "meaning_en": "delineate",
+    "pos": "verb",
+    "example": "그 뉴스 출처는 거짓 보도로 인해 플래그(경고 표시) 처리되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "퇴위시키다",
+    "meaning_en": "depose",
+    "pos": "verb",
+    "example": "그 질문에 대한 그의 무례한 답변은 광범위한 비판을 받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "이중성",
+    "meaning_en": "duplicity",
+    "pos": "noun",
+    "example": "그 금융 전문가는 단순한 사기꾼으로 드러났습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "포괄하다",
+    "meaning_en": "encompass",
+    "pos": "verb",
+    "example": "반란을 일으킨 파벌은 정부의 요구에 굴복하기를 거부했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "긴급 사태",
+    "meaning_en": "exigency",
+    "pos": "noun",
+    "example": "외무장관은 적대국과의 배신적인 거래로 비난받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "임박한",
+    "meaning_en": "imminent",
+    "pos": "adjective",
+    "example": "그 나라는 무역 전쟁에서 불명예스러운 패배를 겪었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "병치하다",
+    "meaning_en": "juxtapose",
+    "pos": "verb",
+    "example": "그 독재자의 의도는 외국 분석가들에게 여전히 헤아릴 수 없습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "활기 없는",
+    "meaning_en": "lackluster",
+    "pos": "adjective",
+    "example": "그 CEO는 중대한 재정적 위법 행위로 기소되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "눈에 띄는, 방해하는",
+    "meaning_en": "obtrusive",
+    "pos": "adjective",
+    "example": "그 법률 보고서는 지루하고 지나치게 전문적인 문서였습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "간결하지만 강력한",
+    "meaning_en": "pithy",
+    "pos": "adjective",
+    "example": "그 정치인은 토론을 피했다는 이유로 소심하다고 비판받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "바로잡다, 보상하다",
+    "meaning_en": "redress",
+    "pos": "verb",
+    "example": "한때 불안정했던 그 지역은 최근 이상하게도 조용합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "재치 있는 응답",
+    "meaning_en": "repartee",
+    "pos": "noun",
+    "example": "노조의 완강한 반대로 새 계약서 서명이 지연되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "타락한 사람, 비난하다",
+    "meaning_en": "reprobate",
+    "pos": "noun",
+    "example": "언론의 자유 원칙은 신성불가침으로 간주됩니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "목소리가 우렁찬",
+    "meaning_en": "stentorian",
+    "pos": "adjective",
+    "example": "새로운 관료주의는 혁신을 무력화시킬 뿐입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공격적인, 호전적인",
+    "meaning_en": "truculent",
+    "pos": "adjective",
+    "example": "그 캠페인은 유권자들에게 영향을 미치기 위해 잠재의식적 메시지를 사용했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "불쾌, 분개",
+    "meaning_en": "umbrage",
+    "pos": "noun",
+    "example": "그 합의는 공식적인 회담이 아닌 암묵적인 동의를 통해 이루어졌습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "끊임없는",
+    "meaning_en": "unremitting",
+    "pos": "adjective",
+    "example": "스마트 기기의 보편화는 정치 캠페인 방식을 변화시켰습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "흥미롭지 못한",
+    "meaning_en": "vapid",
+    "pos": "adjective",
+    "example": "그 보고서는 규제 없는 시장 자본주의의 위험성을 경고합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "아첨하는",
+    "meaning_en": "sycophantic",
+    "pos": "adjective",
+    "example": "그 기사는 그 회사가 환경법을 제멋대로 무시했다고 비난했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "거짓말하는",
+    "meaning_en": "mendacious",
+    "pos": "adjective",
+    "example": "그 후보의 매력적인 성격은 부동층 유권자들에게 어필했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "무례한",
+    "meaning_en": "churlish",
+    "pos": "adjective",
+    "example": "여당에 대한 대중의 반감이 커지고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사기꾼",
+    "meaning_en": "charlatan",
+    "pos": "noun",
+    "example": "그 회사는 독재적인 경영 스타일 하에 운영됩니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "굴복하다",
+    "meaning_en": "capitulate",
+    "pos": "verb",
+    "example": "그 공식 성명은 사실적 근거가 완전히 결여되어 있었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "불성실한, 배신하는",
+    "meaning_en": "perfidious",
+    "pos": "adjective",
+    "example": "선거 결과는 법적 속임수를 통해 조작된 것으로 알려졌습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "불명예스러운",
+    "meaning_en": "ignominious",
+    "pos": "adjective",
+    "example": "위원회는 책임의 정확한 경계 확정을 위해 노력하고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "헤아릴 수 없는",
+    "meaning_en": "inscrutable",
+    "pos": "adjective",
+    "example": "그 기자의 스타일은 종종 너무 산만하다는 비판을 받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "불법 행위",
+    "meaning_en": "malfeasance",
+    "pos": "noun",
+    "example": "장기화되는 위기는 경제를 약화시킬 위험이 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "과장된",
+    "meaning_en": "turgid",
+    "pos": "adjective",
+    "example": "유출된 이메일은 잠재적으로 그 장관에게 죄를 씌울 수 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소심한",
+    "meaning_en": "pusillanimous",
+    "pos": "adjective",
+    "example": "교활한 선전 활동의 증가는 전 세계적인 우려 사항입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "정지한, 조용한",
+    "meaning_en": "quiescent",
+    "pos": "adjective",
+    "example": "정치적 무관심은 최근 선거에서 낮은 투표율로 이어졌습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "저항",
+    "meaning_en": "recalcitrance",
+    "pos": "noun",
+    "example": "그 회사는 소송을 매우 좋아하는 성향으로 알려져 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "신성불가침의",
+    "meaning_en": "sacrosanct",
+    "pos": "adjective",
+    "example": "시장은 불확실한 뉴스에 종종 변덕스럽게 반응합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "무효화하다, 바보처럼 보이게 하다",
+    "meaning_en": "stultify",
+    "pos": "verb",
+    "example": "새로운 보안 프로토콜은 추가 모니터링의 필요성을 없애줄 것입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "잠재의식적인",
+    "meaning_en": "subliminal",
+    "pos": "adjective",
+    "example": "정치 토론은 종종 편협한(지역적인) 관심사로 전락합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "암묵적인",
+    "meaning_en": "tacit",
+    "pos": "adjective",
+    "example": "그는 그 계약으로 어떠한 금전적 이득도 받지 않았다고 부인했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "편재",
+    "meaning_en": "ubiquity",
+    "pos": "noun",
+    "example": "그 통찰력 있는 분석가는 시장 붕괴를 정확하게 예측했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "제한 없는",
+    "meaning_en": "unfettered",
+    "pos": "adjective",
+    "example": "그 지도자의 연설은 공허한 정치적 상투어구로 가득 차 있었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "존경할 만한",
+    "meaning_en": "venerable",
+    "pos": "adjective",
+    "example": "정부는 사치품에 대한 방탕한 지출로 비난받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "부주의한, 무자비한",
+    "meaning_en": "wanton",
+    "pos": "adjective",
+    "example": "그 회사는 논란의 여지가 있는 노동 관행에 대해 그럴싸한 주장을 했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "매력 있는",
+    "meaning_en": "winsome",
+    "pos": "adjective",
+    "example": "언론의 보도는 지역 사회 전체에 낙인을 찍을 위험이 있었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "반감",
+    "meaning_en": "antipathy",
+    "pos": "noun",
+    "example": "그 단체는 체제 전복 활동에 가담한 혐의로 조사를 받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "독재적인",
+    "meaning_en": "autocratic",
+    "pos": "adjective",
+    "example": "그 뉴스 보도는 매우 편파적이라는 비판을 받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "결여된",
+    "meaning_en": "bereft",
+    "pos": "adjective",
+    "example": "그 스캔들은 정부에 대한 대중의 신뢰를 훼손할 위험이 있었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "속임수",
+    "meaning_en": "chicanery",
+    "pos": "noun",
+    "example": "그 CEO는 강도 높은 반대 심문 중에도 침착함을 유지했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "경계 설정",
+    "meaning_en": "demarcation",
+    "pos": "noun",
+    "example": "그 기자는 악의에 찬 온라인 설전 끝에 사임했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "산만한",
+    "meaning_en": "discursive",
+    "pos": "adjective",
+    "example": "민족주의의 부상은 국경 지역의 외국인 혐오를 부채질했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "기력을 떨어뜨리다",
+    "meaning_en": "enervate",
+    "pos": "verb",
+    "example": "그 기업은 이번 분기에 기록적인 수익을 발표했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "죄를 씌우다",
+    "meaning_en": "inculpate",
+    "pos": "verb",
+    "example": "이곳은 전 세계적인 영향력을 가진 성공적인 기업입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "음흉한, 교활한",
+    "meaning_en": "insidious",
+    "pos": "adjective",
+    "example": "그 대기업은 여러 산업에 걸쳐 다수의 자회사를 소유하고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "나른함, 권태",
+    "meaning_en": "lassitude",
+    "pos": "noun",
+    "example": "그 회사는 아시아의 주요 자회사를 인수했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소송을 좋아하는",
+    "meaning_en": "litigious",
+    "pos": "adjective",
+    "example": "모든 이해관계자가 합병 계약을 승인해야 합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "변덕스러운",
+    "meaning_en": "mercurial",
+    "pos": "adjective",
+    "example": "그 회사는 주주들에게 배당금 지급을 늘렸습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "미연에 방지하다",
+    "meaning_en": "obviate",
+    "pos": "verb",
+    "example": "경쟁사 인수는 우리의 시장 지위를 강화했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "편협한",
+    "meaning_en": "parochial",
+    "pos": "adjective",
+    "example": "그 합병으로 업계에서 가장 큰 회사가 탄생했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "금전상의",
+    "meaning_en": "pecuniary",
+    "pos": "adjective",
+    "example": "그 회사는 파산 선고 후 청산에 직면했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "통찰력 있는",
+    "meaning_en": "perspicacious",
+    "pos": "adjective",
+    "example": "그 회사는 인수를 위한 자금을 조달하기 위해 레버리지를 사용했습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "뻔한 말",
+    "meaning_en": "platitude",
+    "pos": "noun",
+    "example": "주주들은 그 회사의 지분을 소유합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "낭비하는",
+    "meaning_en": "profligate",
+    "pos": "adjective",
+    "example": "그 회사의 부채가 자산을 초과합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "허울 좋은",
+    "meaning_en": "specious",
+    "pos": "adjective",
+    "example": "투자 포트폴리오에는 주식과 채권이 포함됩니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "낙인찍다",
+    "meaning_en": "stigmatize",
+    "pos": "verb",
+    "example": "올해 이익 마진이 상당히 개선되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "체제 전복적인",
+    "meaning_en": "subversive",
+    "pos": "adjective",
+    "example": "그 스타트업은 벤처 캐피털 투자자들로부터 자금을 지원받았습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "편향적인",
+    "meaning_en": "tendentious",
+    "pos": "adjective",
+    "example": "그 회사는 내년에 IPO(기업공개)로 상장할 계획입니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "약화시키다",
+    "meaning_en": "undermine",
+    "pos": "verb",
+    "example": "회계 연도는 기록적인 순이익으로 마감되었습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "동요하지 않는",
+    "meaning_en": "unflappable",
+    "pos": "adjective",
+    "example": "그 회사의 급여 비용은 매년 상승하고 있습니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "욕설을 퍼붓는",
+    "meaning_en": "vituperative",
+    "pos": "adjective",
+    "example": "수익성을 개선하기 위해 간접비를 줄여야 합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "외국인 혐오",
+    "meaning_en": "xenophobia",
+    "pos": "noun",
+    "example": "운영 효율성은 성공에 매우 중요합니다.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
   }
 ]

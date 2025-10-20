@@ -1,385 +1,2201 @@
 [
   {
-    "word": "articulate",
-    "meaning_ko": "articulate",
-    "pos": "noun",
-    "example": "This is an example with articulate.",
+    "word": "따르다, 준수하다",
+    "meaning_en": "abide",
+    "pos": "verb",
+    "example": "저는 무엇을 해야 할지에 대한 도덕적 딜레마에 직면해 있습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "eloquent",
-    "meaning_ko": "eloquent",
-    "pos": "noun",
-    "example": "This is an example with eloquent.",
+    "word": "고수하다",
+    "meaning_en": "adhere",
+    "pos": "verb",
+    "example": "두 보고서 사이에는 눈에 띄는 불일치가 있습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "rhetoric",
-    "meaning_ko": "rhetoric",
-    "pos": "noun",
-    "example": "This is an example with rhetoric.",
+    "word": "완화시키다",
+    "meaning_en": "alleviate",
+    "pos": "verb",
+    "example": "언론의 임무는 뉴스를 신속하게 전파하는 것입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "diplomatic",
-    "meaning_ko": "diplomatic",
-    "pos": "noun",
-    "example": "This is an example with diplomatic.",
+    "word": "모호한",
+    "meaning_en": "ambiguous",
+    "pos": "adjective",
+    "example": "진짜와 가짜를 구별하기는 어렵습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "tactful",
-    "meaning_ko": "tactful",
-    "pos": "noun",
-    "example": "This is an example with tactful.",
+    "word": "개선하다, 더 좋게 만들다",
+    "meaning_en": "ameliorate",
+    "pos": "verb",
+    "example": "두 길은 다리 이후로 갈라집니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "assertive",
-    "meaning_ko": "assertive",
+    "word": "불안, 염려",
+    "meaning_en": "apprehension",
     "pos": "noun",
-    "example": "This is an example with assertive.",
+    "example": "그 산업은 역동적으로 끊임없이 변화하고 있습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "confrontation",
-    "meaning_ko": "confrontation",
-    "pos": "noun",
-    "example": "This is an example with confrontation.",
+    "word": "임의적인, 독단적인",
+    "meaning_en": "arbitrary",
+    "pos": "adjective",
+    "example": "그 설문 조사는 소비자 피드백을 이끌어내는 것을 목표로 합니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "mediation",
-    "meaning_ko": "mediation",
-    "pos": "noun",
-    "example": "This is an example with mediation.",
+    "word": "확인하다, 알아내다",
+    "meaning_en": "ascertain",
+    "pos": "verb",
+    "example": "당신의 제안의 핵심 사항들을 명확히 설명해 주시겠어요?",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "reconciliation",
-    "meaning_ko": "reconciliation",
-    "pos": "noun",
-    "example": "This is an example with reconciliation.",
+    "word": "~의 탓으로 돌리다",
+    "meaning_en": "attribute",
+    "pos": "verb",
+    "example": "그 과정은 광범위한 주제를 망라합니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "discourse",
-    "meaning_ko": "discourse",
-    "pos": "noun",
-    "example": "This is an example with discourse.",
+    "word": "증가시키다, 늘리다",
+    "meaning_en": "augment",
+    "pos": "verb",
+    "example": "그 일은 많은 해외 출장을 수반할 것입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "dialogue",
-    "meaning_ko": "dialogue",
+    "word": "편견",
+    "meaning_en": "bias",
     "pos": "noun",
-    "example": "This is an example with dialogue.",
+    "example": "우리는 자원의 공평한 분배를 추구합니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "monologue",
-    "meaning_ko": "monologue",
-    "pos": "noun",
-    "example": "This is an example with monologue.",
+    "word": "측정하다, 조정하다",
+    "meaning_en": "calibrate",
+    "pos": "verb",
+    "example": "목표는 이 지역의 빈곤을 근절하는 것입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "soliloquy",
-    "meaning_ko": "soliloquy",
-    "pos": "noun",
-    "example": "This is an example with soliloquy.",
+    "word": "응집력 있는",
+    "meaning_en": "cohesive",
+    "pos": "adjective",
+    "example": "그는 직접적인 질문에 대한 답변을 회피하려 했습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "vernacular",
-    "meaning_ko": "vernacular",
-    "pos": "noun",
-    "example": "This is an example with vernacular.",
+    "word": "시작하다",
+    "meaning_en": "commence",
+    "pos": "verb",
+    "example": "달리기는 당신의 무릎 부상을 악화시킬 뿐입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "colloquial",
-    "meaning_ko": "colloquial",
-    "pos": "noun",
-    "example": "This is an example with colloquial.",
+    "word": "인정하다, 양보하다",
+    "meaning_en": "concede",
+    "pos": "verb",
+    "example": "선생님은 그 어려운 시를 설명해야 했습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "jargon",
-    "meaning_ko": "jargon",
-    "pos": "noun",
-    "example": "This is an example with jargon.",
+    "word": "동시에 발생하는",
+    "meaning_en": "concurrent",
+    "pos": "adjective",
+    "example": "우리는 제안된 계획이 실현 가능한지 확인할 필요가 있습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "euphemism",
-    "meaning_ko": "euphemism",
-    "pos": "noun",
-    "example": "This is an example with euphemism.",
+    "word": "제한하다, 국한시키다",
+    "meaning_en": "confine",
+    "pos": "verb",
+    "example": "주가는 하루 종일 변동합니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "metaphor",
-    "meaning_ko": "metaphor",
+    "word": "추측",
+    "meaning_en": "conjecture",
     "pos": "noun",
-    "example": "This is an example with metaphor.",
+    "example": "저는 그 회의의 최종 결과를 예견할 수 있었습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "analogy",
-    "meaning_ko": "analogy",
+    "word": "합의, 의견 일치",
+    "meaning_en": "consensus",
     "pos": "noun",
-    "example": "This is an example with analogy.",
+    "example": "그녀는 자신의 아이디어들을 신중하게 정리하여 명확한 진술로 만들었습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "inference",
-    "meaning_ko": "inference",
-    "pos": "noun",
-    "example": "This is an example with inference.",
+    "word": "강요하다, 제약하다",
+    "meaning_en": "constrain",
+    "pos": "verb",
+    "example": "악천후가 구조 노력을 방해했습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "connotation",
-    "meaning_ko": "connotation",
-    "pos": "noun",
-    "example": "This is an example with connotation.",
+    "word": "심사숙고하다",
+    "meaning_en": "contemplate",
+    "pos": "verb",
+    "example": "그 마을은 문화적으로 동질적인 공동체입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "denotation",
-    "meaning_ko": "denotation",
-    "pos": "noun",
-    "example": "This is an example with denotation.",
+    "word": "관습적인, 전통적인",
+    "meaning_en": "conventional",
+    "pos": "adjective",
+    "example": "과학자들은 우주의 기원에 대해 가설을 세웁니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "ambiguity",
-    "meaning_ko": "ambiguity",
-    "pos": "noun",
-    "example": "This is an example with ambiguity.",
+    "word": "모여들다, 수렴하다",
+    "meaning_en": "converge",
+    "pos": "verb",
+    "example": "그 연설은 항의의 물결을 촉발했습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "nuance",
-    "meaning_ko": "nuance",
-    "pos": "noun",
-    "example": "This is an example with nuance.",
+    "word": "확증하다, 입증하다",
+    "meaning_en": "corroborate",
+    "pos": "verb",
+    "example": "그녀는 자신의 지식을 학생들에게 전수하고자 했습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "subtlety",
-    "meaning_ko": "subtlety",
+    "word": "기준",
+    "meaning_en": "criterion",
     "pos": "noun",
-    "example": "This is an example with subtlety.",
+    "example": "그 호텔의 서비스는 정말 흠잡을 데가 없었습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "implication",
-    "meaning_ko": "implication",
-    "pos": "noun",
-    "example": "This is an example with implication.",
+    "word": "결정적인, 중대한",
+    "meaning_en": "crucial",
+    "pos": "adjective",
+    "example": "우리가 즉시 행동하는 것이 필수적입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "persuasion",
-    "meaning_ko": "persuasion",
-    "pos": "noun",
-    "example": "This is an example with persuasion.",
+    "word": "추론하다",
+    "meaning_en": "deduce",
+    "pos": "verb",
+    "example": "그들 사이에는 암묵적인 이해가 있었습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "manipulation",
-    "meaning_ko": "manipulation",
+    "word": "결핍, 부족",
+    "meaning_en": "deficiency",
     "pos": "noun",
-    "example": "This is an example with manipulation.",
+    "example": "저는 실수로 중요한 파일을 삭제했습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "propaganda",
-    "meaning_ko": "propaganda",
-    "pos": "noun",
-    "example": "This is an example with propaganda.",
+    "word": "고의적인, 신중한",
+    "meaning_en": "deliberate",
+    "pos": "adjective",
+    "example": "그 회사는 높은 성과에 대해 재정적 인센티브를 제공합니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "eloquence",
-    "meaning_ko": "eloquence",
-    "pos": "noun",
-    "example": "This is an example with eloquence.",
+    "word": "나타내다, 의미하다",
+    "meaning_en": "denote",
+    "pos": "verb",
+    "example": "코알라는 호주가 원산지입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "articulation",
-    "meaning_ko": "articulation",
-    "pos": "noun",
-    "example": "This is an example with articulation.",
+    "word": "묘사하다, 그리다",
+    "meaning_en": "depict",
+    "pos": "verb",
+    "example": "변화는 삶의 피할 수 없는 부분입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "deliberation",
-    "meaning_ko": "deliberation",
-    "pos": "noun",
-    "example": "This is an example with deliberation.",
+    "word": "~에서 얻다, 유래하다",
+    "meaning_en": "derive",
+    "pos": "verb",
+    "example": "그 작품을 복제하는 것은 저작권법을 침해하는 것입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "contemplation",
-    "meaning_ko": "contemplation",
-    "pos": "noun",
-    "example": "This is an example with contemplation.",
+    "word": "악화되다",
+    "meaning_en": "deteriorate",
+    "pos": "verb",
+    "example": "거의 모든 스포츠에는 내재된 위험이 있습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "rumination",
-    "meaning_ko": "rumination",
-    "pos": "noun",
-    "example": "This is an example with rumination.",
+    "word": "고안하다, 발명하다",
+    "meaning_en": "devise",
+    "pos": "verb",
+    "example": "그녀는 사람들과 교감하는 타고난 능력을 가지고 있습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "introspection",
-    "meaning_ko": "introspection",
-    "pos": "noun",
-    "example": "This is an example with introspection.",
+    "word": "널리 퍼뜨리다, 확산시키다",
+    "meaning_en": "diffuse",
+    "pos": "verb",
+    "example": "우리는 새 시스템을 기존 시스템과 통합해야 합니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "retrospection",
-    "meaning_ko": "retrospection",
+    "word": "딜레마, 진퇴양난",
+    "meaning_en": "dilemma",
     "pos": "noun",
-    "example": "This is an example with retrospection.",
+    "example": "정부가 파업을 중단시키기 위해 개입했습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "philosophical",
-    "meaning_ko": "philosophical",
+    "word": "불일치, 차이",
+    "meaning_en": "discrepancy",
     "pos": "noun",
-    "example": "This is an example with philosophical.",
+    "example": "그 시계는 복잡한 메커니즘을 가지고 있었습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "theoretical",
-    "meaning_ko": "theoretical",
-    "pos": "noun",
-    "example": "This is an example with theoretical.",
+    "word": "퍼뜨리다, 전파하다",
+    "meaning_en": "disseminate",
+    "pos": "verb",
+    "example": "떠나기로 한 결정은 돌이킬 수 없었습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "abstract",
-    "meaning_ko": "abstract",
-    "pos": "noun",
-    "example": "This is an example with abstract.",
+    "word": "구별하다",
+    "meaning_en": "distinguish",
+    "pos": "verb",
+    "example": "그 회사의 유산은 혁신 중 하나입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "conceptual",
-    "meaning_ko": "conceptual",
-    "pos": "noun",
-    "example": "This is an example with conceptual.",
+    "word": "갈라지다, 벗어나다",
+    "meaning_en": "diverge",
+    "pos": "verb",
+    "example": "우리는 그 거래를 성사시키기 위해 우리의 인맥을 활용할 수 있습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "hypothetical",
-    "meaning_ko": "hypothetical",
-    "pos": "noun",
-    "example": "This is an example with hypothetical.",
+    "word": "역동적인, 활발한",
+    "meaning_en": "dynamic",
+    "pos": "adjective",
+    "example": "그 질병은 종종 고열로 나타납니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "speculative",
-    "meaning_ko": "speculative",
-    "pos": "noun",
-    "example": "This is an example with speculative.",
+    "word": "끌어내다, 유도하다",
+    "meaning_en": "elicit",
+    "pos": "verb",
+    "example": "우리는 환경 피해를 완화하기 위해 조치를 취해야 합니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "intellectual",
-    "meaning_ko": "intellectual",
-    "pos": "noun",
-    "example": "This is an example with intellectual.",
+    "word": "설명하다, 명확히 하다",
+    "meaning_en": "elucidate",
+    "pos": "verb",
+    "example": "연사는 진정성 있게 들리기 위해 그의 어조를 조절할 필요가 있습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "cognitive",
-    "meaning_ko": "cognitive",
-    "pos": "noun",
-    "example": "This is an example with cognitive.",
+    "word": "포괄하다, 포함하다",
+    "meaning_en": "encompass",
+    "pos": "verb",
+    "example": "저는 사무실 생활의 평범한 일상에 싫증이 났습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "analytical",
-    "meaning_ko": "analytical",
-    "pos": "noun",
-    "example": "This is an example with analytical.",
+    "word": "수반하다",
+    "meaning_en": "entail",
+    "pos": "verb",
+    "example": "새로운 증거는 그의 이전 증언을 부정했습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "critical",
-    "meaning_ko": "critical",
-    "pos": "noun",
-    "example": "This is an example with critical.",
+    "word": "공정한, 공평한",
+    "meaning_en": "equitable",
+    "pos": "adjective",
+    "example": "그녀는 그 언어의 미묘한 뉘앙스를 이해했습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "rational",
-    "meaning_ko": "rational",
-    "pos": "noun",
-    "example": "This is an example with rational.",
+    "word": "근절하다",
+    "meaning_en": "eradicate",
+    "pos": "verb",
+    "example": "법은 부모가 자녀를 학교에 보내도록 의무화하고 있습니다.",
     "level": "원어민수준",
     "category": "일상회화"
   },
   {
-    "word": "logical",
-    "meaning_ko": "logical",
+    "word": "피하다, 모면하다",
+    "meaning_en": "evade",
+    "pos": "verb",
+    "example": "그 전문 용어는 비전문가들이 그 문서를 이해하기 어렵게 만들었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "악화시키다",
+    "meaning_en": "exacerbate",
+    "pos": "verb",
+    "example": "그 발견은 기존의 과학적 패러다임을 바꿨습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "상세히 설명하다",
+    "meaning_en": "explicate",
+    "pos": "verb",
+    "example": "현재 경제 상황을 어떻게 보시나요?",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "실현 가능한",
+    "meaning_en": "feasible",
+    "pos": "adjective",
+    "example": "그 갑작스러운 질문은 연사를 매우 당혹스럽게 했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "변동하다",
+    "meaning_en": "fluctuate",
+    "pos": "verb",
+    "example": "그 사건과 관련된 사실에만 집중해 주세요.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "예견하다",
+    "meaning_en": "foresee",
+    "pos": "verb",
+    "example": "그녀는 그 문제 해결에 실용적인 접근 방식을 취했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "명확히 표현하다, 공식화하다",
+    "meaning_en": "formulate",
+    "pos": "verb",
+    "example": "서론은 보고서의 본론보다 앞에 나옵니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "방해하다, 저해하다",
+    "meaning_en": "hinder",
+    "pos": "verb",
+    "example": "그 질병은 열대 지역에서 더 널리 퍼져 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "동종의, 균일한",
+    "meaning_en": "homogenous",
+    "pos": "adjective",
+    "example": "그 합병에 대한 소문이 빠르게 확산되기 시작했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "가설을 세우다",
+    "meaning_en": "hypothesize",
+    "pos": "verb",
+    "example": "그 학교는 역과의 근접성 때문에 가치가 높습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "불을 붙이다, 촉발시키다",
+    "meaning_en": "ignite",
+    "pos": "verb",
+    "example": "행복을 수량화하기는 어렵습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "전달하다, 주다",
+    "meaning_en": "impart",
+    "pos": "verb",
+    "example": "요점들을 간략하게 요약해 보겠습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "흠 잡을 데 없는",
+    "meaning_en": "impeccable",
+    "pos": "adjective",
+    "example": "그 무역 협정은 상호주의에 기반을 두고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "필수적인, 의무적인",
+    "meaning_en": "imperative",
+    "pos": "adjective",
+    "example": "이 두 가지 상반된 견해를 조화시키기는 어렵습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "암시적인, 내포된",
+    "meaning_en": "implicit",
+    "pos": "adjective",
+    "example": "'past history(지난 역사)' 둘 다 사용하는 것은 완전히 중복됩니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "무심코, 부주의로",
+    "meaning_en": "inadvertently",
+    "pos": "adverb",
+    "example": "그 증거는 그 이론을 강화하는 데 도움이 됩니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "장려책, 동기 부여",
+    "meaning_en": "incentive",
     "pos": "noun",
-    "example": "This is an example with logical.",
+    "example": "그 실험 결과는 재현하기 어려웠습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "토착의, 고유의",
+    "meaning_en": "indigenous",
+    "pos": "adjective",
+    "example": "그녀의 정서적 회복력은 그녀가 상실감에 대처하는 데 도움이 되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "피할 수 없는",
+    "meaning_en": "inevitable",
+    "pos": "adjective",
+    "example": "돌이켜보면, 나는 그 일자리 제안을 받아들였어야 했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "위반하다, 침해하다",
+    "meaning_en": "infringe",
+    "pos": "verb",
+    "example": "그 회계사는 재무 기록을 면밀히 조사했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "내재된, 고유의",
+    "meaning_en": "inherent",
+    "pos": "adjective",
+    "example": "저는 그 회사의 과감한 주장에 대해 회의적입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "타고난",
+    "meaning_en": "innate",
+    "pos": "adjective",
+    "example": "우리는 그의 사임 이유에 대해 추측만 할 수 있을 뿐입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "통합하다",
+    "meaning_en": "integrate",
+    "pos": "verb",
+    "example": "당신은 당신의 주장을 데이터로 입증해야 합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "개입하다",
+    "meaning_en": "intervene",
+    "pos": "verb",
+    "example": "그 여배우는 그 역할의 감정적 미묘함을 전달했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "복잡한, 정교한",
+    "meaning_en": "intricate",
+    "pos": "adjective",
+    "example": "외모에 근거한 피상적인 판단을 피하세요.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "(법 등을) 발동하다, 언급하다",
+    "meaning_en": "invoke",
+    "pos": "verb",
+    "example": "그의 성과는 우리의 모든 기대를 뛰어넘었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "돌이킬 수 없는",
+    "meaning_en": "irrevocable",
+    "pos": "adjective",
+    "example": "그 합병은 두 부서 간의 예상치 못한 시너지를 창출했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "유산",
+    "meaning_en": "legacy",
+    "pos": "noun",
+    "example": "우리는 단순한 소문이 아닌 구체적인 증거가 필요합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "(영향력 등을) 활용하다",
+    "meaning_en": "leverage",
+    "pos": "verb",
+    "example": "두 사건 사이의 연관성은 다소 미약합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "나타내다, 명백히 하다",
+    "meaning_en": "manifest",
+    "pos": "verb",
+    "example": "스마트폰은 현대 사회에서 어디에나 존재하게 되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "완화시키다",
+    "meaning_en": "mitigate",
+    "pos": "verb",
+    "example": "배심원단은 만장일치로 평결에 도달했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "조절하다, 바꾸다",
+    "meaning_en": "modulate",
+    "pos": "verb",
+    "example": "최근의 비극은 더 나은 안전의 필요성을 강조합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "평범한, 일상적인",
+    "meaning_en": "mundane",
+    "pos": "adjective",
+    "example": "그 위기는 전례 없는 규모에 도달했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "무효화하다, 부정하다",
+    "meaning_en": "negate",
+    "pos": "verb",
+    "example": "그 연구 결과는 새로운 가설을 입증합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "미묘한 차이",
+    "meaning_en": "nuance",
+    "pos": "noun",
+    "example": "우리는 상업적으로 실행 가능한 전략을 찾아야 합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "의무적으로 만들다, 돕다",
+    "meaning_en": "oblige",
+    "pos": "verb",
+    "example": "세계 석유 시장은 여전히 변동성이 매우 큽니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "불투명한, 이해하기 어려운",
+    "meaning_en": "opaque",
+    "pos": "adjective",
+    "example": "그의 부진한 성과는 즉각적인 해고를 정당화합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "패러다임, 전형적인 예",
+    "meaning_en": "paradigm",
+    "pos": "noun",
+    "example": "그 실험은 흥미로운 결과를 내놓을 것입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "인지하다, 인식하다",
+    "meaning_en": "perceive",
+    "pos": "verb",
+    "example": "저는 그 논란의 여지가 있는 안건에 대한 투표를 기권하기로 했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "당황하게 하다, 난처하게 하다",
+    "meaning_en": "perplex",
+    "pos": "verb",
+    "example": "그는 과학에 대한 공헌으로 최고의 영예를 받았습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "적절한, 관련된",
+    "meaning_en": "pertinent",
+    "pos": "adjective",
+    "example": "선생님은 부정행위를 한 학생을 훈계해야 했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "실용적인",
+    "meaning_en": "pragmatic",
+    "pos": "adjective",
+    "example": "그녀의 작업은 순수한 이타주의에 의해 추진됩니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "선행하다, ~보다 앞서다",
+    "meaning_en": "precede",
+    "pos": "verb",
+    "example": "새로운 문화에 동화되는 데는 시간이 걸립니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "널리 퍼져있는, 일반적인",
+    "meaning_en": "prevalent",
+    "pos": "adjective",
+    "example": "봄 날씨는 꽤 변덕스러울 수 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "증식하다, 급증하다",
+    "meaning_en": "proliferate",
+    "pos": "verb",
+    "example": "그의 급여는 그의 경력에 상응합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "근접성, 가까움",
+    "meaning_en": "proximity",
+    "pos": "noun",
+    "example": "이 책은 중세 철학의 개요서입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "정량화하다",
+    "meaning_en": "quantify",
+    "pos": "verb",
+    "example": "조용한 분위기는 공부에 도움이 됩니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "요점을 되풀이하다, 요약하다",
+    "meaning_en": "recapitulate",
+    "pos": "verb",
+    "example": "영생의 문제는 여전히 깊은 난제로 남아 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "상호 호혜",
+    "meaning_en": "reciprocity",
+    "pos": "noun",
+    "example": "흡연은 건강에 명백히 해로운 영향을 미칩니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "화해시키다, 일치시키다",
+    "meaning_en": "reconcile",
+    "pos": "verb",
+    "example": "새 울타리는 사유지 경계를 구분합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "불필요한, 남아도는",
+    "meaning_en": "redundant",
+    "pos": "adjective",
+    "example": "그 팀 구성원들은 서로 다른 배경 출신이었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "강화하다",
+    "meaning_en": "reinforce",
+    "pos": "verb",
+    "example": "부유층과 빈곤층 사이에는 상당한 격차가 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "복제하다, 되풀이하다",
+    "meaning_en": "replicate",
+    "pos": "verb",
+    "example": "그 연구는 신약의 효능을 확인했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "회복력, 탄력",
+    "meaning_en": "resilience",
+    "pos": "noun",
+    "example": "그녀의 발언은 청중들로부터 폭소를 이끌어 냈습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "회상, 회고",
+    "meaning_en": "retrospect",
+    "pos": "noun",
+    "example": "그는 자신의 이야기를 더 흥미롭게 만들기 위해 과장하는 경향이 있었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "정밀 조사하다",
+    "meaning_en": "scrutinize",
+    "pos": "verb",
+    "example": "현대 사회에서 명성은 종종 덧없는 것입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "회의적인",
+    "meaning_en": "skeptical",
+    "pos": "adjective",
+    "example": "그 정치인은 스캔들에 대해 질문을 받자 얼버무리려 했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "추측하다, 투기하다",
+    "meaning_en": "speculate",
+    "pos": "verb",
+    "example": "저 관광지의 물가는 터무니없이 비쌉니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "입증하다",
+    "meaning_en": "substantiate",
+    "pos": "verb",
+    "example": "우리는 필수 부품의 배송을 신속히 처리해야 합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "미묘함, 섬세함",
+    "meaning_en": "subtlety",
+    "pos": "noun",
+    "example": "그는 고객의 자산을 보호해야 할 수탁자의 의무가 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "표면적인",
+    "meaning_en": "superficial",
+    "pos": "adjective",
+    "example": "그것은 내 경력의 진로를 바꾼 행운의 만남이었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "능가하다",
+    "meaning_en": "surpass",
+    "pos": "verb",
+    "example": "그 표본 집단은 실험을 위해 의도적으로 동질적으로 구성되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "시너지, 협력 작용",
+    "meaning_en": "synergy",
+    "pos": "noun",
+    "example": "순전히 가상적인 시나리오를 고려해 봅시다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "유형의, 만질 수 있는",
+    "meaning_en": "tangible",
+    "pos": "adjective",
+    "example": "그 현대 조각품은 고대 사원 안에서 이질적으로 보였습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "미약한, 보잘것없는",
+    "meaning_en": "tenuous",
+    "pos": "adjective",
+    "example": "훌륭한 편집자는 성공적인 책에 없어서는 안 될 존재입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "어디에나 있는",
+    "meaning_en": "ubiquitous",
+    "pos": "adjective",
+    "example": "어떤 인간 시스템도 전적으로 오류가 없을 수는 없습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "만장일치의",
+    "meaning_en": "unanimous",
+    "pos": "adjective",
+    "example": "그 기사는 악의적인 암시로 가득 차 있었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "강조하다",
+    "meaning_en": "underscore",
+    "pos": "verb",
+    "example": "잘못된 정보의 교묘한 확산은 우려스러운 일입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "전례 없는",
+    "meaning_en": "unprecedented",
+    "pos": "adjective",
+    "example": "우리는 하루 종일 간헐적으로 소나기를 겪었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "입증하다, 확인하다",
+    "meaning_en": "validate",
+    "pos": "verb",
+    "example": "그 예술 작품은 본질적인 아름다움을 지니고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "실행 가능한",
+    "meaning_en": "viable",
+    "pos": "adjective",
+    "example": "그 예술가는 밝은 색과 어두운 색조를 나란히 배치했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "변덕스러운, 불안정한",
+    "meaning_en": "volatile",
+    "pos": "adjective",
+    "example": "그 치료는 그의 잠재된 재능을 끌어내는 것을 목표로 합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "정당화하다, 영장",
+    "meaning_en": "warrant",
+    "pos": "verb",
+    "example": "평소 말이 많던 그 진행자는 유난히 조용했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "산출하다, 양보하다",
+    "meaning_en": "yield",
+    "pos": "verb",
+    "example": "그는 승리에 관대했으며, 상대방을 칭찬했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "삼가다, 기권하다",
+    "meaning_en": "abstain",
+    "pos": "verb",
+    "example": "그 회사는 탄소 발자국을 줄여야 할 의무(권한)가 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "칭찬, 영예",
+    "meaning_en": "accolade",
+    "pos": "noun",
+    "example": "그녀의 변덕스러운 성질은 그녀와 함께 일하기 어렵게 만들었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "꾸짖다, 충고하다",
+    "meaning_en": "admonish",
+    "pos": "verb",
+    "example": "그 악당의 사악한 계획은 영웅에 의해 저지되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "이타심",
+    "meaning_en": "altruism",
+    "pos": "noun",
+    "example": "그 정치인은 모호한 진술로 진실을 흐리려 했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "동화시키다, 흡수하다",
+    "meaning_en": "assimilate",
+    "pos": "verb",
+    "example": "그의 방문에 대한 표면적인 이유는 진척 상황을 확인하기 위해서였습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "변덕스러운",
+    "meaning_en": "capricious",
+    "pos": "adjective",
+    "example": "그 약은 치료는 아니지만 통증을 완화하는 치료를 제공합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "비례하는, 상응하는",
+    "meaning_en": "commensurate",
+    "pos": "adjective",
+    "example": "선택권이 많을수록 만족도가 낮아지는 것은 역설적인 상황입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "요약, 개요",
+    "meaning_en": "compendium",
+    "pos": "noun",
+    "example": "그는 희귀한 책을 수집하는 취미를 가지고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "~에 도움이 되는",
+    "meaning_en": "conducive",
+    "pos": "adjective",
+    "example": "보안 검색은 다소 형식적이었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "난제",
+    "meaning_en": "conundrum",
+    "pos": "noun",
+    "example": "인터넷은 젊은이들의 마음에 해로운 영향을 미칠 수 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "해로운",
+    "meaning_en": "deleterious",
+    "pos": "adjective",
+    "example": "그녀의 설명이 우리가 들은 것 중 가장 그럴듯했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "경계를 정하다, 한정하다",
+    "meaning_en": "demarcate",
+    "pos": "verb",
+    "example": "그 등반가는 절벽 가장자리에서 위태로운 위치에 있었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "서로 전혀 다른",
+    "meaning_en": "disparate",
+    "pos": "adjective",
+    "example": "그 경제학자의 경고는 선견지명이 있는 것으로 증명되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "격차, 불일치",
+    "meaning_en": "disparity",
+    "pos": "noun",
+    "example": "그 변호사는 검찰의 주장에 대해 강력한 반박을 제공했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "효능, 유효성",
+    "meaning_en": "efficacy",
+    "pos": "noun",
+    "example": "그 작가는 산속에서 은둔하는 삶을 살았습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "끌어내다, 유도하다",
+    "meaning_en": "elicit",
+    "pos": "verb",
+    "example": "그는 왕위에 대한 자신의 주장을 포기하기로 결정했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "장식하다, 꾸미다",
+    "meaning_en": "embellish",
+    "pos": "verb",
+    "example": "그는 가벼운 비난의 표정으로 그녀를 바라보았습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "덧없는, 수명이 짧은",
+    "meaning_en": "ephemeral",
+    "pos": "adjective",
+    "example": "여왕은 대관식을 위해 눈부신 가운을 입었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "얼버무리다, 모호하게 말하다",
+    "meaning_en": "equivocate",
+    "pos": "verb",
+    "example": "유엔은 그 불량 국가에 제재를 가했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "터무니없이 비싼",
+    "meaning_en": "exorbitant",
+    "pos": "adjective",
+    "example": "그녀는 정확한 기록을 유지하는 데 매우 꼼꼼합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "신속히 처리하다",
+    "meaning_en": "expedite",
+    "pos": "verb",
+    "example": "그는 직원들이 관리자에게 너무 비굴하게 구는 방식을 싫어했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "신탁의, 수탁자",
+    "meaning_en": "fiduciary",
+    "pos": "adjective",
+    "example": "그 단체는 대중으로부터 기부를 요청합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "우연한, 행운의",
+    "meaning_en": "fortuitous",
+    "pos": "adjective",
+    "example": "그 그룹은 정치 체제를 전복할 계획을 세웠습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "동종의, 균일한",
+    "meaning_en": "homogeneous",
+    "pos": "adjective",
+    "example": "나는 그가 기차를 놓쳤다고 짐작합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "가설적인",
+    "meaning_en": "hypothetical",
+    "pos": "adjective",
+    "example": "그 문제를 논의하지 않기로 하는 암묵적인 합의가 있었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "어울리지 않는, 부조화한",
+    "meaning_en": "incongruous",
+    "pos": "adjective",
+    "example": "행복감은 일시적이었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "필수 불가결한",
+    "meaning_en": "indispensable",
+    "pos": "adjective",
+    "example": "그녀는 두려움을 안고 어려운 면접에 임했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "결코 틀리지 않는",
+    "meaning_en": "infallible",
+    "pos": "adjective",
+    "example": "바다의 깊이는 참으로 헤아릴 수 없습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "암시, 넌지시 비춤",
+    "meaning_en": "innuendo",
+    "pos": "noun",
+    "example": "그녀는 자신의 원칙에 대한 확고한 신념을 보여주었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "교활한, 서서히 퍼지는",
+    "meaning_en": "insidious",
+    "pos": "adjective",
+    "example": "그는 그 비난에 대해 격렬하게 부인했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "간헐적인",
+    "meaning_en": "intermittent",
+    "pos": "adjective",
+    "example": "새로운 증거는 피고의 무죄를 입증했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "고유의, 본질적인",
+    "meaning_en": "intrinsic",
+    "pos": "adjective",
+    "example": "그는 환경 운동의 열렬한 지지자입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "병치하다, 나란히 놓다",
+    "meaning_en": "juxtapose",
+    "pos": "verb",
+    "example": "그는 어려운 협상을 처리하는 데 능숙합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "잠재적인",
+    "meaning_en": "latent",
+    "pos": "adjective",
+    "example": "저는 그녀의 퉁명스러운 대답에 놀랐습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "말이 많은",
+    "meaning_en": "loquacious",
+    "pos": "adjective",
+    "example": "그 보고서는 프로젝트 목표를 명확하게 기술하고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "도량이 넓은, 관대한",
+    "meaning_en": "magnanimous",
+    "pos": "adjective",
+    "example": "그녀는 멘토의 성공을 모방하려고 노력했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "명령, 위임 사항",
+    "meaning_en": "mandate",
+    "pos": "noun",
+    "example": "그 교수는 시간을 내어 복잡한 이론을 설명했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "변덕스러운",
+    "meaning_en": "mercurial",
+    "pos": "adjective",
+    "example": "그는 자신의 작업 공간을 완벽하게 깨끗하게 유지하는 데 꼼꼼합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "사악한, 부정한",
+    "meaning_en": "nefarious",
+    "pos": "adjective",
+    "example": "사교적인 사람은 파티에서 친구를 쉽게 사귑니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "혼란스럽게 하다, 모호하게 하다",
+    "meaning_en": "obfuscate",
+    "pos": "verb",
+    "example": "그의 거만한 태도는 그가 동료들 사이에서 인기가 없게 만들었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "표면상의, 겉보기의",
+    "meaning_en": "ostensible",
+    "pos": "adjective",
+    "example": "우리는 복도에서 즉석 회의를 가졌습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "완화하는",
+    "meaning_en": "palliative",
+    "pos": "adjective",
+    "example": "그 학교는 노인에 대한 존경심을 심어주는 것을 목표로 합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "역설적인",
+    "meaning_en": "paradoxical",
+    "pos": "adjective",
+    "example": "그 게으른 고양이는 하루 종일 잠을 잤습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "강한 기호, 경향",
+    "meaning_en": "penchant",
+    "pos": "noun",
+    "example": "그 발언은 당시에는 악의 없어 보였습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "형식적인, 마지못해 하는",
+    "meaning_en": "perfunctory",
+    "pos": "adjective",
+    "example": "그 남자의 동기는 여전히 헤아릴 수 없었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "치명적인, 해로운",
+    "meaning_en": "pernicious",
+    "pos": "adjective",
+    "example": "수영장 옆에서의 나른한 오후가 바로 내가 필요했던 것입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "그럴듯한, 타당한",
+    "meaning_en": "plausible",
+    "pos": "adjective",
+    "example": "그는 전통적인 비즈니스 모델에 도전하는 기업의 이단아입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "불안정한, 위태로운",
+    "meaning_en": "precarious",
+    "pos": "adjective",
+    "example": "그 늙은 은둔자는 지독한 인간 혐오자로 알려져 있었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "미리 아는, 선견지명이 있는",
+    "meaning_en": "prescient",
+    "pos": "adjective",
+    "example": "그 웨이터는 부유한 손님들에게 지나치게 아부했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "금지하다",
+    "meaning_en": "proscribe",
+    "pos": "verb",
+    "example": "기술은 종종 모든 교육 문제에 대한 만병통치약으로 여겨집니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "반박",
+    "meaning_en": "rebuttal",
+    "pos": "noun",
+    "example": "그 인색한 남자는 불필요한 것에는 절대 돈을 쓰지 않았습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "은둔하는",
+    "meaning_en": "reclusive",
+    "pos": "adjective",
+    "example": "그는 극빈의 삶에서 벗어나 성공적인 사업가가 되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "포기하다, 단념하다",
+    "meaning_en": "renounce",
+    "pos": "verb",
+    "example": "그 부부는 자선 활동으로 유명합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "비난, 책망",
+    "meaning_en": "reproach",
+    "pos": "noun",
+    "example": "그 탕자(방탕한 아들)는 자신의 유산을 시시한 쾌락에 낭비했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "눈부시게 빛나는",
+    "meaning_en": "resplendent",
+    "pos": "adjective",
+    "example": "지역 서점을 구하려던 그의 비현실적인 시도는 실패했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "제재, 승인",
+    "meaning_en": "sanction",
+    "pos": "noun",
+    "example": "그 고집 센 아이는 지시 따르기를 거부했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "양심적인, 세심한",
+    "meaning_en": "scrupulous",
+    "pos": "adjective",
+    "example": "푸짐한 식사는 그의 굶주림을 충족시키기에 충분했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "굽신거리는, 비굴한",
+    "meaning_en": "servile",
+    "pos": "adjective",
+    "example": "따뜻한 방은 청중들을 졸리게 만들었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "간청하다, 요청하다",
+    "meaning_en": "solicit",
+    "pos": "verb",
+    "example": "그들은 어두워진 후 공원에서 비밀스러운 만남을 가졌습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "침체된, 고여있는",
+    "meaning_en": "stagnant",
+    "pos": "adjective",
+    "example": "그 비평가의 신랄한 관찰은 널리 논의되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "전복시키다, 뒤엎다",
+    "meaning_en": "subvert",
+    "pos": "verb",
+    "example": "그는 두 가지 직업 선택 사이에서 망설이는 경향이 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "추측하다",
+    "meaning_en": "surmise",
+    "pos": "verb",
+    "example": "그녀는 그 오래된 사진을 아쉬운 듯이 바라보았습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "암묵적인",
+    "meaning_en": "tacit",
+    "pos": "adjective",
+    "example": "그녀의 비즈니스 감각은 그녀가 수익성 있는 사업을 발견할 수 있게 했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "일시적인, 순간적인",
+    "meaning_en": "transient",
+    "pos": "adjective",
+    "example": "악천후로 인해 항공편이 지연되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "가로지르다, 횡단하다",
+    "meaning_en": "traverse",
+    "pos": "verb",
+    "example": "그 문구는 그 상황에 특히 적절했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "두려움, 떨림",
+    "meaning_en": "trepidation",
+    "pos": "noun",
+    "example": "여러 집단이 연합하여 단일 야당을 결성했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "헤아릴 수 없는",
+    "meaning_en": "unfathomable",
+    "pos": "adjective",
+    "example": "나는 실직한 친구를 위로하기 위해 그녀에게 전화했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "흔들림 없는",
+    "meaning_en": "unwavering",
+    "pos": "adjective",
+    "example": "그 전쟁은 수천 명의 사람들을 빈곤에 빠뜨렸습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "격렬한, 열정적인",
+    "meaning_en": "vehement",
+    "pos": "adjective",
+    "example": "그의 사과는 다소 진정성 없게 느껴졌습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "존경할 만한",
+    "meaning_en": "venerable",
+    "pos": "adjective",
+    "example": "그는 금융 거래에서 표리부동했다는 비난을 받았습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "정당성을 입증하다",
+    "meaning_en": "vindicate",
+    "pos": "verb",
+    "example": "그 구조견은 발견되었을 때 심하게 수척해 있었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "열성적인",
+    "meaning_en": "zealous",
+    "pos": "adjective",
+    "example": "벚꽃의 덧없는 아름다움을 즐기세요.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "능숙한, 기민한",
+    "meaning_en": "adroit",
+    "pos": "adjective",
+    "example": "긴급한 상황은 즉각적인 조치를 요구했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "퉁명스러운",
+    "meaning_en": "curt",
+    "pos": "adjective",
+    "example": "그 주장은 전체가 그릇된 가정에 기반을 두고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "윤곽을 그리다, 정확하게 묘사하다",
+    "meaning_en": "delineate",
+    "pos": "verb",
+    "example": "그녀는 능숙하게 그 미묘한 상황을 처리했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "모방하다, 필적하다",
+    "meaning_en": "emulate",
+    "pos": "verb",
+    "example": "그 수다스러운 승객은 비행 내내 계속 이야기했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "상세히 설명하다",
+    "meaning_en": "explicate",
+    "pos": "verb",
+    "example": "그 프로젝트는 아직 초기 단계에 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "까다로운, 세심한",
+    "meaning_en": "fastidious",
+    "pos": "adjective",
+    "example": "단 한 명의 우승자만 선택하는 것은 반감을 사기 쉬운 일이었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "사교적인",
+    "meaning_en": "gregarious",
+    "pos": "adjective",
+    "example": "그는 떠돌이 농장 인부로 일했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "거만한",
+    "meaning_en": "haughty",
+    "pos": "adjective",
+    "example": "배심원단은 그 증인이 위증하고 있음을 금방 깨달았습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "즉흥적인",
+    "meaning_en": "impromptu",
+    "pos": "adjective",
+    "example": "그녀는 긴장했음에도 불구하고 태연한 척했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "주입하다, 심어주다",
+    "meaning_en": "inculcate",
+    "pos": "verb",
+    "example": "정부는 법 개정 거부에 완강한 태도를 유지했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "게으른",
+    "meaning_en": "indolent",
+    "pos": "adjective",
+    "example": "그의 끈질긴 노력은 마침내 성공으로 이어졌습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "무해한",
+    "meaning_en": "innocuous",
+    "pos": "adjective",
+    "example": "그 보고서에는 과다한 데이터가 포함되어 있었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "헤아릴 수 없는, 수수께끼 같은",
+    "meaning_en": "inscrutable",
+    "pos": "adjective",
+    "example": "그는 음악에 타고난 성향을 보였습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "나른한, 활기 없는",
+    "meaning_en": "languid",
+    "pos": "adjective",
+    "example": "그 화가는 풍경의 자연스러운 아름다움을 포착했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "독불장군, 개성이 강한 사람",
+    "meaning_en": "maverick",
+    "pos": "noun",
+    "example": "우리는 그 사고로 야기된 불의를 바로잡고자 합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "인간 혐오자",
+    "meaning_en": "misanthrope",
+    "pos": "noun",
+    "example": "그는 아첨꾼이었기 때문에 아무도 그를 존경하지 않았습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "아부하는",
+    "meaning_en": "obsequious",
+    "pos": "adjective",
+    "example": "그 정치인의 연설은 지루하고 이해하기 어려웠습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "만병통치약",
+    "meaning_en": "panacea",
+    "pos": "noun",
+    "example": "코치는 팀의 부진한 성과에 대해 질책해야 했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "인색한",
+    "meaning_en": "parsimonious",
+    "pos": "adjective",
+    "example": "우리는 그 증인의 진술의 진실성에 의문을 제기했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "극빈",
+    "meaning_en": "penury",
+    "pos": "noun",
+    "example": "그 건물은 무분별한 기물 파손 행위로 손상되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "자선의",
+    "meaning_en": "philanthropic",
+    "pos": "adjective",
+    "example": "그의 비정상적인 행동은 부모님을 걱정시켰습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "낭비하는",
+    "meaning_en": "prodigal",
+    "pos": "adjective",
+    "example": "군대는 긴 포위 공격 끝에 항복할 수밖에 없었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "돈키호테식의, 비현실적인",
+    "meaning_en": "quixotic",
+    "pos": "adjective",
+    "example": "그 영화의 결말은 작위적이고 비현실적으로 느껴졌습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "저항하는, 다루기 힘든",
+    "meaning_en": "recalcitrant",
+    "pos": "adjective",
+    "example": "그 외과 의사는 능숙하고 정밀하게 그 섬세한 수술을 수행했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "충분히 만족시키다",
+    "meaning_en": "satiate",
+    "pos": "verb",
+    "example": "비평가들은 그의 새 연극을 유치한 익살극이라고 조롱했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "졸린, 최면성의",
+    "meaning_en": "somnolent",
+    "pos": "adjective",
+    "example": "그 노부인은 괴짜 같은 패션 감각으로 유명했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "은밀한, 몰래 하는",
+    "meaning_en": "surreptitious",
+    "pos": "adjective",
+    "example": "그는 건강한 식단의 장점을 끊임없이 극찬했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "정곡을 찌르는, 날카로운",
+    "meaning_en": "trenchant",
+    "pos": "adjective",
+    "example": "아마존은 생물학적 발견에 있어 풍요로운(다산의) 지역입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "동요하다, 망설이다",
+    "meaning_en": "vacillate",
+    "pos": "verb",
+    "example": "우리는 시시한 연예인 가십을 토론하며 오후를 낭비했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "애석해 하는, 생각에 잠긴",
+    "meaning_en": "wistful",
+    "pos": "adjective",
+    "example": "두려움은 당신이 일을 잘 수행하는 능력을 억제할 수 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "정점, 절정",
+    "meaning_en": "zenith",
+    "pos": "noun",
+    "example": "그녀는 지역 사회에 대한 공로로 상을 받았습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "통찰력, 판단력",
+    "meaning_en": "acumen",
+    "pos": "noun",
+    "example": "위험을 완화하기 위해 새로운 규정이 도입되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "불리한, 역의",
+    "meaning_en": "adverse",
+    "pos": "adjective",
+    "example": "사전 계획 덕분에 성급한 결정을 내릴 필요가 없었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "적절한, ~하는 경향이 있는",
+    "meaning_en": "apt",
+    "pos": "adjective",
+    "example": "그 주제에 대한 신뢰할 만한 데이터가 부족합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "합쳐지다, 융합하다",
+    "meaning_en": "coalesce",
+    "pos": "verb",
+    "example": "비평가들은 그 새 소설이 다소 평범하다고 평했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "동정하다, 위로하다",
+    "meaning_en": "commiserate",
+    "pos": "verb",
+    "example": "대화는 재치 있는 문답으로 가득 찼습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "궁핍한",
+    "meaning_en": "destitute",
+    "pos": "adjective",
+    "example": "그는 그 스캔들의 세부 사항에 대해 여전히 입을 다물고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "솔직하지 못한, 불성실한",
+    "meaning_en": "disingenuous",
+    "pos": "adjective",
+    "example": "저는 주말 동안 삶의 의미에 대해 심사숙고하며 보냈습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "이중성, 표리부동",
+    "meaning_en": "duplicity",
+    "pos": "noun",
+    "example": "그 철학은 과도한 개인주의를 유아론(독단론)이라고 비판합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "수척해진",
+    "meaning_en": "emaciated",
+    "pos": "adjective",
+    "example": "민주주의의 핵심 신조는 투표할 권리입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "덧없는, 수명이 짧은",
+    "meaning_en": "ephemeral",
+    "pos": "adjective",
+    "example": "커피숍은 시내 지역 어디에나 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "긴급한, 절박한",
+    "meaning_en": "exigent",
+    "pos": "adjective",
+    "example": "새로운 세금 계획은 대중의 논란을 촉발했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "잘못된, 허위의",
+    "meaning_en": "fallacious",
+    "pos": "adjective",
+    "example": "그 회사는 심각한 사기 혐의에 직면해 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "솜씨, 기교",
+    "meaning_en": "finesse",
+    "pos": "noun",
+    "example": "그 사고에 대한 공식적인 조사가 시작되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "수다스러운",
+    "meaning_en": "garrulous",
+    "pos": "adjective",
+    "example": "그 지도자의 과거가 언론의 면밀한 조사를 받게 되었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "초기 단계의, 미완성의",
+    "meaning_en": "inchoate",
+    "pos": "adjective",
+    "example": "이 무역 협정의 장기적인 영향은 무엇인가요?",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "불쾌한, 부당한",
+    "meaning_en": "invidious",
+    "pos": "adjective",
+    "example": "그 도시는 노후화된 기반 시설에 대한 투자가 필요합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "순회하는",
+    "meaning_en": "itinerant",
+    "pos": "adjective",
+    "example": "새로운 환경 법안이 내년에 도입될 것입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "거짓말하는",
+    "meaning_en": "mendacious",
+    "pos": "adjective",
+    "example": "개혁의 필요성에 대한 공감대가 커지고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "태연한, 무관심한",
+    "meaning_en": "nonchalant",
+    "pos": "adjective",
+    "example": "외교관들은 두 나라 간의 평화로운 대화를 시작했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "고집 센",
+    "meaning_en": "obdurate",
+    "pos": "adjective",
+    "example": "정부는 고용을 촉진하기 위한 새로운 계획을 시작했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "끈기 있는, 완고한",
+    "meaning_en": "pertinacious",
+    "pos": "adjective",
+    "example": "그 회사는 경쟁력을 유지하기 위해 새로운 마케팅 전략이 필요합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "과다, 과잉",
+    "meaning_en": "plethora",
+    "pos": "noun",
+    "example": "그들은 공공 서비스에 더 많은 자원을 할당하기로 결정했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "성향, 경향",
+    "meaning_en": "proclivity",
+    "pos": "noun",
+    "example": "국가 예산이 막대한 적자를 보이고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "아름다움",
+    "meaning_en": "pulchritude",
+    "pos": "noun",
+    "example": "인플레이션으로 인해 기본 생필품 가격이 치솟고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "바로잡다, 보상하다",
+    "meaning_en": "redress",
+    "pos": "verb",
+    "example": "전문가들은 다음 분기에 약간의 경기 침체를 예측합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "아첨꾼",
+    "meaning_en": "sycophant",
+    "pos": "noun",
+    "example": "주식 시장은 계속 심하게 변동하고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "과장된, 부풀어 오른",
+    "meaning_en": "turgid",
+    "pos": "adjective",
+    "example": "새로운 바이러스의 치명률은 우려스럽습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "비난하다, 나무라다",
+    "meaning_en": "upbraid",
+    "pos": "verb",
+    "example": "지방 정부는 그 전염병을 억제하기 위해 고군분투하고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "진실성",
+    "meaning_en": "veracity",
+    "pos": "noun",
+    "example": "세계적인 팬데믹은 여행 습관을 급격하게 변화시켰습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "터무니없는, 제멋대로의",
+    "meaning_en": "wanton",
+    "pos": "adjective",
+    "example": "새로운 백신은 높은 면역력을 제공합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "일탈적인, 변칙적인",
+    "meaning_en": "aberrant",
+    "pos": "adjective",
+    "example": "그 약은 현재 최종 임상 시험 단계에 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "항복하다, 굴복하다",
+    "meaning_en": "capitulate",
+    "pos": "verb",
+    "example": "그 산업은 새로운 소비자 요구를 충족시키기 위해 혁신해야 합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "억지로 꾸민 듯한",
+    "meaning_en": "contrived",
+    "pos": "adjective",
+    "example": "AI는 노동 시장을 변화시키는 파괴적인 기술입니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "능숙한, 솜씨 좋은",
+    "meaning_en": "deft",
+    "pos": "adjective",
+    "example": "그 회사는 새로운 장치에 대한 특허를 확보했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "비웃다, 조롱하다",
+    "meaning_en": "deride",
+    "pos": "verb",
+    "example": "사이버 보안에 대한 우려가 전 세계적으로 증가하고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "별난, 특이한",
+    "meaning_en": "eccentric",
+    "pos": "adjective",
+    "example": "언론은 온라인상의 잘못된 정보 확산과 싸우고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "극찬하다",
+    "meaning_en": "extol",
+    "pos": "verb",
+    "example": "대중은 선출직 공무원들에게 더 큰 책임감을 요구합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "비옥한, 다산의",
+    "meaning_en": "fecund",
+    "pos": "adjective",
+    "example": "정부 지출의 투명성은 매우 중요합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "어리석은, 무의미한",
+    "meaning_en": "inane",
+    "pos": "adjective",
+    "example": "그 스캔들은 시스템 내의 뿌리 깊은 부패를 드러냈습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "억제하다, 저해하다",
+    "meaning_en": "inhibit",
+    "pos": "verb",
+    "example": "지역 주지사를 탄핵하라는 요구가 있었습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "칭찬할 만한",
+    "meaning_en": "meritorious",
+    "pos": "adjective",
+    "example": "현직 대통령은 힘겨운 재선 캠페인에 직면해 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "완화시키다",
+    "meaning_en": "mitigate",
+    "pos": "verb",
+    "example": "그의 주요 경쟁 상대가 예기치 않게 경선에서 중도 하차했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "제거하다, 미연에 방지하다",
+    "meaning_en": "obviate",
+    "pos": "verb",
+    "example": "그 정치 캠페인은 주요 주에서 탄력을 받고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "소수, 부족",
+    "meaning_en": "paucity",
+    "pos": "noun",
+    "example": "그 정치인은 지지자들을 결집시키기 위해 강력한 수사를 사용했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "평범한, 지루한",
+    "meaning_en": "prosaic",
+    "pos": "adjective",
+    "example": "의회는 그 조약을 비준하기로 의결했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "재치 있는 응답",
+    "meaning_en": "repartee",
+    "pos": "noun",
+    "example": "그들은 헌법 개정안을 제안했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "말이 없는",
+    "meaning_en": "reticent",
+    "pos": "adjective",
+    "example": "국제 사회는 그 국가에 경제 제재를 가했습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "심사숙고하다",
+    "meaning_en": "ruminate",
+    "pos": "verb",
+    "example": "그 위기는 섬세한 외교를 필요로 합니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "유아론, 자기중심주의",
+    "meaning_en": "solipsism",
+    "pos": "noun",
+    "example": "그 나라는 분쟁을 피해 탈출한 수천 명의 난민을 받아들였습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "주의, 교리",
+    "meaning_en": "tenet",
+    "pos": "noun",
+    "example": "그 지역에서 인도주의적 위기가 전개되고 있습니다.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "어디에나 있는",
+    "meaning_en": "ubiquitous",
+    "pos": "adjective",
+    "example": "지속가능성에 초점을 맞추는 것이 미래의 핵심입니다.",
     "level": "원어민수준",
     "category": "일상회화"
   }

@@ -1,401 +1,1201 @@
 [
   {
-    "word": "work",
-    "meaning_ko": "일",
+    "word": "사업",
+    "meaning_en": "business",
     "pos": "noun",
-    "example": "This is an example with work.",
+    "example": "저는 큰 회사에서 일합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "job",
-    "meaning_ko": "직업",
+    "word": "회사",
+    "meaning_en": "company",
     "pos": "noun",
-    "example": "This is an example with job.",
+    "example": "저는 오늘 일이 많습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "office",
-    "meaning_ko": "사무실",
+    "word": "일",
+    "meaning_en": "work",
     "pos": "noun",
-    "example": "This is an example with office.",
+    "example": "그녀는 새 직장을 구했습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "company",
-    "meaning_ko": "회사",
+    "word": "일자리",
+    "meaning_en": "job",
     "pos": "noun",
-    "example": "This is an example with company.",
+    "example": "제 사무실은 시내에 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "boss",
-    "meaning_ko": "상사",
+    "word": "사무실",
+    "meaning_en": "office",
     "pos": "noun",
-    "example": "This is an example with boss.",
+    "example": "저는 제 책상에 앉아 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "manager",
-    "meaning_ko": "관리자",
+    "word": "책상",
+    "meaning_en": "desk",
     "pos": "noun",
-    "example": "This is an example with manager.",
+    "example": "저는 직장에서 컴퓨터를 사용합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "worker",
-    "meaning_ko": "직원",
+    "word": "컴퓨터",
+    "meaning_en": "computer",
     "pos": "noun",
-    "example": "This is an example with worker.",
+    "example": "제 전화가 울렸습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "team",
-    "meaning_ko": "팀",
+    "word": "전화",
+    "meaning_en": "phone",
     "pos": "noun",
-    "example": "This is an example with team.",
+    "example": "저는 이메일을 보냈습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "meeting",
-    "meaning_ko": "회의",
+    "word": "이메일",
+    "meaning_en": "email",
     "pos": "noun",
-    "example": "This is an example with meeting.",
+    "example": "당신의 메시지를 받았습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "email",
-    "meaning_ko": "이메일",
+    "word": "메시지",
+    "meaning_en": "message",
     "pos": "noun",
-    "example": "This is an example with email.",
+    "example": "제가 당신에게 전화할게요.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "call",
-    "meaning_ko": "전화",
+    "word": "전화",
+    "meaning_en": "call",
     "pos": "noun",
-    "example": "This is an example with call.",
+    "example": "제 일정이 꽉 찼습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "phone",
-    "meaning_ko": "전화기",
+    "word": "회의",
+    "meaning_en": "meeting",
     "pos": "noun",
-    "example": "This is an example with phone.",
+    "example": "저는 내일 약속이 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "computer",
-    "meaning_ko": "컴퓨터",
+    "word": "일정",
+    "meaning_en": "schedule",
     "pos": "noun",
-    "example": "This is an example with computer.",
+    "example": "오늘 이 업무를 완료하세요.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "paper",
-    "meaning_ko": "종이",
+    "word": "약속",
+    "meaning_en": "appointment",
     "pos": "noun",
-    "example": "This is an example with paper.",
+    "example": "저는 프로젝트를 진행 중입니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "pen",
-    "meaning_ko": "펜",
+    "word": "작업",
+    "meaning_en": "task",
     "pos": "noun",
-    "example": "This is an example with pen.",
+    "example": "제 상사는 매우 친절합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "desk",
-    "meaning_ko": "책상",
+    "word": "프로젝트",
+    "meaning_en": "project",
     "pos": "noun",
-    "example": "This is an example with desk.",
+    "example": "관리자가 우리에게 지시를 내렸습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "chair",
-    "meaning_ko": "의자",
+    "word": "상사",
+    "meaning_en": "boss",
     "pos": "noun",
-    "example": "This is an example with chair.",
+    "example": "직원들이 친절합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "file",
-    "meaning_ko": "파일",
+    "word": "관리자",
+    "meaning_en": "manager",
     "pos": "noun",
-    "example": "This is an example with file.",
+    "example": "그 회사에는 많은 직원이 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "document",
-    "meaning_ko": "문서",
+    "word": "직원",
+    "meaning_en": "staff",
     "pos": "noun",
-    "example": "This is an example with document.",
+    "example": "제 동료들은 친절합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "report",
-    "meaning_ko": "보고서",
+    "word": "직원",
+    "meaning_en": "employee",
     "pos": "noun",
-    "example": "This is an example with report.",
+    "example": "우리는 많은 고객을 보유하고 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "money",
-    "meaning_ko": "돈",
+    "word": "동료",
+    "meaning_en": "colleague",
     "pos": "noun",
-    "example": "This is an example with money.",
+    "example": "고객이 만족했습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "pay",
-    "meaning_ko": "지불하다",
+    "word": "고객",
+    "meaning_en": "customer",
     "pos": "noun",
-    "example": "This is an example with pay.",
+    "example": "우리 제품은 좋습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "salary",
-    "meaning_ko": "급여",
+    "word": "고객",
+    "meaning_en": "client",
     "pos": "noun",
-    "example": "This is an example with salary.",
+    "example": "우리는 좋은 서비스를 제공합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "price",
-    "meaning_ko": "가격",
+    "word": "제품",
+    "meaning_en": "product",
     "pos": "noun",
-    "example": "This is an example with price.",
+    "example": "우리 매출은 좋습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "sell",
-    "meaning_ko": "팔다",
+    "word": "서비스",
+    "meaning_en": "service",
     "pos": "noun",
-    "example": "This is an example with sell.",
+    "example": "가격이 좋습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "buy",
-    "meaning_ko": "사다",
+    "word": "판매",
+    "meaning_en": "sale",
     "pos": "noun",
-    "example": "This is an example with buy.",
+    "example": "비용이 높습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "customer",
-    "meaning_ko": "고객",
+    "word": "가격",
+    "meaning_en": "price",
     "pos": "noun",
-    "example": "This is an example with customer.",
+    "example": "저는 돈이 더 필요합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "client",
-    "meaning_ko": "클라이언트",
+    "word": "비용",
+    "meaning_en": "cost",
     "pos": "noun",
-    "example": "This is an example with client.",
+    "example": "제 급여는 좋습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "service",
-    "meaning_ko": "서비스",
+    "word": "돈",
+    "meaning_en": "money",
     "pos": "noun",
-    "example": "This is an example with service.",
+    "example": "월급이 인상되었습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "product",
-    "meaning_ko": "제품",
+    "word": "급여",
+    "meaning_en": "pay",
     "pos": "noun",
-    "example": "This is an example with product.",
+    "example": "회사가 수익을 냈습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "time",
-    "meaning_ko": "시간",
+    "word": "급여",
+    "meaning_en": "salary",
     "pos": "noun",
-    "example": "This is an example with time.",
+    "example": "우리는 이번 달에 손실을 봤습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "schedule",
-    "meaning_ko": "일정",
+    "word": "이익",
+    "meaning_en": "profit",
     "pos": "noun",
-    "example": "This is an example with schedule.",
+    "example": "우리는 예산이 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "early",
-    "meaning_ko": "이른",
+    "word": "손실",
+    "meaning_en": "loss",
     "pos": "noun",
-    "example": "This is an example with early.",
+    "example": "제 지출이 많습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "late",
-    "meaning_ko": "늦은",
+    "word": "예산",
+    "meaning_en": "budget",
     "pos": "noun",
-    "example": "This is an example with late.",
+    "example": "저는 송장을 보냈습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "busy",
-    "meaning_ko": "바쁜",
+    "word": "비용",
+    "meaning_en": "expense",
     "pos": "noun",
-    "example": "This is an example with busy.",
+    "example": "저는 영수증을 가지고 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "free",
-    "meaning_ko": "자유로운",
+    "word": "송장",
+    "meaning_en": "invoice",
     "pos": "noun",
-    "example": "This is an example with free.",
+    "example": "지불 기한은 내일입니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "start",
-    "meaning_ko": "시작하다",
+    "word": "영수증",
+    "meaning_en": "receipt",
     "pos": "noun",
-    "example": "This is an example with start.",
+    "example": "우리는 계약서에 서명했습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "finish",
-    "meaning_ko": "끝내다",
+    "word": "지불",
+    "meaning_en": "payment",
     "pos": "noun",
-    "example": "This is an example with finish.",
+    "example": "우리는 좋은 거래를 했습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "break",
-    "meaning_ko": "휴식",
+    "word": "계약",
+    "meaning_en": "contract",
     "pos": "noun",
-    "example": "This is an example with break.",
+    "example": "우리는 합의에 이르렀습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "lunch",
-    "meaning_ko": "점심",
+    "word": "거래",
+    "meaning_en": "deal",
     "pos": "noun",
-    "example": "This is an example with lunch.",
+    "example": "특별한 제안이 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "week",
-    "meaning_ko": "주",
+    "word": "합의",
+    "meaning_en": "agreement",
     "pos": "noun",
-    "example": "This is an example with week.",
+    "example": "우리는 판촉 행사를 하고 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "month",
-    "meaning_ko": "월",
+    "word": "제안",
+    "meaning_en": "offer",
     "pos": "noun",
-    "example": "This is an example with month.",
+    "example": "시장이 성장하고 있습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "year",
-    "meaning_ko": "년",
+    "word": "할인",
+    "meaning_en": "discount",
     "pos": "noun",
-    "example": "This is an example with year.",
+    "example": "국제 무역은 중요합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "plan",
-    "meaning_ko": "계획",
+    "word": "판촉",
+    "meaning_en": "promotion",
     "pos": "noun",
-    "example": "This is an example with plan.",
+    "example": "우리는 제품을 수출합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "goal",
-    "meaning_ko": "목표",
+    "word": "시장",
+    "meaning_en": "market",
     "pos": "noun",
-    "example": "This is an example with goal.",
+    "example": "우리는 자재를 수입합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "problem",
-    "meaning_ko": "문제",
+    "word": "거래",
+    "meaning_en": "trade",
     "pos": "noun",
-    "example": "This is an example with problem.",
+    "example": "배송은 내일입니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "solution",
-    "meaning_ko": "해결책",
+    "word": "수출",
+    "meaning_en": "export",
     "pos": "noun",
-    "example": "This is an example with solution.",
+    "example": "배송품이 도착했습니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "help",
-    "meaning_ko": "도움",
+    "word": "수입",
+    "meaning_en": "import",
+    "pos": "noun",
+    "example": "저는 주문을 했습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "배송",
+    "meaning_en": "delivery",
+    "pos": "noun",
+    "example": "창고가 꽉 찼습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "선적",
+    "meaning_en": "shipment",
+    "pos": "noun",
+    "example": "공급이 제한적입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "주문",
+    "meaning_en": "order",
+    "pos": "noun",
+    "example": "수요가 높습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "창고",
+    "meaning_en": "warehouse",
+    "pos": "noun",
+    "example": "우리는 재고가 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "공급",
+    "meaning_en": "supply",
+    "pos": "noun",
+    "example": "재고를 확인하세요.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "수요",
+    "meaning_en": "demand",
+    "pos": "noun",
+    "example": "우리는 좋은 전략을 가지고 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "재고",
+    "meaning_en": "stock",
+    "pos": "noun",
+    "example": "우리의 목표는 성장하는 것입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "재고",
+    "meaning_en": "inventory",
+    "pos": "noun",
+    "example": "저는 계획이 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "전략",
+    "meaning_en": "strategy",
+    "pos": "noun",
+    "example": "마감일은 금요일입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "목표",
+    "meaning_en": "goal",
+    "pos": "noun",
+    "example": "저는 보고서를 썼습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "계획",
+    "meaning_en": "plan",
+    "pos": "noun",
+    "example": "이 문서에 서명하세요.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "마감일",
+    "meaning_en": "deadline",
+    "pos": "noun",
+    "example": "저는 파일을 저장했습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "보고서",
+    "meaning_en": "report",
+    "pos": "noun",
+    "example": "그것을 폴더에 넣으세요.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "문서",
+    "meaning_en": "document",
+    "pos": "noun",
+    "example": "저는 종이가 필요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "파일",
+    "meaning_en": "file",
+    "pos": "noun",
+    "example": "이것의 사본이 필요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "폴더",
+    "meaning_en": "folder",
+    "pos": "noun",
+    "example": "이 문서를 인쇄해 주세요.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "종이",
+    "meaning_en": "paper",
+    "pos": "noun",
+    "example": "저는 이메일을 보낼 것입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "사본",
+    "meaning_en": "copy",
+    "pos": "noun",
+    "example": "당신의 메시지를 받았습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "인쇄",
+    "meaning_en": "print",
     "pos": "verb",
-    "example": "This is an example with help.",
+    "example": "저는 보고서를 쓸 것입니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "thank",
-    "meaning_ko": "감사하다",
+    "word": "보내다",
+    "meaning_en": "send",
     "pos": "verb",
-    "example": "This is an example with thank.",
+    "example": "지침을 읽으세요.",
     "level": "기초다지기",
     "category": "비즈니스"
   },
   {
-    "word": "sorry",
-    "meaning_ko": "미안하다",
-    "pos": "adjective",
-    "example": "This is an example with sorry.",
+    "word": "받다",
+    "meaning_en": "receive",
+    "pos": "verb",
+    "example": "여기에 서명해 주세요.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "쓰다",
+    "meaning_en": "write",
+    "pos": "verb",
+    "example": "파일들을 정리합시다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "읽다",
+    "meaning_en": "read",
+    "pos": "verb",
+    "example": "발표를 준비하세요.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "서명하다",
+    "meaning_en": "sign",
+    "pos": "verb",
+    "example": "저는 내일 발표할 것입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "정리하다",
+    "meaning_en": "organize",
+    "pos": "verb",
+    "example": "그녀는 그 팀을 관리합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "준비하다",
+    "meaning_en": "prepare",
+    "pos": "verb",
+    "example": "지금 결정합시다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "발표하다",
+    "meaning_en": "present",
+    "pos": "verb",
+    "example": "우리는 그 프로젝트에 대해 논의했습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "관리하다",
+    "meaning_en": "manage",
+    "pos": "verb",
+    "example": "우리는 개선해야 합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "결정하다",
+    "meaning_en": "decide",
+    "pos": "verb",
+    "example": "매출이 증가했습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "토론하다",
+    "meaning_en": "discuss",
+    "pos": "verb",
+    "example": "비용이 감소했습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "개선하다",
+    "meaning_en": "improve",
+    "pos": "verb",
+    "example": "우리는 제품을 팝니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "증가하다",
+    "meaning_en": "increase",
+    "pos": "verb",
+    "example": "저는 비품을 샀습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "감소하다",
+    "meaning_en": "decrease",
+    "pos": "verb",
+    "example": "저는 이것을 구매할 것입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "판매하다",
+    "meaning_en": "sell",
+    "pos": "verb",
+    "example": "저는 내일 지불할 것입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "구입하다",
+    "meaning_en": "buy",
+    "pos": "verb",
+    "example": "요금이 얼마인가요?",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "구매하다",
+    "meaning_en": "purchase",
+    "pos": "verb",
+    "example": "저는 은행에 갔습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "지불하다",
+    "meaning_en": "pay",
+    "pos": "verb",
+    "example": "저는 은행 계좌가 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "청구하다",
+    "meaning_en": "charge",
+    "pos": "verb",
+    "example": "저는 신용으로 지불했습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "은행",
+    "meaning_en": "bank",
+    "pos": "noun",
+    "example": "저는 제 직불 카드를 사용했습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "계정",
+    "meaning_en": "account",
+    "pos": "noun",
+    "example": "저는 명함이 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "신용",
+    "meaning_en": "credit",
+    "pos": "noun",
+    "example": "저는 송장을 보냈습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "직불",
+    "meaning_en": "debit",
+    "pos": "noun",
+    "example": "우리는 세금을 냅니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "카드",
+    "meaning_en": "card",
+    "pos": "noun",
+    "example": "저는 대출을 받았습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "청구서",
+    "meaning_en": "invoice",
+    "pos": "noun",
+    "example": "이것은 좋은 투자입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "세금",
+    "meaning_en": "tax",
+    "pos": "noun",
+    "example": "우리는 수익을 냈습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "이자",
+    "meaning_en": "interest",
+    "pos": "noun",
+    "example": "우리 사업은 성공적입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "대출",
+    "meaning_en": "loan",
+    "pos": "noun",
+    "example": "우리는 실패로부터 배웠습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "투자",
+    "meaning_en": "investment",
+    "pos": "noun",
+    "example": "사업에는 위험이 따릅니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "이윤",
+    "meaning_en": "profit",
+    "pos": "noun",
+    "example": "우리는 문제가 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "성공",
+    "meaning_en": "success",
+    "pos": "noun",
+    "example": "저는 해결책을 찾았습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "실패",
+    "meaning_en": "failure",
+    "pos": "noun",
+    "example": "이것은 좋은 기회입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "위험",
+    "meaning_en": "risk",
+    "pos": "noun",
+    "example": "우리는 도전에 직면해 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "문제",
+    "meaning_en": "problem",
+    "pos": "noun",
+    "example": "품질이 중요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "해결책",
+    "meaning_en": "solution",
+    "pos": "noun",
+    "example": "우리는 높은 기준을 가지고 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "기회",
+    "meaning_en": "opportunity",
+    "pos": "noun",
+    "example": "규칙을 따르세요.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "도전",
+    "meaning_en": "challenge",
+    "pos": "noun",
+    "example": "우리는 규정을 따릅니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "품질",
+    "meaning_en": "quality",
+    "pos": "noun",
+    "example": "정책은 명확합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "표준",
+    "meaning_en": "standard",
+    "pos": "noun",
+    "example": "절차를 따르세요.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "규칙",
+    "meaning_en": "rule",
+    "pos": "noun",
+    "example": "요구 사항은 무엇인가요?",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "규정",
+    "meaning_en": "regulation",
+    "pos": "noun",
+    "example": "저는 좋은 기술을 가지고 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "정책",
+    "meaning_en": "policy",
+    "pos": "noun",
+    "example": "저는 경험이 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "절차",
+    "meaning_en": "procedure",
+    "pos": "noun",
+    "example": "우리는 교육을 받습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "요구사항",
+    "meaning_en": "requirement",
+    "pos": "noun",
+    "example": "교육은 중요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "기술",
+    "meaning_en": "skill",
+    "pos": "noun",
+    "example": "우리는 성장을 원합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "경험",
+    "meaning_en": "experience",
+    "pos": "noun",
+    "example": "우리는 확장을 계획합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "교육",
+    "meaning_en": "training",
+    "pos": "noun",
+    "example": "마케팅은 중요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "교육",
+    "meaning_en": "education",
+    "pos": "noun",
+    "example": "우리는 광고를 이용합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "성장",
+    "meaning_en": "growth",
+    "pos": "noun",
+    "example": "우리 브랜드는 강력합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "확장",
+    "meaning_en": "expansion",
+    "pos": "noun",
+    "example": "좋은 고객 서비스가 중요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "마케팅",
+    "meaning_en": "marketing",
+    "pos": "noun",
+    "example": "우리는 당신의 피드백을 원합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "광고",
+    "meaning_en": "advertising",
+    "pos": "noun",
+    "example": "고객 만족도가 높습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "브랜드",
+    "meaning_en": "brand",
+    "pos": "noun",
+    "example": "저는 불만 사항이 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "고객 서비스",
+    "meaning_en": "customer service",
+    "pos": "noun",
+    "example": "저는 응답을 받았습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "피드백",
+    "meaning_en": "feedback",
+    "pos": "noun",
+    "example": "소통이 핵심입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "만족",
+    "meaning_en": "satisfaction",
+    "pos": "noun",
+    "example": "우리는 협력이 필요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "불만",
+    "meaning_en": "complaint",
+    "pos": "noun",
+    "example": "우리는 파트너십을 맺고 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "응답",
+    "meaning_en": "response",
+    "pos": "noun",
+    "example": "경쟁이 치열합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "소통",
+    "meaning_en": "communication",
+    "pos": "noun",
+    "example": "우리 경쟁자들은 강력합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "협력",
+    "meaning_en": "cooperation",
+    "pos": "noun",
+    "example": "산업이 성장하고 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "파트너십",
+    "meaning_en": "partnership",
+    "pos": "noun",
+    "example": "기술 부문은 큽니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "경쟁",
+    "meaning_en": "competition",
+    "pos": "noun",
+    "example": "새로운 트렌드가 나타납니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "경쟁사",
+    "meaning_en": "competitor",
+    "pos": "noun",
+    "example": "우리는 데이터를 수집합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "산업",
+    "meaning_en": "industry",
+    "pos": "noun",
+    "example": "우리는 분석을 합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "부문",
+    "meaning_en": "sector",
+    "pos": "noun",
+    "example": "저는 정보가 필요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "트렌드",
+    "meaning_en": "trend",
+    "pos": "noun",
+    "example": "아는 것이 힘입니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "데이터",
+    "meaning_en": "data",
+    "pos": "noun",
+    "example": "혁신은 중요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "분석",
+    "meaning_en": "analysis",
+    "pos": "noun",
+    "example": "우리는 새로운 기술을 사용합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "정보",
+    "meaning_en": "information",
+    "pos": "noun",
+    "example": "우리는 소프트웨어를 사용합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "지식",
+    "meaning_en": "knowledge",
+    "pos": "noun",
+    "example": "우리 시스템은 잘 작동합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "혁신",
+    "meaning_en": "innovation",
+    "pos": "noun",
+    "example": "효율성은 중요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "기술",
+    "meaning_en": "technology",
+    "pos": "noun",
+    "example": "우리는 생산성을 향상시킵니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "소프트웨어",
+    "meaning_en": "software",
+    "pos": "noun",
+    "example": "우리는 시간을 절약합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "시스템",
+    "meaning_en": "system",
+    "pos": "noun",
+    "example": "속도가 중요합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "효율",
+    "meaning_en": "efficiency",
+    "pos": "noun",
+    "example": "좋은 성과가 기대됩니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "생산성",
+    "meaning_en": "productivity",
+    "pos": "noun",
+    "example": "우리는 좋은 결과를 얻었습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "시간",
+    "meaning_en": "time",
+    "pos": "noun",
+    "example": "우리는 목표를 달성했습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "속도",
+    "meaning_en": "speed",
+    "pos": "noun",
+    "example": "우리는 진전을 이루었습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "성과",
+    "meaning_en": "performance",
+    "pos": "noun",
+    "example": "성공은 노력을 필요로 합니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "결과",
+    "meaning_en": "result",
+    "pos": "noun",
+    "example": "공항에 일찍 갑시다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "목표",
+    "meaning_en": "target",
+    "pos": "noun",
+    "example": "비행기가 지금 이륙하고 있습니다.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "진전",
+    "meaning_en": "progress",
+    "pos": "noun",
+    "example": "티켓 준비됐나요?",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "성공",
+    "meaning_en": "success",
+    "pos": "noun",
+    "example": "세관에서 여권을 보여줘야 합니다.",
     "level": "기초다지기",
     "category": "비즈니스"
   }

@@ -1,401 +1,1793 @@
 [
   {
-    "word": "destination",
-    "meaning_ko": "destination",
+    "word": "숙박 시설",
+    "meaning_en": "accommodation",
     "pos": "noun",
-    "example": "This is an example with destination.",
+    "example": "긴 하루의 관광에는 휴대용 충전기가 매우 중요합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "itinerary",
-    "meaning_ko": "itinerary",
+    "word": "여행 일정표",
+    "meaning_en": "itinerary",
     "pos": "noun",
-    "example": "This is an example with itinerary.",
+    "example": "호텔 위치는 관광객들에게 매우 편리합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "reservation",
-    "meaning_ko": "reservation",
+    "word": "목적지",
+    "meaning_en": "destination",
     "pos": "noun",
-    "example": "This is an example with reservation.",
+    "example": "우리는 산속 외딴 마을까지 하이킹을 했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "accommodation",
-    "meaning_ko": "accommodation",
+    "word": "예약",
+    "meaning_en": "reservation",
     "pos": "noun",
-    "example": "This is an example with accommodation.",
+    "example": "우리는 현지 주민에게 가장 좋은 길을 물었습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "departure",
-    "meaning_ko": "departure",
+    "word": "취소",
+    "meaning_en": "cancellation",
     "pos": "noun",
-    "example": "This is an example with departure.",
+    "example": "이 도시에는 공부하는 많은 외국인이 있습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "arrival",
-    "meaning_ko": "arrival",
+    "word": "환율",
+    "meaning_en": "exchange rate",
     "pos": "noun",
-    "example": "This is an example with arrival.",
+    "example": "보안 검색 줄이 예상외로 길었습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "boarding",
-    "meaning_ko": "boarding",
+    "word": "기념품",
+    "meaning_en": "souvenir",
     "pos": "noun",
-    "example": "This is an example with boarding.",
+    "example": "저는 작은 기내용 가방만 가져왔습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "customs",
-    "meaning_ko": "customs",
-    "pos": "noun",
-    "example": "This is an example with customs.",
+    "word": "체크아웃하다",
+    "meaning_en": "check out",
+    "pos": "verb",
+    "example": "제 여행 가방은 위탁 수하물 구역에 있습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "immigration",
-    "meaning_ko": "immigration",
+    "word": "세관 신고서",
+    "meaning_en": "customs declaration",
     "pos": "noun",
-    "example": "This is an example with immigration.",
+    "example": "세관원이 저에게 몇 가지 질문을 했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "security",
-    "meaning_ko": "security",
+    "word": "터미널, 종점",
+    "meaning_en": "terminal",
     "pos": "noun",
-    "example": "This is an example with security.",
+    "example": "저는 면세점에서 향수를 샀습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "baggage",
-    "meaning_ko": "baggage",
+    "word": "탑승 시간",
+    "meaning_en": "boarding time",
     "pos": "noun",
-    "example": "This is an example with baggage.",
+    "example": "신고서에 반드시 서명하세요.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "suitcase",
-    "meaning_ko": "suitcase",
+    "word": "연결 항공편",
+    "meaning_en": "connecting flight",
     "pos": "noun",
-    "example": "This is an example with suitcase.",
+    "example": "우리는 현재 싱가포르를 경유 중입니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "backpack",
-    "meaning_ko": "backpack",
+    "word": "경유 시간",
+    "meaning_en": "layover",
     "pos": "noun",
-    "example": "This is an example with backpack.",
+    "example": "우리는 기차에서 지하철로 환승해야 합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "traveler",
-    "meaning_ko": "traveler",
+    "word": "국내선 항공편",
+    "meaning_en": "domestic flight",
     "pos": "noun",
-    "example": "This is an example with traveler.",
+    "example": "해변으로 가는 편도 티켓 한 장만 필요합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "tourist",
-    "meaning_ko": "tourist",
+    "word": "국제선 항공편",
+    "meaning_en": "international flight",
     "pos": "noun",
-    "example": "This is an example with tourist.",
+    "example": "저는 일반 관광 비자로 입국했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "vacation",
-    "meaning_ko": "vacation",
+    "word": "시차증",
+    "meaning_en": "jet lag",
     "pos": "noun",
-    "example": "This is an example with vacation.",
+    "example": "우리는 이번에 아늑한 게스트하우스에 묵기로 했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "holiday",
-    "meaning_ko": "holiday",
+    "word": "대중교통",
+    "meaning_en": "public transportation",
     "pos": "noun",
-    "example": "This is an example with holiday.",
+    "example": "호스텔은 다른 여행자들을 만나기에 좋습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "adventure",
-    "meaning_ko": "adventure",
+    "word": "셔틀 버스",
+    "meaning_en": "shuttle bus",
     "pos": "noun",
-    "example": "This is an example with adventure.",
+    "example": "우리는 주방이 딸린 취사 가능 아파트를 선택했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "excursion",
-    "meaning_ko": "excursion",
+    "word": "렌터카",
+    "meaning_en": "car rental",
     "pos": "noun",
-    "example": "This is an example with excursion.",
+    "example": "그 리조트는 올인클루시브 패키지를 제공합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "sightseeing",
-    "meaning_ko": "sightseeing",
-    "pos": "noun",
-    "example": "This is an example with sightseeing.",
+    "word": "유효한",
+    "meaning_en": "valid",
+    "pos": "adjective",
+    "example": "우리는 수도에서 하루 종일 관광을 했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "landmark",
-    "meaning_ko": "landmark",
-    "pos": "noun",
-    "example": "This is an example with landmark.",
+    "word": "만료되는",
+    "meaning_en": "expiring",
+    "pos": "adjective",
+    "example": "우리는 근처 화산으로 당일치기 여행을 떠났습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "monument",
-    "meaning_ko": "monument",
+    "word": "보증금",
+    "meaning_en": "deposit",
     "pos": "noun",
-    "example": "This is an example with monument.",
+    "example": "저는 골동품 가게에서 기념품 사는 것을 즐깁니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "museum",
-    "meaning_ko": "museum",
+    "word": "접수원",
+    "meaning_en": "receptionist",
     "pos": "noun",
-    "example": "This is an example with museum.",
+    "example": "그 시장은 아름다운 현지 수공예품으로 유명합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "gallery",
-    "meaning_ko": "gallery",
+    "word": "프런트 데스크",
+    "meaning_en": "front desk",
     "pos": "noun",
-    "example": "This is an example with gallery.",
+    "example": "유명한 길거리 음식을 먹어보는 것은 여기서 꼭 해야 할 일입니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "attraction",
-    "meaning_ko": "attraction",
+    "word": "벨보이",
+    "meaning_en": "bellhop",
     "pos": "noun",
-    "example": "This is an example with attraction.",
+    "example": "현지 생선은 진귀한 별미로 여겨집니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "scenic",
-    "meaning_ko": "scenic",
-    "pos": "noun",
-    "example": "This is an example with scenic.",
+    "word": "무료의, 서비스로 제공되는",
+    "meaning_en": "complimentary",
+    "pos": "adjective",
+    "example": "식사와 함께 음료를 드시겠어요?",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "hospitality",
-    "meaning_ko": "hospitality",
+    "word": "발코니",
+    "meaning_en": "balcony",
     "pos": "noun",
-    "example": "This is an example with hospitality.",
+    "example": "우리는 가벼운 애피타이저로 시작했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "reception",
-    "meaning_ko": "reception",
+    "word": "편의 시설",
+    "meaning_en": "amenities",
     "pos": "noun",
-    "example": "This is an example with reception.",
+    "example": "메인 코스로는 무엇을 드시겠어요?",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "concierge",
-    "meaning_ko": "concierge",
+    "word": "세탁 서비스",
+    "meaning_en": "laundry service",
     "pos": "noun",
-    "example": "This is an example with concierge.",
+    "example": "제가 알아야 할 식이 제한 사항이 있나요?",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "amenities",
-    "meaning_ko": "amenities",
+    "word": "객실 정리",
+    "meaning_en": "housekeeping",
     "pos": "noun",
-    "example": "This is an example with amenities.",
+    "example": "주문하기 전에 음식 알레르기를 확인해야 합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "facilities",
-    "meaning_ko": "facilities",
+    "word": "현지 요리",
+    "meaning_en": "local cuisine",
     "pos": "noun",
-    "example": "This is an example with facilities.",
+    "example": "이 카레의 맵기 수준은 어느 정도인가요?",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "transportation",
-    "meaning_ko": "transportation",
+    "word": "추천",
+    "meaning_en": "recommendation",
     "pos": "noun",
-    "example": "This is an example with transportation.",
+    "example": "여기 수돗물은 마셔도 안전한가요?",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "schedule",
-    "meaning_ko": "일정",
+    "word": "특선 요리",
+    "meaning_en": "specialty",
     "pos": "noun",
-    "example": "This is an example with schedule.",
+    "example": "우리는 일몰을 보기 위해 전망대까지 하이킹하기로 결정했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "delay",
-    "meaning_ko": "delay",
+    "word": "채식주의자",
+    "meaning_en": "vegetarian",
     "pos": "noun",
-    "example": "This is an example with delay.",
+    "example": "그 국립공원은 일주일간의 트레킹 루트로 유명합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "cancellation",
-    "meaning_ko": "cancellation",
+    "word": "팁, 사례금",
+    "meaning_en": "gratuity",
     "pos": "noun",
-    "example": "This is an example with cancellation.",
+    "example": "우리는 해안을 따라 경치 좋은 길을 택했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "refund",
-    "meaning_ko": "refund",
+    "word": "영수증",
+    "meaning_en": "receipt",
     "pos": "noun",
-    "example": "This is an example with refund.",
+    "example": "최고의 전망대는 그 탑 꼭대기에 있습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "exchange",
-    "meaning_ko": "exchange",
-    "pos": "noun",
-    "example": "This is an example with exchange.",
+    "word": "과잉 청구하다",
+    "meaning_en": "overcharge",
+    "pos": "verb",
+    "example": "자외선 차단제를 듬뿍 바르는 것을 잊지 마세요.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "currency",
-    "meaning_ko": "currency",
+    "word": "환불",
+    "meaning_en": "refund",
     "pos": "noun",
-    "example": "This is an example with currency.",
+    "example": "곤충들이 활동적이니 모기 퇴치제를 가져오세요.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "souvenir",
-    "meaning_ko": "souvenir",
-    "pos": "noun",
-    "example": "This is an example with souvenir.",
+    "word": "흥정하다",
+    "meaning_en": "haggle",
+    "pos": "verb",
+    "example": "하이킹할 때는 항상 작은 구급상자를 가지고 다니세요.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "local",
-    "meaning_ko": "local",
+    "word": "보행자",
+    "meaning_en": "pedestrian",
     "pos": "noun",
-    "example": "This is an example with local.",
+    "example": "저는 하루에 두 번 약을 먹어야 합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "native",
-    "meaning_ko": "native",
+    "word": "교통 체증",
+    "meaning_en": "traffic jam",
     "pos": "noun",
-    "example": "This is an example with native.",
+    "example": "현재 증상이 어떠신가요?",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "foreign",
-    "meaning_ko": "foreign",
+    "word": "우회로",
+    "meaning_en": "detour",
     "pos": "noun",
-    "example": "This is an example with foreign.",
+    "example": "즉시 현지 긴급 전화번호로 전화하세요.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "international",
-    "meaning_ko": "international",
+    "word": "주요 지형지물, 랜드마크",
+    "meaning_en": "landmark",
     "pos": "noun",
-    "example": "This is an example with international.",
+    "example": "비상 연락처 정보를 제공해 주세요.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "domestic",
-    "meaning_ko": "domestic",
+    "word": "유적지",
+    "meaning_en": "historical site",
     "pos": "noun",
-    "example": "This is an example with domestic.",
+    "example": "우리 여행사 직원이 전체 여행을 준비해 주었습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "culture",
-    "meaning_ko": "culture",
+    "word": "미술관",
+    "meaning_en": "gallery",
     "pos": "noun",
-    "example": "This is an example with culture.",
+    "example": "우리는 올해 패키지여행을 가지 않기로 결정했습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "tradition",
-    "meaning_ko": "tradition",
+    "word": "기념품 가게",
+    "meaning_en": "souvenir shop",
     "pos": "noun",
-    "example": "This is an example with tradition.",
+    "example": "저는 단체 관광보다 개인 자유 여행을 선호합니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "explore",
-    "meaning_ko": "explore",
-    "pos": "noun",
-    "example": "This is an example with explore.",
+    "word": "경험하다",
+    "meaning_en": "experience",
+    "pos": "verb",
+    "example": "현지 명소에 대한 안내 책자를 집어 들었습니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "discover",
-    "meaning_ko": "discover",
-    "pos": "noun",
-    "example": "This is an example with discover.",
+    "word": "탐험하다, 탐색하다",
+    "meaning_en": "explore",
+    "pos": "verb",
+    "example": "탐험을 위해서는 지도를 잘 읽는 기술이 필수적입니다.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "wander",
-    "meaning_ko": "wander",
-    "pos": "noun",
-    "example": "This is an example with wander.",
+    "word": "관찰하다",
+    "meaning_en": "observe",
+    "pos": "verb",
+    "example": "등반 시 고산병에 대한 예방 조치를 취하세요.",
     "level": "표현력확장",
     "category": "여행"
   },
   {
-    "word": "navigate",
-    "meaning_ko": "navigate",
+    "word": "몰두하다, 흠뻑 빠지다",
+    "meaning_en": "immerse",
+    "pos": "verb",
+    "example": "저는 휴대폰의 환율 변환기 앱을 사용합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "예산",
+    "meaning_en": "budget",
     "pos": "noun",
-    "example": "This is an example with navigate.",
+    "example": "현금을 인출할 수 있는 안전한 ATM을 찾아야 합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "즉흥적인",
+    "meaning_en": "spontaneous",
+    "pos": "adjective",
+    "example": "팁 통에 잔돈을 남겨두셔도 됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "미리 준비된",
+    "meaning_en": "pre-arranged",
+    "pos": "adjective",
+    "example": "그 전망대는 훌륭한 사진 촬영 기회를 제공합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "진정한, 진짜의",
+    "meaning_en": "authentic",
+    "pos": "adjective",
+    "example": "트레킹에는 편안한 배낭이 필수적입니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "필수적인",
+    "meaning_en": "essential",
+    "pos": "adjective",
+    "example": "가파른 오르막을 위해 트레킹 스틱을 잊지 마세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "보험",
+    "meaning_en": "insurance",
+    "pos": "noun",
+    "example": "긴 산책을 위해 항상 편안한 신발을 챙기세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "휴대용의",
+    "meaning_en": "portable",
+    "pos": "adjective",
+    "example": "여권 심사대로 진행해 주세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "편리한",
+    "meaning_en": "convenient",
+    "pos": "adjective",
+    "example": "화면에서 출발 게이트 번호를 확인하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "외딴",
+    "meaning_en": "remote",
+    "pos": "adjective",
+    "example": "우리의 환승 도시는 암스테르담입니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "현지 주민",
+    "meaning_en": "local resident",
+    "pos": "noun",
+    "example": "기차는 정시에 도착할 것으로 예상됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "외국인",
+    "meaning_en": "foreigner",
+    "pos": "noun",
+    "example": "기술적인 문제로 비행기가 지연되었습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "비자 신청",
+    "meaning_en": "visa application",
+    "pos": "noun",
+    "example": "모든 것이 일정대로 순조롭게 진행되고 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "보안 검색",
+    "meaning_en": "security check",
+    "pos": "noun",
+    "example": "저는 기념품 쇼핑에 너무 많은 시간을 썼습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "기내 수하물",
+    "meaning_en": "carry-on bag",
+    "pos": "noun",
+    "example": "현지 가이드를 고용한 것이 우리의 경험을 풍부하게 했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "위탁 수하물",
+    "meaning_en": "checked baggage",
+    "pos": "noun",
+    "example": "우리는 성 가이드 투어를 예약했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "세관원",
+    "meaning_en": "customs officer",
+    "pos": "noun",
+    "example": "우리는 오디오 기기를 이용한 셀프 가이드 투어를 선택했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "면세",
+    "meaning_en": "duty-free",
+    "pos": "adjective",
+    "example": "갤러리에는 소정의 입장료가 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "신고서",
+    "meaning_en": "declaration form",
+    "pos": "noun",
+    "example": "학생 할인을 제공하나요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "환승, 통과",
+    "meaning_en": "transit",
+    "pos": "noun",
+    "example": "저는 노점상과 흥정을 시도했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "환승하다, 이동하다",
+    "meaning_en": "transfer",
+    "pos": "verb",
+    "example": "우리는 노점상에게서 신선한 주스를 샀습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "편도 티켓",
+    "meaning_en": "single ticket",
+    "pos": "noun",
+    "example": "현지 시장은 신선한 농산물을 사기에 가장 좋은 장소입니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "왕복 티켓",
+    "meaning_en": "round trip ticket",
+    "pos": "noun",
+    "example": "그 박물관은 고대 역사적 유물들을 전시합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "관광 비자",
+    "meaning_en": "tourist visa",
+    "pos": "noun",
+    "example": "우리는 고대 유적을 탐험하며 몇 시간을 보냈습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "게스트하우스",
+    "meaning_en": "guesthouse",
+    "pos": "noun",
+    "example": "저는 오래된 건물들의 독특한 건축물에 감탄합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "호스텔",
+    "meaning_en": "hostel",
+    "pos": "noun",
+    "example": "그 궁전은 평일에만 대중에게 개방됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "자급자족의",
+    "meaning_en": "self-catering",
+    "pos": "adjective",
+    "example": "사원을 방문할 때는 어깨를 가리는 것을 기억하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "모든 것이 포함된",
+    "meaning_en": "all-inclusive",
+    "pos": "adjective",
+    "example": "그 대성당은 스테인드글라스 창문으로 유명합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "관광",
+    "meaning_en": "sightseeing",
+    "pos": "noun",
+    "example": "우리는 광장에 있는 큰 분수 근처에서 만났습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "짧은 여행, 소풍",
+    "meaning_en": "excursion",
+    "pos": "noun",
+    "example": "거대한 청동상이 공원 중앙에 서 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "기념품 찾기",
+    "meaning_en": "souvenir hunting",
+    "pos": "noun",
+    "example": "해안선을 따라가는 드라이브는 숨 막히게 멋졌습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "수공예품",
+    "meaning_en": "handicraft",
+    "pos": "noun",
+    "example": "사막을 횡단하는 여행은 세심한 계획이 필요합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "길거리 음식",
+    "meaning_en": "street food",
+    "pos": "noun",
+    "example": "그 투어는 열대 우림을 통과하는 트레킹을 포함합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "진미, 별미",
+    "meaning_en": "delicacy",
+    "pos": "noun",
+    "example": "이 지역의 기후는 일 년 내내 온화합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "음료",
+    "meaning_en": "beverage",
+    "pos": "noun",
+    "example": "우리는 열대의 섬을 방문 중입니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "전채 요리",
+    "meaning_en": "appetizer",
+    "pos": "noun",
+    "example": "수하물 카트는 어디서 찾을 수 있나요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "주요리",
+    "meaning_en": "main course",
+    "pos": "noun",
+    "example": "분실된 수하물을 신고해야 합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "식이 제한",
+    "meaning_en": "dietary restriction",
+    "pos": "noun",
+    "example": "세관 통과는 빠르고 쉬웠습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "알레르기",
+    "meaning_en": "allergies",
+    "pos": "noun",
+    "example": "입국 심사관이 제 비자를 꼼꼼하게 확인했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "매운 정도",
+    "meaning_en": "spice level",
+    "pos": "noun",
+    "example": "여행 서류의 유효 기간을 확인하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "수돗물",
+    "meaning_en": "tap water",
+    "pos": "noun",
+    "example": "모든 여행 서류를 잘 정리해 두세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "하이킹하다",
+    "meaning_en": "hike",
+    "pos": "verb",
+    "example": "연결 게이트로 가는 표지판을 따라가세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "장거리 등산",
+    "meaning_en": "trekking",
+    "pos": "noun",
+    "example": "급행열차는 완행열차보다 훨씬 빠릅니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "경치가 좋은",
+    "meaning_en": "scenic",
+    "pos": "adjective",
+    "example": "우리는 돈을 아끼기 위해 시내버스를 탔습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "전망대",
+    "meaning_en": "viewpoint",
+    "pos": "noun",
+    "example": "통근 열차는 출퇴근 시간에 자주 운행됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "자외선 차단제",
+    "meaning_en": "sunscreen",
+    "pos": "noun",
+    "example": "혼동을 피하기 위해 환율 변환기를 사용하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "모기 퇴치제",
+    "meaning_en": "mosquito repellent",
+    "pos": "noun",
+    "example": "시내 지역은 주요 관광 명소입니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "구급 상자",
+    "meaning_en": "first aid kit",
+    "pos": "noun",
+    "example": "저는 사람들이 잘 가지 않는 곳을 여행하는 것을 선호합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "약물, 약",
+    "meaning_en": "medication",
+    "pos": "noun",
+    "example": "문화 충격을 경험하는 것은 여행의 일부입니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "증상",
+    "meaning_en": "symptom",
+    "pos": "noun",
+    "example": "그 거리는 기념품 가판대로 즐비합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "응급 상황",
+    "meaning_en": "emergency",
+    "pos": "noun",
+    "example": "우리는 현지 관습과 전통을 존중해야 합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "연락처",
+    "meaning_en": "contact details",
+    "pos": "noun",
+    "example": "언어 장벽은 의사소통을 어렵게 만들었습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "여행사 직원",
+    "meaning_en": "travel agent",
+    "pos": "noun",
+    "example": "저는 번역기 앱에 크게 의존합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "패키지 여행",
+    "meaning_en": "package tour",
+    "pos": "noun",
+    "example": "우리는 여행 전에 모든 안전 문제를 논의했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "자유 여행",
+    "meaning_en": "independent travel",
+    "pos": "noun",
+    "example": "신뢰할 수 있는 여행 동반자를 찾는 것이 중요합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "안내 책자",
+    "meaning_en": "brochure",
+    "pos": "noun",
+    "example": "혼자 하는 여행은 독특한 자유감을 제공합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "지도 읽기",
+    "meaning_en": "map reading",
+    "pos": "noun",
+    "example": "그것은 온 가족에게 진정으로 기억에 남는 여행이었습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "시차",
+    "meaning_en": "time difference",
+    "pos": "noun",
+    "example": "일몰 풍경은 정말 잊을 수 없었습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "고산병",
+    "meaning_en": "altitude sickness",
+    "pos": "noun",
+    "example": "우리 여행은 멋진 모험이 되었습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "환율 계산기",
+    "meaning_en": "currency converter",
+    "pos": "noun",
+    "example": "자전거로 도시를 돌아다니기 쉽습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "현금 인출기",
+    "meaning_en": "ATM",
+    "pos": "noun",
+    "example": "그 대성당은 이 도시에서 꼭 봐야 할 곳입니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "팁 통",
+    "meaning_en": "tip jar",
+    "pos": "noun",
+    "example": "조심하세요, 저 식당은 관광객들에게 바가지를 씌우는 곳으로 잘 알려져 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "사진 촬영 기회",
+    "meaning_en": "photo opportunities",
+    "pos": "noun",
+    "example": "저는 긴 버스 여행에 멀미로 고생합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "배낭",
+    "meaning_en": "backpack",
+    "pos": "noun",
+    "example": "배멀미를 예방하기 위해 약을 좀 드세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "등산 스틱",
+    "meaning_en": "trekking poles",
+    "pos": "noun",
+    "example": "이 지역에 필요한 예방 접종이 있는지 확인하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "편안한 신발",
+    "meaning_en": "comfortable shoes",
+    "pos": "noun",
+    "example": "여권 지갑에 서류를 안전하게 보관하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "비자 필요",
+    "meaning_en": "visa required",
+    "pos": "phrase",
+    "example": "충전기용 여행용 어댑터 가져오는 것을 잊었습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "여권 심사",
+    "meaning_en": "passport control",
+    "pos": "noun",
+    "example": "제 좌석 근처에 무료 전원 콘센트가 있나요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "출발 게이트",
+    "meaning_en": "departure gate",
+    "pos": "noun",
+    "example": "그 거리는 다채로운 기념품 가판대로 가득 차 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "경유 도시",
+    "meaning_en": "connecting city",
+    "pos": "noun",
+    "example": "오늘 오후에 주요 쇼핑 지구를 방문합시다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "정시에",
+    "meaning_en": "on time",
+    "pos": "phrase",
+    "example": "저는 골동품 가게에서 빈티지 지도를 발견했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "지연된",
+    "meaning_en": "delayed",
+    "pos": "adjective",
+    "example": "현지 공예품은 훌륭한 선물이 됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "예정대로",
+    "meaning_en": "on schedule",
+    "pos": "phrase",
+    "example": "우리는 역사 지구 무료 도보 투어에 참여했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "기념품 쇼핑",
+    "meaning_en": "souvenir shopping",
+    "pos": "noun",
+    "example": "타고 내리는 버스 투어는 매우 편리합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "현지 가이드",
+    "meaning_en": "local guide",
+    "pos": "noun",
+    "example": "강을 따라가는 보트 여행은 편안했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "가이드 투어",
+    "meaning_en": "guided tour",
+    "pos": "noun",
+    "example": "우리는 산을 오르기 위해 케이블카를 탔습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "자유 관광",
+    "meaning_en": "self-guided tour",
+    "pos": "noun",
+    "example": "페리 시간표는 부두 옆에 게시되어 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "입장료",
+    "meaning_en": "entry fee",
+    "pos": "noun",
+    "example": "공휴일 때문에 많은 상점이 문을 닫았습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "입장료",
+    "meaning_en": "admission charge",
+    "pos": "noun",
+    "example": "성수기에는 숙박 가격이 두 배로 뜁니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "할인",
+    "meaning_en": "discount",
+    "pos": "noun",
+    "example": "비수기에 여행하면 돈이 많이 절약됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "흥정하다, 싸게 사다",
+    "meaning_en": "bargain",
+    "pos": "verb",
+    "example": "저는 항공료를 절약하기 위해 저가 항공사를 이용했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "노점상, 판매자",
+    "meaning_en": "vendor",
+    "pos": "noun",
+    "example": "우리는 우선 탑승을 위해 추가 비용을 지불했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "재래시장",
+    "meaning_en": "local market",
+    "pos": "noun",
+    "example": "저는 예약이 꽉 찬 항공편의 대기자 명단에 이름을 올렸습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "역사적 유물",
+    "meaning_en": "historical artifacts",
+    "pos": "noun",
+    "example": "예약 확인 이메일 가지고 계신가요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "고대 유적",
+    "meaning_en": "ancient ruins",
+    "pos": "noun",
+    "example": "확인 번호를 알려주세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "건축",
+    "meaning_en": "architecture",
+    "pos": "noun",
+    "example": "관광 비자가 만료되지 않았는지 확인하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "궁전",
+    "meaning_en": "palace",
+    "pos": "noun",
+    "example": "제 나라는 여기와 비자 면제 협정이 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "사원",
+    "meaning_en": "temple",
+    "pos": "noun",
+    "example": "우리는 바닷가에 있는 고급 리조트에서 묵었습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "대성당",
+    "meaning_en": "cathedral",
+    "pos": "noun",
+    "example": "저는 호텔 스파에 오후 시간을 예약했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "분수",
+    "meaning_en": "fountain",
+    "pos": "noun",
+    "example": "그 방에는 유럽식 아침 식사가 포함되어 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "동상",
+    "meaning_en": "statue",
+    "pos": "noun",
+    "example": "저녁 식사는 뷔페 스타일로 제공됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "해안선",
+    "meaning_en": "coastline",
+    "pos": "noun",
+    "example": "이 주문 포장해 주시겠어요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "폭포",
+    "meaning_en": "waterfall",
+    "pos": "noun",
+    "example": "여기서 드시나요, 아니면 가져가시나요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "사막",
+    "meaning_en": "desert",
+    "pos": "noun",
+    "example": "현지 식사 예절에 유의하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "열대 우림",
+    "meaning_en": "rainforest",
+    "pos": "noun",
+    "example": "항상 서비스 직원에게 예의 바르게 대하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "기후",
+    "meaning_en": "climate",
+    "pos": "noun",
+    "example": "노인들에게 공손한 태도를 보이세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "열대의",
+    "meaning_en": "tropical",
+    "pos": "adjective",
+    "example": "제 실수에 대해 사과해야 합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "수하물 카트",
+    "meaning_en": "luggage cart",
+    "pos": "noun",
+    "example": "이 요리에 대해 셰프에게 칭찬해야 합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "분실 수하물",
+    "meaning_en": "lost luggage",
+    "pos": "noun",
+    "example": "가격은 협상 가능합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "세관 통관",
+    "meaning_en": "customs clearance",
+    "pos": "noun",
+    "example": "관광 지도에는 모든 도보 경로가 포함되어 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "출입국 관리관",
+    "meaning_en": "immigration officer",
+    "pos": "noun",
+    "example": "만나는 장소는 중앙 광장입니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "유효 기간",
+    "meaning_en": "validity period",
+    "pos": "noun",
+    "example": "그 식당은 작은 샛길 아래 숨겨져 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "여행 서류",
+    "meaning_en": "travel documents",
+    "pos": "noun",
+    "example": "세 번째 신호등에서 우회전하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "연결 게이트",
+    "meaning_en": "connecting gates",
+    "pos": "noun",
+    "example": "길을 안전하게 건너기 위해 횡단보도를 이용하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "급행열차",
+    "meaning_en": "express train",
+    "pos": "noun",
+    "example": "관광 안내 센터에서 여행 패스를 구입하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "시내 버스",
+    "meaning_en": "local bus",
+    "pos": "noun",
+    "example": "저는 비상 연락 번호를 휴대폰에 저장했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "통근 열차",
+    "meaning_en": "commuter rail",
+    "pos": "noun",
+    "example": "기본적인 응급 처치법을 아시나요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "환율 계산기",
+    "meaning_en": "currency converter",
+    "pos": "noun",
+    "example": "그녀는 여행 중에 갑자기 병이 났습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "관광 명소",
+    "meaning_en": "tourist hotspot",
+    "pos": "noun",
+    "example": "현지 의사의 처방전이 필요합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "잘 알려지지 않은 곳",
+    "meaning_en": "off the beaten track",
+    "pos": "phrase",
+    "example": "의료 보험이 해외여행을 보장하는지 확인하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "문화 충격",
+    "meaning_en": "culture shock",
+    "pos": "noun",
+    "example": "여행자 수표는 요즘 거의 사용되지 않습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "기념품 노점",
+    "meaning_en": "souvenir stalls",
+    "pos": "noun",
+    "example": "신용카드 사기를 예방하기 위해 경계를 늦추지 마세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "현지 관습",
+    "meaning_en": "local customs",
+    "pos": "noun",
+    "example": "이해해 주셔서 감사합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "언어 장벽",
+    "meaning_en": "language barrier",
+    "pos": "noun",
+    "example": "내일 회의를 준비하겠습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "번역 앱",
+    "meaning_en": "translator app",
+    "pos": "noun",
+    "example": "당신이 그 프로젝트에 익숙하다고 생각합니다. (가정합니다.)",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "안전 문제",
+    "meaning_en": "safety concern",
+    "pos": "noun",
+    "example": "저는 그 문제를 해결하려고 시도했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "여행 동반자",
+    "meaning_en": "travel companion",
+    "pos": "noun",
+    "example": "그녀는 노력 끝에 목표를 달성했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "혼자 여행",
+    "meaning_en": "solo travel",
+    "pos": "noun",
+    "example": "불필요한 스트레스를 피하도록 노력하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "기억에 남는 여행",
+    "meaning_en": "memorable trip",
+    "pos": "noun",
+    "example": "저는 일과 가정의 균형을 맞춰야 합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "잊을 수 없는",
+    "meaning_en": "unforgettable",
+    "pos": "adjective",
+    "example": "이 새로운 정책은 모든 사람에게 이익이 됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "모험",
+    "meaning_en": "adventure",
+    "pos": "noun",
+    "example": "그 실수에 대해 자신을 탓하지 마세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "돌아다니다",
+    "meaning_en": "get around",
+    "pos": "verb",
+    "example": "펜 좀 빌릴 수 있을까요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "꼭 봐야 할 것",
+    "meaning_en": "must-see",
+    "pos": "noun",
+    "example": "우리는 매년 기념일을 축하합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "관광객 유인 장소",
+    "meaning_en": "tourist trap",
+    "pos": "noun",
+    "example": "당신에게 게임을 도전합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "멀미",
+    "meaning_en": "travel sickness",
+    "pos": "noun",
+    "example": "저는 계획을 변경해야 합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "배멀미",
+    "meaning_en": "sea sickness",
+    "pos": "noun",
+    "example": "문이 잠겼는지 확인하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "예방 접종",
+    "meaning_en": "vaccination",
+    "pos": "noun",
+    "example": "좋아하는 색깔 아무거나 골라도 됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "여권 지갑",
+    "meaning_en": "passport holder",
+    "pos": "noun",
+    "example": "그는 전문가라고 주장합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "여행용 어댑터",
+    "meaning_en": "travel adapter",
+    "pos": "noun",
+    "example": "우리는 이메일을 통해 소통합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "전원 콘센트",
+    "meaning_en": "power outlet",
+    "pos": "noun",
+    "example": "이 두 가지 옵션을 신중하게 비교하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "기념품 가판대",
+    "meaning_en": "souvenir stand",
+    "pos": "noun",
+    "example": "운동선수들은 메달을 놓고 경쟁합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "쇼핑 지구",
+    "meaning_en": "shopping district",
+    "pos": "noun",
+    "example": "날씨에 대해 불평하지 마세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "골동품 가게",
+    "meaning_en": "antique shop",
+    "pos": "noun",
+    "example": "저는 그 프로젝트를 시간 내에 완료했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "현지 공예품",
+    "meaning_en": "local craft",
+    "pos": "noun",
+    "example": "당신의 건강이 걱정됩니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "도보 여행",
+    "meaning_en": "walking tour",
+    "pos": "noun",
+    "example": "예약을 확인해 주실 수 있나요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "버스 관광",
+    "meaning_en": "bus tour",
+    "pos": "noun",
+    "example": "케이블을 장치에 연결하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "보트 여행",
+    "meaning_en": "boat trip",
+    "pos": "noun",
+    "example": "결정하기 전에 모든 옵션을 고려하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "케이블카",
+    "meaning_en": "cable car",
+    "pos": "noun",
+    "example": "모두가 프로젝트에 기여합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "페리",
+    "meaning_en": "ferry",
+    "pos": "noun",
+    "example": "감정을 조절하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "공휴일",
+    "meaning_en": "public holiday",
+    "pos": "noun",
+    "example": "저는 그가 우리와 함께하도록 설득했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "성수기",
+    "meaning_en": "peak season",
+    "pos": "noun",
+    "example": "우리는 그 문제를 해결하기 위해 협력했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "비수기",
+    "meaning_en": "off-season",
+    "pos": "noun",
+    "example": "이 파일을 당신의 컴퓨터에 복사하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "저가 항공사",
+    "meaning_en": "low cost carrier",
+    "pos": "noun",
+    "example": "예술가들은 아름다운 그림을 창조합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "우선 탑승",
+    "meaning_en": "priority boarding",
+    "pos": "noun",
+    "example": "스트레스에 어떻게 대처하시나요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "대기자 명단",
+    "meaning_en": "waitlist",
+    "pos": "noun",
+    "example": "저는 유학 가기로 결정했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "예약 확인 이메일",
+    "meaning_en": "confirmation email",
+    "pos": "noun",
+    "example": "이번 달에 가격이 하락했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "예약 번호",
+    "meaning_en": "confirmation number",
+    "pos": "noun",
+    "example": "그는 자신의 의견을 강력하게 방어했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "관광 비자",
+    "meaning_en": "tourist visa",
+    "pos": "noun",
+    "example": "문제를 해결하기 전에 문제를 정의하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "비자 면제",
+    "meaning_en": "visa exemption",
+    "pos": "noun",
+    "example": "그 소포는 내일 배달될 것입니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "리조트",
+    "meaning_en": "resort",
+    "pos": "noun",
+    "example": "그는 그의 팀에게 완벽함을 요구합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "스파",
+    "meaning_en": "spa",
+    "pos": "noun",
+    "example": "그는 모든 혐의를 부인했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "헬스장",
+    "meaning_en": "gym",
+    "pos": "noun",
+    "example": "저는 지지를 받기 위해 친구들에게 의지합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "간단한 서양식 아침 식사",
+    "meaning_en": "continental breakfast",
+    "pos": "noun",
+    "example": "당신이 본 것을 묘사하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "뷔페",
+    "meaning_en": "buffet",
+    "pos": "noun",
+    "example": "당신은 휴가를 누릴 자격이 있습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "테이크아웃",
+    "meaning_en": "takeout",
+    "pos": "noun",
+    "example": "그녀는 새 건물을 설계했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "매장 식사",
+    "meaning_en": "dine-in",
+    "pos": "noun",
+    "example": "저는 세계 여행을 갈망합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "식사 예절",
+    "meaning_en": "table manners",
+    "pos": "noun",
+    "example": "폭풍이 많은 집을 파괴했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "예의 바른",
+    "meaning_en": "polite",
+    "pos": "adjective",
+    "example": "문제를 감지할 수 있나요?",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "존중하는",
+    "meaning_en": "respectful",
+    "pos": "adjective",
+    "example": "그들은 새로운 소프트웨어를 개발합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "사과하다",
+    "meaning_en": "apologize",
+    "pos": "verb",
+    "example": "저는 새로운 식당을 발견했습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "칭찬하다",
+    "meaning_en": "compliment",
+    "pos": "verb",
+    "example": "그 프로젝트에 대해 논의합시다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "협상",
+    "meaning_en": "negotiation",
+    "pos": "noun",
+    "example": "그는 직장에서 해고되었습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "관광 지도",
+    "meaning_en": "tourist map",
+    "pos": "noun",
+    "example": "그 박물관은 고대 유물을 전시합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "중앙 광장",
+    "meaning_en": "main square",
+    "pos": "noun",
+    "example": "제가 일하는 동안 방해하지 마세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "옆길",
+    "meaning_en": "side street",
+    "pos": "noun",
+    "example": "모든 지출을 문서화하세요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "신호등",
+    "meaning_en": "traffic light",
+    "pos": "noun",
+    "example": "저는 그것이 사실인지 의심스럽습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "횡단보도",
+    "meaning_en": "crosswalk",
+    "pos": "noun",
+    "example": "그녀는 아름다운 그림을 그립니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "관광 안내 센터",
+    "meaning_en": "tourist information center",
+    "pos": "noun",
+    "example": "저는 매일 운전해서 출근합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "비상 연락망",
+    "meaning_en": "emergency contact",
+    "pos": "noun",
+    "example": "점심시간 동안 전화할게요.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "응급 처치",
+    "meaning_en": "first aid",
+    "pos": "noun",
+    "example": "그는 괜찮은 급여를 법니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "질병",
+    "meaning_en": "illness",
+    "pos": "noun",
+    "example": "저는 이 점을 강조하고 싶습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "처방전",
+    "meaning_en": "prescription",
+    "pos": "noun",
+    "example": "이 기능은 더 나은 의사소통을 가능하게 합니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "의료 보험",
+    "meaning_en": "medical insurance",
+    "pos": "noun",
+    "example": "저는 몇 가지 어려움에 부딪혔습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "여행자 수표",
+    "meaning_en": "traveler's check",
+    "pos": "noun",
+    "example": "다시 시도해 보라고 격려하고 싶습니다.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "신용카드 사기",
+    "meaning_en": "credit card fraud",
+    "pos": "noun",
+    "example": "창문이 닫혔는지 확인하세요.",
     "level": "표현력확장",
     "category": "여행"
   }

@@ -1,401 +1,1209 @@
 [
   {
-    "word": "hello",
-    "meaning_ko": "안녕하세요",
+    "word": "안녕하세요",
+    "meaning_en": "hello",
     "pos": "interjection",
-    "example": "This is an example with hello.",
+    "example": "우리 아버지는 엔지니어로 일하십니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "yes",
-    "meaning_ko": "네",
+    "word": "안녕히 가세요",
+    "meaning_en": "goodbye",
     "pos": "interjection",
-    "example": "This is an example with yes.",
+    "example": "제 남동생은 저보다 두 살 많습니다. (또는 '제 형은 저보다 두 살 많습니다.')",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "no",
-    "meaning_ko": "아니요",
+    "word": "감사하다",
+    "meaning_en": "thank",
+    "pos": "verb",
+    "example": "제 여동생은 대학교에서 공부합니다. (또는 '제 누나는 대학교에서 공부합니다.')",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "부탁하다",
+    "meaning_en": "please",
+    "pos": "adverb",
+    "example": "저는 큰 집에 삽니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "죄송하다",
+    "meaning_en": "sorry",
+    "pos": "adjective",
+    "example": "제 침실은 매우 작습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "네",
+    "meaning_en": "yes",
     "pos": "interjection",
-    "example": "This is an example with no.",
+    "example": "저는 부엌에서 아침 식사를 요리합니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "thank",
-    "meaning_ko": "감사하다",
-    "pos": "verb",
-    "example": "This is an example with thank.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "please",
-    "meaning_ko": "부탁하다",
-    "pos": "adverb",
-    "example": "This is an example with please.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "sorry",
-    "meaning_ko": "미안하다",
-    "pos": "adjective",
-    "example": "This is an example with sorry.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "welcome",
-    "meaning_ko": "환영하다",
-    "pos": "verb",
-    "example": "This is an example with welcome.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "bye",
-    "meaning_ko": "안녕",
+    "word": "아니오",
+    "meaning_en": "no",
     "pos": "interjection",
-    "example": "This is an example with bye.",
+    "example": "욕실은 위층에 있습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "good",
-    "meaning_ko": "좋은",
+    "word": "좋아",
+    "meaning_en": "okay",
+    "pos": "interjection",
+    "example": "저는 편안한 침대에서 잡니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "이름",
+    "meaning_en": "name",
+    "pos": "noun",
+    "example": "그 테이블은 나무로 만들어졌습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "나이",
+    "meaning_en": "age",
+    "pos": "noun",
+    "example": "이 의자에 앉으세요.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "친구",
+    "meaning_en": "friend",
+    "pos": "noun",
+    "example": "문을 조용히 닫아 주세요.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "가족",
+    "meaning_en": "family",
+    "pos": "noun",
+    "example": "신선한 공기를 위해 창문을 여세요.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "어머니",
+    "meaning_en": "mother",
+    "pos": "noun",
+    "example": "여기 음식은 맛있습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "아버지",
+    "meaning_en": "father",
+    "pos": "noun",
+    "example": "저는 매일 물을 마십니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "형",
+    "meaning_en": "brother",
+    "pos": "noun",
+    "example": "저는 아침에 커피를 마십니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "누나",
+    "meaning_en": "sister",
+    "pos": "noun",
+    "example": "차 좀 드시겠어요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "집",
+    "meaning_en": "house",
+    "pos": "noun",
+    "example": "저는 빵집에서 빵을 삽니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "방",
+    "meaning_en": "room",
+    "pos": "noun",
+    "example": "고기 드시나요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "부엌",
+    "meaning_en": "kitchen",
+    "pos": "noun",
+    "example": "저는 저녁 식사로 닭고기를 요리합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "욕실",
+    "meaning_en": "bathroom",
+    "pos": "noun",
+    "example": "오늘 생선이 신선합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "침대",
+    "meaning_en": "bed",
+    "pos": "noun",
+    "example": "저는 매 끼니 밥을 먹습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "테이블",
+    "meaning_en": "table",
+    "pos": "noun",
+    "example": "이 사과는 달고 과즙이 많습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "의자",
+    "meaning_en": "chair",
+    "pos": "noun",
+    "example": "저는 아침 식사로 바나나를 먹습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "문",
+    "meaning_en": "door",
+    "pos": "noun",
+    "example": "오렌지 주스는 건강에 좋습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "창문",
+    "meaning_en": "window",
+    "pos": "noun",
+    "example": "저는 자기 전에 우유를 마십니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "음식",
+    "meaning_en": "food",
+    "pos": "noun",
+    "example": "저녁 식사 같이 합시다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "물",
+    "meaning_en": "water",
+    "pos": "noun",
+    "example": "저는 매일 아침 커피를 마십니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "커피",
+    "meaning_en": "coffee",
+    "pos": "noun",
+    "example": "저는 은행에서 일합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "차",
+    "meaning_en": "tea",
+    "pos": "noun",
+    "example": "저는 매일 영어를 공부합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "빵",
+    "meaning_en": "bread",
+    "pos": "noun",
+    "example": "아이들이 공원에서 놉니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "고기",
+    "meaning_en": "meat",
+    "pos": "noun",
+    "example": "저는 매일 걸어서 학교에 갑니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "닭고기",
+    "meaning_en": "chicken",
+    "pos": "noun",
+    "example": "그는 매일 아침 달립니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "생선",
+    "meaning_en": "fish",
+    "pos": "noun",
+    "example": "여기에 앉으세요.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "쌀/밥",
+    "meaning_en": "rice",
+    "pos": "noun",
+    "example": "선생님이 들어오시면 일어서세요.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "사과",
+    "meaning_en": "apple",
+    "pos": "noun",
+    "example": "저는 도서관에서 책을 읽습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "바나나",
+    "meaning_en": "banana",
+    "pos": "noun",
+    "example": "저는 매일 밤 일기를 씁니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "오렌지",
+    "meaning_en": "orange",
+    "pos": "noun",
+    "example": "우리는 날씨에 대해 이야기합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "우유",
+    "meaning_en": "milk",
+    "pos": "noun",
+    "example": "저는 일하면서 음악을 듣습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "먹다",
+    "meaning_en": "eat",
+    "pos": "verb",
+    "example": "저는 저녁에 TV를 봅니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "마시다",
+    "meaning_en": "drink",
+    "pos": "verb",
+    "example": "저 산이 보이나요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "자다",
+    "meaning_en": "sleep",
+    "pos": "verb",
+    "example": "저 일몰 좀 보세요!",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "깨다",
+    "meaning_en": "wake",
+    "pos": "verb",
+    "example": "이것 좀 도와주실 수 있나요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "일하다",
+    "meaning_en": "work",
+    "pos": "verb",
+    "example": "저는 선생님께 도움을 요청합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "공부하다",
+    "meaning_en": "study",
+    "pos": "verb",
+    "example": "그녀는 모든 질문에 대답합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "놀다",
+    "meaning_en": "play",
+    "pos": "verb",
+    "example": "은행이 어디 있는지 아시나요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "걷다",
+    "meaning_en": "walk",
+    "pos": "verb",
+    "example": "이건 좋은 생각인 것 같습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "뛰다",
+    "meaning_en": "run",
+    "pos": "verb",
+    "example": "오늘 기분이 좋습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "앉다",
+    "meaning_en": "sit",
+    "pos": "verb",
+    "example": "저는 아이스크림을 좋아합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "서다",
+    "meaning_en": "stand",
+    "pos": "verb",
+    "example": "저는 제 가족을 사랑합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "읽다",
+    "meaning_en": "read",
+    "pos": "verb",
+    "example": "저녁으로 무엇을 원하세요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "쓰다",
+    "meaning_en": "write",
+    "pos": "verb",
+    "example": "당신의 도움이 필요합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "말하다",
+    "meaning_en": "talk",
+    "pos": "verb",
+    "example": "펜 좀 주시겠어요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "듣다",
+    "meaning_en": "listen",
+    "pos": "verb",
+    "example": "이 책 가져가세요.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "보다",
+    "meaning_en": "watch",
+    "pos": "verb",
+    "example": "저는 금요일에 식료품을 삽니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "보다",
+    "meaning_en": "see",
+    "pos": "verb",
+    "example": "그들은 아름다운 옷을 팝니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "보다",
+    "meaning_en": "look",
+    "pos": "verb",
+    "example": "저는 월말에 요금을 냅니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "돕다",
+    "meaning_en": "help",
+    "pos": "verb",
+    "example": "이거 얼마예요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "묻다",
+    "meaning_en": "ask",
+    "pos": "verb",
+    "example": "저는 돈이 많지 않습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "대답하다",
+    "meaning_en": "answer",
+    "pos": "verb",
+    "example": "지금 몇 시인가요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "알다",
+    "meaning_en": "know",
+    "pos": "verb",
+    "example": "오늘은 아름다운 날입니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "생각하다",
+    "meaning_en": "think",
+    "pos": "verb",
+    "example": "저는 그녀를 일주일에 한 번 봅니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "느끼다",
+    "meaning_en": "feel",
+    "pos": "verb",
+    "example": "제 생일은 다음 달입니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "좋아하다",
+    "meaning_en": "like",
+    "pos": "verb",
+    "example": "저는 매일 아침 달립니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "사랑하다",
+    "meaning_en": "love",
+    "pos": "verb",
+    "example": "저는 오늘 오후에 회의가 있습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "원하다",
+    "meaning_en": "want",
+    "pos": "verb",
+    "example": "우리는 저녁에 영화를 봅니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "필요하다",
+    "meaning_en": "need",
+    "pos": "verb",
+    "example": "오늘 밤은 매우 춥습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "주다",
+    "meaning_en": "give",
+    "pos": "verb",
+    "example": "오늘 날씨가 좋습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "가져가다",
+    "meaning_en": "take",
+    "pos": "verb",
+    "example": "저는 빗소리를 좋아합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "사다",
+    "meaning_en": "buy",
+    "pos": "verb",
+    "example": "겨울에는 눈이 많이 옵니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "팔다",
+    "meaning_en": "sell",
+    "pos": "verb",
+    "example": "해는 동쪽에서 뜹니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "지불하다",
+    "meaning_en": "pay",
+    "pos": "verb",
+    "example": "오늘 밤은 달이 밝습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "비용이 들다",
+    "meaning_en": "cost",
+    "pos": "verb",
+    "example": "별이 뚜렷하게 보입니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "돈",
+    "meaning_en": "money",
+    "pos": "noun",
+    "example": "여름에는 날씨가 덥습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "시간",
+    "meaning_en": "time",
+    "pos": "noun",
+    "example": "오늘 밖은 매우 춥습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "날",
+    "meaning_en": "day",
+    "pos": "noun",
+    "example": "이 담요는 따뜻합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "주",
+    "meaning_en": "week",
+    "pos": "noun",
+    "example": "수영장 물이 시원합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "달",
+    "meaning_en": "month",
+    "pos": "noun",
+    "example": "저 코끼리는 매우 큽니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "년",
+    "meaning_en": "year",
+    "pos": "noun",
+    "example": "아기는 작고 귀엽습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "아침",
+    "meaning_en": "morning",
+    "pos": "noun",
+    "example": "그녀는 긴 검은 머리를 가지고 있습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "오후",
+    "meaning_en": "afternoon",
+    "pos": "noun",
+    "example": "저는 머리가 짧습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "저녁",
+    "meaning_en": "evening",
+    "pos": "noun",
+    "example": "그는 키가 매우 크고 잘생겼습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "밤",
+    "meaning_en": "night",
+    "pos": "noun",
+    "example": "그 산은 매우 높습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "날씨",
+    "meaning_en": "weather",
+    "pos": "noun",
+    "example": "이 방은 천장이 낮습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "비",
+    "meaning_en": "rain",
+    "pos": "noun",
+    "example": "이 차는 매우 빠릅니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "눈",
+    "meaning_en": "snow",
+    "pos": "noun",
+    "example": "거북이는 느리게 움직입니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "태양",
+    "meaning_en": "sun",
+    "pos": "noun",
+    "example": "이곳은 좋은 식당입니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "달",
+    "meaning_en": "moon",
+    "pos": "noun",
+    "example": "오늘 날씨가 나쁩니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "별",
+    "meaning_en": "star",
+    "pos": "noun",
+    "example": "이 문제는 풀기 쉽습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "뜨거운",
+    "meaning_en": "hot",
     "pos": "adjective",
-    "example": "This is an example with good.",
+    "example": "그 시험은 매우 어려웠습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "bad",
-    "meaning_ko": "나쁜",
+    "word": "추운",
+    "meaning_en": "cold",
     "pos": "adjective",
-    "example": "This is an example with bad.",
+    "example": "당신을 만나서 기쁩니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "help",
-    "meaning_ko": "도움",
-    "pos": "verb",
-    "example": "This is an example with help.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "talk",
-    "meaning_ko": "말하다",
-    "pos": "verb",
-    "example": "This is an example with talk.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "speak",
-    "meaning_ko": "말하다",
-    "pos": "verb",
-    "example": "This is an example with speak.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "listen",
-    "meaning_ko": "듣다",
-    "pos": "verb",
-    "example": "This is an example with listen.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "ask",
-    "meaning_ko": "묻다",
-    "pos": "verb",
-    "example": "This is an example with ask.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "answer",
-    "meaning_ko": "대답하다",
-    "pos": "verb",
-    "example": "This is an example with answer.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "tell",
-    "meaning_ko": "말하다",
-    "pos": "verb",
-    "example": "This is an example with tell.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "say",
-    "meaning_ko": "말하다",
-    "pos": "verb",
-    "example": "This is an example with say.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "name",
-    "meaning_ko": "이름",
-    "pos": "noun",
-    "example": "This is an example with name.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "meet",
-    "meaning_ko": "만나다",
-    "pos": "verb",
-    "example": "This is an example with meet.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "friend",
-    "meaning_ko": "친구",
-    "pos": "noun",
-    "example": "This is an example with friend.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "family",
-    "meaning_ko": "가족",
-    "pos": "noun",
-    "example": "This is an example with family.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "happy",
-    "meaning_ko": "행복한",
+    "word": "따뜻한",
+    "meaning_en": "warm",
     "pos": "adjective",
-    "example": "This is an example with happy.",
+    "example": "그녀는 오늘 슬퍼 보입니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "sad",
-    "meaning_ko": "슬픈",
+    "word": "시원한",
+    "meaning_en": "cool",
     "pos": "adjective",
-    "example": "This is an example with sad.",
+    "example": "그는 그 실수에 대해 화가 났습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "like",
-    "meaning_ko": "좋아하다",
-    "pos": "verb",
-    "example": "This is an example with like.",
+    "word": "큰",
+    "meaning_en": "big",
+    "pos": "adjective",
+    "example": "일이 끝나서 피곤합니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "want",
-    "meaning_ko": "원하다",
-    "pos": "verb",
-    "example": "This is an example with want.",
+    "word": "작은",
+    "meaning_en": "small",
+    "pos": "adjective",
+    "example": "아이들은 여행 때문에 신이 났습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "need",
-    "meaning_ko": "필요하다",
-    "pos": "verb",
-    "example": "This is an example with need.",
+    "word": "긴",
+    "meaning_en": "long",
+    "pos": "adjective",
+    "example": "오늘 몸이 안 좋습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "have",
-    "meaning_ko": "가지다",
-    "pos": "verb",
-    "example": "This is an example with have.",
+    "word": "짧은",
+    "meaning_en": "short",
+    "pos": "adjective",
+    "example": "그는 건강한 생활 방식을 삽니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "get",
-    "meaning_ko": "얻다",
-    "pos": "verb",
-    "example": "This is an example with get.",
+    "word": "키가 큰",
+    "meaning_en": "tall",
+    "pos": "adjective",
+    "example": "일몰이 아름답습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "give",
-    "meaning_ko": "주다",
-    "pos": "verb",
-    "example": "This is an example with give.",
+    "word": "높은",
+    "meaning_en": "high",
+    "pos": "adjective",
+    "example": "저 건물은 못생긴 것 같습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "know",
-    "meaning_ko": "알다",
-    "pos": "verb",
-    "example": "This is an example with know.",
+    "word": "낮은",
+    "meaning_en": "low",
+    "pos": "adjective",
+    "example": "방을 깨끗하게 유지하세요.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "think",
-    "meaning_ko": "생각하다",
-    "pos": "verb",
-    "example": "This is an example with think.",
+    "word": "빠른",
+    "meaning_en": "fast",
+    "pos": "adjective",
+    "example": "제 손이 더럽습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "feel",
-    "meaning_ko": "느끼다",
-    "pos": "verb",
-    "example": "This is an example with feel.",
+    "word": "느린",
+    "meaning_en": "slow",
+    "pos": "adjective",
+    "example": "저는 새 휴대폰을 샀습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "see",
-    "meaning_ko": "보다",
-    "pos": "verb",
-    "example": "This is an example with see.",
+    "word": "좋은",
+    "meaning_en": "good",
+    "pos": "adjective",
+    "example": "이것은 오래된 건물입니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "hear",
-    "meaning_ko": "듣다",
-    "pos": "verb",
-    "example": "This is an example with hear.",
+    "word": "나쁜",
+    "meaning_en": "bad",
+    "pos": "adjective",
+    "example": "그녀는 젊고 재능이 있습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "come",
-    "meaning_ko": "오다",
-    "pos": "verb",
-    "example": "This is an example with come.",
+    "word": "쉬운",
+    "meaning_en": "easy",
+    "pos": "adjective",
+    "example": "이 신발은 싸고 좋습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "go",
-    "meaning_ko": "가다",
-    "pos": "verb",
-    "example": "This is an example with go.",
+    "word": "어려운",
+    "meaning_en": "difficult",
+    "pos": "adjective",
+    "example": "저 식당은 매우 비쌉니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "eat",
-    "meaning_ko": "먹다",
-    "pos": "verb",
-    "example": "This is an example with eat.",
+    "word": "행복한",
+    "meaning_en": "happy",
+    "pos": "adjective",
+    "example": "밖에 나가기 좋은 날입니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "drink",
-    "meaning_ko": "마시다",
-    "pos": "verb",
-    "example": "This is an example with drink.",
+    "word": "슬픈",
+    "meaning_en": "sad",
+    "pos": "adjective",
+    "example": "저 영화는 재미있고 즐겁습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "sleep",
-    "meaning_ko": "자다",
-    "pos": "verb",
-    "example": "This is an example with sleep.",
+    "word": "화난",
+    "meaning_en": "angry",
+    "pos": "adjective",
+    "example": "그는 심각한 표정을 하고 있습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "morning",
-    "meaning_ko": "아침",
+    "word": "피곤한",
+    "meaning_en": "tired",
+    "pos": "adjective",
+    "example": "그녀는 똑똑한 학생입니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "신난",
+    "meaning_en": "excited",
+    "pos": "adjective",
+    "example": "그는 친절하고 도움을 주는 사람입니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "아픈",
+    "meaning_en": "sick",
+    "pos": "adjective",
+    "example": "그는 강하고 운동 신경이 좋습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "건강한",
+    "meaning_en": "healthy",
+    "pos": "adjective",
+    "example": "이 커피는 너무 약합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "아름다운",
+    "meaning_en": "beautiful",
+    "pos": "adjective",
+    "example": "저는 오늘 매우 바쁩니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "못생긴",
+    "meaning_en": "ugly",
+    "pos": "adjective",
+    "example": "이번 주말에 시간 있으세요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "깨끗한",
+    "meaning_en": "clean",
+    "pos": "adjective",
+    "example": "제 차는 밖에 주차되어 있습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "더러운",
+    "meaning_en": "dirty",
+    "pos": "adjective",
+    "example": "저는 자전거를 타고 출근합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "새로운",
+    "meaning_en": "new",
+    "pos": "adjective",
+    "example": "저는 주중 매일 학교에 갑니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "낡은",
+    "meaning_en": "old",
+    "pos": "adjective",
+    "example": "그녀는 병원에서 일합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "젊은",
+    "meaning_en": "young",
+    "pos": "adjective",
+    "example": "이 식당에서 먹읍시다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "저렴한",
+    "meaning_en": "cheap",
+    "pos": "adjective",
+    "example": "저는 그 가게에서 옷을 삽니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "비싼",
+    "meaning_en": "expensive",
+    "pos": "adjective",
+    "example": "아이들이 공원에서 놉니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "좋은",
+    "meaning_en": "nice",
+    "pos": "adjective",
+    "example": "그녀는 길을 따라 걷습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "재미있는",
+    "meaning_en": "funny",
+    "pos": "adjective",
+    "example": "저는 귀여운 강아지가 있습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "진지한",
+    "meaning_en": "serious",
+    "pos": "adjective",
+    "example": "제 고양이는 하루 종일 잡니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "똑똑한",
+    "meaning_en": "smart",
+    "pos": "adjective",
+    "example": "새가 아침에 노래합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "친절한",
+    "meaning_en": "kind",
+    "pos": "adjective",
+    "example": "꽃은 봄에 핍니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "강한",
+    "meaning_en": "strong",
+    "pos": "adjective",
+    "example": "그 나무는 매우 큽니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "약한",
+    "meaning_en": "weak",
+    "pos": "adjective",
+    "example": "저는 매일 밤 책을 읽습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "바쁜",
+    "meaning_en": "busy",
+    "pos": "adjective",
+    "example": "펜 좀 빌려줄 수 있나요?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "한가한",
+    "meaning_en": "free",
+    "pos": "adjective",
+    "example": "저는 흰 종이에 글을 씁니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "자동차",
+    "meaning_en": "car",
     "pos": "noun",
-    "example": "This is an example with morning.",
+    "example": "이 그림은 매우 아름답습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "afternoon",
-    "meaning_ko": "오후",
+    "word": "자전거",
+    "meaning_en": "bicycle",
     "pos": "noun",
-    "example": "This is an example with afternoon.",
+    "example": "저는 음악 듣는 것을 정말 좋아합니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "evening",
-    "meaning_ko": "저녁",
+    "word": "학교",
+    "meaning_en": "school",
     "pos": "noun",
-    "example": "This is an example with evening.",
+    "example": "저는 주말마다 스포츠를 합니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "night",
-    "meaning_ko": "밤",
+    "word": "사무실",
+    "meaning_en": "office",
     "pos": "noun",
-    "example": "This is an example with night.",
+    "example": "게임 한판 할래요?",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "today",
-    "meaning_ko": "오늘",
-    "pos": "adverb",
-    "example": "This is an example with today.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "tomorrow",
-    "meaning_ko": "내일",
-    "pos": "adverb",
-    "example": "This is an example with tomorrow.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "yesterday",
-    "meaning_ko": "어제",
-    "pos": "adverb",
-    "example": "This is an example with yesterday.",
-    "level": "기초다지기",
-    "category": "일상회화"
-  },
-  {
-    "word": "time",
-    "meaning_ko": "시간",
+    "word": "병원",
+    "meaning_en": "hospital",
     "pos": "noun",
-    "example": "This is an example with time.",
+    "example": "그 원조 계획은 피해자들의 고통을 완화하는 것을 목표로 합니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "day",
-    "meaning_ko": "날",
+    "word": "식당",
+    "meaning_en": "restaurant",
     "pos": "noun",
-    "example": "This is an example with day.",
+    "example": "장기적인 경제 전망을 개선하기 위한 노력이 진행 중입니다.",
     "level": "기초다지기",
     "category": "일상회화"
   },
   {
-    "word": "week",
-    "meaning_ko": "주",
+    "word": "가게",
+    "meaning_en": "shop",
     "pos": "noun",
-    "example": "This is an example with week.",
+    "example": "법원의 판결은 중요한 법적 선례를 남깁니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "공원",
+    "meaning_en": "park",
+    "pos": "noun",
+    "example": "가짜 뉴스의 빠른 확산은 복잡한 사회적 난제를 제기합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "거리",
+    "meaning_en": "street",
+    "pos": "noun",
+    "example": "원격 근무로의 전환은 고용에 있어 패러다임의 변화를 나타냅니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "개",
+    "meaning_en": "dog",
+    "pos": "noun",
+    "example": "언론은 종종 안보와 자유 사이에 잘못된 이분법을 만들어냅니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "고양이",
+    "meaning_en": "cat",
+    "pos": "noun",
+    "example": "유출된 문서의 진위는 아직 확인되지 않았습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "새",
+    "meaning_en": "bird",
+    "pos": "noun",
+    "example": "선거는 새 지도자에게 개혁을 위한 분명한 권한을 주었습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "꽃",
+    "meaning_en": "flower",
+    "pos": "noun",
+    "example": "기후 목표에 대한 세계적인 합의를 달성하는 것이 어렵다는 것이 증명되고 있습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "나무",
+    "meaning_en": "tree",
+    "pos": "noun",
+    "example": "그 정치인은 선동적인 수사를 의도적으로 피하기로 선택했습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "책",
+    "meaning_en": "book",
+    "pos": "noun",
+    "example": "가뭄은 그 지역의 식량 부족을 악화시킬 뿐입니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "펜",
+    "meaning_en": "pen",
+    "pos": "noun",
+    "example": "정부들은 바이러스의 경제적 영향을 완화할 방법을 찾고 있습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "종이",
+    "meaning_en": "paper",
+    "pos": "noun",
+    "example": "뉴스 통신사들은 공식 성명을 신속하게 퍼뜨렸습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "그림",
+    "meaning_en": "picture",
+    "pos": "noun",
+    "example": "재무 위원회는 그 회사의 연례 보고서를 면밀히 조사할 것입니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "음악",
+    "meaning_en": "music",
+    "pos": "noun",
+    "example": "그 전문가는 복잡한 기술적 세부 사항을 명확히 설명해 달라는 요청을 받았습니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "스포츠",
+    "meaning_en": "sport",
+    "pos": "noun",
+    "example": "새로운 조약은 해양 경계를 획정하는 역할을 합니다.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "게임",
+    "meaning_en": "game",
+    "pos": "noun",
+    "example": "현직 지도자는 야당의 강력한 도전에 직면해 있습니다.",
     "level": "기초다지기",
     "category": "일상회화"
   }

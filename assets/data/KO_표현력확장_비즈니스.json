@@ -1,401 +1,1385 @@
 [
   {
-    "word": "corporation",
-    "meaning_ko": "corporation",
+    "word": "사업",
+    "meaning_en": "business",
     "pos": "noun",
-    "example": "This is an example with corporation.",
+    "example": "우리는 훌륭한 서비스를 제공합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "enterprise",
-    "meaning_ko": "enterprise",
+    "word": "회사",
+    "meaning_en": "company",
     "pos": "noun",
-    "example": "This is an example with enterprise.",
+    "example": "품질이 우리의 최우선 순위입니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "organization",
-    "meaning_ko": "organization",
+    "word": "관리자",
+    "meaning_en": "manager",
     "pos": "noun",
-    "example": "This is an example with organization.",
+    "example": "가격이 매우 합리적입니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "department",
-    "meaning_ko": "department",
+    "word": "직원",
+    "meaning_en": "employee",
     "pos": "noun",
-    "example": "This is an example with department.",
+    "example": "생산 비용이 높습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "employee",
-    "meaning_ko": "employee",
+    "word": "고용주",
+    "meaning_en": "employer",
     "pos": "noun",
-    "example": "This is an example with employee.",
+    "example": "판촉 행사로 매출이 증가했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "colleague",
-    "meaning_ko": "colleague",
+    "word": "동료",
+    "meaning_en": "colleague",
     "pos": "noun",
-    "example": "This is an example with colleague.",
+    "example": "우리 광고는 수백만 명에게 도달합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "supervisor",
-    "meaning_ko": "supervisor",
+    "word": "고객",
+    "meaning_en": "client",
     "pos": "noun",
-    "example": "This is an example with supervisor.",
+    "example": "우리 브랜드는 잘 알려져 있습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "executive",
-    "meaning_ko": "executive",
+    "word": "고객",
+    "meaning_en": "customer",
     "pos": "noun",
-    "example": "This is an example with executive.",
+    "example": "우리의 주요 경쟁자는 강력합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "director",
-    "meaning_ko": "director",
+    "word": "공급자",
+    "meaning_en": "supplier",
     "pos": "noun",
-    "example": "This is an example with director.",
+    "example": "이 시장의 경쟁은 치열합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "administrator",
-    "meaning_ko": "administrator",
+    "word": "파트너",
+    "meaning_en": "partner",
     "pos": "noun",
-    "example": "This is an example with administrator.",
+    "example": "기술 산업은 빠르게 성장하고 있습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "position",
-    "meaning_ko": "position",
+    "word": "컨설턴트",
+    "meaning_en": "consultant",
     "pos": "noun",
-    "example": "This is an example with position.",
+    "example": "시장이 확장되고 있습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "responsibility",
-    "meaning_ko": "responsibility",
+    "word": "재무",
+    "meaning_en": "finance",
     "pos": "noun",
-    "example": "This is an example with responsibility.",
+    "example": "우리 제품에 대한 수요가 높습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "assignment",
-    "meaning_ko": "assignment",
+    "word": "예산",
+    "meaning_en": "budget",
     "pos": "noun",
-    "example": "This is an example with assignment.",
+    "example": "현재 공급이 제한적입니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "project",
-    "meaning_ko": "project",
+    "word": "이윤",
+    "meaning_en": "profit",
     "pos": "noun",
-    "example": "This is an example with project.",
+    "example": "우리의 이익 마진은 건전합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "deadline",
-    "meaning_ko": "deadline",
+    "word": "손실",
+    "meaning_en": "loss",
     "pos": "noun",
-    "example": "This is an example with deadline.",
+    "example": "그 투자는 좋은 수익을 제공했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "presentation",
-    "meaning_ko": "presentation",
+    "word": "송장",
+    "meaning_en": "invoice",
     "pos": "noun",
-    "example": "This is an example with presentation.",
+    "example": "직원 이직률이 우려됩니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "proposal",
-    "meaning_ko": "proposal",
+    "word": "지불",
+    "meaning_en": "payment",
     "pos": "noun",
-    "example": "This is an example with proposal.",
+    "example": "그 회사는 급속한 성장을 경험했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "contract",
-    "meaning_ko": "contract",
+    "word": "비용",
+    "meaning_en": "expense",
     "pos": "noun",
-    "example": "This is an example with contract.",
+    "example": "우리는 해외 확장을 계획합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "agreement",
-    "meaning_ko": "agreement",
+    "word": "거래",
+    "meaning_en": "transaction",
     "pos": "noun",
-    "example": "This is an example with agreement.",
+    "example": "그 인수는 성공적이었습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "negotiation",
-    "meaning_ko": "negotiation",
+    "word": "투자",
+    "meaning_en": "investment",
     "pos": "noun",
-    "example": "This is an example with negotiation.",
+    "example": "그 합병은 시너지를 창출했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "transaction",
-    "meaning_ko": "transaction",
+    "word": "대출",
+    "meaning_en": "loan",
     "pos": "noun",
-    "example": "This is an example with transaction.",
+    "example": "그는 그 회사의 지분을 소유하고 있습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "investment",
-    "meaning_ko": "investment",
+    "word": "계약",
+    "meaning_en": "contract",
     "pos": "noun",
-    "example": "This is an example with investment.",
+    "example": "주식 가치가 증가했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "profit",
-    "meaning_ko": "profit",
+    "word": "합의",
+    "meaning_en": "agreement",
     "pos": "noun",
-    "example": "This is an example with profit.",
+    "example": "우리 회사 주가가 오르고 있습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "loss",
-    "meaning_ko": "loss",
+    "word": "거래",
+    "meaning_en": "deal",
     "pos": "noun",
-    "example": "This is an example with loss.",
+    "example": "주주들이 그 결정을 승인했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "revenue",
-    "meaning_ko": "revenue",
+    "word": "제안",
+    "meaning_en": "offer",
     "pos": "noun",
-    "example": "This is an example with revenue.",
+    "example": "이사회 이사가 발표를 했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "expense",
-    "meaning_ko": "expense",
+    "word": "제안서",
+    "meaning_en": "proposal",
     "pos": "noun",
-    "example": "This is an example with expense.",
+    "example": "임원팀이 오늘 만났습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "budget",
-    "meaning_ko": "budget",
-    "pos": "noun",
-    "example": "This is an example with budget.",
+    "word": "협상하다",
+    "meaning_en": "negotiate",
+    "pos": "verb",
+    "example": "CEO가 새로운 전략을 발표했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "finance",
-    "meaning_ko": "finance",
-    "pos": "noun",
-    "example": "This is an example with finance.",
+    "word": "의사소통하다",
+    "meaning_en": "communicate",
+    "pos": "verb",
+    "example": "CFO(최고 재무 책임자)는 회사 재무를 관리합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "accounting",
-    "meaning_ko": "accounting",
-    "pos": "noun",
-    "example": "This is an example with accounting.",
+    "word": "협력하다",
+    "meaning_en": "collaborate",
+    "pos": "verb",
+    "example": "저는 영업부에서 일합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "marketing",
-    "meaning_ko": "marketing",
-    "pos": "noun",
-    "example": "This is an example with marketing.",
+    "word": "조율하다",
+    "meaning_en": "coordinate",
+    "pos": "verb",
+    "example": "우리 팀은 매우 헌신적입니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "advertising",
-    "meaning_ko": "advertising",
-    "pos": "noun",
-    "example": "This is an example with advertising.",
+    "word": "위임하다",
+    "meaning_en": "delegate",
+    "pos": "verb",
+    "example": "채용이 진행 중입니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "sales",
-    "meaning_ko": "sales",
-    "pos": "noun",
-    "example": "This is an example with sales.",
+    "word": "감독하다",
+    "meaning_en": "supervise",
+    "pos": "verb",
+    "example": "직원 교육은 중요합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "distribution",
-    "meaning_ko": "distribution",
-    "pos": "noun",
-    "example": "This is an example with distribution.",
+    "word": "평가하다",
+    "meaning_en": "evaluate",
+    "pos": "verb",
+    "example": "우리는 직원 개발에 중점을 둡니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "supply",
-    "meaning_ko": "supply",
-    "pos": "noun",
-    "example": "This is an example with supply.",
+    "word": "분석하다",
+    "meaning_en": "analyze",
+    "pos": "verb",
+    "example": "그의 성과는 훌륭합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "demand",
-    "meaning_ko": "demand",
-    "pos": "noun",
-    "example": "This is an example with demand.",
+    "word": "계획하다",
+    "meaning_en": "plan",
+    "pos": "verb",
+    "example": "급여는 업계 최고 수준입니다. (경쟁력이 있습니다.)",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "inventory",
-    "meaning_ko": "inventory",
-    "pos": "noun",
-    "example": "This is an example with inventory.",
+    "word": "정리하다",
+    "meaning_en": "organize",
+    "pos": "verb",
+    "example": "직원들은 연간 보너스를 받습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "stock",
-    "meaning_ko": "stock",
-    "pos": "noun",
-    "example": "This is an example with stock.",
+    "word": "일정을 정하다",
+    "meaning_en": "schedule",
+    "pos": "verb",
+    "example": "그 회사는 좋은 복리후생을 제공합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "quality",
-    "meaning_ko": "quality",
+    "word": "마감일",
+    "meaning_en": "deadline",
     "pos": "noun",
-    "example": "This is an example with quality.",
+    "example": "건강 보험이 제공됩니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "efficiency",
-    "meaning_ko": "efficiency",
+    "word": "프로젝트",
+    "meaning_en": "project",
     "pos": "noun",
-    "example": "This is an example with efficiency.",
+    "example": "연금 제도가 넉넉합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "productivity",
-    "meaning_ko": "productivity",
+    "word": "작업",
+    "meaning_en": "task",
     "pos": "noun",
-    "example": "This is an example with productivity.",
+    "example": "세율이 인상되고 있습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "performance",
-    "meaning_ko": "performance",
+    "word": "목표",
+    "meaning_en": "goal",
     "pos": "noun",
-    "example": "This is an example with performance.",
+    "example": "우리 회계는 투명합니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "evaluation",
-    "meaning_ko": "evaluation",
+    "word": "목표",
+    "meaning_en": "objective",
     "pos": "noun",
-    "example": "This is an example with evaluation.",
+    "example": "보고서를 제출해 주세요.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "feedback",
-    "meaning_ko": "피드백",
+    "word": "전략",
+    "meaning_en": "strategy",
     "pos": "noun",
-    "example": "This is an example with feedback.",
+    "example": "발표는 성공적이었습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "promotion",
-    "meaning_ko": "promotion",
+    "word": "계획",
+    "meaning_en": "plan",
     "pos": "noun",
-    "example": "This is an example with promotion.",
+    "example": "그 콘퍼런스는 유익했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "recruitment",
-    "meaning_ko": "recruitment",
+    "word": "마케팅",
+    "meaning_en": "marketing",
     "pos": "noun",
-    "example": "This is an example with recruitment.",
+    "example": "우리는 유용한 세미나에 참석했습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "training",
-    "meaning_ko": "training",
+    "word": "판매",
+    "meaning_en": "sales",
     "pos": "noun",
-    "example": "This is an example with training.",
+    "example": "그 워크숍에서는 새로운 기술을 가르쳤습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "competition",
-    "meaning_ko": "competition",
+    "word": "제품",
+    "meaning_en": "product",
     "pos": "noun",
-    "example": "This is an example with competition.",
+    "example": "인맥 관리는 비즈니스에 가치가 있습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "strategy",
-    "meaning_ko": "strategy",
+    "word": "서비스",
+    "meaning_en": "service",
     "pos": "noun",
-    "example": "This is an example with strategy.",
+    "example": "이것은 좋은 기회입니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "analysis",
-    "meaning_ko": "analysis",
+    "word": "품질",
+    "meaning_en": "quality",
     "pos": "noun",
-    "example": "This is an example with analysis.",
+    "example": "우리는 몇 가지 도전에 직면해 있습니다.",
     "level": "표현력확장",
     "category": "비즈니스"
   },
   {
-    "word": "research",
-    "meaning_ko": "research",
+    "word": "가격",
+    "meaning_en": "price",
     "pos": "noun",
-    "example": "This is an example with research.",
+    "example": "우리는 정기적으로 비즈니스 위험을 평가합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "비용",
+    "meaning_en": "cost",
+    "pos": "noun",
+    "example": "우리는 그 위기에 잘 대처했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "할인",
+    "meaning_en": "discount",
+    "pos": "noun",
+    "example": "우리는 좋은 해결책을 찾았습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "판촉",
+    "meaning_en": "promotion",
+    "pos": "noun",
+    "example": "우리는 효율성을 크게 향상시켰습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "광고",
+    "meaning_en": "advertisement",
+    "pos": "noun",
+    "example": "생산성이 증가했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "브랜드",
+    "meaning_en": "brand",
+    "pos": "noun",
+    "example": "우리는 최신 기술을 사용합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "경쟁사",
+    "meaning_en": "competitor",
+    "pos": "noun",
+    "example": "혁신이 우리의 성공을 이끕니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "경쟁",
+    "meaning_en": "competition",
+    "pos": "noun",
+    "example": "우리 시스템은 효율적입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "산업",
+    "meaning_en": "industry",
+    "pos": "noun",
+    "example": "우리는 프로세스를 개선했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "시장",
+    "meaning_en": "market",
+    "pos": "noun",
+    "example": "그 프레임워크는 잘 설계되어 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "수요",
+    "meaning_en": "demand",
+    "pos": "noun",
+    "example": "우리는 높은 기준을 유지합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "공급",
+    "meaning_en": "supply",
+    "pos": "noun",
+    "example": "우리는 모든 규정을 준수합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "이윤율",
+    "meaning_en": "profit margin",
+    "pos": "noun",
+    "example": "규정 준수는 의무입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "수익",
+    "meaning_en": "return",
+    "pos": "noun",
+    "example": "회사 정책은 명확합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "회전율",
+    "meaning_en": "turnover",
+    "pos": "noun",
+    "example": "절차를 주의 깊게 따르세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "성장",
+    "meaning_en": "growth",
+    "pos": "noun",
+    "example": "이 지침들을 따르세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "확장",
+    "meaning_en": "expansion",
+    "pos": "noun",
+    "example": "모든 요구 사항을 충족하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "인수",
+    "meaning_en": "acquisition",
+    "pos": "noun",
+    "example": "사양을 확인하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "합병",
+    "meaning_en": "merger",
+    "pos": "noun",
+    "example": "배송이 일정대로 진행되고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "지분",
+    "meaning_en": "stake",
+    "pos": "noun",
+    "example": "배송품이 제시간에 도착했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "주식",
+    "meaning_en": "share",
+    "pos": "noun",
+    "example": "창고가 꽉 찼습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "주식",
+    "meaning_en": "stock",
+    "pos": "noun",
+    "example": "물류 관리는 복잡합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "주주",
+    "meaning_en": "shareholder",
+    "pos": "noun",
+    "example": "유통망이 확장되고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "이사",
+    "meaning_en": "director",
+    "pos": "noun",
+    "example": "소매 판매가 활발합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "임원",
+    "meaning_en": "executive",
+    "pos": "noun",
+    "example": "우리는 소매업체에 도매로 판매합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "최고경영자",
+    "meaning_en": "CEO",
+    "pos": "noun",
+    "example": "고객 서비스는 우리의 강점입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "최고재무담당자",
+    "meaning_en": "CFO",
+    "pos": "noun",
+    "example": "우리는 고객 피드백을 소중하게 생각합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "부서",
+    "meaning_en": "department",
+    "pos": "noun",
+    "example": "고객 불만 사항을 신속하게 처리하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "사업부",
+    "meaning_en": "division",
+    "pos": "noun",
+    "example": "고객 만족도가 높습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "팀",
+    "meaning_en": "team",
+    "pos": "noun",
+    "example": "고객 충성도가 강합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "채용",
+    "meaning_en": "recruitment",
+    "pos": "noun",
+    "example": "고객 유지는 중요합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "교육",
+    "meaning_en": "training",
+    "pos": "noun",
+    "example": "고객 확보는 비용이 많이 듭니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "개발",
+    "meaning_en": "development",
+    "pos": "noun",
+    "example": "수익이 증가하고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "성과",
+    "meaning_en": "performance",
+    "pos": "noun",
+    "example": "이번 분기에 소득이 올랐습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "급여",
+    "meaning_en": "salary",
+    "pos": "noun",
+    "example": "순이익이 예상을 초과했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "보너스",
+    "meaning_en": "bonus",
+    "pos": "noun",
+    "example": "분기별 보고서가 발표됩니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "복리후생",
+    "meaning_en": "benefits",
+    "pos": "noun",
+    "example": "실적은 매년 보고됩니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "보험",
+    "meaning_en": "insurance",
+    "pos": "noun",
+    "example": "전망이 밝아 보입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "연금",
+    "meaning_en": "pension",
+    "pos": "noun",
+    "example": "예상치는 성장을 보여줍니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "세금",
+    "meaning_en": "tax",
+    "pos": "noun",
+    "example": "우리는 판매 목표를 달성했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "회계",
+    "meaning_en": "accounting",
+    "pos": "noun",
+    "example": "당신의 판매 할당량을 채우세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "보고서",
+    "meaning_en": "report",
+    "pos": "noun",
+    "example": "우리는 업계 벤치마크를 설정합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "발표",
+    "meaning_en": "presentation",
+    "pos": "noun",
+    "example": "매일 주요 지표를 추적하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "회의",
+    "meaning_en": "meeting",
+    "pos": "noun",
+    "example": "경제 지표가 긍정적입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "회의",
+    "meaning_en": "conference",
+    "pos": "noun",
+    "example": "철저한 분석을 수행하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "세미나",
+    "meaning_en": "seminar",
+    "pos": "noun",
+    "example": "시장 조사는 필수적입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "워크샵",
+    "meaning_en": "workshop",
+    "pos": "noun",
+    "example": "우리는 고객 설문 조사를 실시했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "네트워킹",
+    "meaning_en": "networking",
+    "pos": "noun",
+    "example": "데이터를 주의 깊게 분석하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "기회",
+    "meaning_en": "opportunity",
+    "pos": "noun",
+    "example": "그 보고서는 귀중한 통찰력을 제공합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "도전",
+    "meaning_en": "challenge",
+    "pos": "noun",
+    "example": "시장 트렌드가 변하고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "위험",
+    "meaning_en": "risk",
+    "pos": "noun",
+    "example": "우리는 구매 패턴을 파악했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "위기",
+    "meaning_en": "crisis",
+    "pos": "noun",
+    "example": "비즈니스 사이클이 변하고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "해결책",
+    "meaning_en": "solution",
+    "pos": "noun",
+    "example": "매출은 계절에 따라 다릅니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "효율",
+    "meaning_en": "efficiency",
+    "pos": "noun",
+    "example": "성수기가 다가오고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "생산성",
+    "meaning_en": "productivity",
+    "pos": "noun",
+    "example": "그 시장은 잠재력이 큽니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "기술",
+    "meaning_en": "technology",
+    "pos": "noun",
+    "example": "우리의 주요 강점은 혁신입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "혁신",
+    "meaning_en": "innovation",
+    "pos": "noun",
+    "example": "우리는 약점을 해결해야 합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "시스템",
+    "meaning_en": "system",
+    "pos": "noun",
+    "example": "우리는 경쟁 우위를 가지고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "프로세스",
+    "meaning_en": "process",
+    "pos": "noun",
+    "example": "높은 비용은 불리한 점입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "구조",
+    "meaning_en": "framework",
+    "pos": "noun",
+    "example": "새로운 경쟁자들이 위협이 됩니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "표준",
+    "meaning_en": "standard",
+    "pos": "noun",
+    "example": "새로운 시장은 기회를 제공합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "규정",
+    "meaning_en": "regulation",
+    "pos": "noun",
+    "example": "수직적 통합이 우리의 전략입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "준수",
+    "meaning_en": "compliance",
+    "pos": "noun",
+    "example": "새로운 시장으로의 수평적 확장.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "정책",
+    "meaning_en": "policy",
+    "pos": "noun",
+    "example": "우리 회사는 강력한 유산을 가지고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "절차",
+    "meaning_en": "procedure",
+    "pos": "noun",
+    "example": "지속가능성은 우리의 우선순위입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "지침",
+    "meaning_en": "guideline",
+    "pos": "noun",
+    "example": "CSR(기업의 사회적 책임) 프로그램은 지역 사회에 혜택을 줍니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "요구사항",
+    "meaning_en": "requirement",
+    "pos": "noun",
+    "example": "우리는 친환경적인 관행을 사용합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "명세서",
+    "meaning_en": "specification",
+    "pos": "noun",
+    "example": "윤리적 관행은 필수적입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "배송",
+    "meaning_en": "delivery",
+    "pos": "noun",
+    "example": "우리는 투명한 운영을 유지합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "선적",
+    "meaning_en": "shipment",
+    "pos": "noun",
+    "example": "책임감은 중요합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "창고",
+    "meaning_en": "warehouse",
+    "pos": "noun",
+    "example": "비즈니스 무결성은 가장 중요합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "물류",
+    "meaning_en": "logistics",
+    "pos": "noun",
+    "example": "우리의 평판은 훌륭합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "유통",
+    "meaning_en": "distribution",
+    "pos": "noun",
+    "example": "위기 관리는 매우 중요합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "소매",
+    "meaning_en": "retail",
+    "pos": "noun",
+    "example": "긴 여행에서는 편안한 숙소를 찾는 것이 중요합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "도매",
+    "meaning_en": "wholesale",
+    "pos": "noun",
+    "example": "유럽 여행 일정을 확정했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "고객 서비스",
+    "meaning_en": "customer service",
+    "pos": "noun",
+    "example": "우리의 최종 목적지는 해안 마을인 아말피입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "피드백",
+    "meaning_en": "feedback",
+    "pos": "noun",
+    "example": "비행기 취소 후 전액 환불받았습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "불만",
+    "meaning_en": "complaint",
+    "pos": "noun",
+    "example": "환전하기 전에 매일의 환율을 확인하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "만족",
+    "meaning_en": "satisfaction",
+    "pos": "noun",
+    "example": "현지 공예 시장에서 독특한 기념품을 몇 개 샀습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "충성도",
+    "meaning_en": "loyalty",
+    "pos": "noun",
+    "example": "착륙하기 전에 세관 신고서를 작성하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "유지",
+    "meaning_en": "retention",
+    "pos": "noun",
+    "example": "탑승 시간 변경에 유의해 주세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "확보",
+    "meaning_en": "acquisition",
+    "pos": "noun",
+    "example": "경유 시간이 길면 환승 도시를 둘러볼 수 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "수익",
+    "meaning_en": "revenue",
+    "pos": "noun",
+    "example": "국내선 항공편은 보통 보안 검색 시간이 덜 걸립니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "수입",
+    "meaning_en": "income",
+    "pos": "noun",
+    "example": "국제선 항공편은 공항의 이 구역에서 출발합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "수익",
+    "meaning_en": "earnings",
+    "pos": "noun",
+    "example": "긴 여정 후에 아직도 시차로 고생하고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "회계의",
+    "meaning_en": "fiscal",
+    "pos": "adjective",
+    "example": "그 도시는 훌륭한 대중교통 수단을 갖추고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "분기별",
+    "meaning_en": "quarterly",
+    "pos": "adjective",
+    "example": "호텔 입구까지 무료 셔틀버스를 타세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "연간",
+    "meaning_en": "annually",
+    "pos": "adverb",
+    "example": "우리는 일주일간 렌터카를 매우 저렴하게 이용했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "예측",
+    "meaning_en": "forecast",
+    "pos": "noun",
+    "example": "제 운전 면허증이 이 나라에서 유효한가요?",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "예상",
+    "meaning_en": "projection",
+    "pos": "noun",
+    "example": "제 여권이 다음 달에 만료되어서 갱신해야 합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "목표",
+    "meaning_en": "target",
+    "pos": "noun",
+    "example": "호텔은 체크인 시 보증금을 요구했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "할당량",
+    "meaning_en": "quota",
+    "pos": "noun",
+    "example": "접수원이 저에게 이 지역 지도를 주었습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "벤치마크",
+    "meaning_en": "benchmark",
+    "pos": "noun",
+    "example": "프런트 데스크에 열쇠를 맡기셔도 됩니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "지표",
+    "meaning_en": "metric",
+    "pos": "noun",
+    "example": "벨보이가 우리 가방을 스위트룸까지 옮겨주었습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "지표",
+    "meaning_en": "indicator",
+    "pos": "noun",
+    "example": "아침 식사는 모든 손님에게 무료로 제공됩니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "분석",
+    "meaning_en": "analysis",
+    "pos": "noun",
+    "example": "우리 방 발코니에서 보는 전망이 즐거웠습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "조사",
+    "meaning_en": "research",
+    "pos": "noun",
+    "example": "그 리조트는 모든 종류의 고급 편의 시설을 제공합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "설문",
+    "meaning_en": "survey",
+    "pos": "noun",
+    "example": "호텔에서 세탁 서비스를 제공하나요?",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "데이터",
+    "meaning_en": "data",
+    "pos": "noun",
+    "example": "수건이 더 필요하면 객실 관리팀에 전화하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "통찰",
+    "meaning_en": "insight",
+    "pos": "noun",
+    "example": "현지 요리를 꼭 맛보셔야 합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "트렌드",
+    "meaning_en": "trend",
+    "pos": "noun",
+    "example": "해산물 식당 추천해 주실 만한 곳이 있나요?",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "패턴",
+    "meaning_en": "pattern",
+    "pos": "noun",
+    "example": "셰프의 전문 요리는 이 파스타 요리입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "사이클",
+    "meaning_en": "cycle",
+    "pos": "noun",
+    "example": "메뉴에 채식주의자용 메뉴가 있나요?",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "계절",
+    "meaning_en": "season",
+    "pos": "noun",
+    "example": "이 구매에 대한 영수증을 받을 수 있을까요?",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "피크",
+    "meaning_en": "peak",
+    "pos": "noun",
+    "example": "택시 기사가 저에게 바가지를 씌우려 한 것 같습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "잠재력",
+    "meaning_en": "potential",
+    "pos": "noun",
+    "example": "파손된 상품에 대해 전액 환불을 요청했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "강점",
+    "meaning_en": "strength",
+    "pos": "noun",
+    "example": "이 시장에서는 가격을 흥정하는 것이 일반적입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "약점",
+    "meaning_en": "weakness",
+    "pos": "noun",
+    "example": "붐비는 거리를 건너는 보행자들을 조심하세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "우위",
+    "meaning_en": "advantage",
+    "pos": "noun",
+    "example": "우리는 한 시간 동안 극심한 교통 체증에 갇혔습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "불리",
+    "meaning_en": "disadvantage",
+    "pos": "noun",
+    "example": "도로 공사 때문에 우리는 먼 길로 우회해야 했습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "위협",
+    "meaning_en": "threat",
+    "pos": "noun",
+    "example": "그 성은 그 도시에서 가장 알아보기 쉬운 랜드마크입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "기회",
+    "meaning_en": "opportunity",
+    "pos": "noun",
+    "example": "유적지를 방문한 것은 감동적인 경험이었습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "수직",
+    "meaning_en": "vertical",
+    "pos": "adjective",
+    "example": "그 미술관은 현대 현지 예술가들의 작품을 전시합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "수평",
+    "meaning_en": "horizontal",
+    "pos": "adjective",
+    "example": "사원 근처의 기념품 가게들을 둘러봅시다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "레거시",
+    "meaning_en": "legacy",
+    "pos": "noun",
+    "example": "저는 이 지역의 진정한 문화를 경험하고 싶습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "지속가능성",
+    "meaning_en": "sustainability",
+    "pos": "noun",
+    "example": "우리는 구시가지의 숨겨진 골목길을 탐험할 계획입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "기업사회책임",
+    "meaning_en": "CSR",
+    "pos": "noun",
+    "example": "저는 앉아서 현지 사람들의 삶을 관찰하는 것을 좋아합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "친환경",
+    "meaning_en": "green",
+    "pos": "adjective",
+    "example": "현지 분위기에 흠뻑 빠져보세요.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "윤리적",
+    "meaning_en": "ethical",
+    "pos": "adjective",
+    "example": "우리는 이번에 여행 예산이 빠듯합니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "투명한",
+    "meaning_en": "transparent",
+    "pos": "adjective",
+    "example": "우리는 폭포를 방문하기로 즉흥적인 결정을 내렸습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "책임성",
+    "meaning_en": "accountability",
+    "pos": "noun",
+    "example": "우리의 모든 교통편은 미리 준비되었습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "청렴성",
+    "meaning_en": "integrity",
+    "pos": "noun",
+    "example": "저는 진정한 문화 체험을 찾고 있습니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "평판",
+    "meaning_en": "reputation",
+    "pos": "noun",
+    "example": "장기 여행에는 여행자 보험이 필수입니다.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "위기관리",
+    "meaning_en": "crisis management",
+    "pos": "noun",
+    "example": "여행자 보험 드셨어요?",
     "level": "표현력확장",
     "category": "비즈니스"
   }

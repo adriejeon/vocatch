@@ -1,410 +1,1922 @@
 [
   {
-    "word": "journalism",
-    "meaning_ko": "journalism",
+    "word": "논란, 쟁점",
+    "meaning_en": "controversy",
     "pos": "noun",
-    "example": "This is an example with journalism.",
+    "example": "정부들은 탄소 배출을 줄이는 것을 목표로 하고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "reporter",
-    "meaning_ko": "reporter",
+    "word": "혐의, 주장",
+    "meaning_en": "allegation",
     "pos": "noun",
-    "example": "This is an example with reporter.",
+    "example": "야생 동물 보존 노력이 증가하고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "correspondent",
-    "meaning_ko": "correspondent",
+    "word": "조사",
+    "meaning_en": "investigation",
     "pos": "noun",
-    "example": "This is an example with correspondent.",
+    "example": "재생 가능 에너지에 대한 투자가 급증하고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "editor",
-    "meaning_ko": "editor",
+    "word": "정밀 조사, 감시",
+    "meaning_en": "scrutiny",
     "pos": "noun",
-    "example": "This is an example with editor.",
+    "example": "지구 온난화에 대처하는 방법에 대한 논쟁이 계속되고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "publisher",
-    "meaning_ko": "publisher",
+    "word": "영향, 암시",
+    "meaning_en": "implication",
     "pos": "noun",
-    "example": "This is an example with publisher.",
+    "example": "오염은 많은 종의 자연 서식지를 파괴했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "broadcast",
-    "meaning_ko": "broadcast",
+    "word": "사회 기반 시설",
+    "meaning_en": "infrastructure",
     "pos": "noun",
-    "example": "This is an example with broadcast.",
+    "example": "그 회사는 직장에서의 문화적 다양성을 장려합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "media",
-    "meaning_ko": "media",
+    "word": "법률, 입법",
+    "meaning_en": "legislation",
     "pos": "noun",
-    "example": "This is an example with media.",
+    "example": "우리는 사회적 편견에 맞서야 합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "press",
-    "meaning_ko": "press",
+    "word": "합의, 의견 일치",
+    "meaning_en": "consensus",
     "pos": "noun",
-    "example": "This is an example with press.",
+    "example": "그 프로그램은 소외된 지역 사회를 돕습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "newspaper",
-    "meaning_ko": "newspaper",
+    "word": "대화, 회담",
+    "meaning_en": "dialogue",
     "pos": "noun",
-    "example": "This is an example with newspaper.",
+    "example": "그 법은 나이나 성별에 근거한 차별을 금지합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "magazine",
-    "meaning_ko": "magazine",
+    "word": "계획, 주도권",
+    "meaning_en": "initiative",
     "pos": "noun",
-    "example": "This is an example with magazine.",
+    "example": "이민자들의 성공적인 통합은 사회적 조화의 핵심입니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "article",
-    "meaning_ko": "article",
+    "word": "전략",
+    "meaning_en": "strategy",
     "pos": "noun",
-    "example": "This is an example with article.",
+    "example": "새 지도자는 즉각적인 경제 개혁을 약속했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "headline",
-    "meaning_ko": "headline",
-    "pos": "noun",
-    "example": "This is an example with headline.",
+    "word": "할당하다",
+    "meaning_en": "allocate",
+    "pos": "verb",
+    "example": "그 회사는 조직 전체를 구조조정하기로 결정했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "coverage",
-    "meaning_ko": "coverage",
+    "word": "적자",
+    "meaning_en": "deficit",
     "pos": "noun",
-    "example": "This is an example with coverage.",
+    "example": "두 항공사의 합병으로 새로운 시장 선도 기업이 탄생했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "investigation",
-    "meaning_ko": "investigation",
+    "word": "인플레이션",
+    "meaning_en": "inflation",
     "pos": "noun",
-    "example": "This is an example with investigation.",
+    "example": "그 거대 기술 기업은 더 작은 스타트업의 인수를 발표했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "interview",
-    "meaning_ko": "interview",
+    "word": "경기 침체",
+    "meaning_en": "recession",
     "pos": "noun",
-    "example": "This is an example with interview.",
+    "example": "정부는 그 회사를 불법적인 독점 행위로 조사하고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "statement",
-    "meaning_ko": "성명",
-    "pos": "noun",
-    "example": "This is an example with statement.",
+    "word": "변동하다",
+    "meaning_en": "fluctuate",
+    "pos": "verb",
+    "example": "우리의 주요 경쟁사가 방금 유사한 제품을 출시했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "announcement",
-    "meaning_ko": "announcement",
+    "word": "사망률",
+    "meaning_en": "mortality rate",
     "pos": "noun",
-    "example": "This is an example with announcement.",
+    "example": "그 회사의 분기별 수익은 예상을 초과했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "declaration",
-    "meaning_ko": "declaration",
+    "word": "전염병, 유행병",
+    "meaning_en": "epidemic",
     "pos": "noun",
-    "example": "This is an example with declaration.",
+    "example": "우리는 공공 지출을 더 엄격하게 통제해야 합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "disclosure",
-    "meaning_ko": "disclosure",
+    "word": "세계적 유행병",
+    "meaning_en": "pandemic",
     "pos": "noun",
-    "example": "This is an example with disclosure.",
+    "example": "내년도 경제 전망은 긍정적입니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "revelation",
-    "meaning_ko": "revelation",
+    "word": "백신",
+    "meaning_en": "vaccine",
     "pos": "noun",
-    "example": "This is an example with revelation.",
+    "example": "우리는 그 거래 이면의 진정한 동기에 대해 추측만 할 수 있을 뿐입니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "incident",
-    "meaning_ko": "incident",
+    "word": "임상 시험",
+    "meaning_en": "clinical trial",
     "pos": "noun",
-    "example": "This is an example with incident.",
+    "example": "대변인은 부정적인 주장들을 반박하려고 시도했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "occurrence",
-    "meaning_ko": "occurrence",
-    "pos": "noun",
-    "example": "This is an example with occurrence.",
+    "word": "혁신하다",
+    "meaning_en": "innovate",
+    "pos": "verb",
+    "example": "목격자 진술은 사건에 대한 공식적인 버전을 뒷받침합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "development",
-    "meaning_ko": "development",
-    "pos": "noun",
-    "example": "This is an example with development.",
+    "word": "파괴적인, 혁신적인",
+    "meaning_en": "disruptive",
+    "pos": "adjective",
+    "example": "그 스캔들은 언론인으로서의 그의 신뢰도에 심각한 손상을 입혔습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "situation",
-    "meaning_ko": "situation",
+    "word": "특허",
+    "meaning_en": "patent",
     "pos": "noun",
-    "example": "This is an example with situation.",
+    "example": "그 광고는 대중을 심각하게 호도한다는 비판을 받았습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "circumstance",
-    "meaning_ko": "circumstance",
+    "word": "사이버 보안",
+    "meaning_en": "cyber security",
     "pos": "noun",
-    "example": "This is an example with circumstance.",
+    "example": "그 보고서는 그 연구에 대해 심각한 윤리적 우려를 제기합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "condition",
-    "meaning_ko": "condition",
+    "word": "잘못된 정보",
+    "meaning_en": "misinformation",
     "pos": "noun",
-    "example": "This is an example with condition.",
+    "example": "우리는 위원회가 판결에 있어 공정성을 유지하도록 보장해야 합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "politics",
-    "meaning_ko": "politics",
+    "word": "책임, 의무",
+    "meaning_en": "accountability",
     "pos": "noun",
-    "example": "This is an example with politics.",
+    "example": "판사가 오늘 최종 판결을 내렸습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "government",
-    "meaning_ko": "government",
+    "word": "투명성",
+    "meaning_en": "transparency",
     "pos": "noun",
-    "example": "This is an example with government.",
+    "example": "배심원단은 유죄 평결을 내렸습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "election",
-    "meaning_ko": "election",
+    "word": "부패",
+    "meaning_en": "corruption",
     "pos": "noun",
-    "example": "This is an example with election.",
+    "example": "판사는 가혹한 형을 선고했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "policy",
-    "meaning_ko": "policy",
-    "pos": "noun",
-    "example": "This is an example with policy.",
+    "word": "탄핵하다",
+    "meaning_en": "impeach",
+    "pos": "verb",
+    "example": "변호인은 그 판결에 항소할 계획을 발표했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "economy",
-    "meaning_ko": "economy",
-    "pos": "noun",
-    "example": "This is an example with economy.",
+    "word": "현직의",
+    "meaning_en": "incumbent",
+    "pos": "adjective",
+    "example": "검사는 설득력 있는 증거를 제시했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "market",
-    "meaning_ko": "market",
+    "word": "반대자, 상대",
+    "meaning_en": "opponent",
     "pos": "noun",
-    "example": "This is an example with market.",
+    "example": "피고는 자신의 결백을 주장했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "crisis",
-    "meaning_ko": "crisis",
+    "word": "선거 운동",
+    "meaning_en": "campaign",
     "pos": "noun",
-    "example": "This is an example with crisis.",
+    "example": "새로운 감시법은 시민의 자유를 위협합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "conflict",
-    "meaning_ko": "conflict",
+    "word": "수사(학)",
+    "meaning_en": "rhetoric",
     "pos": "noun",
-    "example": "This is an example with conflict.",
+    "example": "그 논쟁은 사생활 대 안보에 초점을 맞추고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "dispute",
-    "meaning_ko": "dispute",
-    "pos": "noun",
-    "example": "This is an example with dispute.",
+    "word": "비준하다, 승인하다",
+    "meaning_en": "ratify",
+    "pos": "verb",
+    "example": "강화된 감시 조치가 시행되었습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "controversy",
-    "meaning_ko": "controversy",
+    "word": "개정(안)",
+    "meaning_en": "amendment",
     "pos": "noun",
-    "example": "This is an example with controversy.",
+    "example": "경찰은 테러 위협으로 인해 최고 경계 태세를 갖추고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "debate",
-    "meaning_ko": "토론하다",
+    "word": "제재",
+    "meaning_en": "sanction",
     "pos": "noun",
-    "example": "This is an example with debate.",
+    "example": "그는 심문을 위해 경찰에 구금되었습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "discussion",
-    "meaning_ko": "discussion",
+    "word": "외교",
+    "meaning_en": "diplomacy",
     "pos": "noun",
-    "example": "This is an example with discussion.",
+    "example": "노조는 더 나은 근무 조건을 협상할 준비가 되어 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "opinion",
-    "meaning_ko": "의견",
+    "word": "난민",
+    "meaning_en": "refugee",
     "pos": "noun",
-    "example": "This is an example with opinion.",
+    "example": "양측은 어려운 타협에 도달해야 했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "perspective",
-    "meaning_ko": "perspective",
-    "pos": "noun",
-    "example": "This is an example with perspective.",
+    "word": "인도주의적인",
+    "meaning_en": "humanitarian",
+    "pos": "adjective",
+    "example": "협상이 정치적 교착 상태에 빠졌습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "analysis",
-    "meaning_ko": "analysis",
+    "word": "지속 가능성",
+    "meaning_en": "sustainability",
     "pos": "noun",
-    "example": "This is an example with analysis.",
+    "example": "양측은 분쟁을 해결하기 위해 중재에 들어가기로 합의했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "commentary",
-    "meaning_ko": "commentary",
+    "word": "배출(량)",
+    "meaning_en": "emission",
     "pos": "noun",
-    "example": "This is an example with commentary.",
+    "example": "두 나라는 영토 분쟁에 휘말려 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "criticism",
-    "meaning_ko": "비판",
+    "word": "보존",
+    "meaning_en": "conservation",
     "pos": "noun",
-    "example": "This is an example with criticism.",
+    "example": "수백만 명의 사람들이 빈곤선 이하의 삶을 살고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "review",
-    "meaning_ko": "review",
+    "word": "재생 가능 에너지",
+    "meaning_en": "renewable energy",
     "pos": "noun",
-    "example": "This is an example with review.",
+    "example": "정부는 사회 보장 혜택 삭감을 계획하고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "evaluation",
-    "meaning_ko": "evaluation",
+    "word": "지구 온난화",
+    "meaning_en": "global warming",
     "pos": "noun",
-    "example": "This is an example with evaluation.",
+    "example": "고령화 인구가 노동력을 감소시키고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "assessment",
-    "meaning_ko": "assessment",
+    "word": "서식지",
+    "meaning_en": "habitat",
     "pos": "noun",
-    "example": "This is an example with assessment.",
+    "example": "노조는 경영진과 단체 교섭을 시작했습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "survey",
-    "meaning_ko": "survey",
+    "word": "다양성",
+    "meaning_en": "diversity",
     "pos": "noun",
-    "example": "This is an example with survey.",
+    "example": "임금에 있어서 성 평등은 여전히 주요 목표입니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "statistics",
-    "meaning_ko": "statistics",
+    "word": "편견",
+    "meaning_en": "prejudice",
     "pos": "noun",
-    "example": "This is an example with statistics.",
+    "example": "그 도시는 현재 심각한 주택 위기를 겪고 있습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "data",
-    "meaning_ko": "data",
-    "pos": "noun",
-    "example": "This is an example with data.",
+    "word": "소외된",
+    "meaning_en": "marginalized",
+    "pos": "adjective",
+    "example": "새 정책은 저렴한 주택 선택권을 늘리는 것을 목표로 합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "evidence",
-    "meaning_ko": "evidence",
+    "word": "차별",
+    "meaning_en": "discrimination",
     "pos": "noun",
-    "example": "This is an example with evidence.",
+    "example": "교외의 생활비는 도심보다 낮습니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
   },
   {
-    "word": "proof",
-    "meaning_ko": "proof",
+    "word": "통합",
+    "meaning_en": "integration",
     "pos": "noun",
-    "example": "This is an example with proof.",
+    "example": "급속한 도시화는 도시 계획에 새로운 과제를 제기합니다.",
     "level": "표현력확장",
-    "category": "뉴스-시사"
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "개혁",
+    "meaning_en": "reform",
+    "pos": "noun",
+    "example": "농촌 지역에 더 많은 투자가 필요합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "재편성하다",
+    "meaning_en": "restructure",
+    "pos": "verb",
+    "example": "화석 연료로부터의 전환은 더딥니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "합병",
+    "meaning_en": "merger",
+    "pos": "noun",
+    "example": "그는 저명한 기후 (변화) 부정론자라는 비판을 종종 받습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "인수",
+    "meaning_en": "acquisition",
+    "pos": "noun",
+    "example": "석유 유출은 거대한 생태 재앙을 야기했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "독점",
+    "meaning_en": "monopoly",
+    "pos": "noun",
+    "example": "생물 다양성을 보호하는 것은 지구의 건강에 매우 중요합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "경쟁사",
+    "meaning_en": "competitor",
+    "pos": "noun",
+    "example": "환경 보호는 정책 토론의 핵심 영역입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "수익",
+    "meaning_en": "revenue",
+    "pos": "noun",
+    "example": "우리는 천연자원을 책임감 있게 관리해야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지출",
+    "meaning_en": "expenditure",
+    "pos": "noun",
+    "example": "그 기사는 명백한 언론 편향을 보인다는 비판을 받았습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "예측, 예보",
+    "meaning_en": "forecast",
+    "pos": "noun",
+    "example": "그 신문은 강력한 어조의 사설을 실었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "추측하다",
+    "meaning_en": "speculate",
+    "pos": "verb",
+    "example": "그 잡지는 우주 탐사에 대한 특집 기사를 실었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "반박하다",
+    "meaning_en": "refute",
+    "pos": "verb",
+    "example": "그 회사는 그 소문을 부인하는 보도 자료를 발표했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "확증하다",
+    "meaning_en": "corroborate",
+    "pos": "verb",
+    "example": "인용하기 전에 항상 출처 자료를 확인하세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "신뢰성",
+    "meaning_en": "credibility",
+    "pos": "noun",
+    "example": "기자들은 출처를 정확하게 인용해야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "오해의 소지가 있는",
+    "meaning_en": "misleading",
+    "pos": "adjective",
+    "example": "그 기사는 순전히 추측에 기반을 두고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "윤리적인",
+    "meaning_en": "ethical",
+    "pos": "adjective",
+    "example": "그 정보는 여러 출처에 의해 검증되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "공평한",
+    "meaning_en": "impartial",
+    "pos": "adjective",
+    "example": "소셜 미디어에서 검증되지 않은 주장을 공유하지 마세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "판단",
+    "meaning_en": "judgement",
+    "pos": "noun",
+    "example": "비판적 사고 능력을 개발하는 것은 뉴스를 해석하는 데 매우 중요합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "평결",
+    "meaning_en": "verdict",
+    "pos": "noun",
+    "example": "다른 관점에서 그 문제를 보려고 노력하세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "형량",
+    "meaning_en": "sentence",
+    "pos": "noun",
+    "example": "그 토론은 복잡한 상황의 미묘한 차이를 포착합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "항소하다",
+    "meaning_en": "appeal",
+    "pos": "verb",
+    "example": "저는 계약 조건을 명확히 해야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "검사",
+    "meaning_en": "prosecutor",
+    "pos": "noun",
+    "example": "그녀는 자신의 우려를 분명하고 정확하게 표현했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "피고",
+    "meaning_en": "defendant",
+    "pos": "noun",
+    "example": "당신의 주장에 대해 상술해 주시겠어요?",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시민의 자유",
+    "meaning_en": "civil liberties",
+    "pos": "noun",
+    "example": "야당은 강력한 반론을 제시했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사생활",
+    "meaning_en": "privacy",
+    "pos": "noun",
+    "example": "그녀는 보편적 의료 서비스의 강력한 지지자입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "감시",
+    "meaning_en": "surveillance",
+    "pos": "noun",
+    "example": "그 법안의 반대자가 강력한 연설을 했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "테러",
+    "meaning_en": "terrorism",
+    "pos": "noun",
+    "example": "정책 변경의 근거는 무엇인가요?",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "구금",
+    "meaning_en": "detention",
+    "pos": "noun",
+    "example": "그 주장은 잘못된 전제에 기반을 두고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "협상하다",
+    "meaning_en": "negotiate",
+    "pos": "verb",
+    "example": "그 보고서는 조사 결과에 대해 명확한 결론을 도출합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "타협",
+    "meaning_en": "compromise",
+    "pos": "noun",
+    "example": "언론인들은 객관성을 유지하기 위해 노력해야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "교착 상태",
+    "meaning_en": "deadlock",
+    "pos": "noun",
+    "example": "데이터에 대한 그의 해석은 매우 주관적입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "중재",
+    "meaning_en": "mediation",
+    "pos": "noun",
+    "example": "그 리뷰는 저자의 친구에게 유리하게 명백히 편향되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "분쟁",
+    "meaning_en": "dispute",
+    "pos": "noun",
+    "example": "배심원단은 공정한 재판을 보장하기 위해 편견이 없어야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "빈곤선",
+    "meaning_en": "poverty line",
+    "pos": "noun",
+    "example": "선정적인 주장들은 믿기 전에 항상 사실 확인을 하세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사회 보장",
+    "meaning_en": "social security",
+    "pos": "noun",
+    "example": "그 이야기는 게시된 직후 입소문이 났습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "실업률",
+    "meaning_en": "unemployment rate",
+    "pos": "noun",
+    "example": "인터넷 트롤(악플러)들과 엮이지 마세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "노동력",
+    "meaning_en": "labor force",
+    "pos": "noun",
+    "example": "소셜 미디어 인플루언서들은 다양한 제품을 홍보합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "단체 교섭",
+    "meaning_en": "collective bargaining",
+    "pos": "noun",
+    "example": "정부는 디지털 격차를 해소하려고 노력하고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "성 평등",
+    "meaning_en": "gender equality",
+    "pos": "noun",
+    "example": "인공 지능은 산업을 빠르게 변화시키고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "주택 위기",
+    "meaning_en": "housing crisis",
+    "pos": "noun",
+    "example": "로봇 공학 분야는 빠르게 발전하고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "저렴한 주택",
+    "meaning_en": "affordable housing",
+    "pos": "noun",
+    "example": "자동화는 많은 제조업 일자리에 영향을 미치고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "교외",
+    "meaning_en": "suburb",
+    "pos": "noun",
+    "example": "우리는 시대에 뒤처지지 않기 위해 기술을 미래에도 대비해야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "도시화",
+    "meaning_en": "urbanization",
+    "pos": "noun",
+    "example": "그 회사는 직장 문화를 개선하는 데 집중하고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시골 지역",
+    "meaning_en": "rural area",
+    "pos": "noun",
+    "example": "원격 근무는 많은 사람에게 새로운 일상이 되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "화석 연료",
+    "meaning_en": "fossil fuel",
+    "pos": "noun",
+    "example": "긱 경제(임시직 경제)는 유연하지만 종종 불안정한 일자리를 제공합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "기후 변화 부정론자",
+    "meaning_en": "climate denier",
+    "pos": "noun",
+    "example": "최저 임금 인상에 대한 논쟁이 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "생태 재앙",
+    "meaning_en": "ecological disaster",
+    "pos": "noun",
+    "example": "소득 격차를 줄이는 것이 핵심 정책 목표입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "생물 다양성",
+    "meaning_en": "biodiversity",
+    "pos": "noun",
+    "example": "양측은 몇 달간의 대화 끝에 합의에 도달했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "탄소 발자국",
+    "meaning_en": "carbon footprint",
+    "pos": "noun",
+    "example": "당국은 인질들의 석방을 확보하기 위해 노력하고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "환경 보호",
+    "meaning_en": "environmental protection",
+    "pos": "noun",
+    "example": "주민들은 화재로 인해 즉시 대피하라는 요청을 받았습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "천연 자원",
+    "meaning_en": "natural resource",
+    "pos": "noun",
+    "example": "시의회는 모든 자전거 이용자의 헬멧 착용을 의무화했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "언론 편향",
+    "meaning_en": "media bias",
+    "pos": "noun",
+    "example": "정치 연합은 정책 불일치 후 해체되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사설",
+    "meaning_en": "editorial",
+    "pos": "noun",
+    "example": "그들은 다음 선거까지 임시 정부를 수립했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "특집 기사",
+    "meaning_en": "feature article",
+    "pos": "noun",
+    "example": "신입 직원을 위한 신원 조회 과정은 엄격합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "보도 자료",
+    "meaning_en": "press release",
+    "pos": "noun",
+    "example": "그 회사는 야기된 손해에 대해 전적인 책임을 수용했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "자료 출처",
+    "meaning_en": "source material",
+    "pos": "noun",
+    "example": "그 나라는 전쟁 피해에 대한 배상을 요구했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "인용하다",
+    "meaning_en": "quote",
+    "pos": "verb",
+    "example": "시민들은 국기에 대한 충성을 맹세합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "추측",
+    "meaning_en": "speculation",
+    "pos": "noun",
+    "example": "그 분쟁은 그 영토에 대한 국가의 주권에 도전합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "검증된",
+    "meaning_en": "verified",
+    "pos": "adjective",
+    "example": "그 시위는 더 광범위한 사회적 격변의 서막이었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "검증되지 않은",
+    "meaning_en": "unverified",
+    "pos": "adjective",
+    "example": "엄격한 처벌은 범죄에 대한 억제책 역할을 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "비판적 사고",
+    "meaning_en": "critical thinking",
+    "pos": "noun",
+    "example": "정부는 정치범들에게 대사면을 허용했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "관점",
+    "meaning_en": "perspective",
+    "pos": "noun",
+    "example": "그 법안은 입법부에서 초당적인 지지를 받았습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "뉘앙스",
+    "meaning_en": "nuance",
+    "pos": "noun",
+    "example": "그 캠페인은 풀뿌리 활동에 크게 의존합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "명확히 하다",
+    "meaning_en": "clarify",
+    "pos": "verb",
+    "example": "전직 대통령은 유력 후보를 지지하기로 선택했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "분명히 표현하다",
+    "meaning_en": "articulate",
+    "pos": "verb",
+    "example": "세 명의 의원이 투표에서 기권하기로 선택했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "상세히 설명하다",
+    "meaning_en": "elaborate",
+    "pos": "verb",
+    "example": "그 지역은 분리 독립 여부를 묻는 주민 투표를 실시하고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "반론",
+    "meaning_en": "counter-argument",
+    "pos": "noun",
+    "example": "이사회는 내일 새로운 지출 계획을 승인할 것입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "옹호자",
+    "meaning_en": "proponent",
+    "pos": "noun",
+    "example": "무역 전쟁은 수입품에 높은 관세를 부과하는 것을 포함했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "반대자",
+    "meaning_en": "opponent",
+    "pos": "noun",
+    "example": "정부는 지역 농부들에게 보조금을 제공합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "논리적 근거",
+    "meaning_en": "rationale",
+    "pos": "noun",
+    "example": "그 은행은 막대한 정부 구제 금융을 요청했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "전제",
+    "meaning_en": "premise",
+    "pos": "noun",
+    "example": "중앙은행은 금융 시스템에 유동성을 주입했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "결론",
+    "meaning_en": "conclusion",
+    "pos": "noun",
+    "example": "그 회사는 부채를 상환하지 못해 파산을 선언했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "객관적인",
+    "meaning_en": "objective",
+    "pos": "adjective",
+    "example": "그 스타트업은 대규모 벤처 캐피털 자금 유치를 확보했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "주관적인",
+    "meaning_en": "subjective",
+    "pos": "adjective",
+    "example": "중앙은행은 인플레이션에 맞서기 위해 통화 정책을 조정했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "편향된",
+    "meaning_en": "biased",
+    "pos": "adjective",
+    "example": "정부의 재정 정책은 세금 인상과 지출 삭감을 포함합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "편향되지 않은",
+    "meaning_en": "unbiased",
+    "pos": "adjective",
+    "example": "밀과 설탕 같은 기본 상품의 가격이 급등했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사실 확인하다",
+    "meaning_en": "fact-check",
+    "pos": "verb",
+    "example": "낮은 소비자 신뢰는 잠재적인 경기 둔화를 시사합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "입소문이 난",
+    "meaning_en": "viral",
+    "pos": "adjective",
+    "example": "내년도 경제 전망은 불확실합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "악플러",
+    "meaning_en": "troll",
+    "pos": "noun",
+    "example": "비만 유병률은 주요 공중 보건 문제입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "인플루언서",
+    "meaning_en": "influencer",
+    "pos": "noun",
+    "example": "목표는 환자들의 사회 복귀 재활입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "정보 격차",
+    "meaning_en": "digital divide",
+    "pos": "noun",
+    "example": "그 보고서는 만성 질환 치료의 증가하는 비용을 다룹니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "인공지능",
+    "meaning_en": "artificial intelligence",
+    "pos": "noun",
+    "example": "그 나라는 낮은 영아 사망률을 달성했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "로봇 공학",
+    "meaning_en": "robotics",
+    "pos": "noun",
+    "example": "완화 의료는 고통을 완화하는 데 중점을 둡니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "자동화",
+    "meaning_en": "automation",
+    "pos": "noun",
+    "example": "원격 진료는 의사들이 환자들을 원격으로 치료할 수 있게 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "미래에도 문제없도록 대비하다",
+    "meaning_en": "future-proof",
+    "pos": "verb",
+    "example": "그 소셜 미디어 플랫폼은 콘텐츠 알고리즘을 변경했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "직장 문화",
+    "meaning_en": "workplace culture",
+    "pos": "noun",
+    "example": "생체 인식 기술은 높은 보안의 신원 확인에 사용됩니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "재택 근무",
+    "meaning_en": "remote work",
+    "pos": "noun",
+    "example": "암호화폐의 변동성은 투자자들에게 우려 사항입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "긱 경제",
+    "meaning_en": "gig economy",
+    "pos": "noun",
+    "example": "블록체인 기술은 고도로 탈중앙화되어 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "최저 임금",
+    "meaning_en": "minimum wage",
+    "pos": "noun",
+    "example": "새 앱의 사용자 인터페이스는 매우 직관적입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소득 격차",
+    "meaning_en": "income disparity",
+    "pos": "noun",
+    "example": "그 나라는 사이버 스파이 활동에 관여했다는 비난을 받았습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "합의, 정착",
+    "meaning_en": "settlement",
+    "pos": "noun",
+    "example": "대규모 데이터 유출로 수백만 명의 고객 기록이 노출되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "인질",
+    "meaning_en": "hostage",
+    "pos": "noun",
+    "example": "그 내부 고발자는 회사의 불법 활동을 폭로했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "대피시키다",
+    "meaning_en": "evacuate",
+    "pos": "verb",
+    "example": "그는 그 신문사를 상대로 명예훼손 소송을 제기했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "의무화하다",
+    "meaning_en": "mandate",
+    "pos": "verb",
+    "example": "그 CEO는 증언하라는 소환장을 받았습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "연합",
+    "meaning_en": "coalition",
+    "pos": "noun",
+    "example": "그 죄수의 변호사는 인신 보호 영장을 신청했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "임시적인",
+    "meaning_en": "provisional",
+    "pos": "adjective",
+    "example": "법원은 그 사건에 대한 관할권이 없다고 판결했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "심사",
+    "meaning_en": "vetting",
+    "pos": "noun",
+    "example": "핵심 증인의 증언은 매우 중요했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "책임",
+    "meaning_en": "liability",
+    "pos": "noun",
+    "example": "재판은 다음 주까지 휴정되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "배상금",
+    "meaning_en": "reparations",
+    "pos": "noun",
+    "example": "그는 감옥에서 풀려나 보호 관찰을 받게 되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "충성",
+    "meaning_en": "allegiance",
+    "pos": "noun",
+    "example": "두 나라는 범죄인 인도 조약을 체결했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "주권",
+    "meaning_en": "sovereignty",
+    "pos": "noun",
+    "example": "질서를 회복하기 위해 야간 통행금지가 시행되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "서막, 전조",
+    "meaning_en": "prelude",
+    "pos": "noun",
+    "example": "그 유명한 반체제 인사가 마침내 감옥에서 풀려났습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "억제책",
+    "meaning_en": "deterrent",
+    "pos": "noun",
+    "example": "그 지역은 더 큰 정치적 자치권을 요구하고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사면",
+    "meaning_en": "amnesty",
+    "pos": "noun",
+    "example": "군대는 성공적인 쿠데타를 일으켰습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "초당적인",
+    "meaning_en": "bipartisan",
+    "pos": "adjective",
+    "example": "이웃 나라들은 호전적인 태도를 취해왔습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "풀뿌리, 일반 대중의",
+    "meaning_en": "grassroots",
+    "pos": "adjective",
+    "example": "양측은 즉각적인 휴전에 합의했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지지하다",
+    "meaning_en": "endorse",
+    "pos": "verb",
+    "example": "임시 휴전으로 구호 요원들이 그 지역에 들어갈 수 있었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "기권하다",
+    "meaning_en": "abstain",
+    "pos": "verb",
+    "example": "반군은 게릴라전 전술에 의존했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "분리 독립하다",
+    "meaning_en": "secede",
+    "pos": "verb",
+    "example": "그 분쟁은 강대국들 간의 대리전으로 묘사되어 왔습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "승인하다, 허가하다",
+    "meaning_en": "sanction",
+    "pos": "verb",
+    "example": "더 큰 나라는 분쟁 중인 영토를 합병하겠다고 위협했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "관세",
+    "meaning_en": "tariff",
+    "pos": "noun",
+    "example": "연립 여당은 근소한 의회 과반수를 차지하고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "보조금",
+    "meaning_en": "subsidy",
+    "pos": "noun",
+    "example": "그 나라는 헌법 개정에 대한 국민 투표를 실시했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "구제 금융",
+    "meaning_en": "bailout",
+    "pos": "noun",
+    "example": "투표소 밖에서는 긴 줄이 보고되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "유동성",
+    "meaning_en": "liquidity",
+    "pos": "noun",
+    "example": "투표율은 예상보다 현저히 높았습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "지불 불능",
+    "meaning_en": "insolvency",
+    "pos": "noun",
+    "example": "이익 단체들은 로비 활동에 수백만 달러를 썼습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "벤처 자본",
+    "meaning_en": "venture capital",
+    "pos": "noun",
+    "example": "환경 운동은 작은 풀뿌리 캠페인으로 시작되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "통화 정책",
+    "meaning_en": "monetary policy",
+    "pos": "noun",
+    "example": "시위대들은 국회 의사당 건물 밖에서 평화롭게 모였습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "재정 정책",
+    "meaning_en": "fiscal policy",
+    "pos": "noun",
+    "example": "학생 시위로 인해 중심가가 폐쇄되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "상품, 원자재",
+    "meaning_en": "commodity",
+    "pos": "noun",
+    "example": "정부는 사회 불안을 진정시키기 위해 고군분투했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소비자 신뢰",
+    "meaning_en": "consumer confidence",
+    "pos": "noun",
+    "example": "의회 해산은 조기 총선을 촉발했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "예후, 예측",
+    "meaning_en": "prognosis",
+    "pos": "noun",
+    "example": "그 정당은 후보를 선출하기 위해 비밀 간부 회의를 열었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "유행, 보급률",
+    "meaning_en": "prevalence",
+    "pos": "noun",
+    "example": "야당은 투표를 지연시키기 위해 필리버스터(의사 진행 방해)를 사용했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "재활",
+    "meaning_en": "rehabilitation",
+    "pos": "noun",
+    "example": "삼림 벌채는 기후 변화에 상당히 기여합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "만성 질환",
+    "meaning_en": "chronic illness",
+    "pos": "noun",
+    "example": "소비자들은 생분해성 포장재를 선호합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "유아 사망률",
+    "meaning_en": "infant mortality",
+    "pos": "noun",
+    "example": "오염은 지역 해양 생태계를 심각하게 손상시켰습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "완화 치료",
+    "meaning_en": "palliative care",
+    "pos": "noun",
+    "example": "우리는 유한한 자원을 보존해야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "원격 의료",
+    "meaning_en": "telemedicine",
+    "pos": "noun",
+    "example": "정부는 태양광 발전 설비에 보조금을 지급합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "알고리즘",
+    "meaning_en": "algorithm",
+    "pos": "noun",
+    "example": "새로운 채권 발행은 주요 기반 시설 프로젝트의 자금을 조달할 것입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "생체 인식",
+    "meaning_en": "biometrics",
+    "pos": "noun",
+    "example": "그 협상은 진행 중인 노동 분쟁을 해결하는 것을 목표로 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "암호화폐",
+    "meaning_en": "cryptocurrency",
+    "pos": "noun",
+    "example": "노조는 다음 주에 파업 조치를 취하겠다고 위협했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "분산된",
+    "meaning_en": "decentralized",
+    "pos": "adjective",
+    "example": "생활비 상승은 많은 은퇴자에게 영향을 미칩니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "인터페이스",
+    "meaning_en": "interface",
+    "pos": "noun",
+    "example": "국민연금 기금의 안정성이 우려됩니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사이버 첩보",
+    "meaning_en": "cyber espionage",
+    "pos": "noun",
+    "example": "인구 통계의 변화가 소비자 시장을 재편하고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "데이터 유출",
+    "meaning_en": "data breach",
+    "pos": "noun",
+    "example": "도시와 농촌 지역 간의 소득 격차가 확대되고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "내부 고발자",
+    "meaning_en": "whistleblower",
+    "pos": "noun",
+    "example": "그 조사는 광범위한 재정적 관리 부실을 드러냈습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "명예 훼손",
+    "meaning_en": "defamation",
+    "pos": "noun",
+    "example": "그 위원회는 공공 지출에 대한 감독을 제공합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "소환장",
+    "meaning_en": "subpoena",
+    "pos": "noun",
+    "example": "그 임원은 분식 회계 혐의로 기소되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "인신 보호 영장",
+    "meaning_en": "habeas corpus",
+    "pos": "noun",
+    "example": "그 회사는 새로운 독립 회계사를 고용했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "관할권",
+    "meaning_en": "jurisdiction",
+    "pos": "noun",
+    "example": "내부 감사는 몇 가지 부정 행위를 적발했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "증언",
+    "meaning_en": "testimony",
+    "pos": "noun",
+    "example": "그 법은 금융 범죄자들을 엄중하게 처벌하는 것을 목표로 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "휴회하다",
+    "meaning_en": "adjourn",
+    "pos": "verb",
+    "example": "'인원 감축(Downsizing)'은 종종 '해고'의 완곡어법으로 사용됩니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "보호 관찰",
+    "meaning_en": "probation",
+    "pos": "noun",
+    "example": "언론은 이야기를 선정적으로 만들기 위해 종종 과장법을 사용합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "범인 인도",
+    "meaning_en": "extradition",
+    "pos": "noun",
+    "example": "그 신문은 유해한 선정주의라는 비난을 받았습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "통행금지",
+    "meaning_en": "curfew",
+    "pos": "noun",
+    "example": "정치 평론가들은 토론 후 그들의 분석을 제공했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "반체제 인사",
+    "meaning_en": "dissident",
+    "pos": "noun",
+    "example": "한 재무 분석가가 분기별 결과에 대해 논평했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "자율성",
+    "meaning_en": "autonomy",
+    "pos": "noun",
+    "example": "이민에 대한 대중의 담론이 가열되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "쿠데타",
+    "meaning_en": "coup d'état",
+    "pos": "noun",
+    "example": "그녀는 작년에 자신의 사업을 시작했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "교전 중인",
+    "meaning_en": "belligerent",
+    "pos": "adjective",
+    "example": "저는 큰 기술 회사에서 일합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "휴전",
+    "meaning_en": "ceasefire",
+    "pos": "noun",
+    "example": "그 관리자는 부서 전체를 감독합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "정전",
+    "meaning_en": "truce",
+    "pos": "noun",
+    "example": "고용주는 건강 보험을 제공합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "게릴라전",
+    "meaning_en": "guerilla warfare",
+    "pos": "noun",
+    "example": "제 동료들은 매우 협조적입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "대리전",
+    "meaning_en": "proxy war",
+    "pos": "noun",
+    "example": "우리는 고객들을 만족시켜야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "합병하다",
+    "meaning_en": "annex",
+    "pos": "verb",
+    "example": "고객 서비스가 우리의 우선순위입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "연립 정부",
+    "meaning_en": "coalition",
+    "pos": "noun",
+    "example": "우리는 신뢰할 수 있는 자재 공급업체를 두고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "국민 투표",
+    "meaning_en": "referendum",
+    "pos": "noun",
+    "example": "우리는 비즈니스 파트너를 찾고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "투표소",
+    "meaning_en": "polling station",
+    "pos": "noun",
+    "example": "우리는 전략 개선을 위해 컨설턴트를 고용했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "투표율",
+    "meaning_en": "turnout",
+    "pos": "noun",
+    "example": "재무 부서가 우리 예산을 관리합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "로비 활동",
+    "meaning_en": "lobbying",
+    "pos": "noun",
+    "example": "우리는 예산 범위 내에서 지출해야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "풀뿌리 운동",
+    "meaning_en": "grassroots",
+    "pos": "noun",
+    "example": "그 회사는 올해 많은 수익을 냈습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시위자",
+    "meaning_en": "protestor",
+    "pos": "noun",
+    "example": "우리는 지난 분기에 손실을 입었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시위",
+    "meaning_en": "demonstration",
+    "pos": "noun",
+    "example": "서비스에 대한 송장을 보내주세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "시민 불안",
+    "meaning_en": "civil unrest",
+    "pos": "noun",
+    "example": "우리는 신용카드 결제를 받습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "해산",
+    "meaning_en": "dissolution",
+    "pos": "noun",
+    "example": "여행 경비를 제출해 주세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "당원 대회",
+    "meaning_en": "caucus",
+    "pos": "noun",
+    "example": "거래가 성공적으로 완료되었습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "의사진행 방해",
+    "meaning_en": "filibuster",
+    "pos": "noun",
+    "example": "이것은 좋은 투자 기회입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "산림 벌채",
+    "meaning_en": "deforestation",
+    "pos": "noun",
+    "example": "우리는 사업 확장을 위해 대출을 받았습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "생분해성의",
+    "meaning_en": "biodegradable",
+    "pos": "adjective",
+    "example": "우리는 공급업체와 계약을 체결했습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "생태계",
+    "meaning_en": "ecosystem",
+    "pos": "noun",
+    "example": "우리는 그 조건에 대해 합의에 이르렀습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "유한 자원",
+    "meaning_en": "finite resource",
+    "pos": "noun",
+    "example": "우리는 어제 중요한 거래를 성사시켰습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "탄소 중립",
+    "meaning_en": "carbon neutrality",
+    "pos": "noun",
+    "example": "저는 입사 제의를 받았습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "보조금을 지급하다",
+    "meaning_en": "subsidize",
+    "pos": "verb",
+    "example": "우리의 제안서를 검토해 주세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사회 기반 시설 사업",
+    "meaning_en": "infrastructure project",
+    "pos": "noun",
+    "example": "우리는 가격을 협상해야 합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "노동 쟁의",
+    "meaning_en": "labor dispute",
+    "pos": "noun",
+    "example": "우리는 팀과 매일 소통합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "파업",
+    "meaning_en": "strike action",
+    "pos": "noun",
+    "example": "우리는 다른 부서들과 협력합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "은퇴자",
+    "meaning_en": "retiree",
+    "pos": "noun",
+    "example": "팀과 일정을 조율해 주세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "연금 기금",
+    "meaning_en": "pension fund",
+    "pos": "noun",
+    "example": "관리자는 팀에게 업무를 위임합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "인구 통계",
+    "meaning_en": "demographics",
+    "pos": "noun",
+    "example": "그녀는 생산 과정을 감독합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "격차",
+    "meaning_en": "disparity",
+    "pos": "noun",
+    "example": "우리는 매년 직원 성과를 평가합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "잘못된 관리",
+    "meaning_en": "mismanagement",
+    "pos": "noun",
+    "example": "우리는 정기적으로 시장 동향을 분석합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "감독",
+    "meaning_en": "oversight",
+    "pos": "noun",
+    "example": "우리는 분기별로 마케팅 전략을 계획합니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "사기적인",
+    "meaning_en": "fraudulent",
+    "pos": "adjective",
+    "example": "콘퍼런스를 준비합시다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "회계사",
+    "meaning_en": "accountant",
+    "pos": "noun",
+    "example": "내일 회의 일정을 잡아 주세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "감사",
+    "meaning_en": "audit",
+    "pos": "noun",
+    "example": "마감일은 다음 주 금요일입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "위반자",
+    "meaning_en": "transgressor",
+    "pos": "noun",
+    "example": "저는 새 프로젝트를 진행 중입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "완곡어법",
+    "meaning_en": "euphemism",
+    "pos": "noun",
+    "example": "오늘까지 이 업무를 완료하세요.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "과장법",
+    "meaning_en": "hyperbole",
+    "pos": "noun",
+    "example": "우리의 목표는 매출을 늘리는 것입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "선정주의",
+    "meaning_en": "sensationalism",
+    "pos": "noun",
+    "example": "주요 목표는 비용을 줄이는 것입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "전문가, 평론가",
+    "meaning_en": "pundit",
+    "pos": "noun",
+    "example": "우리는 명확한 사업 전략을 가지고 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "분석가",
+    "meaning_en": "analyst",
+    "pos": "noun",
+    "example": "마케팅은 성장에 필수적입니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "담론",
+    "meaning_en": "discourse",
+    "pos": "noun",
+    "example": "우리 제품은 매우 인기가 있습니다.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
   }
 ]
