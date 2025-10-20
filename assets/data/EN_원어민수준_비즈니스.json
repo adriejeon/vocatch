@@ -1,0 +1,1130 @@
+[
+  {
+    "word": "corporation",
+    "meaning_ko": "기업",
+    "pos": "noun",
+    "example": "The corporation announced record profits this quarter.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "enterprise",
+    "meaning_ko": "기업",
+    "pos": "noun",
+    "example": "This is a successful enterprise with global reach.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "conglomerate",
+    "meaning_ko": "대형 복합기업",
+    "pos": "noun",
+    "example": "The conglomerate owns several subsidiaries across different industries.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "subsidiary",
+    "meaning_ko": "자회사",
+    "pos": "noun",
+    "example": "The company acquired a major subsidiary in Asia.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "stakeholder",
+    "meaning_ko": "이해관계자",
+    "pos": "noun",
+    "example": "All stakeholders must approve the merger agreement.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "dividend",
+    "meaning_ko": "배당금",
+    "pos": "noun",
+    "example": "The company increased its dividend payout to shareholders.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "acquisition",
+    "meaning_ko": "인수",
+    "pos": "noun",
+    "example": "The acquisition of the competitor strengthened our market position.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "merger",
+    "meaning_ko": "합병",
+    "pos": "noun",
+    "example": "The merger created the largest company in the industry.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "liquidation",
+    "meaning_ko": "청산",
+    "pos": "noun",
+    "example": "The company faced liquidation after declaring bankruptcy.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "leverage",
+    "meaning_ko": "레버리지, 영향력 활용",
+    "pos": "noun",
+    "example": "The company used leverage to finance the acquisition.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "equity",
+    "meaning_ko": "자본, 주식",
+    "pos": "noun",
+    "example": "Shareholders own equity in the company.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "liability",
+    "meaning_ko": "부채, 책임",
+    "pos": "noun",
+    "example": "The company's liabilities exceed its assets.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "asset",
+    "meaning_ko": "자산",
+    "pos": "noun",
+    "example": "The company's total assets reached five billion dollars.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "portfolio",
+    "meaning_ko": "포트폴리오",
+    "pos": "noun",
+    "example": "The investment portfolio includes stocks and bonds.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "revenue",
+    "meaning_ko": "수익",
+    "pos": "noun",
+    "example": "Annual revenue increased by 25 percent.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "profit margin",
+    "meaning_ko": "이윤율",
+    "pos": "noun",
+    "example": "The profit margin has improved significantly this year.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "breakeven",
+    "meaning_ko": "손익분기점",
+    "pos": "noun",
+    "example": "The company expects to reach breakeven within two years.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "venture capital",
+    "meaning_ko": "벤처캐피탈",
+    "pos": "noun",
+    "example": "The startup received funding from venture capital investors.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "IPO",
+    "meaning_ko": "기업공개",
+    "pos": "noun",
+    "example": "The company plans to go public with an IPO next year.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "fiscal year",
+    "meaning_ko": "회계연도",
+    "pos": "noun",
+    "example": "The fiscal year ended with record earnings.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "payroll",
+    "meaning_ko": "급여",
+    "pos": "noun",
+    "example": "The company's payroll costs are rising annually.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "overhead",
+    "meaning_ko": "간접비",
+    "pos": "noun",
+    "example": "We need to reduce overhead expenses to improve profitability.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "operational",
+    "meaning_ko": "운영상의",
+    "pos": "adjective",
+    "example": "Operational efficiency is critical for success.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "infrastructure",
+    "meaning_ko": "기반시설",
+    "pos": "noun",
+    "example": "The company invested heavily in infrastructure development.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "supply chain",
+    "meaning_ko": "공급망",
+    "pos": "noun",
+    "example": "Disruptions in the supply chain affected production.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "logistics",
+    "meaning_ko": "물류",
+    "pos": "noun",
+    "example": "Efficient logistics ensure timely product delivery.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "procurement",
+    "meaning_ko": "조달",
+    "pos": "noun",
+    "example": "The procurement department handles all supplier contracts.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "vendor",
+    "meaning_ko": "공급업체",
+    "pos": "noun",
+    "example": "We negotiate terms with our vendors quarterly.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "inventory",
+    "meaning_ko": "재고",
+    "pos": "noun",
+    "example": "The company maintains optimal inventory levels.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "depreciation",
+    "meaning_ko": "감가상각",
+    "pos": "noun",
+    "example": "Depreciation of equipment reduces taxable income.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "amortization",
+    "meaning_ko": "상각",
+    "pos": "noun",
+    "example": "Amortization of the loan occurs over five years.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "audit",
+    "meaning_ko": "감사",
+    "pos": "noun",
+    "example": "The external audit confirmed our financial statements.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "compliance",
+    "meaning_ko": "준수",
+    "pos": "noun",
+    "example": "Compliance with regulations is mandatory for all employees.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "governance",
+    "meaning_ko": "경영",
+    "pos": "noun",
+    "example": "Good corporate governance protects shareholder interests.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "transparency",
+    "meaning_ko": "투명성",
+    "pos": "noun",
+    "example": "Transparency in business operations builds customer trust.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "fiduciary",
+    "meaning_ko": "신탁, 수탁자",
+    "pos": "adjective",
+    "example": "Fiduciary responsibility requires acting in clients' best interests.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "arbitration",
+    "meaning_ko": "중재",
+    "pos": "noun",
+    "example": "The dispute was settled through arbitration.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "litigation",
+    "meaning_ko": "소송",
+    "pos": "noun",
+    "example": "The company faces costly litigation from the lawsuit.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "intellectual property",
+    "meaning_ko": "지적재산권",
+    "pos": "noun",
+    "example": "Our intellectual property portfolio includes several patents.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "patent",
+    "meaning_ko": "특허",
+    "pos": "noun",
+    "example": "The company holds a patent for this innovative technology.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "trademark",
+    "meaning_ko": "상표",
+    "pos": "noun",
+    "example": "The trademark is registered in multiple countries.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "royalty",
+    "meaning_ko": "로열티",
+    "pos": "noun",
+    "example": "The musician receives royalties from streaming services.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "licensing",
+    "meaning_ko": "라이센싱",
+    "pos": "noun",
+    "example": "Licensing agreements allow third parties to use our technology.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "franchise",
+    "meaning_ko": "프랜차이즈",
+    "pos": "noun",
+    "example": "The restaurant chain operates through franchises worldwide.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "distributor",
+    "meaning_ko": "유통업체",
+    "pos": "noun",
+    "example": "The distributor supplies products to retail outlets.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "wholesale",
+    "meaning_ko": "도매",
+    "pos": "noun",
+    "example": "We sell products at wholesale prices to retailers.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "retail",
+    "meaning_ko": "소매",
+    "pos": "noun",
+    "example": "The retail sector shows strong growth this quarter.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "e-commerce",
+    "meaning_ko": "전자상거래",
+    "pos": "noun",
+    "example": "E-commerce sales have surpassed brick-and-mortar stores.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "marketplace",
+    "meaning_ko": "시장",
+    "pos": "noun",
+    "example": "The online marketplace connects buyers and sellers globally.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "demographic",
+    "meaning_ko": "인구통계",
+    "pos": "noun",
+    "example": "Our target demographic is millennials aged 25-35.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "consumer behavior",
+    "meaning_ko": "소비자 행동",
+    "pos": "noun",
+    "example": "Understanding consumer behavior is essential for marketing.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "market segmentation",
+    "meaning_ko": "시장 세분화",
+    "pos": "noun",
+    "example": "Market segmentation helps us target specific customer groups.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "brand equity",
+    "meaning_ko": "브랜드 가치",
+    "pos": "noun",
+    "example": "The company's brand equity is worth billions.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "positioning",
+    "meaning_ko": "포지셔닝",
+    "pos": "noun",
+    "example": "The brand positioning emphasizes premium quality.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "differentiation",
+    "meaning_ko": "차별화",
+    "pos": "noun",
+    "example": "Product differentiation is key to our competitive advantage.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "competitive advantage",
+    "meaning_ko": "경쟁우위",
+    "pos": "noun",
+    "example": "Our technological innovation provides competitive advantage.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "market share",
+    "meaning_ko": "시장점유율",
+    "pos": "noun",
+    "example": "The company increased its market share by five percent.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "penetration",
+    "meaning_ko": "시장진출",
+    "pos": "noun",
+    "example": "Market penetration in Asia is a strategic priority.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "expansion",
+    "meaning_ko": "확장",
+    "pos": "noun",
+    "example": "The company plans international expansion next year.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "diversification",
+    "meaning_ko": "다각화",
+    "pos": "noun",
+    "example": "Diversification into new markets reduces business risk.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "scalability",
+    "meaning_ko": "확장성",
+    "pos": "noun",
+    "example": "The business model has strong scalability potential.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "optimization",
+    "meaning_ko": "최적화",
+    "pos": "noun",
+    "example": "Process optimization improved efficiency by 30 percent.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "synergy",
+    "meaning_ko": "시너지",
+    "pos": "noun",
+    "example": "The merger creates significant synergies between operations.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "strategic alliance",
+    "meaning_ko": "전략적 연합",
+    "pos": "noun",
+    "example": "The strategic alliance strengthens our market presence.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "joint venture",
+    "meaning_ko": "합작투자",
+    "pos": "noun",
+    "example": "The joint venture combines expertise from both companies.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "outsourcing",
+    "meaning_ko": "아웃소싱",
+    "pos": "noun",
+    "example": "We outsource customer service to reduce costs.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "offshoring",
+    "meaning_ko": "해외이전",
+    "pos": "noun",
+    "example": "Offshoring manufacturing reduced production expenses.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "automation",
+    "meaning_ko": "자동화",
+    "pos": "noun",
+    "example": "Automation of processes increased productivity significantly.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "artificial intelligence",
+    "meaning_ko": "인공지능",
+    "pos": "noun",
+    "example": "Artificial intelligence powers our recommendation engine.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "blockchain",
+    "meaning_ko": "블록체인",
+    "pos": "noun",
+    "example": "Blockchain technology enhances supply chain transparency.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "cryptocurrency",
+    "meaning_ko": "암호화폐",
+    "pos": "noun",
+    "example": "The company accepts cryptocurrency payments.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "fintech",
+    "meaning_ko": "금융기술",
+    "pos": "noun",
+    "example": "The fintech startup disrupted the banking industry.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "digital transformation",
+    "meaning_ko": "디지털 혁신",
+    "pos": "noun",
+    "example": "Digital transformation is essential for staying competitive.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "cloud computing",
+    "meaning_ko": "클라우드 컴퓨팅",
+    "pos": "noun",
+    "example": "Cloud computing reduces IT infrastructure costs.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "cybersecurity",
+    "meaning_ko": "사이버보안",
+    "pos": "noun",
+    "example": "Cybersecurity measures protect our customer data.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "data analytics",
+    "meaning_ko": "데이터 분석",
+    "pos": "noun",
+    "example": "Data analytics reveals customer preferences and trends.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "big data",
+    "meaning_ko": "빅데이터",
+    "pos": "noun",
+    "example": "Big data helps us make informed business decisions.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "machine learning",
+    "meaning_ko": "머신러닝",
+    "pos": "noun",
+    "example": "Machine learning algorithms improve prediction accuracy.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "sustainability",
+    "meaning_ko": "지속가능성",
+    "pos": "noun",
+    "example": "Sustainability initiatives reduce environmental impact.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "corporate social responsibility",
+    "meaning_ko": "기업사회책임",
+    "pos": "noun",
+    "example": "Corporate social responsibility programs support local communities.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "stakeholder engagement",
+    "meaning_ko": "이해관계자 참여",
+    "pos": "noun",
+    "example": "Stakeholder engagement ensures diverse perspectives in decisions.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "ethical",
+    "meaning_ko": "윤리적인",
+    "pos": "adjective",
+    "example": "Ethical business practices build long-term customer loyalty.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "accountability",
+    "meaning_ko": "책임성",
+    "pos": "noun",
+    "example": "Accountability for results drives organizational performance.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "performance metric",
+    "meaning_ko": "성과지표",
+    "pos": "noun",
+    "example": "Key performance metrics track business progress.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "return on investment",
+    "meaning_ko": "투자수익률",
+    "pos": "noun",
+    "example": "The project delivered a strong return on investment.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "forecasting",
+    "meaning_ko": "예측",
+    "pos": "noun",
+    "example": "Financial forecasting helps with budget planning.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "volatility",
+    "meaning_ko": "변동성",
+    "pos": "noun",
+    "example": "Market volatility affects investment portfolios.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "hedge",
+    "meaning_ko": "헤지",
+    "pos": "verb",
+    "example": "Companies hedge against currency risks.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "derivative",
+    "meaning_ko": "파생상품",
+    "pos": "noun",
+    "example": "Derivatives are complex financial instruments.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "bond",
+    "meaning_ko": "채권",
+    "pos": "noun",
+    "example": "Government bonds provide stable returns.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "equity market",
+    "meaning_ko": "주식시장",
+    "pos": "noun",
+    "example": "The equity market rallied after the announcement.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "bull market",
+    "meaning_ko": "강세장",
+    "pos": "noun",
+    "example": "A bull market encourages investors to buy stocks.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "bear market",
+    "meaning_ko": "약세장",
+    "pos": "noun",
+    "example": "A bear market saw widespread selling pressure.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "recession",
+    "meaning_ko": "불경기",
+    "pos": "noun",
+    "example": "The recession reduced consumer spending significantly.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "inflation",
+    "meaning_ko": "인플레이션",
+    "pos": "noun",
+    "example": "Rising inflation erodes purchasing power.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "deflation",
+    "meaning_ko": "디플레이션",
+    "pos": "noun",
+    "example": "Deflation can depress economic growth.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "monetary policy",
+    "meaning_ko": "통화정책",
+    "pos": "noun",
+    "example": "Monetary policy decisions affect interest rates.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "fiscal policy",
+    "meaning_ko": "재정정책",
+    "pos": "noun",
+    "example": "Fiscal policy impacts government spending and taxation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "tariff",
+    "meaning_ko": "관세",
+    "pos": "noun",
+    "example": "Trade tariffs increase the cost of imported goods.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "import",
+    "meaning_ko": "수입",
+    "pos": "noun",
+    "example": "Imports of raw materials have increased.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "export",
+    "meaning_ko": "수출",
+    "pos": "noun",
+    "example": "The company exports products to 50 countries.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "trade agreement",
+    "meaning_ko": "무역협정",
+    "pos": "noun",
+    "example": "The trade agreement reduces barriers between nations.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "customs",
+    "meaning_ko": "세관",
+    "pos": "noun",
+    "example": "Customs clearance delayed the shipment.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "quota",
+    "meaning_ko": "쿼터",
+    "pos": "noun",
+    "example": "Import quotas limit the quantity of goods allowed.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "embezzlement",
+    "meaning_ko": "횡령",
+    "pos": "noun",
+    "example": "The embezzlement scandal led to several arrests.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "fraud",
+    "meaning_ko": "사기",
+    "pos": "noun",
+    "example": "Fraud detection systems protect against financial crimes.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "bribery",
+    "meaning_ko": "뇌물",
+    "pos": "noun",
+    "example": "Bribery is a serious corporate misconduct.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "whistleblower",
+    "meaning_ko": "내부고발자",
+    "pos": "noun",
+    "example": "The whistleblower exposed illegal business practices.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "due diligence",
+    "meaning_ko": "실사",
+    "pos": "noun",
+    "example": "Due diligence is required before major acquisitions.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "contingency plan",
+    "meaning_ko": "비상계획",
+    "pos": "noun",
+    "example": "A contingency plan prepares for unexpected events.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "scenario planning",
+    "meaning_ko": "시나리오 계획",
+    "pos": "noun",
+    "example": "Scenario planning helps anticipate market changes.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "feasibility study",
+    "meaning_ko": "타당성 조사",
+    "pos": "noun",
+    "example": "The feasibility study determines project viability.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "stakeholder",
+    "meaning_ko": "이해관계자",
+    "pos": "noun",
+    "example": "We consulted with key stakeholders about the decision.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "initiative",
+    "meaning_ko": "계획, 주도권",
+    "pos": "noun",
+    "example": "The company launched a new sustainability initiative.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "benchmark",
+    "meaning_ko": "벤치마크",
+    "pos": "noun",
+    "example": "We benchmark our performance against industry leaders.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "framework",
+    "meaning_ko": "구조, 틀",
+    "pos": "noun",
+    "example": "The strategic framework guides our business decisions.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "implementation",
+    "meaning_ko": "이행, 실행",
+    "pos": "noun",
+    "example": "Successful implementation requires careful planning.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "milestone",
+    "meaning_ko": "이정표",
+    "pos": "noun",
+    "example": "The company reached a major milestone this quarter.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "trajectory",
+    "meaning_ko": "궤적, 추이",
+    "pos": "noun",
+    "example": "The company's growth trajectory is impressive.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "paradigm shift",
+    "meaning_ko": "패러다임 전환",
+    "pos": "noun",
+    "example": "Digital technology caused a paradigm shift in retail.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "disruption",
+    "meaning_ko": "혁신적 변화",
+    "pos": "noun",
+    "example": "Disruption in the market creates new opportunities.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "innovation",
+    "meaning_ko": "혁신",
+    "pos": "noun",
+    "example": "Innovation drives competitive advantage.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "R&D",
+    "meaning_ko": "연구개발",
+    "pos": "noun",
+    "example": "R&D spending increased for new product development.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "prototype",
+    "meaning_ko": "프로토타입",
+    "pos": "noun",
+    "example": "The prototype underwent rigorous testing.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "beta testing",
+    "meaning_ko": "베타 테스트",
+    "pos": "noun",
+    "example": "Beta testing revealed several product issues.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "product lifecycle",
+    "meaning_ko": "제품 생명주기",
+    "pos": "noun",
+    "example": "Understanding the product lifecycle helps with planning.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "obsolescence",
+    "meaning_ko": "구식화",
+    "pos": "noun",
+    "example": "Rapid technology changes cause product obsolescence.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "agile methodology",
+    "meaning_ko": "애자일 방법론",
+    "pos": "noun",
+    "example": "Agile methodology improves project flexibility.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "lean management",
+    "meaning_ko": "린 관리",
+    "pos": "noun",
+    "example": "Lean management eliminates wasteful processes.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "six sigma",
+    "meaning_ko": "식스시그마",
+    "pos": "noun",
+    "example": "Six Sigma methods improve quality control.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "total quality management",
+    "meaning_ko": "전사적 품질경영",
+    "pos": "noun",
+    "example": "Total quality management involves all employees.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "continuous improvement",
+    "meaning_ko": "지속적 개선",
+    "pos": "noun",
+    "example": "Continuous improvement is our operational philosophy.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "kaizen",
+    "meaning_ko": "카이젠",
+    "pos": "noun",
+    "example": "Kaizen practices promote incremental improvements.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "just-in-time",
+    "meaning_ko": "적시공급",
+    "pos": "adjective",
+    "example": "Just-in-time inventory reduces storage costs.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "bottleneck",
+    "meaning_ko": "병목",
+    "pos": "noun",
+    "example": "The production bottleneck slows delivery times.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "throughput",
+    "meaning_ko": "처리량",
+    "pos": "noun",
+    "example": "Increasing throughput improves overall productivity.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "capacity",
+    "meaning_ko": "능력, 수용력",
+    "pos": "noun",
+    "example": "Factory capacity is at maximum levels.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "utilization",
+    "meaning_ko": "활용도",
+    "pos": "noun",
+    "example": "Resource utilization improved by 40 percent.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "efficiency",
+    "meaning_ko": "효율성",
+    "pos": "noun",
+    "example": "Operational efficiency is our top priority.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "productivity",
+    "meaning_ko": "생산성",
+    "pos": "noun",
+    "example": "Employee productivity increased with new tools.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "accountability",
+    "meaning_ko": "책임성",
+    "pos": "noun",
+    "example": "Accountability structures ensure responsible management.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  }
+]

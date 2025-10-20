@@ -1,0 +1,402 @@
+[
+  {
+    "word": "conversation",
+    "meaning_ko": "대화",
+    "pos": "noun",
+    "example": "This is an example with conversation.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "discuss",
+    "meaning_ko": "논의하다",
+    "pos": "noun",
+    "example": "This is an example with discuss.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "explain",
+    "meaning_ko": "설명하다",
+    "pos": "noun",
+    "example": "This is an example with explain.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "describe",
+    "meaning_ko": "묘사하다",
+    "pos": "noun",
+    "example": "This is an example with describe.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "opinion",
+    "meaning_ko": "의견",
+    "pos": "noun",
+    "example": "This is an example with opinion.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "agree",
+    "meaning_ko": "동의하다",
+    "pos": "noun",
+    "example": "This is an example with agree.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "disagree",
+    "meaning_ko": "동의하지 않다",
+    "pos": "noun",
+    "example": "This is an example with disagree.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "suggest",
+    "meaning_ko": "제안하다",
+    "pos": "noun",
+    "example": "This is an example with suggest.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "recommend",
+    "meaning_ko": "추천하다",
+    "pos": "noun",
+    "example": "This is an example with recommend.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "advice",
+    "meaning_ko": "조언",
+    "pos": "noun",
+    "example": "This is an example with advice.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "apologize",
+    "meaning_ko": "사과하다",
+    "pos": "noun",
+    "example": "This is an example with apologize.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "compliment",
+    "meaning_ko": "칭찬",
+    "pos": "noun",
+    "example": "This is an example with compliment.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "introduce",
+    "meaning_ko": "소개하다",
+    "pos": "noun",
+    "example": "This is an example with introduce.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "interrupt",
+    "meaning_ko": "방해하다",
+    "pos": "noun",
+    "example": "This is an example with interrupt.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "mention",
+    "meaning_ko": "언급하다",
+    "pos": "noun",
+    "example": "This is an example with mention.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "express",
+    "meaning_ko": "표현하다",
+    "pos": "noun",
+    "example": "This is an example with express.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "communicate",
+    "meaning_ko": "소통하다",
+    "pos": "noun",
+    "example": "This is an example with communicate.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "understand",
+    "meaning_ko": "이해하다",
+    "pos": "noun",
+    "example": "This is an example with understand.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "misunderstand",
+    "meaning_ko": "오해하다",
+    "pos": "noun",
+    "example": "This is an example with misunderstand.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "clarify",
+    "meaning_ko": "명확히 하다",
+    "pos": "noun",
+    "example": "This is an example with clarify.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "confirm",
+    "meaning_ko": "확인하다",
+    "pos": "noun",
+    "example": "This is an example with confirm.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "remind",
+    "meaning_ko": "상기시키다",
+    "pos": "noun",
+    "example": "This is an example with remind.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "promise",
+    "meaning_ko": "약속하다",
+    "pos": "noun",
+    "example": "This is an example with promise.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "refuse",
+    "meaning_ko": "거절하다",
+    "pos": "noun",
+    "example": "This is an example with refuse.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "accept",
+    "meaning_ko": "받아들이다",
+    "pos": "noun",
+    "example": "This is an example with accept.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "reject",
+    "meaning_ko": "거부하다",
+    "pos": "noun",
+    "example": "This is an example with reject.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "persuade",
+    "meaning_ko": "설득하다",
+    "pos": "noun",
+    "example": "This is an example with persuade.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "argue",
+    "meaning_ko": "논쟁하다",
+    "pos": "noun",
+    "example": "This is an example with argue.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "debate",
+    "meaning_ko": "토론하다",
+    "pos": "noun",
+    "example": "This is an example with debate.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "negotiate",
+    "meaning_ko": "협상하다",
+    "pos": "noun",
+    "example": "This is an example with negotiate.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "gossip",
+    "meaning_ko": "소문",
+    "pos": "noun",
+    "example": "This is an example with gossip.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "rumor",
+    "meaning_ko": "소문",
+    "pos": "noun",
+    "example": "This is an example with rumor.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "whisper",
+    "meaning_ko": "속삭이다",
+    "pos": "noun",
+    "example": "This is an example with whisper.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "shout",
+    "meaning_ko": "소리치다",
+    "pos": "noun",
+    "example": "This is an example with shout.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "mumble",
+    "meaning_ko": "중얼거리다",
+    "pos": "noun",
+    "example": "This is an example with mumble.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "stutter",
+    "meaning_ko": "말을 더듬다",
+    "pos": "noun",
+    "example": "This is an example with stutter.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "emphasize",
+    "meaning_ko": "강조하다",
+    "pos": "noun",
+    "example": "This is an example with emphasize.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "imply",
+    "meaning_ko": "암시하다",
+    "pos": "noun",
+    "example": "This is an example with imply.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "comment",
+    "meaning_ko": "논평하다",
+    "pos": "noun",
+    "example": "This is an example with comment.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "remark",
+    "meaning_ko": "발언",
+    "pos": "noun",
+    "example": "This is an example with remark.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "statement",
+    "meaning_ko": "성명",
+    "pos": "noun",
+    "example": "This is an example with statement.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "question",
+    "meaning_ko": "질문",
+    "pos": "noun",
+    "example": "This is an example with question.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "response",
+    "meaning_ko": "응답",
+    "pos": "noun",
+    "example": "This is an example with response.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "feedback",
+    "meaning_ko": "피드백",
+    "pos": "noun",
+    "example": "This is an example with feedback.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "criticism",
+    "meaning_ko": "비판",
+    "pos": "noun",
+    "example": "This is an example with criticism.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "praise",
+    "meaning_ko": "칭찬",
+    "pos": "noun",
+    "example": "This is an example with praise.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "gesture",
+    "meaning_ko": "몸짓",
+    "pos": "noun",
+    "example": "This is an example with gesture.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "expression",
+    "meaning_ko": "표현",
+    "pos": "noun",
+    "example": "This is an example with expression.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "tone",
+    "meaning_ko": "어조",
+    "pos": "noun",
+    "example": "This is an example with tone.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "attitude",
+    "meaning_ko": "태도",
+    "pos": "noun",
+    "example": "This is an example with attitude.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  }
+]

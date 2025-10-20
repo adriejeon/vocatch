@@ -1,0 +1,402 @@
+[
+  {
+    "word": "trip",
+    "meaning_ko": "여행",
+    "pos": "noun",
+    "example": "This is an example with trip.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "travel",
+    "meaning_ko": "여행하다",
+    "pos": "noun",
+    "example": "This is an example with travel.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "visit",
+    "meaning_ko": "방문하다",
+    "pos": "noun",
+    "example": "This is an example with visit.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "go",
+    "meaning_ko": "가다",
+    "pos": "verb",
+    "example": "This is an example with go.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "come",
+    "meaning_ko": "오다",
+    "pos": "verb",
+    "example": "This is an example with come.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "arrive",
+    "meaning_ko": "도착하다",
+    "pos": "noun",
+    "example": "This is an example with arrive.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "leave",
+    "meaning_ko": "떠나다",
+    "pos": "noun",
+    "example": "This is an example with leave.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "stay",
+    "meaning_ko": "머물다",
+    "pos": "noun",
+    "example": "This is an example with stay.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "hotel",
+    "meaning_ko": "호텔",
+    "pos": "noun",
+    "example": "This is an example with hotel.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "room",
+    "meaning_ko": "방",
+    "pos": "noun",
+    "example": "This is an example with room.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "airport",
+    "meaning_ko": "공항",
+    "pos": "noun",
+    "example": "This is an example with airport.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "plane",
+    "meaning_ko": "비행기",
+    "pos": "noun",
+    "example": "This is an example with plane.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "train",
+    "meaning_ko": "기차",
+    "pos": "noun",
+    "example": "This is an example with train.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "bus",
+    "meaning_ko": "버스",
+    "pos": "noun",
+    "example": "This is an example with bus.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "taxi",
+    "meaning_ko": "택시",
+    "pos": "noun",
+    "example": "This is an example with taxi.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "car",
+    "meaning_ko": "차",
+    "pos": "noun",
+    "example": "This is an example with car.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "ticket",
+    "meaning_ko": "티켓",
+    "pos": "noun",
+    "example": "This is an example with ticket.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "passport",
+    "meaning_ko": "여권",
+    "pos": "noun",
+    "example": "This is an example with passport.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "bag",
+    "meaning_ko": "가방",
+    "pos": "noun",
+    "example": "This is an example with bag.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "luggage",
+    "meaning_ko": "짐",
+    "pos": "noun",
+    "example": "This is an example with luggage.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "map",
+    "meaning_ko": "지도",
+    "pos": "noun",
+    "example": "This is an example with map.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "guide",
+    "meaning_ko": "가이드",
+    "pos": "noun",
+    "example": "This is an example with guide.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "tour",
+    "meaning_ko": "투어",
+    "pos": "noun",
+    "example": "This is an example with tour.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "photo",
+    "meaning_ko": "사진",
+    "pos": "noun",
+    "example": "This is an example with photo.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "camera",
+    "meaning_ko": "카메라",
+    "pos": "noun",
+    "example": "This is an example with camera.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "beach",
+    "meaning_ko": "해변",
+    "pos": "noun",
+    "example": "This is an example with beach.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "mountain",
+    "meaning_ko": "산",
+    "pos": "noun",
+    "example": "This is an example with mountain.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "city",
+    "meaning_ko": "도시",
+    "pos": "noun",
+    "example": "This is an example with city.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "country",
+    "meaning_ko": "나라",
+    "pos": "noun",
+    "example": "This is an example with country.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "place",
+    "meaning_ko": "장소",
+    "pos": "noun",
+    "example": "This is an example with place.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "food",
+    "meaning_ko": "음식",
+    "pos": "noun",
+    "example": "This is an example with food.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "restaurant",
+    "meaning_ko": "레스토랑",
+    "pos": "noun",
+    "example": "This is an example with restaurant.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "shop",
+    "meaning_ko": "가게",
+    "pos": "noun",
+    "example": "This is an example with shop.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "buy",
+    "meaning_ko": "사다",
+    "pos": "noun",
+    "example": "This is an example with buy.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "money",
+    "meaning_ko": "돈",
+    "pos": "noun",
+    "example": "This is an example with money.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "price",
+    "meaning_ko": "가격",
+    "pos": "noun",
+    "example": "This is an example with price.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "cheap",
+    "meaning_ko": "싼",
+    "pos": "noun",
+    "example": "This is an example with cheap.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "expensive",
+    "meaning_ko": "비싼",
+    "pos": "noun",
+    "example": "This is an example with expensive.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "book",
+    "meaning_ko": "예약하다",
+    "pos": "noun",
+    "example": "This is an example with book.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "reserve",
+    "meaning_ko": "예약하다",
+    "pos": "noun",
+    "example": "This is an example with reserve.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "check",
+    "meaning_ko": "확인하다",
+    "pos": "noun",
+    "example": "This is an example with check.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "in",
+    "meaning_ko": "안",
+    "pos": "noun",
+    "example": "This is an example with in.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "out",
+    "meaning_ko": "밖",
+    "pos": "noun",
+    "example": "This is an example with out.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "help",
+    "meaning_ko": "도움",
+    "pos": "verb",
+    "example": "This is an example with help.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "lost",
+    "meaning_ko": "잃어버린",
+    "pos": "noun",
+    "example": "This is an example with lost.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "find",
+    "meaning_ko": "찾다",
+    "pos": "noun",
+    "example": "This is an example with find.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "where",
+    "meaning_ko": "어디",
+    "pos": "noun",
+    "example": "This is an example with where.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "when",
+    "meaning_ko": "언제",
+    "pos": "noun",
+    "example": "This is an example with when.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "how",
+    "meaning_ko": "어떻게",
+    "pos": "noun",
+    "example": "This is an example with how.",
+    "level": "기초다지기",
+    "category": "여행"
+  },
+  {
+    "word": "far",
+    "meaning_ko": "먼",
+    "pos": "noun",
+    "example": "This is an example with far.",
+    "level": "기초다지기",
+    "category": "여행"
+  }
+]

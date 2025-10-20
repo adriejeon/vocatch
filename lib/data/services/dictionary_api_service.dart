@@ -617,19 +617,19 @@ class DictionaryApiService {
 
       switch (level) {
         case 'beginner':
-          // 초급: 매우 간단한 단어 (3-5글자, 1-2음절, 복잡도 3.0 이하)
+          // 기초다지기: 매우 간단한 단어 (3-5글자, 1-2음절, 복잡도 3.0 이하)
           return word.length >= 3 &&
               word.length <= 6 &&
               complexity >= 1.0 &&
               complexity <= 3.0;
         case 'intermediate':
-          // 중급: 중간 난이도 (5-9글자, 2-3음절, 복잡도 2.5-5.0)
+          // 표현력확장: 중간 난이도 (5-9글자, 2-3음절, 복잡도 2.5-5.0)
           return word.length >= 5 &&
               word.length <= 10 &&
               complexity > 2.5 &&
               complexity <= 5.0;
         case 'advanced':
-          // 고급: 복잡한 단어 (8글자 이상, 3음절 이상, 복잡도 4.5+)
+          // 원어민수준: 복잡한 단어 (8글자 이상, 3음절 이상, 복잡도 4.5+)
           return word.length >= 7 && complexity > 4.0;
         default:
           return true;

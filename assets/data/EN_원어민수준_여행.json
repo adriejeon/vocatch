@@ -1,0 +1,2114 @@
+[
+  {
+    "word": "discretionary",
+    "meaning_ko": "자유 재량의",
+    "pos": "adjective",
+    "example": "We have some discretionary funds for unexpected travel expenses.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "logistics",
+    "meaning_ko": "세부 계획, 물류",
+    "pos": "noun",
+    "example": "The logistics of our 10-day cross-country trip were complex.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "expedition",
+    "meaning_ko": "탐험, 원정",
+    "pos": "noun",
+    "example": "They embarked on a scientific expedition to Antarctica.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "embark",
+    "meaning_ko": "승선하다, 착수하다",
+    "pos": "verb",
+    "example": "We will embark on the luxury liner at noon tomorrow.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "disembark",
+    "meaning_ko": "하선하다, 내리다",
+    "pos": "verb",
+    "example": "Passengers are asked to disembark promptly upon arrival.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "itinerant",
+    "meaning_ko": "순회하는, 떠돌아다니는",
+    "pos": "adjective",
+    "example": "He spent his twenties living an itinerant lifestyle across Europe.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "veritable",
+    "meaning_ko": "진정한, 참된",
+    "pos": "adjective",
+    "example": "The town square was a veritable feast of local color and sound.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "culinary",
+    "meaning_ko": "요리의",
+    "pos": "adjective",
+    "example": "The trip offered a superb culinary journey through Southeast Asia.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "indigenous",
+    "meaning_ko": "토착의, 고유의",
+    "pos": "adjective",
+    "example": "The tour focused on the customs of the indigenous people of the island.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "repatriation",
+    "meaning_ko": "본국 송환",
+    "pos": "noun",
+    "example": "Travel insurance often covers emergency medical repatriation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "contingency",
+    "meaning_ko": "만일의 사태",
+    "pos": "noun",
+    "example": "Always have a contingency plan in case of flight cancellations.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "unfettered",
+    "meaning_ko": "제한받지 않는, 자유로운",
+    "pos": "adjective",
+    "example": "I enjoy the unfettered freedom of solo hiking in remote areas.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "perfunctory",
+    "meaning_ko": "형식적인, 마지못해 하는",
+    "pos": "adjective",
+    "example": "The customs official gave only a perfunctory glance at my passport.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ambiance",
+    "meaning_ko": "분위기",
+    "pos": "noun",
+    "example": "The restaurant had a romantic and cozy ambiance.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "vignette",
+    "meaning_ko": "짧은 묘사, 삽화",
+    "pos": "noun",
+    "example": "The street artist captured a lovely vignette of Parisian life.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "adventitious",
+    "meaning_ko": "우연한, 뜻밖의",
+    "pos": "adjective",
+    "example": "Our discovery of the hidden cave was entirely adventitious.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "predicament",
+    "meaning_ko": "곤경, 궁지",
+    "pos": "noun",
+    "example": "We found ourselves in a serious predicament when we missed the last bus.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "traverse",
+    "meaning_ko": "가로지르다, 횡단하다",
+    "pos": "verb",
+    "example": "We plan to traverse the entire mountain range by foot.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "exorbitant",
+    "meaning_ko": "터무니없이 비싼",
+    "pos": "adjective",
+    "example": "The taxi drivers charged an exorbitant fee during the rush hour.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "sublime",
+    "meaning_ko": "숭고한, 장엄한",
+    "pos": "adjective",
+    "example": "The view from the summit was truly sublime.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "gregarious",
+    "meaning_ko": "사교적인",
+    "pos": "adjective",
+    "example": "Hostels are suitable for the gregarious traveler who loves meeting new people.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "solitude",
+    "meaning_ko": "고독",
+    "pos": "noun",
+    "example": "He sought the solitude of the wilderness during his gap year.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "requisite",
+    "meaning_ko": "필요한, 필수품",
+    "pos": "adjective",
+    "example": "A passport is the requisite document for international travel.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "vivid",
+    "meaning_ko": "생생한",
+    "pos": "adjective",
+    "example": "I have vivid memories of the marketplace from my childhood trip.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "intricate",
+    "meaning_ko": "복잡한, 정교한",
+    "pos": "adjective",
+    "example": "The local temple featured intricate wood carvings.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "unprecedented",
+    "meaning_ko": "전례 없는",
+    "pos": "adjective",
+    "example": "The airline faced unprecedented delays due to the volcanic ash.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "culmination",
+    "meaning_ko": "정점",
+    "pos": "noun",
+    "example": "The visit to the ancient city was the culmination of our tour.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "proliferate",
+    "meaning_ko": "급증하다",
+    "pos": "verb",
+    "example": "Tourist shops have proliferated near the main attractions.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "diverge",
+    "meaning_ko": "갈라지다, 벗어나다",
+    "pos": "verb",
+    "example": "Our travel plans started to diverge after the first week.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "convergence",
+    "meaning_ko": "집중, 수렴",
+    "pos": "noun",
+    "example": "The area is known for the convergence of three distinct cultures.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "nomadic",
+    "meaning_ko": "유목민의, 떠도는",
+    "pos": "adjective",
+    "example": "The tribe maintained a traditional nomadic existence.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "expedite",
+    "meaning_ko": "신속히 처리하다",
+    "pos": "verb",
+    "example": "We paid extra to expedite the visa processing.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "mitigate",
+    "meaning_ko": "완화시키다",
+    "pos": "verb",
+    "example": "The new safety protocols should mitigate potential travel risks.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "unwavering",
+    "meaning_ko": "확고한, 흔들림 없는",
+    "pos": "adjective",
+    "example": "Her unwavering enthusiasm kept our spirits up during the delay.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "conducive",
+    "meaning_ko": "도움이 되는",
+    "pos": "adjective",
+    "example": "The tranquil environment was conducive to relaxation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "surmise",
+    "meaning_ko": "추측하다",
+    "pos": "verb",
+    "example": "I could only surmise the reason for the sudden route change.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "reclusive",
+    "meaning_ko": "은둔적인",
+    "pos": "adjective",
+    "example": "We sought out a reclusive cabin far from the tourist crowds.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ephemeral",
+    "meaning_ko": "덧없는, 순간적인",
+    "pos": "adjective",
+    "example": "The beauty of the desert bloom was sadly ephemeral.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ostensibly",
+    "meaning_ko": "표면상으로는",
+    "pos": "adverb",
+    "example": "Ostensibly, the trip was for work, but I managed to squeeze in sightseeing.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "disingenuous",
+    "meaning_ko": "솔직하지 못한",
+    "pos": "adjective",
+    "example": "The vendor’s claims about the antique's age seemed disingenuous.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "fortuitous",
+    "meaning_ko": "뜻밖의 행운의",
+    "pos": "adjective",
+    "example": "It was a fortuitous moment when we stumbled upon the hidden path.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "inadvertently",
+    "meaning_ko": "무심코",
+    "pos": "adverb",
+    "example": "I inadvertently left my charging cable in the hotel room.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "scrutinize",
+    "meaning_ko": "정밀 조사하다",
+    "pos": "verb",
+    "example": "The border guards scrutinized every page of my travel history.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "perceive",
+    "meaning_ko": "인식하다",
+    "pos": "verb",
+    "example": "How do you perceive the local attitude toward tourists?",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "validate",
+    "meaning_ko": "입증하다, 확인하다",
+    "pos": "verb",
+    "example": "The hotel concierge validated our parking ticket.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "inherent",
+    "meaning_ko": "내재된",
+    "pos": "adjective",
+    "example": "There is an inherent charm to these ancient European cities.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "adhere",
+    "meaning_ko": "고수하다",
+    "pos": "verb",
+    "example": "Travelers must strictly adhere to the park's conservation guidelines.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "disparity",
+    "meaning_ko": "격차, 차이",
+    "pos": "noun",
+    "example": "We observed a striking disparity between the rich and poor neighborhoods.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "commensurate",
+    "meaning_ko": "비례하는",
+    "pos": "adjective",
+    "example": "The accommodation price felt commensurate with the quality of service.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "prevalent",
+    "meaning_ko": "널리 퍼져 있는",
+    "pos": "adjective",
+    "example": "Petty theft is unfortunately prevalent in this tourist area.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "tentative",
+    "meaning_ko": "잠정적인",
+    "pos": "adjective",
+    "example": "We made a tentative booking for the flight, subject to final approval.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "inclement",
+    "meaning_ko": "혹독한 (날씨)",
+    "pos": "adjective",
+    "example": "Our hiking plans were ruined by inclement weather.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "hospitable",
+    "meaning_ko": "환대하는",
+    "pos": "adjective",
+    "example": "The locals were incredibly hospitable, sharing food and stories.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "quaint",
+    "meaning_ko": "예스러운, 진기한",
+    "pos": "adjective",
+    "example": "We discovered a quaint little café on a cobblestone street.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "picturesque",
+    "meaning_ko": "그림 같은",
+    "pos": "adjective",
+    "example": "The village offers the most picturesque views of the valley.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "panoramic",
+    "meaning_ko": "파노라마식의, 전경의",
+    "pos": "adjective",
+    "example": "We paid extra for a room with a panoramic ocean view.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "gargantuan",
+    "meaning_ko": "거대한",
+    "pos": "adjective",
+    "example": "The cruise ship was a gargantuan floating hotel.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "meander",
+    "meaning_ko": "구불구불 걷다",
+    "pos": "verb",
+    "example": "We spent the afternoon meandering through the botanical gardens.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "serendipity",
+    "meaning_ko": "뜻밖의 발견",
+    "pos": "noun",
+    "example": "The best moments of my trip were pure serendipity.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "reminisce",
+    "meaning_ko": "추억에 잠기다, 회상하다",
+    "pos": "verb",
+    "example": "We sat by the fire and reminisced about our adventures.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "resplendent",
+    "meaning_ko": "눈부시게 빛나는",
+    "pos": "adjective",
+    "example": "The palace domes were resplendent in the afternoon sun.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "delineate",
+    "meaning_ko": "윤곽을 그리다, 정확히 묘사하다",
+    "pos": "verb",
+    "example": "The map clearly delineates the restricted conservation areas.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "elucidate",
+    "meaning_ko": "설명하다, 명확히 하다",
+    "pos": "verb",
+    "example": "The guide elucidated the complex history of the ancient ruins.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "mandate",
+    "meaning_ko": "지시, 의무 사항",
+    "pos": "noun",
+    "example": "Wearing masks became a government mandate for public transport.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "preclude",
+    "meaning_ko": "배제하다, 막다",
+    "pos": "verb",
+    "example": "The high cost of the tickets precluded many from attending the festival.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning_ko": "어디에나 있는",
+    "pos": "adjective",
+    "example": "Street vendors selling local snacks are ubiquitous in the city center.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "vicinity",
+    "meaning_ko": "주변, 근방",
+    "pos": "noun",
+    "example": "There are no major hotels in the immediate vicinity of the park.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "volatile",
+    "meaning_ko": "변동성이 큰, 불안정한",
+    "pos": "adjective",
+    "example": "The political situation in the region is highly volatile.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "abate",
+    "meaning_ko": "약화시키다, 줄이다",
+    "pos": "verb",
+    "example": "We waited for the storm to abate before leaving the harbor.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "capitulate",
+    "meaning_ko": "굴복하다, 항복하다",
+    "pos": "verb",
+    "example": "I had to capitulate and buy the overpriced souvenir my child wanted.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "derelict",
+    "meaning_ko": "버려진, 유기된",
+    "pos": "adjective",
+    "example": "We explored an interesting derelict building near the old dock.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "haggard",
+    "meaning_ko": "수척한, 지친",
+    "pos": "adjective",
+    "example": "After the 30-hour flight, I felt haggard and exhausted.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "impecunious",
+    "meaning_ko": "가난한, 무일푼의",
+    "pos": "adjective",
+    "example": "The student managed to travel the world on an impecunious budget.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "innocuous",
+    "meaning_ko": "무해한, 악의 없는",
+    "pos": "adjective",
+    "example": "I made an innocuous comment about the food that was misunderstood.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "intermittent",
+    "meaning_ko": "간헐적인",
+    "pos": "adjective",
+    "example": "The train experienced intermittent signal failures, causing minor delays.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "juxtaposition",
+    "meaning_ko": "병치, 대비",
+    "pos": "noun",
+    "example": "The juxtaposition of modern skyscrapers and ancient ruins was striking.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "myriad",
+    "meaning_ko": "무수히 많은",
+    "pos": "noun",
+    "example": "The city offers a myriad of attractions for every type of traveler.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ostentation",
+    "meaning_ko": "과시, 허세",
+    "pos": "noun",
+    "example": "Despite his wealth, the traveler avoided any sign of ostentation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "paucity",
+    "meaning_ko": "부족",
+    "pos": "noun",
+    "example": "There was a paucity of affordable hotels in the downtown area.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "precipitous",
+    "meaning_ko": "험준한, 가파른",
+    "pos": "adjective",
+    "example": "The path to the temple was a precipitous climb.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "replete",
+    "meaning_ko": "가득 찬",
+    "pos": "adjective",
+    "example": "The travel guide was replete with historical facts and photos.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "stagnant",
+    "meaning_ko": "침체된",
+    "pos": "adjective",
+    "example": "The tourism industry was stagnant during the low season.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "transient",
+    "meaning_ko": "일시적인",
+    "pos": "adjective",
+    "example": "The feeling of homesickness was merely transient.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "venerable",
+    "meaning_ko": "존경할 만한",
+    "pos": "adjective",
+    "example": "We visited the venerable 1000-year-old monastery.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "whimsical",
+    "meaning_ko": "엉뚱한, 변덕스러운",
+    "pos": "adjective",
+    "example": "The small town was filled with whimsical street art.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "zeitgeist",
+    "meaning_ko": "시대정신",
+    "pos": "noun",
+    "example": "The city's rapid development captures the modern zeitgeist.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "embrace",
+    "meaning_ko": "수용하다, 받아들이다",
+    "pos": "verb",
+    "example": "I try to embrace the challenges of traveling alone.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "discern",
+    "meaning_ko": "분별하다, 식별하다",
+    "pos": "verb",
+    "example": "It was difficult to discern the local dialect.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "paradoxical",
+    "meaning_ko": "역설적인",
+    "pos": "adjective",
+    "example": "The paradoxical calm of the city's busy center was surprising.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "resilience",
+    "meaning_ko": "회복력",
+    "pos": "noun",
+    "example": "The local people showed great resilience after the natural disaster.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "subtlety",
+    "meaning_ko": "미묘함, 섬세함",
+    "pos": "noun",
+    "example": "The chef explained the subtlety of the spices in the dish.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "veracity",
+    "meaning_ko": "진실성",
+    "pos": "noun",
+    "example": "We questioned the veracity of the travel brochure's claims.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "synergy",
+    "meaning_ko": "시너지 효과",
+    "pos": "noun",
+    "example": "The synergy between history and modernity makes the city unique.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "indispensable",
+    "meaning_ko": "필수 불가결한",
+    "pos": "adjective",
+    "example": "My phone is an indispensable travel tool.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "adroitly",
+    "meaning_ko": "능숙하게",
+    "pos": "adverb",
+    "example": "The street performer adroitly juggled fire torches.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "curate",
+    "meaning_ko": "큐레이팅하다, 선별하다",
+    "pos": "verb",
+    "example": "She curated a perfect itinerary for the group.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "eclectic",
+    "meaning_ko": "다방면에 걸친",
+    "pos": "adjective",
+    "example": "The museum housed an eclectic collection of artifacts.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "fastidious",
+    "meaning_ko": "까다로운",
+    "pos": "adjective",
+    "example": "The fastidious traveler complained about the tiny stain on the sheet.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "garrulous",
+    "meaning_ko": "수다스러운",
+    "pos": "adjective",
+    "example": "The garrulous taxi driver gave us a running commentary on the city.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "impromptu",
+    "meaning_ko": "즉흥적인",
+    "pos": "adjective",
+    "example": "We enjoyed an impromptu dinner with some locals.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "insidious",
+    "meaning_ko": "교활한, 서서히 퍼지는",
+    "pos": "adjective",
+    "example": "The insidious danger of pickpockets is something to watch out for.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "languid",
+    "meaning_ko": "나른한, 활기 없는",
+    "pos": "adjective",
+    "example": "We spent a languid afternoon relaxing by the Aegean Sea.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "mercurial",
+    "meaning_ko": "변덕스러운",
+    "pos": "adjective",
+    "example": "The mercurial nature of the island's weather requires constant vigilance.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "obfuscate",
+    "meaning_ko": "혼란스럽게 하다",
+    "pos": "verb",
+    "example": "The complicated bus schedule only served to obfuscate our route.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "pervasive",
+    "meaning_ko": "널리 퍼지는",
+    "pos": "adjective",
+    "example": "The smell of spices was pervasive throughout the old town market.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "prosaic",
+    "meaning_ko": "평범한, 지루한",
+    "pos": "adjective",
+    "example": "After weeks of adventure, returning to prosaic life was difficult.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "repartee",
+    "meaning_ko": "재치 있는 응답",
+    "pos": "noun",
+    "example": "The dinner conversation was full of clever repartee.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "reticent",
+    "meaning_ko": "말이 없는",
+    "pos": "adjective",
+    "example": "The local villagers were initially reticent with strangers.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "surreptitious",
+    "meaning_ko": "은밀한",
+    "pos": "adjective",
+    "example": "We took a few surreptitious photos of the celebrity at the next table.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "vacillate",
+    "meaning_ko": "동요하다, 망설이다",
+    "pos": "verb",
+    "example": "I continue to vacillate between visiting the north or the south.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "wistful",
+    "meaning_ko": "애석해 하는",
+    "pos": "adjective",
+    "example": "I left the island with a wistful look over my shoulder.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "zenith",
+    "meaning_ko": "정점",
+    "pos": "noun",
+    "example": "The festival reached its zenith with a spectacular fireworks display.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "harrowing",
+    "meaning_ko": "충격적인, 비참한",
+    "pos": "adjective",
+    "example": "It was a harrowing journey through the war-torn region.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "inure",
+    "meaning_ko": "익숙하게 하다",
+    "pos": "verb",
+    "example": "You will soon become inured to the high altitude.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "cordon",
+    "meaning_ko": "(접근을) 통제하다",
+    "pos": "verb",
+    "example": "Police cordoned off the area around the ancient monument.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "dissuade",
+    "meaning_ko": "단념시키다",
+    "pos": "verb",
+    "example": "We tried to dissuade him from traveling during the monsoon season.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ablution",
+    "meaning_ko": "세정, 목욕재계",
+    "pos": "noun",
+    "example": "After a long trek, morning ablutions felt truly refreshing.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "palatial",
+    "meaning_ko": "호화로운",
+    "pos": "adjective",
+    "example": "We stayed in a palatial suite overlooking the Mediterranean.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "reverberate",
+    "meaning_ko": "울려 퍼지다",
+    "pos": "verb",
+    "example": "The sound of the temple bell reverberated through the valley.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "susceptible",
+    "meaning_ko": "취약한",
+    "pos": "adjective",
+    "example": "Travelers are susceptible to digestive issues in unfamiliar environments.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "austerity",
+    "meaning_ko": "긴축, 검소",
+    "pos": "noun",
+    "example": "I chose to travel with a strict sense of austerity to save money.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "disparate",
+    "meaning_ko": "이질적인",
+    "pos": "adjective",
+    "example": "We encountered disparate views on the local government's tourism policy.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "enclave",
+    "meaning_ko": "고립된 지역",
+    "pos": "noun",
+    "example": "The small fishing village felt like a peaceful enclave.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "incipient",
+    "meaning_ko": "초기의",
+    "pos": "adjective",
+    "example": "I felt the incipient signs of jet lag immediately after landing.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "precursor",
+    "meaning_ko": "전조",
+    "pos": "noun",
+    "example": "The small tremor was a precursor to the major earthquake.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "cavalcade",
+    "meaning_ko": "행렬",
+    "pos": "noun",
+    "example": "A colorful cavalcade of dancers moved through the streets during the festival.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "uncouth",
+    "meaning_ko": "무례한, 세련되지 못한",
+    "pos": "adjective",
+    "example": "We must avoid uncouth behavior that disrespects local customs.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "demur",
+    "meaning_ko": "이의를 제기하다",
+    "pos": "verb",
+    "example": "I had to demur at the suggestion to skip the historical sites.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "eschew",
+    "meaning_ko": "피하다, 삼가다",
+    "pos": "verb",
+    "example": "The experienced traveler eschewed the popular tourist spots.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "vagabond",
+    "meaning_ko": "방랑자",
+    "pos": "noun",
+    "example": "The film romanticized the life of a joyful vagabond.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "concomitant",
+    "meaning_ko": "수반되는",
+    "pos": "adjective",
+    "example": "The high cost of travel is a concomitant challenge in this region.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "fervor",
+    "meaning_ko": "열정",
+    "pos": "noun",
+    "example": "The local festival was celebrated with incredible religious fervor.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "inscrutable",
+    "meaning_ko": "헤아릴 수 없는",
+    "pos": "adjective",
+    "example": "The Sphinx maintained an inscrutable silence over the centuries.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "mellifluous",
+    "meaning_ko": "감미로운",
+    "pos": "adjective",
+    "example": "I was charmed by the mellifluous voice of the storyteller.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "nadir",
+    "meaning_ko": "최저점",
+    "pos": "noun",
+    "example": "Missing the final connection was the nadir of the entire journey.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "obdurate",
+    "meaning_ko": "고집 센",
+    "pos": "adjective",
+    "example": "The obdurate official refused to extend our visa validity.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "penurious",
+    "meaning_ko": "몹시 가난한",
+    "pos": "adjective",
+    "example": "We admired the resilient spirit of the impecunious street artists.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ponderous",
+    "meaning_ko": "묵직한, 다루기 힘든",
+    "pos": "adjective",
+    "example": "We checked in our ponderous luggage to avoid carrying it around.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "recalcitrant",
+    "meaning_ko": "저항하는",
+    "pos": "adjective",
+    "example": "The recalcitrant donkey refused to move on the narrow mountain path.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "sedentary",
+    "meaning_ko": "앉아서 지내는",
+    "pos": "adjective",
+    "example": "A sedentary vacation on a beach is not for me; I prefer adventure.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "stymie",
+    "meaning_ko": "방해하다",
+    "pos": "verb",
+    "example": "The sudden closure of the border stymied our plans to cross.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "unctuous",
+    "meaning_ko": "지나치게 상냥한",
+    "pos": "adjective",
+    "example": "The unctuous waiter tried too hard to solicit a large tip.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "vicissitude",
+    "meaning_ko": "변천, 우여곡절",
+    "pos": "noun",
+    "example": "The trip was marked by the usual vicissitudes of overland travel.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "wane",
+    "meaning_ko": "약해지다, 줄어들다",
+    "pos": "verb",
+    "example": "Our excitement began to wane as the delays continued.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "zephyr",
+    "meaning_ko": "미풍",
+    "pos": "noun",
+    "example": "A gentle zephyr cooled us down during the afternoon heat.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "confluence",
+    "meaning_ko": "합류점",
+    "pos": "noun",
+    "example": "The city is situated at the confluence of two major rivers.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "enamor",
+    "meaning_ko": "매료시키다",
+    "pos": "verb",
+    "example": "I became enamored with the ancient culture of Peru.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "exigency",
+    "meaning_ko": "긴급 사태",
+    "pos": "noun",
+    "example": "Due to the exigency of the situation, the flight was immediately diverted.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "halcyon",
+    "meaning_ko": "평온한",
+    "pos": "adjective",
+    "example": "We remembered the halcyon days spent on the Italian coast.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "inchoate",
+    "meaning_ko": "초기의, 미완성의",
+    "pos": "adjective",
+    "example": "The neighborhood project is still in an inchoate stage of development.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "inimical",
+    "meaning_ko": "해로운, 적대적인",
+    "pos": "adjective",
+    "example": "We were warned about the inimical wildlife in the jungle reserve.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "insolent",
+    "meaning_ko": "무례한",
+    "pos": "adjective",
+    "example": "We were offended by the insolent remarks made by the driver.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "lackluster",
+    "meaning_ko": "활기 없는",
+    "pos": "adjective",
+    "example": "The historical performance was somewhat lackluster compared to our expectations.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "largesse",
+    "meaning_ko": "아낌없는 선물",
+    "pos": "noun",
+    "example": "The local community showed great largesse by hosting the travelers.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "lassitude",
+    "meaning_ko": "나른함, 권태",
+    "pos": "noun",
+    "example": "The tropical heat caused a feeling of profound lassitude.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "maelstrom",
+    "meaning_ko": "대혼란, 소용돌이",
+    "pos": "noun",
+    "example": "Stepping into the bustling central station was like entering a maelstrom.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "munificent",
+    "meaning_ko": "아낌없이 주는",
+    "pos": "adjective",
+    "example": "The hotel provided a munificent spread of complimentary snacks.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "nascent",
+    "meaning_ko": "초기의",
+    "pos": "adjective",
+    "example": "We witnessed the nascent stages of a new local art movement.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "obtrusive",
+    "meaning_ko": "눈에 띄는, 방해하는",
+    "pos": "adjective",
+    "example": "The new, modern building looked obtrusive next to the ancient church.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "pithy",
+    "meaning_ko": "간결하지만 강력한",
+    "pos": "adjective",
+    "example": "The guide gave a pithy summary of the site's history.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "placid",
+    "meaning_ko": "평온한",
+    "pos": "adjective",
+    "example": "We sailed across the placid waters of the lake at dawn.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "proscribe",
+    "meaning_ko": "금지하다",
+    "pos": "verb",
+    "example": "Local laws proscribe the consumption of alcohol in public areas.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "quixotic",
+    "meaning_ko": "돈키호테식의, 비현실적인",
+    "pos": "adjective",
+    "example": "His quixotic dream was to cycle across the Sahara desert alone.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "rife",
+    "meaning_ko": "가득한, 만연한",
+    "pos": "adjective",
+    "example": "The ancient streets were rife with tales of ghost sightings.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "salient",
+    "meaning_ko": "가장 중요한",
+    "pos": "adjective",
+    "example": "The salient feature of the old town is the huge clock tower.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "sanguine",
+    "meaning_ko": "낙관적인",
+    "pos": "adjective",
+    "example": "Despite the delays, the tour operator remained sanguine about our schedule.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "stupefy",
+    "meaning_ko": "망연자실하게 하다",
+    "pos": "verb",
+    "example": "The sheer scale of the ruins was enough to stupefy the visitors.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "supine",
+    "meaning_ko": "무기력한, 드러누운",
+    "pos": "adjective",
+    "example": "I felt completely supine after climbing the volcano.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "temerity",
+    "meaning_ko": "무모함",
+    "pos": "noun",
+    "example": "He had the temerity to challenge the ticket inspector.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "torpid",
+    "meaning_ko": "무기력한",
+    "pos": "adjective",
+    "example": "The extreme humidity left us feeling torpid and unwilling to move.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "turgid",
+    "meaning_ko": "과장된",
+    "pos": "adjective",
+    "example": "The academic presentation on tourism felt turgid and unnecessary.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "untoward",
+    "meaning_ko": "예상치 못한",
+    "pos": "adjective",
+    "example": "We encountered an untoward incident involving a lost key.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "vituperate",
+    "meaning_ko": "욕설을 퍼붓다",
+    "pos": "verb",
+    "example": "The frustrated traveler began to vituperate the airline staff.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "inimitable",
+    "meaning_ko": "독특한, 흉내낼 수 없는",
+    "pos": "adjective",
+    "example": "The sunset over the temple displayed an inimitable beauty.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "jubilant",
+    "meaning_ko": "환희에 찬",
+    "pos": "adjective",
+    "example": "We were jubilant upon reaching the remote mountain base camp.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "kudos",
+    "meaning_ko": "영광, 찬사",
+    "pos": "noun",
+    "example": "The chef received kudos for his creative fusion cuisine.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "laconic",
+    "meaning_ko": "간결한",
+    "pos": "adjective",
+    "example": "The security officer gave a laconic response to our question.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "luminosity",
+    "meaning_ko": "광채",
+    "pos": "noun",
+    "example": "The lake was known for the striking luminosity of its water at midday.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "opulent",
+    "meaning_ko": "호화로운",
+    "pos": "adjective",
+    "example": "We admired the opulent decorations inside the historic theater.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ostracize",
+    "meaning_ko": "배척하다",
+    "pos": "verb",
+    "example": "Travelers who ignored local customs were often ostracized by the community.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "palpable",
+    "meaning_ko": "감지할 수 있는",
+    "pos": "adjective",
+    "example": "The tension in the crowded waiting room was palpable.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "prevaricate",
+    "meaning_ko": "얼버무리다",
+    "pos": "verb",
+    "example": "The guide tried to prevaricate when asked about the tour's excessive cost.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "propitious",
+    "meaning_ko": "좋은, 길조의",
+    "pos": "adjective",
+    "example": "The clear skies provided a propitious start to our sailing trip.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "pugnacious",
+    "meaning_ko": "호전적인",
+    "pos": "adjective",
+    "example": "We tried to avoid the pugnacious street dogs in the back alleys.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "querulous",
+    "meaning_ko": "불평하는",
+    "pos": "adjective",
+    "example": "The querulous passenger complained about every minor detail of the flight.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "rancor",
+    "meaning_ko": "원한, 앙심",
+    "pos": "noun",
+    "example": "There was a lingering rancor between the two rival tour groups.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "rapacious",
+    "meaning_ko": "탐욕스러운",
+    "pos": "adjective",
+    "example": "The rapid development was driven by rapacious property developers.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "sanctimonious",
+    "meaning_ko": "독실한 체하는",
+    "pos": "adjective",
+    "example": "His sanctimonious claims about traveling 'authentically' annoyed us.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "scintillating",
+    "meaning_ko": "재치 있는, 반짝이는",
+    "pos": "adjective",
+    "example": "Our guide's scintillating wit made the historical lecture engaging.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "sycophant",
+    "meaning_ko": "아첨꾼",
+    "pos": "noun",
+    "example": "I avoided the sycophants who always complimented the tour leader.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "trepidation",
+    "meaning_ko": "두려움, 불안",
+    "pos": "noun",
+    "example": "We began the descent into the deep cave with some trepidation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "turbulence",
+    "meaning_ko": "난기류",
+    "pos": "noun",
+    "example": "The flight experienced severe turbulence over the mountains.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "unassailable",
+    "meaning_ko": "공격할 수 없는",
+    "pos": "adjective",
+    "example": "The fortress's position on the hill was virtually unassailable.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "voracious",
+    "meaning_ko": "탐욕스러운",
+    "pos": "adjective",
+    "example": "We had a voracious appetite after a long day of hiking.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "intrepid",
+    "meaning_ko": "대담한",
+    "pos": "adjective",
+    "example": "The intrepid explorer ventured into the uncharted territory.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "veracity",
+    "meaning_ko": "진실성",
+    "pos": "noun",
+    "example": "I checked the veracity of the claims made in the travel blog.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "unobtrusive",
+    "meaning_ko": "겸손한, 눈에 띄지 않는",
+    "pos": "adjective",
+    "example": "He took notes in an unobtrusive manner, careful not to disturb the ceremony.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "impervious",
+    "meaning_ko": "영향을 받지 않는",
+    "pos": "adjective",
+    "example": "The waterproof material was impervious to the heavy rain.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "precarious",
+    "meaning_ko": "불안정한",
+    "pos": "adjective",
+    "example": "The bridge felt precarious after the recent floods.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "disseminate",
+    "meaning_ko": "퍼뜨리다",
+    "pos": "verb",
+    "example": "We helped disseminate information about the local festival to other travelers.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "meticulous",
+    "meaning_ko": "꼼꼼한",
+    "pos": "adjective",
+    "example": "She was meticulous in planning every detail of the itinerary.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "pragmatic",
+    "meaning_ko": "실용적인",
+    "pos": "adjective",
+    "example": "We took a pragmatic approach, choosing comfort over novelty.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "convoluted",
+    "meaning_ko": "복잡한",
+    "pos": "adjective",
+    "example": "The train routes in the city were extremely convoluted.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "rejuvenate",
+    "meaning_ko": "활력을 되찾게 하다",
+    "pos": "verb",
+    "example": "The spa treatment fully rejuvenated us for the next week of travel.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "respite",
+    "meaning_ko": "짧은 휴식",
+    "pos": "noun",
+    "example": "The afternoon rain provided a welcome respite from the intense heat.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "idyllic",
+    "meaning_ko": "목가적인",
+    "pos": "adjective",
+    "example": "We spent a week in an idyllic cottage by the lake.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "antiquated",
+    "meaning_ko": "구식의",
+    "pos": "adjective",
+    "example": "The hotel still used an antiquated key system.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "savant",
+    "meaning_ko": "석학, 전문가",
+    "pos": "noun",
+    "example": "We hired a local history savant to guide us through the ancient city.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "eponym",
+    "meaning_ko": "이름의 근원",
+    "pos": "noun",
+    "example": "The city's central square is an eponym for the famous explorer.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "dichotomy",
+    "meaning_ko": "양분, 이분법",
+    "pos": "noun",
+    "example": "The dichotomy between the rural and urban lifestyle was striking.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "gauche",
+    "meaning_ko": "서투른, 솜씨 없는",
+    "pos": "adjective",
+    "example": "His attempt to use the local greeting was slightly gauche.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ineffable",
+    "meaning_ko": "형언할 수 없는",
+    "pos": "adjective",
+    "example": "The beauty of the mountain scenery was ineffable.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "jejune",
+    "meaning_ko": "지루한, 재미없는",
+    "pos": "adjective",
+    "example": "The museum's audio guide was disappointingly jejune.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "kismet",
+    "meaning_ko": "운명, 숙명",
+    "pos": "noun",
+    "example": "Meeting her on the train felt like kismet.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "liminal",
+    "meaning_ko": "경계의, 과도기의",
+    "pos": "adjective",
+    "example": "We spent a liminal time at the airport between two journeys.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "maudlin",
+    "meaning_ko": "감상적인, 눈물을 잘 흘리는",
+    "pos": "adjective",
+    "example": "The end of the trip left us feeling maudlin and teary.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "nugatory",
+    "meaning_ko": "하찮은, 무가치한",
+    "pos": "adjective",
+    "example": "Worrying about minor details proved to be nugatory.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "obstreperous",
+    "meaning_ko": "떠들썩한, 시끄러운",
+    "pos": "adjective",
+    "example": "The airline had to deal with an obstreperous group of passengers.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "pusillanimous",
+    "meaning_ko": "소심한, 겁 많은",
+    "pos": "adjective",
+    "example": "The pusillanimous tourist refused to try the challenging local delicacy.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "rhapsodize",
+    "meaning_ko": "열광적으로 이야기하다",
+    "pos": "verb",
+    "example": "He couldn't stop rhapsodizing about the sunset he witnessed.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "solace",
+    "meaning_ko": "위안, 위로",
+    "pos": "noun",
+    "example": "The quiet beauty of the countryside offered us solace.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "soporific",
+    "meaning_ko": "잠이 오게 하는",
+    "pos": "adjective",
+    "example": "The long, quiet train ride was surprisingly soporific.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "stentorian",
+    "meaning_ko": "목소리가 우렁찬",
+    "pos": "adjective",
+    "example": "The announcement was made by a man with a stentorian voice.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "subterfuge",
+    "meaning_ko": "속임수, 술책",
+    "pos": "noun",
+    "example": "The border crossing required a bit of subterfuge to expedite the process.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "surfeit",
+    "meaning_ko": "과다, 과도",
+    "pos": "noun",
+    "example": "We suffered from a surfeit of heavy local dishes.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "trenchant",
+    "meaning_ko": "날카로운, 신랄한",
+    "pos": "adjective",
+    "example": "The travel writer offered a trenchant critique of mass tourism.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "truculent",
+    "meaning_ko": "공격적인, 싸우기 좋아하는",
+    "pos": "adjective",
+    "example": "We avoided the truculent youths loitering near the docks.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "umbrage",
+    "meaning_ko": "불쾌, 분개",
+    "pos": "noun",
+    "example": "The guide took umbrage at the suggestion that he was wrong.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "unremitting",
+    "meaning_ko": "끊임없는",
+    "pos": "adjective",
+    "example": "The unremitting heat made sightseeing difficult.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "verisimilitude",
+    "meaning_ko": "사실성",
+    "pos": "noun",
+    "example": "The historical reconstruction lacked verisimilitude.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "vituperation",
+    "meaning_ko": "비난, 욕설",
+    "pos": "noun",
+    "example": "The traveler's loud vituperation only worsened the situation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "wanton",
+    "meaning_ko": "제멋대로의, 부주의한",
+    "pos": "adjective",
+    "example": "We saw signs of wanton destruction at the abandoned fortress.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "wry",
+    "meaning_ko": "비꼬는, 씁쓸한",
+    "pos": "adjective",
+    "example": "He offered a wry comment about the cost of the tiny beverage.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "zeitgeist",
+    "meaning_ko": "시대정신",
+    "pos": "noun",
+    "example": "The city's rapid development captures the modern zeitgeist.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "aplomb",
+    "meaning_ko": "침착함",
+    "pos": "noun",
+    "example": "She handled the flight delay with surprising aplomb.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "churlish",
+    "meaning_ko": "무례한, 막된",
+    "pos": "adjective",
+    "example": "It is churlish to refuse to try the host's food.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "contrived",
+    "meaning_ko": "억지로 꾸민 듯한",
+    "pos": "adjective",
+    "example": "The market felt contrived and catered only to tourists.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "deleterious",
+    "meaning_ko": "해로운",
+    "pos": "adjective",
+    "example": "We were unaware of the deleterious effects of the local water.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "effusive",
+    "meaning_ko": "과장된, 넘치는",
+    "pos": "adjective",
+    "example": "The innkeeper gave us an effusive welcome.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "epigram",
+    "meaning_ko": "경구, 짧은 풍자시",
+    "pos": "noun",
+    "example": "The traveler noted an ancient epigram carved on the stone wall.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "gauche",
+    "meaning_ko": "서투른, 솜씨 없는",
+    "pos": "adjective",
+    "example": "His attempt to use the local greeting was slightly gauche.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "iconoclast",
+    "meaning_ko": "우상 파괴자",
+    "pos": "noun",
+    "example": "The travel blogger acted like an iconoclast, dismissing all famous landmarks.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "inchoate",
+    "meaning_ko": "초기의, 미완성의",
+    "pos": "adjective",
+    "example": "The area is in the inchoate stage of developing its tourist infrastructure.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "laconic",
+    "meaning_ko": "간결한",
+    "pos": "adjective",
+    "example": "The security officer gave a laconic response to our question.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "meritorious",
+    "meaning_ko": "칭찬할 만한",
+    "pos": "adjective",
+    "example": "The guide's quick thinking was a truly meritorious action.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "nascent",
+    "meaning_ko": "초기의",
+    "pos": "adjective",
+    "example": "We witnessed the nascent stages of a new local art movement.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "obsequious",
+    "meaning_ko": "아부하는",
+    "pos": "adjective",
+    "example": "The porter's obsequious manner was off-putting.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "paragon",
+    "meaning_ko": "모범, 귀감",
+    "pos": "noun",
+    "example": "He was considered a paragon of independent travel.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "peccadillo",
+    "meaning_ko": "가벼운 죄",
+    "pos": "noun",
+    "example": "Our momentary detour was a minor travel peccadillo.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "philistine",
+    "meaning_ko": "속물, 교양 없는 사람",
+    "pos": "noun",
+    "example": "He was dismissed as a philistine for only caring about the resort pool.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "polemic",
+    "meaning_ko": "논쟁, 비판",
+    "pos": "noun",
+    "example": "The travel show turned into a polemic against over-tourism.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "prodigious",
+    "meaning_ko": "엄청난, 거대한",
+    "pos": "adjective",
+    "example": "We were amazed by the prodigious size of the ancient wall.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "quandary",
+    "meaning_ko": "진퇴양난, 곤경",
+    "pos": "noun",
+    "example": "We faced a serious quandary after losing our booking confirmation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "reciprocity",
+    "meaning_ko": "상호 호혜",
+    "pos": "noun",
+    "example": "Travel culture often relies on a sense of reciprocity among backpackers.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "redress",
+    "meaning_ko": "보상, 시정",
+    "pos": "noun",
+    "example": "We sought redress from the airline for the damaged luggage.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "sartorial",
+    "meaning_ko": "재봉의, 의복의",
+    "pos": "adjective",
+    "example": "His sartorial choices for the jungle trek were questionable.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "servile",
+    "meaning_ko": "굽신거리는",
+    "pos": "adjective",
+    "example": "I felt uncomfortable with the overly servile service.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "solicitous",
+    "meaning_ko": "세심히 배려하는",
+    "pos": "adjective",
+    "example": "The hotel staff were solicitous of our comfort.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "stolid",
+    "meaning_ko": "무감각한, 둔감한",
+    "pos": "adjective",
+    "example": "The border official remained stolid despite my panicked explanation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "tenuous",
+    "meaning_ko": "미약한, 보잘것없는",
+    "pos": "adjective",
+    "example": "The guide gave a tenuous explanation for the history of the site.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "unctuous",
+    "meaning_ko": "지나치게 상냥한",
+    "pos": "adjective",
+    "example": "The unctuous salesman tried to sell us an expensive tour.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "untenable",
+    "meaning_ko": "옹호할 수 없는",
+    "pos": "adjective",
+    "example": "The argument for staying indoors on such a beautiful day was untenable.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "vituperative",
+    "meaning_ko": "독설을 퍼붓는",
+    "pos": "adjective",
+    "example": "The disappointed traveler sent a vituperative email to the booking agency.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "wanton",
+    "meaning_ko": "제멋대로의, 부주의한",
+    "pos": "adjective",
+    "example": "We saw signs of wanton destruction at the abandoned fortress.",
+    "level": "원어민수준",
+    "category": "여행"
+  }
+]

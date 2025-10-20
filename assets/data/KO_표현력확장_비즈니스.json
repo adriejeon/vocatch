@@ -1,0 +1,402 @@
+[
+  {
+    "word": "corporation",
+    "meaning_ko": "corporation",
+    "pos": "noun",
+    "example": "This is an example with corporation.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "enterprise",
+    "meaning_ko": "enterprise",
+    "pos": "noun",
+    "example": "This is an example with enterprise.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "organization",
+    "meaning_ko": "organization",
+    "pos": "noun",
+    "example": "This is an example with organization.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "department",
+    "meaning_ko": "department",
+    "pos": "noun",
+    "example": "This is an example with department.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "employee",
+    "meaning_ko": "employee",
+    "pos": "noun",
+    "example": "This is an example with employee.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "colleague",
+    "meaning_ko": "colleague",
+    "pos": "noun",
+    "example": "This is an example with colleague.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "supervisor",
+    "meaning_ko": "supervisor",
+    "pos": "noun",
+    "example": "This is an example with supervisor.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "executive",
+    "meaning_ko": "executive",
+    "pos": "noun",
+    "example": "This is an example with executive.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "director",
+    "meaning_ko": "director",
+    "pos": "noun",
+    "example": "This is an example with director.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "administrator",
+    "meaning_ko": "administrator",
+    "pos": "noun",
+    "example": "This is an example with administrator.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "position",
+    "meaning_ko": "position",
+    "pos": "noun",
+    "example": "This is an example with position.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "responsibility",
+    "meaning_ko": "responsibility",
+    "pos": "noun",
+    "example": "This is an example with responsibility.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "assignment",
+    "meaning_ko": "assignment",
+    "pos": "noun",
+    "example": "This is an example with assignment.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "project",
+    "meaning_ko": "project",
+    "pos": "noun",
+    "example": "This is an example with project.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "deadline",
+    "meaning_ko": "deadline",
+    "pos": "noun",
+    "example": "This is an example with deadline.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "presentation",
+    "meaning_ko": "presentation",
+    "pos": "noun",
+    "example": "This is an example with presentation.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "proposal",
+    "meaning_ko": "proposal",
+    "pos": "noun",
+    "example": "This is an example with proposal.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "contract",
+    "meaning_ko": "contract",
+    "pos": "noun",
+    "example": "This is an example with contract.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "agreement",
+    "meaning_ko": "agreement",
+    "pos": "noun",
+    "example": "This is an example with agreement.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "negotiation",
+    "meaning_ko": "negotiation",
+    "pos": "noun",
+    "example": "This is an example with negotiation.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "transaction",
+    "meaning_ko": "transaction",
+    "pos": "noun",
+    "example": "This is an example with transaction.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "investment",
+    "meaning_ko": "investment",
+    "pos": "noun",
+    "example": "This is an example with investment.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "profit",
+    "meaning_ko": "profit",
+    "pos": "noun",
+    "example": "This is an example with profit.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "loss",
+    "meaning_ko": "loss",
+    "pos": "noun",
+    "example": "This is an example with loss.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "revenue",
+    "meaning_ko": "revenue",
+    "pos": "noun",
+    "example": "This is an example with revenue.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "expense",
+    "meaning_ko": "expense",
+    "pos": "noun",
+    "example": "This is an example with expense.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "budget",
+    "meaning_ko": "budget",
+    "pos": "noun",
+    "example": "This is an example with budget.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "finance",
+    "meaning_ko": "finance",
+    "pos": "noun",
+    "example": "This is an example with finance.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "accounting",
+    "meaning_ko": "accounting",
+    "pos": "noun",
+    "example": "This is an example with accounting.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "marketing",
+    "meaning_ko": "marketing",
+    "pos": "noun",
+    "example": "This is an example with marketing.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "advertising",
+    "meaning_ko": "advertising",
+    "pos": "noun",
+    "example": "This is an example with advertising.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "sales",
+    "meaning_ko": "sales",
+    "pos": "noun",
+    "example": "This is an example with sales.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "distribution",
+    "meaning_ko": "distribution",
+    "pos": "noun",
+    "example": "This is an example with distribution.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "supply",
+    "meaning_ko": "supply",
+    "pos": "noun",
+    "example": "This is an example with supply.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "demand",
+    "meaning_ko": "demand",
+    "pos": "noun",
+    "example": "This is an example with demand.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "inventory",
+    "meaning_ko": "inventory",
+    "pos": "noun",
+    "example": "This is an example with inventory.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "stock",
+    "meaning_ko": "stock",
+    "pos": "noun",
+    "example": "This is an example with stock.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "quality",
+    "meaning_ko": "quality",
+    "pos": "noun",
+    "example": "This is an example with quality.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "efficiency",
+    "meaning_ko": "efficiency",
+    "pos": "noun",
+    "example": "This is an example with efficiency.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "productivity",
+    "meaning_ko": "productivity",
+    "pos": "noun",
+    "example": "This is an example with productivity.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "performance",
+    "meaning_ko": "performance",
+    "pos": "noun",
+    "example": "This is an example with performance.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "evaluation",
+    "meaning_ko": "evaluation",
+    "pos": "noun",
+    "example": "This is an example with evaluation.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "feedback",
+    "meaning_ko": "피드백",
+    "pos": "noun",
+    "example": "This is an example with feedback.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "promotion",
+    "meaning_ko": "promotion",
+    "pos": "noun",
+    "example": "This is an example with promotion.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "recruitment",
+    "meaning_ko": "recruitment",
+    "pos": "noun",
+    "example": "This is an example with recruitment.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "training",
+    "meaning_ko": "training",
+    "pos": "noun",
+    "example": "This is an example with training.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "competition",
+    "meaning_ko": "competition",
+    "pos": "noun",
+    "example": "This is an example with competition.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "strategy",
+    "meaning_ko": "strategy",
+    "pos": "noun",
+    "example": "This is an example with strategy.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "analysis",
+    "meaning_ko": "analysis",
+    "pos": "noun",
+    "example": "This is an example with analysis.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  },
+  {
+    "word": "research",
+    "meaning_ko": "research",
+    "pos": "noun",
+    "example": "This is an example with research.",
+    "level": "표현력확장",
+    "category": "비즈니스"
+  }
+]

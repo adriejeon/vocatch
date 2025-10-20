@@ -1,0 +1,402 @@
+[
+  {
+    "word": "hello",
+    "meaning_ko": "안녕하세요",
+    "pos": "interjection",
+    "example": "This is an example with hello.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "yes",
+    "meaning_ko": "네",
+    "pos": "interjection",
+    "example": "This is an example with yes.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "no",
+    "meaning_ko": "아니요",
+    "pos": "interjection",
+    "example": "This is an example with no.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "thank",
+    "meaning_ko": "감사하다",
+    "pos": "verb",
+    "example": "This is an example with thank.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "please",
+    "meaning_ko": "부탁하다",
+    "pos": "adverb",
+    "example": "This is an example with please.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sorry",
+    "meaning_ko": "미안하다",
+    "pos": "adjective",
+    "example": "This is an example with sorry.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "welcome",
+    "meaning_ko": "환영하다",
+    "pos": "verb",
+    "example": "This is an example with welcome.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "bye",
+    "meaning_ko": "안녕",
+    "pos": "interjection",
+    "example": "This is an example with bye.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "good",
+    "meaning_ko": "좋은",
+    "pos": "adjective",
+    "example": "This is an example with good.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "bad",
+    "meaning_ko": "나쁜",
+    "pos": "adjective",
+    "example": "This is an example with bad.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "help",
+    "meaning_ko": "도움",
+    "pos": "verb",
+    "example": "This is an example with help.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "talk",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "This is an example with talk.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "speak",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "This is an example with speak.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "listen",
+    "meaning_ko": "듣다",
+    "pos": "verb",
+    "example": "This is an example with listen.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "ask",
+    "meaning_ko": "묻다",
+    "pos": "verb",
+    "example": "This is an example with ask.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "answer",
+    "meaning_ko": "대답하다",
+    "pos": "verb",
+    "example": "This is an example with answer.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "tell",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "This is an example with tell.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "say",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "This is an example with say.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "name",
+    "meaning_ko": "이름",
+    "pos": "noun",
+    "example": "This is an example with name.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "meet",
+    "meaning_ko": "만나다",
+    "pos": "verb",
+    "example": "This is an example with meet.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "friend",
+    "meaning_ko": "친구",
+    "pos": "noun",
+    "example": "This is an example with friend.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "family",
+    "meaning_ko": "가족",
+    "pos": "noun",
+    "example": "This is an example with family.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "happy",
+    "meaning_ko": "행복한",
+    "pos": "adjective",
+    "example": "This is an example with happy.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sad",
+    "meaning_ko": "슬픈",
+    "pos": "adjective",
+    "example": "This is an example with sad.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "like",
+    "meaning_ko": "좋아하다",
+    "pos": "verb",
+    "example": "This is an example with like.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "want",
+    "meaning_ko": "원하다",
+    "pos": "verb",
+    "example": "This is an example with want.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "need",
+    "meaning_ko": "필요하다",
+    "pos": "verb",
+    "example": "This is an example with need.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "have",
+    "meaning_ko": "가지다",
+    "pos": "verb",
+    "example": "This is an example with have.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "get",
+    "meaning_ko": "얻다",
+    "pos": "verb",
+    "example": "This is an example with get.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "give",
+    "meaning_ko": "주다",
+    "pos": "verb",
+    "example": "This is an example with give.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "know",
+    "meaning_ko": "알다",
+    "pos": "verb",
+    "example": "This is an example with know.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "think",
+    "meaning_ko": "생각하다",
+    "pos": "verb",
+    "example": "This is an example with think.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "feel",
+    "meaning_ko": "느끼다",
+    "pos": "verb",
+    "example": "This is an example with feel.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "see",
+    "meaning_ko": "보다",
+    "pos": "verb",
+    "example": "This is an example with see.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "hear",
+    "meaning_ko": "듣다",
+    "pos": "verb",
+    "example": "This is an example with hear.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "come",
+    "meaning_ko": "오다",
+    "pos": "verb",
+    "example": "This is an example with come.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "go",
+    "meaning_ko": "가다",
+    "pos": "verb",
+    "example": "This is an example with go.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "eat",
+    "meaning_ko": "먹다",
+    "pos": "verb",
+    "example": "This is an example with eat.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "drink",
+    "meaning_ko": "마시다",
+    "pos": "verb",
+    "example": "This is an example with drink.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sleep",
+    "meaning_ko": "자다",
+    "pos": "verb",
+    "example": "This is an example with sleep.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "morning",
+    "meaning_ko": "아침",
+    "pos": "noun",
+    "example": "This is an example with morning.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "afternoon",
+    "meaning_ko": "오후",
+    "pos": "noun",
+    "example": "This is an example with afternoon.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "evening",
+    "meaning_ko": "저녁",
+    "pos": "noun",
+    "example": "This is an example with evening.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "night",
+    "meaning_ko": "밤",
+    "pos": "noun",
+    "example": "This is an example with night.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "today",
+    "meaning_ko": "오늘",
+    "pos": "adverb",
+    "example": "This is an example with today.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "tomorrow",
+    "meaning_ko": "내일",
+    "pos": "adverb",
+    "example": "This is an example with tomorrow.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "yesterday",
+    "meaning_ko": "어제",
+    "pos": "adverb",
+    "example": "This is an example with yesterday.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "time",
+    "meaning_ko": "시간",
+    "pos": "noun",
+    "example": "This is an example with time.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "day",
+    "meaning_ko": "날",
+    "pos": "noun",
+    "example": "This is an example with day.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "week",
+    "meaning_ko": "주",
+    "pos": "noun",
+    "example": "This is an example with week.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  }
+]

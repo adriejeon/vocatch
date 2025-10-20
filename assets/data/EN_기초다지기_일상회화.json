@@ -1,0 +1,1210 @@
+[
+  {
+    "word": "hello",
+    "meaning_ko": "안녕하세요",
+    "pos": "interjection",
+    "example": "Hello, how are you today?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "goodbye",
+    "meaning_ko": "안녕히 가세요",
+    "pos": "interjection",
+    "example": "Goodbye, see you tomorrow!",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "thank",
+    "meaning_ko": "감사하다",
+    "pos": "verb",
+    "example": "Thank you for your help.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "please",
+    "meaning_ko": "부탁하다",
+    "pos": "adverb",
+    "example": "Please pass me the salt.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sorry",
+    "meaning_ko": "죄송하다",
+    "pos": "adjective",
+    "example": "I'm sorry for being late.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "yes",
+    "meaning_ko": "네",
+    "pos": "interjection",
+    "example": "Yes, I agree with you.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "no",
+    "meaning_ko": "아니오",
+    "pos": "interjection",
+    "example": "No, I don't want coffee.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "okay",
+    "meaning_ko": "좋아",
+    "pos": "interjection",
+    "example": "Okay, let's go now.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "name",
+    "meaning_ko": "이름",
+    "pos": "noun",
+    "example": "What is your name?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "age",
+    "meaning_ko": "나이",
+    "pos": "noun",
+    "example": "How old are you?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "friend",
+    "meaning_ko": "친구",
+    "pos": "noun",
+    "example": "She is my best friend.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "family",
+    "meaning_ko": "가족",
+    "pos": "noun",
+    "example": "My family loves to travel.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "mother",
+    "meaning_ko": "어머니",
+    "pos": "noun",
+    "example": "My mother makes delicious food.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "father",
+    "meaning_ko": "아버지",
+    "pos": "noun",
+    "example": "My father works as an engineer.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "brother",
+    "meaning_ko": "형",
+    "pos": "noun",
+    "example": "My brother is two years older.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sister",
+    "meaning_ko": "누나",
+    "pos": "noun",
+    "example": "My sister studies at university.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "house",
+    "meaning_ko": "집",
+    "pos": "noun",
+    "example": "I live in a big house.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "room",
+    "meaning_ko": "방",
+    "pos": "noun",
+    "example": "My bedroom is very small.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "kitchen",
+    "meaning_ko": "부엌",
+    "pos": "noun",
+    "example": "I cook breakfast in the kitchen.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "bathroom",
+    "meaning_ko": "욕실",
+    "pos": "noun",
+    "example": "The bathroom is upstairs.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "bed",
+    "meaning_ko": "침대",
+    "pos": "noun",
+    "example": "I sleep on a comfortable bed.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "table",
+    "meaning_ko": "테이블",
+    "pos": "noun",
+    "example": "The table is made of wood.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "chair",
+    "meaning_ko": "의자",
+    "pos": "noun",
+    "example": "Please sit on this chair.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "door",
+    "meaning_ko": "문",
+    "pos": "noun",
+    "example": "Please close the door quietly.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "window",
+    "meaning_ko": "창문",
+    "pos": "noun",
+    "example": "Open the window for fresh air.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "food",
+    "meaning_ko": "음식",
+    "pos": "noun",
+    "example": "The food here is delicious.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "water",
+    "meaning_ko": "물",
+    "pos": "noun",
+    "example": "I drink water every day.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "coffee",
+    "meaning_ko": "커피",
+    "pos": "noun",
+    "example": "I have coffee in the morning.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "tea",
+    "meaning_ko": "차",
+    "pos": "noun",
+    "example": "Would you like some tea?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "bread",
+    "meaning_ko": "빵",
+    "pos": "noun",
+    "example": "I buy bread from the bakery.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "meat",
+    "meaning_ko": "고기",
+    "pos": "noun",
+    "example": "Do you eat meat?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "chicken",
+    "meaning_ko": "닭고기",
+    "pos": "noun",
+    "example": "I cook chicken for dinner.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "fish",
+    "meaning_ko": "생선",
+    "pos": "noun",
+    "example": "The fish is fresh today.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "rice",
+    "meaning_ko": "쌀/밥",
+    "pos": "noun",
+    "example": "I eat rice with every meal.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "apple",
+    "meaning_ko": "사과",
+    "pos": "noun",
+    "example": "This apple is sweet and juicy.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "banana",
+    "meaning_ko": "바나나",
+    "pos": "noun",
+    "example": "I have a banana for breakfast.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "orange",
+    "meaning_ko": "오렌지",
+    "pos": "noun",
+    "example": "Orange juice is healthy.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "milk",
+    "meaning_ko": "우유",
+    "pos": "noun",
+    "example": "I drink milk before bed.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "eat",
+    "meaning_ko": "먹다",
+    "pos": "verb",
+    "example": "Let's eat dinner together.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "drink",
+    "meaning_ko": "마시다",
+    "pos": "verb",
+    "example": "I drink coffee every morning.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sleep",
+    "meaning_ko": "자다",
+    "pos": "verb",
+    "example": "I sleep eight hours a night.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "wake",
+    "meaning_ko": "깨다",
+    "pos": "verb",
+    "example": "I wake up at 7 AM.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "work",
+    "meaning_ko": "일하다",
+    "pos": "verb",
+    "example": "I work at a bank.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "study",
+    "meaning_ko": "공부하다",
+    "pos": "verb",
+    "example": "I study English every day.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "play",
+    "meaning_ko": "놀다",
+    "pos": "verb",
+    "example": "Children play in the park.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "walk",
+    "meaning_ko": "걷다",
+    "pos": "verb",
+    "example": "I walk to school every day.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "run",
+    "meaning_ko": "뛰다",
+    "pos": "verb",
+    "example": "He runs every morning.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sit",
+    "meaning_ko": "앉다",
+    "pos": "verb",
+    "example": "Please sit down here.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "stand",
+    "meaning_ko": "서다",
+    "pos": "verb",
+    "example": "Stand up when the teacher enters.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "read",
+    "meaning_ko": "읽다",
+    "pos": "verb",
+    "example": "I read books in the library.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "write",
+    "meaning_ko": "쓰다",
+    "pos": "verb",
+    "example": "I write in my diary every night.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "talk",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "We talk about the weather.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "listen",
+    "meaning_ko": "듣다",
+    "pos": "verb",
+    "example": "I listen to music while working.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "watch",
+    "meaning_ko": "보다",
+    "pos": "verb",
+    "example": "I watch TV in the evening.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "see",
+    "meaning_ko": "보다",
+    "pos": "verb",
+    "example": "Can you see the mountain?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "look",
+    "meaning_ko": "보다",
+    "pos": "verb",
+    "example": "Look at the sunset!",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "help",
+    "meaning_ko": "돕다",
+    "pos": "verb",
+    "example": "Can you help me with this?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "ask",
+    "meaning_ko": "묻다",
+    "pos": "verb",
+    "example": "I ask my teacher for help.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "answer",
+    "meaning_ko": "대답하다",
+    "pos": "verb",
+    "example": "She answers all the questions.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "know",
+    "meaning_ko": "알다",
+    "pos": "verb",
+    "example": "Do you know where the bank is?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "think",
+    "meaning_ko": "생각하다",
+    "pos": "verb",
+    "example": "I think this is a good idea.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "feel",
+    "meaning_ko": "느끼다",
+    "pos": "verb",
+    "example": "I feel happy today.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "like",
+    "meaning_ko": "좋아하다",
+    "pos": "verb",
+    "example": "I like ice cream.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "love",
+    "meaning_ko": "사랑하다",
+    "pos": "verb",
+    "example": "I love my family.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "want",
+    "meaning_ko": "원하다",
+    "pos": "verb",
+    "example": "What do you want for dinner?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "need",
+    "meaning_ko": "필요하다",
+    "pos": "verb",
+    "example": "I need your help.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "give",
+    "meaning_ko": "주다",
+    "pos": "verb",
+    "example": "Can you give me a pen?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "take",
+    "meaning_ko": "가져가다",
+    "pos": "verb",
+    "example": "Take this book with you.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "buy",
+    "meaning_ko": "사다",
+    "pos": "verb",
+    "example": "I buy groceries on Friday.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sell",
+    "meaning_ko": "팔다",
+    "pos": "verb",
+    "example": "They sell beautiful clothes.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "pay",
+    "meaning_ko": "지불하다",
+    "pos": "verb",
+    "example": "I pay the bill at the end of the month.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "cost",
+    "meaning_ko": "비용이 들다",
+    "pos": "verb",
+    "example": "How much does this cost?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "money",
+    "meaning_ko": "돈",
+    "pos": "noun",
+    "example": "I don't have much money.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "time",
+    "meaning_ko": "시간",
+    "pos": "noun",
+    "example": "What time is it now?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "day",
+    "meaning_ko": "날",
+    "pos": "noun",
+    "example": "Today is a beautiful day.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "week",
+    "meaning_ko": "주",
+    "pos": "noun",
+    "example": "I see her once a week.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "month",
+    "meaning_ko": "달",
+    "pos": "noun",
+    "example": "My birthday is next month.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "year",
+    "meaning_ko": "년",
+    "pos": "noun",
+    "example": "I've lived here for five years.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "morning",
+    "meaning_ko": "아침",
+    "pos": "noun",
+    "example": "I run every morning.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "afternoon",
+    "meaning_ko": "오후",
+    "pos": "noun",
+    "example": "I have a meeting this afternoon.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "evening",
+    "meaning_ko": "저녁",
+    "pos": "noun",
+    "example": "We watch movies in the evening.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "night",
+    "meaning_ko": "밤",
+    "pos": "noun",
+    "example": "It's very cold tonight.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "weather",
+    "meaning_ko": "날씨",
+    "pos": "noun",
+    "example": "The weather is nice today.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "rain",
+    "meaning_ko": "비",
+    "pos": "noun",
+    "example": "I like the sound of rain.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "snow",
+    "meaning_ko": "눈",
+    "pos": "noun",
+    "example": "It snows a lot in winter.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sun",
+    "meaning_ko": "태양",
+    "pos": "noun",
+    "example": "The sun rises in the east.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "moon",
+    "meaning_ko": "달",
+    "pos": "noun",
+    "example": "The moon is bright tonight.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "star",
+    "meaning_ko": "별",
+    "pos": "noun",
+    "example": "I can see the stars clearly.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "hot",
+    "meaning_ko": "뜨거운",
+    "pos": "adjective",
+    "example": "The weather is hot in summer.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "cold",
+    "meaning_ko": "추운",
+    "pos": "adjective",
+    "example": "It's very cold outside today.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "warm",
+    "meaning_ko": "따뜻한",
+    "pos": "adjective",
+    "example": "This blanket is warm.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "cool",
+    "meaning_ko": "시원한",
+    "pos": "adjective",
+    "example": "The pool water is cool.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "big",
+    "meaning_ko": "큰",
+    "pos": "adjective",
+    "example": "That elephant is very big.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "small",
+    "meaning_ko": "작은",
+    "pos": "adjective",
+    "example": "The baby is small and cute.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "long",
+    "meaning_ko": "긴",
+    "pos": "adjective",
+    "example": "She has long black hair.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "short",
+    "meaning_ko": "짧은",
+    "pos": "adjective",
+    "example": "I have short hair.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "tall",
+    "meaning_ko": "키가 큰",
+    "pos": "adjective",
+    "example": "He is very tall and handsome.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "high",
+    "meaning_ko": "높은",
+    "pos": "adjective",
+    "example": "The mountain is very high.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "low",
+    "meaning_ko": "낮은",
+    "pos": "adjective",
+    "example": "The ceiling is low in this room.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "fast",
+    "meaning_ko": "빠른",
+    "pos": "adjective",
+    "example": "This car is very fast.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "slow",
+    "meaning_ko": "느린",
+    "pos": "adjective",
+    "example": "The turtle moves slowly.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "good",
+    "meaning_ko": "좋은",
+    "pos": "adjective",
+    "example": "This is a good restaurant.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "bad",
+    "meaning_ko": "나쁜",
+    "pos": "adjective",
+    "example": "The weather is bad today.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "easy",
+    "meaning_ko": "쉬운",
+    "pos": "adjective",
+    "example": "This problem is easy to solve.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "difficult",
+    "meaning_ko": "어려운",
+    "pos": "adjective",
+    "example": "The test was very difficult.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "happy",
+    "meaning_ko": "행복한",
+    "pos": "adjective",
+    "example": "I'm happy to see you.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sad",
+    "meaning_ko": "슬픈",
+    "pos": "adjective",
+    "example": "She looks sad today.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "angry",
+    "meaning_ko": "화난",
+    "pos": "adjective",
+    "example": "He was angry about the mistake.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "tired",
+    "meaning_ko": "피곤한",
+    "pos": "adjective",
+    "example": "I'm tired after work.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "excited",
+    "meaning_ko": "신난",
+    "pos": "adjective",
+    "example": "The children are excited about the trip.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sick",
+    "meaning_ko": "아픈",
+    "pos": "adjective",
+    "example": "I feel sick today.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "healthy",
+    "meaning_ko": "건강한",
+    "pos": "adjective",
+    "example": "He lives a healthy lifestyle.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "beautiful",
+    "meaning_ko": "아름다운",
+    "pos": "adjective",
+    "example": "The sunset is beautiful.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "ugly",
+    "meaning_ko": "못생긴",
+    "pos": "adjective",
+    "example": "I think that building is ugly.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "clean",
+    "meaning_ko": "깨끗한",
+    "pos": "adjective",
+    "example": "Keep your room clean.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "dirty",
+    "meaning_ko": "더러운",
+    "pos": "adjective",
+    "example": "My hands are dirty.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "new",
+    "meaning_ko": "새로운",
+    "pos": "adjective",
+    "example": "I bought a new phone.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "old",
+    "meaning_ko": "낡은",
+    "pos": "adjective",
+    "example": "This is an old building.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "young",
+    "meaning_ko": "젊은",
+    "pos": "adjective",
+    "example": "She is young and talented.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "cheap",
+    "meaning_ko": "저렴한",
+    "pos": "adjective",
+    "example": "These shoes are cheap and nice.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "expensive",
+    "meaning_ko": "비싼",
+    "pos": "adjective",
+    "example": "That restaurant is very expensive.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "nice",
+    "meaning_ko": "좋은",
+    "pos": "adjective",
+    "example": "It's a nice day to go outside.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "funny",
+    "meaning_ko": "재미있는",
+    "pos": "adjective",
+    "example": "That movie is funny and entertaining.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "serious",
+    "meaning_ko": "진지한",
+    "pos": "adjective",
+    "example": "He has a serious expression.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "smart",
+    "meaning_ko": "똑똑한",
+    "pos": "adjective",
+    "example": "She is a smart student.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "kind",
+    "meaning_ko": "친절한",
+    "pos": "adjective",
+    "example": "He is a kind and helpful person.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "strong",
+    "meaning_ko": "강한",
+    "pos": "adjective",
+    "example": "He is strong and athletic.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "weak",
+    "meaning_ko": "약한",
+    "pos": "adjective",
+    "example": "This coffee is too weak.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "busy",
+    "meaning_ko": "바쁜",
+    "pos": "adjective",
+    "example": "I'm very busy today.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "free",
+    "meaning_ko": "한가한",
+    "pos": "adjective",
+    "example": "Are you free this weekend?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "car",
+    "meaning_ko": "자동차",
+    "pos": "noun",
+    "example": "My car is parked outside.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "bicycle",
+    "meaning_ko": "자전거",
+    "pos": "noun",
+    "example": "I ride my bicycle to work.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "school",
+    "meaning_ko": "학교",
+    "pos": "noun",
+    "example": "I go to school every weekday.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "office",
+    "meaning_ko": "사무실",
+    "pos": "noun",
+    "example": "My office is on the fifth floor.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "hospital",
+    "meaning_ko": "병원",
+    "pos": "noun",
+    "example": "She works at the hospital.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "restaurant",
+    "meaning_ko": "식당",
+    "pos": "noun",
+    "example": "Let's eat at this restaurant.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "shop",
+    "meaning_ko": "가게",
+    "pos": "noun",
+    "example": "I buy clothes at the shop.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "park",
+    "meaning_ko": "공원",
+    "pos": "noun",
+    "example": "Children play in the park.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "street",
+    "meaning_ko": "거리",
+    "pos": "noun",
+    "example": "She walks down the street.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "dog",
+    "meaning_ko": "개",
+    "pos": "noun",
+    "example": "I have a cute dog.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "cat",
+    "meaning_ko": "고양이",
+    "pos": "noun",
+    "example": "My cat sleeps all day.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "bird",
+    "meaning_ko": "새",
+    "pos": "noun",
+    "example": "The bird sings in the morning.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "flower",
+    "meaning_ko": "꽃",
+    "pos": "noun",
+    "example": "The flowers bloom in spring.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "tree",
+    "meaning_ko": "나무",
+    "pos": "noun",
+    "example": "The tree is very tall.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "book",
+    "meaning_ko": "책",
+    "pos": "noun",
+    "example": "I read a book every night.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "pen",
+    "meaning_ko": "펜",
+    "pos": "noun",
+    "example": "Can you lend me a pen?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "paper",
+    "meaning_ko": "종이",
+    "pos": "noun",
+    "example": "I write on white paper.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "picture",
+    "meaning_ko": "그림",
+    "pos": "noun",
+    "example": "This picture is very beautiful.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "music",
+    "meaning_ko": "음악",
+    "pos": "noun",
+    "example": "I love listening to music.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "sport",
+    "meaning_ko": "스포츠",
+    "pos": "noun",
+    "example": "I play sports every weekend.",
+    "level": "기초다지기",
+    "category": "일상회화"
+  },
+  {
+    "word": "game",
+    "meaning_ko": "게임",
+    "pos": "noun",
+    "example": "Do you want to play a game?",
+    "level": "기초다지기",
+    "category": "일상회화"
+  }
+]

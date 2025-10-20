@@ -1,0 +1,418 @@
+[
+  {
+    "word": "investigative",
+    "meaning_ko": "investigative",
+    "pos": "noun",
+    "example": "This is an example with investigative.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "editorial",
+    "meaning_ko": "editorial",
+    "pos": "noun",
+    "example": "This is an example with editorial.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "documentary",
+    "meaning_ko": "documentary",
+    "pos": "noun",
+    "example": "This is an example with documentary.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "propaganda",
+    "meaning_ko": "propaganda",
+    "pos": "noun",
+    "example": "This is an example with propaganda.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "censorship",
+    "meaning_ko": "censorship",
+    "pos": "noun",
+    "example": "This is an example with censorship.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "freedom",
+    "meaning_ko": "freedom",
+    "pos": "noun",
+    "example": "This is an example with freedom.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "liberty",
+    "meaning_ko": "liberty",
+    "pos": "noun",
+    "example": "This is an example with liberty.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "democracy",
+    "meaning_ko": "democracy",
+    "pos": "noun",
+    "example": "This is an example with democracy.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "autocracy",
+    "meaning_ko": "autocracy",
+    "pos": "noun",
+    "example": "This is an example with autocracy.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "totalitarian",
+    "meaning_ko": "totalitarian",
+    "pos": "noun",
+    "example": "This is an example with totalitarian.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "authoritarian",
+    "meaning_ko": "authoritarian",
+    "pos": "noun",
+    "example": "This is an example with authoritarian.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "sovereignty",
+    "meaning_ko": "sovereignty",
+    "pos": "noun",
+    "example": "This is an example with sovereignty.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "jurisdiction",
+    "meaning_ko": "jurisdiction",
+    "pos": "noun",
+    "example": "This is an example with jurisdiction.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "legislation",
+    "meaning_ko": "legislation",
+    "pos": "noun",
+    "example": "This is an example with legislation.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "regulation",
+    "meaning_ko": "regulation",
+    "pos": "noun",
+    "example": "This is an example with regulation.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "constitution",
+    "meaning_ko": "constitution",
+    "pos": "noun",
+    "example": "This is an example with constitution.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "amendment",
+    "meaning_ko": "amendment",
+    "pos": "noun",
+    "example": "This is an example with amendment.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "ratification",
+    "meaning_ko": "ratification",
+    "pos": "noun",
+    "example": "This is an example with ratification.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "referendum",
+    "meaning_ko": "referendum",
+    "pos": "noun",
+    "example": "This is an example with referendum.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "plebiscite",
+    "meaning_ko": "plebiscite",
+    "pos": "noun",
+    "example": "This is an example with plebiscite.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "electoral",
+    "meaning_ko": "electoral",
+    "pos": "noun",
+    "example": "This is an example with electoral.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "parliamentary",
+    "meaning_ko": "parliamentary",
+    "pos": "noun",
+    "example": "This is an example with parliamentary.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "congressional",
+    "meaning_ko": "congressional",
+    "pos": "noun",
+    "example": "This is an example with congressional.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "geopolitical",
+    "meaning_ko": "geopolitical",
+    "pos": "noun",
+    "example": "This is an example with geopolitical.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "diplomatic",
+    "meaning_ko": "diplomatic",
+    "pos": "noun",
+    "example": "This is an example with diplomatic.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "bilateral",
+    "meaning_ko": "bilateral",
+    "pos": "noun",
+    "example": "This is an example with bilateral.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "multilateral",
+    "meaning_ko": "multilateral",
+    "pos": "noun",
+    "example": "This is an example with multilateral.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "macroeconomic",
+    "meaning_ko": "macroeconomic",
+    "pos": "noun",
+    "example": "This is an example with macroeconomic.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "microeconomic",
+    "meaning_ko": "microeconomic",
+    "pos": "noun",
+    "example": "This is an example with microeconomic.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "fiscal",
+    "meaning_ko": "fiscal",
+    "pos": "noun",
+    "example": "This is an example with fiscal.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "monetary",
+    "meaning_ko": "monetary",
+    "pos": "noun",
+    "example": "This is an example with monetary.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "inflation",
+    "meaning_ko": "inflation",
+    "pos": "noun",
+    "example": "This is an example with inflation.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "deflation",
+    "meaning_ko": "deflation",
+    "pos": "noun",
+    "example": "This is an example with deflation.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "recession",
+    "meaning_ko": "recession",
+    "pos": "noun",
+    "example": "This is an example with recession.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "depression",
+    "meaning_ko": "depression",
+    "pos": "noun",
+    "example": "This is an example with depression.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "prosperity",
+    "meaning_ko": "prosperity",
+    "pos": "noun",
+    "example": "This is an example with prosperity.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "austerity",
+    "meaning_ko": "austerity",
+    "pos": "noun",
+    "example": "This is an example with austerity.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "stimulus",
+    "meaning_ko": "stimulus",
+    "pos": "noun",
+    "example": "This is an example with stimulus.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "subsidy",
+    "meaning_ko": "subsidy",
+    "pos": "noun",
+    "example": "This is an example with subsidy.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "catastrophe",
+    "meaning_ko": "catastrophe",
+    "pos": "noun",
+    "example": "This is an example with catastrophe.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "calamity",
+    "meaning_ko": "calamity",
+    "pos": "noun",
+    "example": "This is an example with calamity.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "disaster",
+    "meaning_ko": "disaster",
+    "pos": "noun",
+    "example": "This is an example with disaster.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "tragedy",
+    "meaning_ko": "tragedy",
+    "pos": "noun",
+    "example": "This is an example with tragedy.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "epidemic",
+    "meaning_ko": "epidemic",
+    "pos": "noun",
+    "example": "This is an example with epidemic.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "pandemic",
+    "meaning_ko": "pandemic",
+    "pos": "noun",
+    "example": "This is an example with pandemic.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "endemic",
+    "meaning_ko": "endemic",
+    "pos": "noun",
+    "example": "This is an example with endemic.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "humanitarian",
+    "meaning_ko": "humanitarian",
+    "pos": "noun",
+    "example": "This is an example with humanitarian.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "philanthropic",
+    "meaning_ko": "philanthropic",
+    "pos": "noun",
+    "example": "This is an example with philanthropic.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "altruistic",
+    "meaning_ko": "altruistic",
+    "pos": "noun",
+    "example": "This is an example with altruistic.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "benevolent",
+    "meaning_ko": "benevolent",
+    "pos": "noun",
+    "example": "This is an example with benevolent.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "charitable",
+    "meaning_ko": "charitable",
+    "pos": "noun",
+    "example": "This is an example with charitable.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "advocacy",
+    "meaning_ko": "advocacy",
+    "pos": "noun",
+    "example": "This is an example with advocacy.",
+    "level": "원어민수준",
+    "category": "뉴스-시사"
+  }
+]

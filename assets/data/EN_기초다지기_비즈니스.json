@@ -1,0 +1,1202 @@
+[
+  {
+    "word": "business",
+    "meaning_ko": "사업",
+    "pos": "noun",
+    "example": "She runs a successful business.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "company",
+    "meaning_ko": "회사",
+    "pos": "noun",
+    "example": "I work at a big company.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "work",
+    "meaning_ko": "일",
+    "pos": "noun",
+    "example": "I have a lot of work today.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "job",
+    "meaning_ko": "일자리",
+    "pos": "noun",
+    "example": "She got a new job.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "office",
+    "meaning_ko": "사무실",
+    "pos": "noun",
+    "example": "My office is downtown.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "desk",
+    "meaning_ko": "책상",
+    "pos": "noun",
+    "example": "I sit at my desk.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "computer",
+    "meaning_ko": "컴퓨터",
+    "pos": "noun",
+    "example": "I use a computer at work.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "phone",
+    "meaning_ko": "전화",
+    "pos": "noun",
+    "example": "My phone rang.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "email",
+    "meaning_ko": "이메일",
+    "pos": "noun",
+    "example": "I sent an email.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "message",
+    "meaning_ko": "메시지",
+    "pos": "noun",
+    "example": "I got your message.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "call",
+    "meaning_ko": "전화",
+    "pos": "noun",
+    "example": "I will give you a call.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "meeting",
+    "meaning_ko": "회의",
+    "pos": "noun",
+    "example": "The meeting is at 2 PM.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "schedule",
+    "meaning_ko": "일정",
+    "pos": "noun",
+    "example": "My schedule is full.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "appointment",
+    "meaning_ko": "약속",
+    "pos": "noun",
+    "example": "I have an appointment tomorrow.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "task",
+    "meaning_ko": "작업",
+    "pos": "noun",
+    "example": "Complete this task today.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "project",
+    "meaning_ko": "프로젝트",
+    "pos": "noun",
+    "example": "I am working on a project.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "boss",
+    "meaning_ko": "상사",
+    "pos": "noun",
+    "example": "My boss is very nice.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "manager",
+    "meaning_ko": "관리자",
+    "pos": "noun",
+    "example": "The manager gave us instructions.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "staff",
+    "meaning_ko": "직원",
+    "pos": "noun",
+    "example": "The staff is helpful.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "employee",
+    "meaning_ko": "직원",
+    "pos": "noun",
+    "example": "The company has many employees.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "colleague",
+    "meaning_ko": "동료",
+    "pos": "noun",
+    "example": "My colleagues are friendly.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "customer",
+    "meaning_ko": "고객",
+    "pos": "noun",
+    "example": "We have many customers.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "client",
+    "meaning_ko": "고객",
+    "pos": "noun",
+    "example": "The client is satisfied.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "product",
+    "meaning_ko": "제품",
+    "pos": "noun",
+    "example": "Our product is good.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "service",
+    "meaning_ko": "서비스",
+    "pos": "noun",
+    "example": "We provide good service.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "sale",
+    "meaning_ko": "판매",
+    "pos": "noun",
+    "example": "Our sales are good.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "price",
+    "meaning_ko": "가격",
+    "pos": "noun",
+    "example": "The price is good.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "cost",
+    "meaning_ko": "비용",
+    "pos": "noun",
+    "example": "The cost is high.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "money",
+    "meaning_ko": "돈",
+    "pos": "noun",
+    "example": "I need more money.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "pay",
+    "meaning_ko": "급여",
+    "pos": "noun",
+    "example": "My pay is good.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "salary",
+    "meaning_ko": "급여",
+    "pos": "noun",
+    "example": "I got a salary increase.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "profit",
+    "meaning_ko": "이익",
+    "pos": "noun",
+    "example": "The company made a profit.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "loss",
+    "meaning_ko": "손실",
+    "pos": "noun",
+    "example": "We had a loss this month.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "budget",
+    "meaning_ko": "예산",
+    "pos": "noun",
+    "example": "We have a budget.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "expense",
+    "meaning_ko": "비용",
+    "pos": "noun",
+    "example": "My expenses are high.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "invoice",
+    "meaning_ko": "송장",
+    "pos": "noun",
+    "example": "I sent an invoice.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "receipt",
+    "meaning_ko": "영수증",
+    "pos": "noun",
+    "example": "I have the receipt.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "payment",
+    "meaning_ko": "지불",
+    "pos": "noun",
+    "example": "Payment is due tomorrow.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "contract",
+    "meaning_ko": "계약",
+    "pos": "noun",
+    "example": "We signed a contract.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "deal",
+    "meaning_ko": "거래",
+    "pos": "noun",
+    "example": "We made a good deal.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "agreement",
+    "meaning_ko": "합의",
+    "pos": "noun",
+    "example": "We reached an agreement.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "offer",
+    "meaning_ko": "제안",
+    "pos": "noun",
+    "example": "I have a special offer.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "discount",
+    "meaning_ko": "할인",
+    "pos": "noun",
+    "example": "We have a 20% discount.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "promotion",
+    "meaning_ko": "판촉",
+    "pos": "noun",
+    "example": "We have a promotion.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "market",
+    "meaning_ko": "시장",
+    "pos": "noun",
+    "example": "The market is growing.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "trade",
+    "meaning_ko": "거래",
+    "pos": "noun",
+    "example": "International trade is important.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "export",
+    "meaning_ko": "수출",
+    "pos": "noun",
+    "example": "We export our products.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "import",
+    "meaning_ko": "수입",
+    "pos": "noun",
+    "example": "We import materials.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "delivery",
+    "meaning_ko": "배송",
+    "pos": "noun",
+    "example": "Delivery is tomorrow.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "shipment",
+    "meaning_ko": "선적",
+    "pos": "noun",
+    "example": "The shipment arrived.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "order",
+    "meaning_ko": "주문",
+    "pos": "noun",
+    "example": "I placed an order.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "warehouse",
+    "meaning_ko": "창고",
+    "pos": "noun",
+    "example": "The warehouse is full.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "supply",
+    "meaning_ko": "공급",
+    "pos": "noun",
+    "example": "The supply is limited.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "demand",
+    "meaning_ko": "수요",
+    "pos": "noun",
+    "example": "Demand is high.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "stock",
+    "meaning_ko": "재고",
+    "pos": "noun",
+    "example": "We have stock available.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "inventory",
+    "meaning_ko": "재고",
+    "pos": "noun",
+    "example": "Check the inventory.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "strategy",
+    "meaning_ko": "전략",
+    "pos": "noun",
+    "example": "We have a good strategy.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "goal",
+    "meaning_ko": "목표",
+    "pos": "noun",
+    "example": "Our goal is to grow.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "plan",
+    "meaning_ko": "계획",
+    "pos": "noun",
+    "example": "I have a plan.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "deadline",
+    "meaning_ko": "마감일",
+    "pos": "noun",
+    "example": "The deadline is Friday.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "report",
+    "meaning_ko": "보고서",
+    "pos": "noun",
+    "example": "I wrote a report.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "document",
+    "meaning_ko": "문서",
+    "pos": "noun",
+    "example": "Sign this document.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "file",
+    "meaning_ko": "파일",
+    "pos": "noun",
+    "example": "I saved the file.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "folder",
+    "meaning_ko": "폴더",
+    "pos": "noun",
+    "example": "Put it in the folder.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "paper",
+    "meaning_ko": "종이",
+    "pos": "noun",
+    "example": "I need paper.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "copy",
+    "meaning_ko": "사본",
+    "pos": "noun",
+    "example": "I need a copy of this.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "print",
+    "meaning_ko": "인쇄",
+    "pos": "verb",
+    "example": "Please print this document.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "send",
+    "meaning_ko": "보내다",
+    "pos": "verb",
+    "example": "I will send an email.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "receive",
+    "meaning_ko": "받다",
+    "pos": "verb",
+    "example": "I received your message.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "write",
+    "meaning_ko": "쓰다",
+    "pos": "verb",
+    "example": "I will write a report.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "read",
+    "meaning_ko": "읽다",
+    "pos": "verb",
+    "example": "Read the instructions.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "sign",
+    "meaning_ko": "서명하다",
+    "pos": "verb",
+    "example": "Please sign here.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "organize",
+    "meaning_ko": "정리하다",
+    "pos": "verb",
+    "example": "Let's organize the files.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "prepare",
+    "meaning_ko": "준비하다",
+    "pos": "verb",
+    "example": "Prepare the presentation.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "present",
+    "meaning_ko": "발표하다",
+    "pos": "verb",
+    "example": "I will present tomorrow.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "manage",
+    "meaning_ko": "관리하다",
+    "pos": "verb",
+    "example": "She manages the team.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "decide",
+    "meaning_ko": "결정하다",
+    "pos": "verb",
+    "example": "Let's decide now.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "discuss",
+    "meaning_ko": "토론하다",
+    "pos": "verb",
+    "example": "We discussed the project.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "improve",
+    "meaning_ko": "개선하다",
+    "pos": "verb",
+    "example": "We need to improve.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "increase",
+    "meaning_ko": "증가하다",
+    "pos": "verb",
+    "example": "Sales increased.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "decrease",
+    "meaning_ko": "감소하다",
+    "pos": "verb",
+    "example": "Costs decreased.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "sell",
+    "meaning_ko": "판매하다",
+    "pos": "verb",
+    "example": "We sell products.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "buy",
+    "meaning_ko": "구입하다",
+    "pos": "verb",
+    "example": "I bought supplies.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "purchase",
+    "meaning_ko": "구매하다",
+    "pos": "verb",
+    "example": "I will purchase this.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "pay",
+    "meaning_ko": "지불하다",
+    "pos": "verb",
+    "example": "I will pay tomorrow.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "charge",
+    "meaning_ko": "청구하다",
+    "pos": "verb",
+    "example": "How much do you charge?",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "bank",
+    "meaning_ko": "은행",
+    "pos": "noun",
+    "example": "I went to the bank.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "account",
+    "meaning_ko": "계정",
+    "pos": "noun",
+    "example": "I have a bank account.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "credit",
+    "meaning_ko": "신용",
+    "pos": "noun",
+    "example": "I paid with credit.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "debit",
+    "meaning_ko": "직불",
+    "pos": "noun",
+    "example": "I used my debit card.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "card",
+    "meaning_ko": "카드",
+    "pos": "noun",
+    "example": "I have a business card.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "invoice",
+    "meaning_ko": "청구서",
+    "pos": "noun",
+    "example": "I sent the invoice.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "tax",
+    "meaning_ko": "세금",
+    "pos": "noun",
+    "example": "We pay taxes.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "interest",
+    "meaning_ko": "이자",
+    "pos": "noun",
+    "example": "The interest rate is 5%.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "loan",
+    "meaning_ko": "대출",
+    "pos": "noun",
+    "example": "I got a loan.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "investment",
+    "meaning_ko": "투자",
+    "pos": "noun",
+    "example": "This is a good investment.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "profit",
+    "meaning_ko": "이윤",
+    "pos": "noun",
+    "example": "We made a profit.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "success",
+    "meaning_ko": "성공",
+    "pos": "noun",
+    "example": "Our business is a success.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "failure",
+    "meaning_ko": "실패",
+    "pos": "noun",
+    "example": "We learned from failure.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "risk",
+    "meaning_ko": "위험",
+    "pos": "noun",
+    "example": "Business has risk.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "problem",
+    "meaning_ko": "문제",
+    "pos": "noun",
+    "example": "We have a problem.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "solution",
+    "meaning_ko": "해결책",
+    "pos": "noun",
+    "example": "I found a solution.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "opportunity",
+    "meaning_ko": "기회",
+    "pos": "noun",
+    "example": "This is a good opportunity.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "challenge",
+    "meaning_ko": "도전",
+    "pos": "noun",
+    "example": "We face a challenge.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "quality",
+    "meaning_ko": "품질",
+    "pos": "noun",
+    "example": "Quality is important.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "standard",
+    "meaning_ko": "표준",
+    "pos": "noun",
+    "example": "We have high standards.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "rule",
+    "meaning_ko": "규칙",
+    "pos": "noun",
+    "example": "Follow the rules.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "regulation",
+    "meaning_ko": "규정",
+    "pos": "noun",
+    "example": "We follow regulations.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "policy",
+    "meaning_ko": "정책",
+    "pos": "noun",
+    "example": "The policy is clear.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "procedure",
+    "meaning_ko": "절차",
+    "pos": "noun",
+    "example": "Follow the procedure.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "requirement",
+    "meaning_ko": "요구사항",
+    "pos": "noun",
+    "example": "What are the requirements?",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "skill",
+    "meaning_ko": "기술",
+    "pos": "noun",
+    "example": "I have good skills.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "experience",
+    "meaning_ko": "경험",
+    "pos": "noun",
+    "example": "I have experience.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "training",
+    "meaning_ko": "교육",
+    "pos": "noun",
+    "example": "We have training.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "education",
+    "meaning_ko": "교육",
+    "pos": "noun",
+    "example": "Education is important.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "growth",
+    "meaning_ko": "성장",
+    "pos": "noun",
+    "example": "We want growth.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "expansion",
+    "meaning_ko": "확장",
+    "pos": "noun",
+    "example": "We plan expansion.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "marketing",
+    "meaning_ko": "마케팅",
+    "pos": "noun",
+    "example": "Marketing is important.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "advertising",
+    "meaning_ko": "광고",
+    "pos": "noun",
+    "example": "We use advertising.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "brand",
+    "meaning_ko": "브랜드",
+    "pos": "noun",
+    "example": "Our brand is strong.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "customer service",
+    "meaning_ko": "고객 서비스",
+    "pos": "noun",
+    "example": "Good customer service matters.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "feedback",
+    "meaning_ko": "피드백",
+    "pos": "noun",
+    "example": "We want your feedback.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "satisfaction",
+    "meaning_ko": "만족",
+    "pos": "noun",
+    "example": "Customer satisfaction is high.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "complaint",
+    "meaning_ko": "불만",
+    "pos": "noun",
+    "example": "I have a complaint.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "response",
+    "meaning_ko": "응답",
+    "pos": "noun",
+    "example": "I got a response.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "communication",
+    "meaning_ko": "소통",
+    "pos": "noun",
+    "example": "Communication is key.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "cooperation",
+    "meaning_ko": "협력",
+    "pos": "noun",
+    "example": "We need cooperation.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "partnership",
+    "meaning_ko": "파트너십",
+    "pos": "noun",
+    "example": "We have a partnership.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "competition",
+    "meaning_ko": "경쟁",
+    "pos": "noun",
+    "example": "Competition is tough.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "competitor",
+    "meaning_ko": "경쟁사",
+    "pos": "noun",
+    "example": "Our competitors are strong.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "industry",
+    "meaning_ko": "산업",
+    "pos": "noun",
+    "example": "The industry is growing.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "sector",
+    "meaning_ko": "부문",
+    "pos": "noun",
+    "example": "The tech sector is big.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "trend",
+    "meaning_ko": "트렌드",
+    "pos": "noun",
+    "example": "New trends emerge.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "data",
+    "meaning_ko": "데이터",
+    "pos": "noun",
+    "example": "We collect data.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "analysis",
+    "meaning_ko": "분석",
+    "pos": "noun",
+    "example": "We do analysis.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "information",
+    "meaning_ko": "정보",
+    "pos": "noun",
+    "example": "I need information.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "knowledge",
+    "meaning_ko": "지식",
+    "pos": "noun",
+    "example": "Knowledge is power.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "innovation",
+    "meaning_ko": "혁신",
+    "pos": "noun",
+    "example": "Innovation is important.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "technology",
+    "meaning_ko": "기술",
+    "pos": "noun",
+    "example": "We use new technology.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "software",
+    "meaning_ko": "소프트웨어",
+    "pos": "noun",
+    "example": "We use software.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "system",
+    "meaning_ko": "시스템",
+    "pos": "noun",
+    "example": "Our system works well.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "efficiency",
+    "meaning_ko": "효율",
+    "pos": "noun",
+    "example": "Efficiency is important.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "productivity",
+    "meaning_ko": "생산성",
+    "pos": "noun",
+    "example": "We improve productivity.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "time",
+    "meaning_ko": "시간",
+    "pos": "noun",
+    "example": "We save time.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "speed",
+    "meaning_ko": "속도",
+    "pos": "noun",
+    "example": "Speed matters.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "performance",
+    "meaning_ko": "성과",
+    "pos": "noun",
+    "example": "Good performance is expected.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "result",
+    "meaning_ko": "결과",
+    "pos": "noun",
+    "example": "We got good results.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "target",
+    "meaning_ko": "목표",
+    "pos": "noun",
+    "example": "We reached our target.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "progress",
+    "meaning_ko": "진전",
+    "pos": "noun",
+    "example": "We made progress.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "success",
+    "meaning_ko": "성공",
+    "pos": "noun",
+    "example": "Success takes hard work.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  }
+]

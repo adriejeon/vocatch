@@ -1,0 +1,1546 @@
+[
+  {
+    "word": "news",
+    "meaning_ko": "뉴스",
+    "pos": "noun",
+    "example": "Did you see the latest news today?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "report",
+    "meaning_ko": "보도하다",
+    "pos": "verb",
+    "example": "They report on local politics.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "read",
+    "meaning_ko": "읽다",
+    "pos": "verb",
+    "example": "I read the main headline this morning.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "listen",
+    "meaning_ko": "듣다",
+    "pos": "verb",
+    "example": "Listen to the weather forecast.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "talk",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "Let's talk about the big event.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "event",
+    "meaning_ko": "사건, 행사",
+    "pos": "noun",
+    "example": "The big sports event was yesterday.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "problem",
+    "meaning_ko": "문제",
+    "pos": "noun",
+    "example": "There is a problem with traffic.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "solution",
+    "meaning_ko": "해결책",
+    "pos": "noun",
+    "example": "We need to find a quick solution.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "government",
+    "meaning_ko": "정부",
+    "pos": "noun",
+    "example": "The government announced a new plan.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "leader",
+    "meaning_ko": "지도자",
+    "pos": "noun",
+    "example": "The country's leader spoke on TV.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "country",
+    "meaning_ko": "국가",
+    "pos": "noun",
+    "example": "Many countries joined the meeting.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "city",
+    "meaning_ko": "도시",
+    "pos": "noun",
+    "example": "The city is growing fast.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "money",
+    "meaning_ko": "돈",
+    "pos": "noun",
+    "example": "The economy is focused on money issues.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "work",
+    "meaning_ko": "일, 직장",
+    "pos": "noun",
+    "example": "The job market is changing.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "school",
+    "meaning_ko": "학교",
+    "pos": "noun",
+    "example": "New rules were introduced for schools.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "hospital",
+    "meaning_ko": "병원",
+    "pos": "noun",
+    "example": "The hospital needs more doctors.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "police",
+    "meaning_ko": "경찰",
+    "pos": "noun",
+    "example": "The police are investigating the case.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "people",
+    "meaning_ko": "사람들",
+    "pos": "noun",
+    "example": "Many people attended the rally.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "help",
+    "meaning_ko": "돕다",
+    "pos": "verb",
+    "example": "Can we help the victims of the fire?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "say",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "The witness said he saw the car leave.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "know",
+    "meaning_ko": "알다",
+    "pos": "verb",
+    "example": "Do you know the reason for the delay?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "think",
+    "meaning_ko": "생각하다",
+    "pos": "verb",
+    "example": "What do you think about the new law?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "agree",
+    "meaning_ko": "동의하다",
+    "pos": "verb",
+    "example": "I agree with your point of view.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "disagree",
+    "meaning_ko": "동의하지 않다",
+    "pos": "verb",
+    "example": "Many people disagree with the policy.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "want",
+    "meaning_ko": "원하다",
+    "pos": "verb",
+    "example": "They want to achieve peace.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "need",
+    "meaning_ko": "필요하다",
+    "pos": "verb",
+    "example": "We need to address this urgent matter.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ask",
+    "meaning_ko": "묻다, 요청하다",
+    "pos": "verb",
+    "example": "Reporters asked the minister a question.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "answer",
+    "meaning_ko": "대답하다",
+    "pos": "verb",
+    "example": "He answered the questions clearly.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "show",
+    "meaning_ko": "보여주다",
+    "pos": "verb",
+    "example": "The data shows a clear increase in sales.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "change",
+    "meaning_ko": "변화",
+    "pos": "noun",
+    "example": "Climate change is a big topic.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "good",
+    "meaning_ko": "좋은",
+    "pos": "adjective",
+    "example": "We received good feedback on the product.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "bad",
+    "meaning_ko": "나쁜",
+    "pos": "adjective",
+    "example": "There was a bad accident on the highway.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "big",
+    "meaning_ko": "큰",
+    "pos": "adjective",
+    "example": "This is a big step for the company.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "small",
+    "meaning_ko": "작은",
+    "pos": "adjective",
+    "example": "The government made a small adjustment to the rule.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "important",
+    "meaning_ko": "중요한",
+    "pos": "adjective",
+    "example": "The meeting delivered an important message.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "new",
+    "meaning_ko": "새로운",
+    "pos": "adjective",
+    "example": "The company launched a new phone.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "old",
+    "meaning_ko": "오래된",
+    "pos": "adjective",
+    "example": "They discussed the old factory site.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "safe",
+    "meaning_ko": "안전한",
+    "pos": "adjective",
+    "example": "Public transport must be safe for everyone.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "danger",
+    "meaning_ko": "위험",
+    "pos": "noun",
+    "example": "The report highlights the danger of pollution.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "reason",
+    "meaning_ko": "이유",
+    "pos": "noun",
+    "example": "What is the reason behind the decision?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fact",
+    "meaning_ko": "사실",
+    "pos": "noun",
+    "example": "Stick to the facts of the story.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "opinion",
+    "meaning_ko": "의견",
+    "pos": "noun",
+    "example": "Everyone shared their opinion on the budget.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "view",
+    "meaning_ko": "관점",
+    "pos": "noun",
+    "example": "He has a different view on the issue.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "plan",
+    "meaning_ko": "계획",
+    "pos": "noun",
+    "example": "The city has a plan for the future.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "future",
+    "meaning_ko": "미래",
+    "pos": "noun",
+    "example": "We must prepare for the future.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "today",
+    "meaning_ko": "오늘",
+    "pos": "adverb",
+    "example": "The stock market fell today.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "yesterday",
+    "meaning_ko": "어제",
+    "pos": "adverb",
+    "example": "The storm hit the coast yesterday.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "tomorrow",
+    "meaning_ko": "내일",
+    "pos": "adverb",
+    "example": "The president will speak tomorrow.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "time",
+    "meaning_ko": "시간",
+    "pos": "noun",
+    "example": "It will take some time to fix the issue.",
+    "level": "기초다지기",
+    "category": "뉴스/회회"
+  },
+  {
+    "word": "law",
+    "meaning_ko": "법",
+    "pos": "noun",
+    "example": "The new law takes effect next month.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "court",
+    "meaning_ko": "법원",
+    "pos": "noun",
+    "example": "The case went to court.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "witness",
+    "meaning_ko": "목격자",
+    "pos": "noun",
+    "example": "The police interviewed the witness.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "attack",
+    "meaning_ko": "공격",
+    "pos": "noun",
+    "example": "They reported an animal attack in the park.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "peace",
+    "meaning_ko": "평화",
+    "pos": "noun",
+    "example": "The two countries signed a peace treaty.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "war",
+    "meaning_ko": "전쟁",
+    "pos": "noun",
+    "example": "The news talked about the end of the war.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fire",
+    "meaning_ko": "화재",
+    "pos": "noun",
+    "example": "A huge fire broke out downtown.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "flood",
+    "meaning_ko": "홍수",
+    "pos": "noun",
+    "example": "Heavy rains caused a serious flood.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "storm",
+    "meaning_ko": "폭풍",
+    "pos": "noun",
+    "example": "A severe storm is coming this week.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "weather",
+    "meaning_ko": "날씨",
+    "pos": "noun",
+    "example": "The weather forecast is for clear skies.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "protest",
+    "meaning_ko": "시위",
+    "pos": "noun",
+    "example": "The workers held a large protest.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vote",
+    "meaning_ko": "투표",
+    "pos": "verb",
+    "example": "People went out to vote in the election.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "election",
+    "meaning_ko": "선거",
+    "pos": "noun",
+    "example": "The election results are expected soon.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "tax",
+    "meaning_ko": "세금",
+    "pos": "noun",
+    "example": "The government raised the tax rate.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "market",
+    "meaning_ko": "시장",
+    "pos": "noun",
+    "example": "The stock market is stable today.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "price",
+    "meaning_ko": "가격",
+    "pos": "noun",
+    "example": "Food prices are increasing rapidly.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sale",
+    "meaning_ko": "판매",
+    "pos": "noun",
+    "example": "The company reported record sales.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "buy",
+    "meaning_ko": "사다",
+    "pos": "verb",
+    "example": "Consumers are choosing to buy less.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sell",
+    "meaning_ko": "팔다",
+    "pos": "verb",
+    "example": "The store will sell the products online.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "job",
+    "meaning_ko": "일자리",
+    "pos": "noun",
+    "example": "The report shows a loss of jobs.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "worker",
+    "meaning_ko": "노동자",
+    "pos": "noun",
+    "example": "Workers demanded better pay.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "company",
+    "meaning_ko": "회사",
+    "pos": "noun",
+    "example": "The technology company is expanding.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "success",
+    "meaning_ko": "성공",
+    "pos": "noun",
+    "example": "The project was a huge success.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fail",
+    "meaning_ko": "실패하다",
+    "pos": "verb",
+    "example": "The peace talks might fail.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "win",
+    "meaning_ko": "이기다",
+    "pos": "verb",
+    "example": "Which team will win the championship?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "lose",
+    "meaning_ko": "지다, 잃다",
+    "pos": "verb",
+    "example": "The team lost the last match.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "health",
+    "meaning_ko": "건강",
+    "pos": "noun",
+    "example": "Public health is a primary concern.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "disease",
+    "meaning_ko": "질병",
+    "pos": "noun",
+    "example": "A new disease is spreading quickly.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "doctor",
+    "meaning_ko": "의사",
+    "pos": "noun",
+    "example": "Doctors are fighting the virus.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "drug",
+    "meaning_ko": "약물",
+    "pos": "noun",
+    "example": "The new drug has been approved.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "study",
+    "meaning_ko": "연구",
+    "pos": "noun",
+    "example": "A new study on sleeping habits was released.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "research",
+    "meaning_ko": "연구하다",
+    "pos": "verb",
+    "example": "Scientists research new energy sources.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "science",
+    "meaning_ko": "과학",
+    "pos": "noun",
+    "example": "Science offers solutions to many problems.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "technology",
+    "meaning_ko": "기술",
+    "pos": "noun",
+    "example": "New technology is changing our lives.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "internet",
+    "meaning_ko": "인터넷",
+    "pos": "noun",
+    "example": "Access to the internet is essential.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "social media",
+    "meaning_ko": "소셜 미디어",
+    "pos": "noun",
+    "example": "Social media influenced the campaign.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "media",
+    "meaning_ko": "언론",
+    "pos": "noun",
+    "example": "The media covered the story extensively.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "article",
+    "meaning_ko": "기사",
+    "pos": "noun",
+    "example": "I read an interesting article about travel.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "photo",
+    "meaning_ko": "사진",
+    "pos": "noun",
+    "example": "The newspaper published the photo of the winner.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "live",
+    "meaning_ko": "생방송의",
+    "pos": "adjective",
+    "example": "The concert was broadcast live.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "world",
+    "meaning_ko": "세계",
+    "pos": "noun",
+    "example": "World leaders met for a summit.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "region",
+    "meaning_ko": "지역",
+    "pos": "noun",
+    "example": "The region is facing economic challenges.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "area",
+    "meaning_ko": "지역",
+    "pos": "noun",
+    "example": "The affected area is quite large.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "home",
+    "meaning_ko": "집",
+    "pos": "noun",
+    "example": "Many people lost their homes in the storm.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "family",
+    "meaning_ko": "가족",
+    "pos": "noun",
+    "example": "The accident affected many families.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "child",
+    "meaning_ko": "아이",
+    "pos": "noun",
+    "example": "The new policy helps poor children.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "woman",
+    "meaning_ko": "여성",
+    "pos": "noun",
+    "example": "She is the first woman to lead the party.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "man",
+    "meaning_ko": "남성",
+    "pos": "noun",
+    "example": "The man was arrested by the police.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "person",
+    "meaning_ko": "사람",
+    "pos": "noun",
+    "example": "Every person has the right to vote.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "right",
+    "meaning_ko": "권리",
+    "pos": "noun",
+    "example": "Human rights are fundamental.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "duty",
+    "meaning_ko": "의무",
+    "pos": "noun",
+    "example": "It is our duty to protect the environment.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "control",
+    "meaning_ko": "통제",
+    "pos": "noun",
+    "example": "The police maintained control of the crowd.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "power",
+    "meaning_ko": "권력",
+    "pos": "noun",
+    "example": "The opposition party gained power.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "taxpayer",
+    "meaning_ko": "납세자",
+    "pos": "noun",
+    "example": "Taxpayers want to see where their money goes.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "budget",
+    "meaning_ko": "예산",
+    "pos": "noun",
+    "example": "The new budget was announced today.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "spend",
+    "meaning_ko": "소비하다",
+    "pos": "verb",
+    "example": "The city plans to spend money on new parks.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "invest",
+    "meaning_ko": "투자하다",
+    "pos": "verb",
+    "example": "Companies should invest in research.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "debt",
+    "meaning_ko": "부채",
+    "pos": "noun",
+    "example": "The country's national debt is growing.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "income",
+    "meaning_ko": "수입",
+    "pos": "noun",
+    "example": "The average income has increased.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "poverty",
+    "meaning_ko": "빈곤",
+    "pos": "noun",
+    "example": "The goal is to reduce poverty.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "crime",
+    "meaning_ko": "범죄",
+    "pos": "noun",
+    "example": "The crime rate has dropped this year.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "justice",
+    "meaning_ko": "정의",
+    "pos": "noun",
+    "example": "People demand justice for the victims.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "prison",
+    "meaning_ko": "감옥",
+    "pos": "noun",
+    "example": "The thief was sent to prison.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "victim",
+    "meaning_ko": "피해자",
+    "pos": "noun",
+    "example": "The victim's family spoke to the press.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "save",
+    "meaning_ko": "구하다",
+    "pos": "verb",
+    "example": "Firefighters worked to save lives.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "safe",
+    "meaning_ko": "안전하게",
+    "pos": "adverb",
+    "example": "The passengers were brought home safe.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "report",
+    "meaning_ko": "보고서",
+    "pos": "noun",
+    "example": "The financial report is due tomorrow.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "source",
+    "meaning_ko": "출처",
+    "pos": "noun",
+    "example": "Always check the source of the information.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "true",
+    "meaning_ko": "사실인",
+    "pos": "adjective",
+    "example": "Is this statement true or false?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "false",
+    "meaning_ko": "거짓인",
+    "pos": "adjective",
+    "example": "The rumors turned out to be false.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "argue",
+    "meaning_ko": "논쟁하다",
+    "pos": "verb",
+    "example": "The politicians argued about the best approach.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "debate",
+    "meaning_ko": "토론",
+    "pos": "noun",
+    "example": "The debate on foreign policy was intense.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "statement",
+    "meaning_ko": "성명",
+    "pos": "noun",
+    "example": "The company issued a public statement.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "speech",
+    "meaning_ko": "연설",
+    "pos": "noun",
+    "example": "The president's speech lasted one hour.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "meeting",
+    "meaning_ko": "회의",
+    "pos": "noun",
+    "example": "The emergency meeting was held this morning.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "discuss",
+    "meaning_ko": "논의하다",
+    "pos": "verb",
+    "example": "They discussed the implications of the change.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "decide",
+    "meaning_ko": "결정하다",
+    "pos": "verb",
+    "example": "The committee decided on the final date.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "issue",
+    "meaning_ko": "쟁점, 문제",
+    "pos": "noun",
+    "example": "We need to address the central issue.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "policy",
+    "meaning_ko": "정책",
+    "pos": "noun",
+    "example": "The new environmental policy is controversial.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "project",
+    "meaning_ko": "사업",
+    "pos": "noun",
+    "example": "The company started a large construction project.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "build",
+    "meaning_ko": "짓다",
+    "pos": "verb",
+    "example": "They plan to build new roads.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "damage",
+    "meaning_ko": "손해",
+    "pos": "noun",
+    "example": "The storm caused extensive damage.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "repair",
+    "meaning_ko": "수리하다",
+    "pos": "verb",
+    "example": "It will take time to repair the damage.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "risk",
+    "meaning_ko": "위험",
+    "pos": "noun",
+    "example": "The project involves high financial risk.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "protect",
+    "meaning_ko": "보호하다",
+    "pos": "verb",
+    "example": "We must protect our natural resources.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "support",
+    "meaning_ko": "지지하다",
+    "pos": "verb",
+    "example": "The public strongly supports the initiative.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "oppose",
+    "meaning_ko": "반대하다",
+    "pos": "verb",
+    "example": "Many citizens oppose the tax increase.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "explain",
+    "meaning_ko": "설명하다",
+    "pos": "verb",
+    "example": "Can you explain the complexity of the law?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "understand",
+    "meaning_ko": "이해하다",
+    "pos": "verb",
+    "example": "It is difficult to understand the technical details.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "share",
+    "meaning_ko": "공유하다",
+    "pos": "verb",
+    "example": "Please share your thoughts on the matter.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "cooperate",
+    "meaning_ko": "협력하다",
+    "pos": "verb",
+    "example": "The two agencies agreed to cooperate.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "nation",
+    "meaning_ko": "국가",
+    "pos": "noun",
+    "example": "The nation celebrated the holiday.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "foreign",
+    "meaning_ko": "해외의, 외국의",
+    "pos": "adjective",
+    "example": "Foreign leaders were invited to the summit.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "local",
+    "meaning_ko": "지역의",
+    "pos": "adjective",
+    "example": "Local businesses are struggling.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "community",
+    "meaning_ko": "공동체",
+    "pos": "noun",
+    "example": "The new center benefits the whole community.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "media outlet",
+    "meaning_ko": "언론 매체",
+    "pos": "noun",
+    "example": "Which media outlet broke the story?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "headline",
+    "meaning_ko": "헤드라인",
+    "pos": "noun",
+    "example": "The headline dominated the front page.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "public",
+    "meaning_ko": "대중",
+    "pos": "noun",
+    "example": "The public has a right to know the truth.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "official",
+    "meaning_ko": "공식적인",
+    "pos": "adjective",
+    "example": "The official statement was released at noon.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "private",
+    "meaning_ko": "사적인, 민간의",
+    "pos": "adjective",
+    "example": "The investigation remains private.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fund",
+    "meaning_ko": "자금",
+    "pos": "noun",
+    "example": "They raised emergency funds for disaster relief.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "donation",
+    "meaning_ko": "기부",
+    "pos": "noun",
+    "example": "The charity received a large donation.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "security",
+    "meaning_ko": "안보, 보안",
+    "pos": "noun",
+    "example": "The government increased border security.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "military",
+    "meaning_ko": "군대",
+    "pos": "noun",
+    "example": "The military was called in to assist.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "trade",
+    "meaning_ko": "무역",
+    "pos": "noun",
+    "example": "Trade between the two countries has increased.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "export",
+    "meaning_ko": "수출하다",
+    "pos": "verb",
+    "example": "The country exports grain.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "import",
+    "meaning_ko": "수입하다",
+    "pos": "verb",
+    "example": "We import oil from abroad.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "price tag",
+    "meaning_ko": "가격표",
+    "pos": "noun",
+    "example": "The price tag was too high for most people.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "consumer",
+    "meaning_ko": "소비자",
+    "pos": "noun",
+    "example": "Consumers are worried about inflation.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "market share",
+    "meaning_ko": "시장 점유율",
+    "pos": "noun",
+    "example": "The new product gained market share quickly.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "stock",
+    "meaning_ko": "주식",
+    "pos": "noun",
+    "example": "Stock prices rose sharply today.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "bank account",
+    "meaning_ko": "은행 계좌",
+    "pos": "noun",
+    "example": "He transferred the funds to a different bank account.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "customer",
+    "meaning_ko": "고객",
+    "pos": "noun",
+    "example": "The store offers discounts to loyal customers.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "service",
+    "meaning_ko": "서비스",
+    "pos": "noun",
+    "example": "They improved their customer service.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "system",
+    "meaning_ko": "시스템",
+    "pos": "noun",
+    "example": "The new transport system is very efficient.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "rule",
+    "meaning_ko": "규칙",
+    "pos": "noun",
+    "example": "Follow the safety rules strictly.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "manage",
+    "meaning_ko": "관리하다",
+    "pos": "verb",
+    "example": "We need to manage our resources better.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "deal with",
+    "meaning_ko": "~을 다루다",
+    "pos": "verb",
+    "example": "How will the city deal with the traffic?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "face",
+    "meaning_ko": "직면하다",
+    "pos": "verb",
+    "example": "The world faces a serious energy crisis.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "avoid",
+    "meaning_ko": "피하다",
+    "pos": "verb",
+    "example": "The government is trying to avoid a crisis.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "prevent",
+    "meaning_ko": "막다, 예방하다",
+    "pos": "verb",
+    "example": "Vaccines prevent the spread of disease.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "result",
+    "meaning_ko": "결과",
+    "pos": "noun",
+    "example": "The final result of the election is in.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "effect",
+    "meaning_ko": "영향",
+    "pos": "noun",
+    "example": "The new policy had a positive effect.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "impact",
+    "meaning_ko": "영향",
+    "pos": "noun",
+    "example": "What is the environmental impact of the dam?",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "force",
+    "meaning_ko": "힘",
+    "pos": "noun",
+    "example": "The political force behind the movement is strong.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pressure",
+    "meaning_ko": "압력, 압박",
+    "pos": "noun",
+    "example": "The leader faced public pressure to resign.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "demand",
+    "meaning_ko": "요구하다",
+    "pos": "verb",
+    "example": "The protestors demand immediate action.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "promise",
+    "meaning_ko": "약속하다",
+    "pos": "verb",
+    "example": "The candidate promised lower taxes.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "claim",
+    "meaning_ko": "주장하다",
+    "pos": "verb",
+    "example": "The company claims the product is safe.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "prove",
+    "meaning_ko": "입증하다",
+    "pos": "verb",
+    "example": "The police need to prove the guilt.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "evidence",
+    "meaning_ko": "증거",
+    "pos": "noun",
+    "example": "There is strong evidence of corruption.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "testify",
+    "meaning_ko": "증언하다",
+    "pos": "verb",
+    "example": "The expert testified in court yesterday.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "support",
+    "meaning_ko": "지지",
+    "pos": "noun",
+    "example": "He lost public support after the scandal.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "party",
+    "meaning_ko": "정당",
+    "pos": "noun",
+    "example": "The major party won the majority of seats.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "candidate",
+    "meaning_ko": "후보자",
+    "pos": "noun",
+    "example": "The presidential candidate made a speech.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vote",
+    "meaning_ko": "표",
+    "pos": "noun",
+    "example": "Every vote counts in a democracy.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "majority",
+    "meaning_ko": "다수",
+    "pos": "noun",
+    "example": "The proposal was passed by a majority vote.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "minority",
+    "meaning_ko": "소수",
+    "pos": "noun",
+    "example": "Minority groups demand equal rights.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "right now",
+    "meaning_ko": "지금 당장",
+    "pos": "phrase",
+    "example": "The emergency alert is happening right now.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "at once",
+    "meaning_ko": "즉시",
+    "pos": "phrase",
+    "example": "The police arrived at once.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "in public",
+    "meaning_ko": "공개적으로",
+    "pos": "phrase",
+    "example": "He spoke about his views in public.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "in private",
+    "meaning_ko": "개인적으로",
+    "pos": "phrase",
+    "example": "They held discussions in private.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "long term",
+    "meaning_ko": "장기적인",
+    "pos": "adjective",
+    "example": "The long term effects of the policy are unknown.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "short term",
+    "meaning_ko": "단기적인",
+    "pos": "adjective",
+    "example": "The changes will only have a short term impact.",
+    "level": "기초다지기",
+    "category": "뉴스/회화"
+  }
+]

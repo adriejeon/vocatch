@@ -5,6 +5,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../models/word_model.dart';
 import 'dictionary_api_service.dart';
 import 'words_api_service.dart';
+import 'vocab_svg_parser.dart';
+import 'json_word_service.dart';
 
 /// 오늘의 단어 생성 서비스 (학습 진행 추적 포함)
 class DailyWordService {
@@ -100,14 +102,37 @@ class DailyWordService {
     int expansionCount = 2,
   }) async {
     try {
-      // 1. 데이터 파일 로드
+      // 1. JSON 서비스 사용 (새로운 시스템)
+      final jsonLanguage = learningLanguage == 'English' ? 'EN' : 'KO';
+      final jsonLevel = _convertLevelToJson(level);
+      final jsonCategory = _convertCategoryToJson(category);
+
+      // JSON 서비스로 오늘의 단어 가져오기
+      final jsonWords = await JsonWordService.getTodayWords(
+        language: jsonLanguage,
+        level: jsonLevel,
+        category: jsonCategory,
+        learningLanguage: learningLanguage,
+        nativeLanguage: nativeLanguage,
+        count: 5,
+      );
+
+      if (jsonWords.isNotEmpty) {
+        print('JSON words loaded: ${jsonWords.length} words');
+        return jsonWords;
+      }
+
+      // 2. JSON 서비스 실패 시 기존 시스템 사용
+      print('JSON service failed, falling back to legacy system');
+
+      // 기존 데이터 파일 로드
       await _loadDataFiles();
 
       final today = _getCurrentDate();
       final prefs = await SharedPreferences.getInstance();
       final lastUpdatedDate = prefs.getString(_lastUpdateDateKey);
 
-      // 2. 날짜가 같으면 캐시된 단어 반환 (한국어의 경우 캐시 무시)
+      // 3. 날짜가 같으면 캐시된 단어 반환 (한국어의 경우 캐시 무시)
       if (lastUpdatedDate == today && learningLanguage != 'Korean') {
         final cachedWords = await _loadCachedDailyWords(
           category,
@@ -127,22 +152,38 @@ class DailyWordService {
         }
       }
 
-      // 3. 학습 완료 단어 목록 로드
+      // 4. 학습 완료 단어 목록 로드
       Set<String> learnedWords = await _loadLearnedWords();
 
-      // 4. 오늘의 단어 목록 생성
+      // 5. 오늘의 단어 목록 생성
       List<String> newDailyWords = [];
 
-      // 5. 코어 단어 가져오기
-      final coreWords = await _getCoreWords(
-        category,
-        level,
-        learnedWords,
-        coreCount,
-        learningLanguage,
-      );
-      print('Korean core words: $coreWords (count: ${coreWords.length})');
-      newDailyWords.addAll(coreWords);
+      // 일상회화 카테고리이고 기초다지기 레벨인 경우 SVG 파서 사용
+      if (category == 'conversation' &&
+          level == 'beginner' &&
+          learningLanguage == 'English') {
+        final svgWords = await VocabSvgParser.getRandomConversationWords(
+          count: 5,
+        );
+        newDailyWords = svgWords
+            .map((w) => w['word'] ?? '')
+            .where((w) => w.isNotEmpty)
+            .toList();
+        print(
+          'SVG conversation words: $newDailyWords (count: ${newDailyWords.length})',
+        );
+      } else {
+        // 6. 코어 단어 가져오기
+        final coreWords = await _getCoreWords(
+          category,
+          level,
+          learnedWords,
+          coreCount,
+          learningLanguage,
+        );
+        print('Korean core words: $coreWords (count: ${coreWords.length})');
+        newDailyWords.addAll(coreWords);
+      }
 
       // 6. 확장 단어 가져오기
       if (learnedWords.isNotEmpty) {
@@ -483,13 +524,13 @@ class DailyWordService {
 
       switch (level) {
         case 'beginner':
-          // 초급: 1~3000위 단어
+          // 기초다지기: 1~3000위 단어
           return rank >= 1 && rank <= 3000;
         case 'intermediate':
-          // 중급: 3001~10000위 단어
+          // 표현력확장: 3001~10000위 단어
           return rank > 3000 && rank <= 10000;
         case 'advanced':
-          // 고급: 10001~30000위 단어
+          // 원어민수준: 10001~30000위 단어
           return rank > 10000 && rank <= 30000;
         default:
           return true;
@@ -506,6 +547,19 @@ class DailyWordService {
     String category,
   ) async {
     final List<WordModel> wordModels = [];
+
+    // 일상회화 카테고리이고 기초다지기 레벨인 경우 SVG 파서 사용
+    if (category == 'conversation' &&
+        level == 'beginner' &&
+        learningLanguage == 'English') {
+      return await VocabSvgParser.convertToWordModels(
+        level: level,
+        learningLanguage: learningLanguage,
+        nativeLanguage: nativeLanguage,
+        category: category,
+        count: words.length,
+      );
+    }
 
     for (String word in words) {
       final wordModel = await DictionaryApiService.createWordFromApi(
@@ -567,5 +621,35 @@ class DailyWordService {
     final learnedWords = await _loadLearnedWords();
 
     return {'total': learnedWords.length, 'words': learnedWords.toList()};
+  }
+
+  /// 레벨을 JSON 형식으로 변환
+  static String _convertLevelToJson(String level) {
+    switch (level) {
+      case 'beginner':
+        return '기초다지기';
+      case 'intermediate':
+        return '표현력확장';
+      case 'advanced':
+        return '원어민수준';
+      default:
+        return '기초다지기';
+    }
+  }
+
+  /// 카테고리를 JSON 형식으로 변환
+  static String _convertCategoryToJson(String category) {
+    switch (category) {
+      case 'conversation':
+        return '일상회화';
+      case 'travel':
+        return '여행';
+      case 'business':
+        return '비즈니스';
+      case 'news':
+        return '뉴스-시사';
+      default:
+        return '일상회화';
+    }
   }
 }

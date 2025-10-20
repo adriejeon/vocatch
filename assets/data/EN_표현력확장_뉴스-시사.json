@@ -1,0 +1,1922 @@
+[
+  {
+    "word": "controversy",
+    "meaning_ko": "논란, 쟁점",
+    "pos": "noun",
+    "example": "The new tax plan sparked public controversy.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "allegation",
+    "meaning_ko": "혐의, 주장",
+    "pos": "noun",
+    "example": "The company faces serious allegations of fraud.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "investigation",
+    "meaning_ko": "조사",
+    "pos": "noun",
+    "example": "A formal investigation into the accident has begun.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "scrutiny",
+    "meaning_ko": "정밀 조사, 감시",
+    "pos": "noun",
+    "example": "The leader's past has come under media scrutiny.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "implication",
+    "meaning_ko": "영향, 암시",
+    "pos": "noun",
+    "example": "What are the long-term implications of this trade deal?",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "infrastructure",
+    "meaning_ko": "사회 기반 시설",
+    "pos": "noun",
+    "example": "The city needs investment in its aging infrastructure.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "legislation",
+    "meaning_ko": "법률, 입법",
+    "pos": "noun",
+    "example": "New environmental legislation will be introduced next year.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "consensus",
+    "meaning_ko": "합의, 의견 일치",
+    "pos": "noun",
+    "example": "There is a growing consensus on the need for reform.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "dialogue",
+    "meaning_ko": "대화, 회담",
+    "pos": "noun",
+    "example": "Diplomats initiated a peaceful dialogue between the two nations.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "initiative",
+    "meaning_ko": "계획, 주도권",
+    "pos": "noun",
+    "example": "The government launched a new initiative to boost employment.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "strategy",
+    "meaning_ko": "전략",
+    "pos": "noun",
+    "example": "The company needs a new marketing strategy to remain competitive.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "allocate",
+    "meaning_ko": "할당하다",
+    "pos": "verb",
+    "example": "They decided to allocate more resources to public services.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "deficit",
+    "meaning_ko": "적자",
+    "pos": "noun",
+    "example": "The national budget is showing a huge deficit.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "inflation",
+    "meaning_ko": "인플레이션",
+    "pos": "noun",
+    "example": "Inflation is causing the price of basic goods to soar.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "recession",
+    "meaning_ko": "경기 침체",
+    "pos": "noun",
+    "example": "Experts predict a slight recession next quarter.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fluctuate",
+    "meaning_ko": "변동하다",
+    "pos": "verb",
+    "example": "The stock market continues to fluctuate wildly.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "mortality rate",
+    "meaning_ko": "사망률",
+    "pos": "noun",
+    "example": "The mortality rate for the new virus is concerning.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "epidemic",
+    "meaning_ko": "전염병, 유행병",
+    "pos": "noun",
+    "example": "The regional government is struggling to contain the epidemic.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pandemic",
+    "meaning_ko": "세계적 유행병",
+    "pos": "noun",
+    "example": "The global pandemic drastically changed travel habits.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vaccine",
+    "meaning_ko": "백신",
+    "pos": "noun",
+    "example": "The new vaccine provides high immunity.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "clinical trial",
+    "meaning_ko": "임상 시험",
+    "pos": "noun",
+    "example": "The drug is currently in its final clinical trial phase.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "innovate",
+    "meaning_ko": "혁신하다",
+    "pos": "verb",
+    "example": "The industry must innovate to meet new consumer demands.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "disruptive",
+    "meaning_ko": "파괴적인, 혁신적인",
+    "pos": "adjective",
+    "example": "AI is a disruptive technology changing the labor market.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "patent",
+    "meaning_ko": "특허",
+    "pos": "noun",
+    "example": "The company secured a patent for its new device.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "cyber security",
+    "meaning_ko": "사이버 보안",
+    "pos": "noun",
+    "example": "Concerns over cyber security are rising globally.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "misinformation",
+    "meaning_ko": "잘못된 정보",
+    "pos": "noun",
+    "example": "The media is fighting the spread of misinformation online.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "accountability",
+    "meaning_ko": "책임, 의무",
+    "pos": "noun",
+    "example": "The public demands greater accountability from elected officials.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "transparency",
+    "meaning_ko": "투명성",
+    "pos": "noun",
+    "example": "Transparency in government spending is crucial.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "corruption",
+    "meaning_ko": "부패",
+    "pos": "noun",
+    "example": "The scandal revealed deep-seated corruption within the system.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "impeach",
+    "meaning_ko": "탄핵하다",
+    "pos": "verb",
+    "example": "There were calls to impeach the local governor.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "incumbent",
+    "meaning_ko": "현직의",
+    "pos": "adjective",
+    "example": "The incumbent president faces a tough re-election campaign.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "opponent",
+    "meaning_ko": "반대자, 상대",
+    "pos": "noun",
+    "example": "His main opponent dropped out of the race unexpectedly.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "campaign",
+    "meaning_ko": "선거 운동",
+    "pos": "noun",
+    "example": "The political campaign is gaining momentum in key states.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "rhetoric",
+    "meaning_ko": "수사(학)",
+    "pos": "noun",
+    "example": "The politician used strong rhetoric to rally his supporters.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ratify",
+    "meaning_ko": "비준하다, 승인하다",
+    "pos": "verb",
+    "example": "The parliament voted to ratify the treaty.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "amendment",
+    "meaning_ko": "개정(안)",
+    "pos": "noun",
+    "example": "They proposed an amendment to the constitution.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sanction",
+    "meaning_ko": "제재",
+    "pos": "noun",
+    "example": "The global community imposed economic sanctions on the nation.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "diplomacy",
+    "meaning_ko": "외교",
+    "pos": "noun",
+    "example": "The crisis requires delicate diplomacy.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "refugee",
+    "meaning_ko": "난민",
+    "pos": "noun",
+    "example": "The country accepted thousands of refugees fleeing conflict.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "humanitarian",
+    "meaning_ko": "인도주의적인",
+    "pos": "adjective",
+    "example": "A humanitarian crisis is unfolding in the region.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sustainability",
+    "meaning_ko": "지속 가능성",
+    "pos": "noun",
+    "example": "Focusing on sustainability is key for the future.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "emission",
+    "meaning_ko": "배출(량)",
+    "pos": "noun",
+    "example": "Governments are aiming to reduce carbon emissions.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "conservation",
+    "meaning_ko": "보존",
+    "pos": "noun",
+    "example": "Wildlife conservation efforts are increasing.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "renewable energy",
+    "meaning_ko": "재생 가능 에너지",
+    "pos": "noun",
+    "example": "Investment in renewable energy is skyrocketing.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "global warming",
+    "meaning_ko": "지구 온난화",
+    "pos": "noun",
+    "example": "The debate on how to tackle global warming continues.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "habitat",
+    "meaning_ko": "서식지",
+    "pos": "noun",
+    "example": "The pollution destroyed the natural habitat of many species.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "diversity",
+    "meaning_ko": "다양성",
+    "pos": "noun",
+    "example": "The company promotes cultural diversity in the workplace.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "prejudice",
+    "meaning_ko": "편견",
+    "pos": "noun",
+    "example": "We need to challenge social prejudice.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "marginalized",
+    "meaning_ko": "소외된",
+    "pos": "adjective",
+    "example": "The program helps marginalized communities.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "discrimination",
+    "meaning_ko": "차별",
+    "pos": "noun",
+    "example": "The law prohibits discrimination based on age or gender.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "integration",
+    "meaning_ko": "통합",
+    "pos": "noun",
+    "example": "The successful integration of immigrants is key to social harmony.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "reform",
+    "meaning_ko": "개혁",
+    "pos": "noun",
+    "example": "The new leader promised immediate economic reform.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "restructure",
+    "meaning_ko": "재편성하다",
+    "pos": "verb",
+    "example": "The company decided to restructure its entire organization.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "merger",
+    "meaning_ko": "합병",
+    "pos": "noun",
+    "example": "The merger of the two airlines created a new market leader.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "acquisition",
+    "meaning_ko": "인수",
+    "pos": "noun",
+    "example": "The tech giant announced its acquisition of a smaller startup.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "monopoly",
+    "meaning_ko": "독점",
+    "pos": "noun",
+    "example": "The government is investigating the company for illegal monopoly practices.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "competitor",
+    "meaning_ko": "경쟁사",
+    "pos": "noun",
+    "example": "Our main competitor just launched a similar product.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "revenue",
+    "meaning_ko": "수익",
+    "pos": "noun",
+    "example": "The company's quarterly revenue exceeded expectations.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "expenditure",
+    "meaning_ko": "지출",
+    "pos": "noun",
+    "example": "We need to control public expenditure more tightly.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "forecast",
+    "meaning_ko": "예측, 예보",
+    "pos": "noun",
+    "example": "The economic forecast for the next year is positive.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "speculate",
+    "meaning_ko": "추측하다",
+    "pos": "verb",
+    "example": "We can only speculate on the true motives behind the deal.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "refute",
+    "meaning_ko": "반박하다",
+    "pos": "verb",
+    "example": "The spokesperson attempted to refute the negative claims.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "corroborate",
+    "meaning_ko": "확증하다",
+    "pos": "verb",
+    "example": "Witness statements corroborate the official version of events.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "credibility",
+    "meaning_ko": "신뢰성",
+    "pos": "noun",
+    "example": "The scandal seriously damaged his credibility as a journalist.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "misleading",
+    "meaning_ko": "오해의 소지가 있는",
+    "pos": "adjective",
+    "example": "The advertisement was criticized for being highly misleading.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ethical",
+    "meaning_ko": "윤리적인",
+    "pos": "adjective",
+    "example": "The report raises serious ethical concerns about the research.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "impartial",
+    "meaning_ko": "공평한",
+    "pos": "adjective",
+    "example": "We must ensure the committee remains impartial in its judgment.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "judgement",
+    "meaning_ko": "판단",
+    "pos": "noun",
+    "example": "The judge delivered his final judgement today.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "verdict",
+    "meaning_ko": "평결",
+    "pos": "noun",
+    "example": "The jury returned a guilty verdict.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sentence",
+    "meaning_ko": "형량",
+    "pos": "noun",
+    "example": "The judge handed down a harsh sentence.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "appeal",
+    "meaning_ko": "항소하다",
+    "pos": "verb",
+    "example": "The defense lawyer announced plans to appeal the sentence.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "prosecutor",
+    "meaning_ko": "검사",
+    "pos": "noun",
+    "example": "The prosecutor presented compelling evidence.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "defendant",
+    "meaning_ko": "피고",
+    "pos": "noun",
+    "example": "The defendant maintained his innocence.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "civil liberties",
+    "meaning_ko": "시민의 자유",
+    "pos": "noun",
+    "example": "The new surveillance law threatens civil liberties.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "privacy",
+    "meaning_ko": "사생활",
+    "pos": "noun",
+    "example": "The debate centers on privacy versus security.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "surveillance",
+    "meaning_ko": "감시",
+    "pos": "noun",
+    "example": "Increased surveillance measures were put in place.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "terrorism",
+    "meaning_ko": "테러",
+    "pos": "noun",
+    "example": "The police are on high alert due to the threat of terrorism.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "detention",
+    "meaning_ko": "구금",
+    "pos": "noun",
+    "example": "He was held in police detention for questioning.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "negotiate",
+    "meaning_ko": "협상하다",
+    "pos": "verb",
+    "example": "The union is ready to negotiate better working conditions.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "compromise",
+    "meaning_ko": "타협",
+    "pos": "noun",
+    "example": "Both sides had to reach a difficult compromise.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "deadlock",
+    "meaning_ko": "교착 상태",
+    "pos": "noun",
+    "example": "Negotiations reached a political deadlock.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "mediation",
+    "meaning_ko": "중재",
+    "pos": "noun",
+    "example": "The parties agreed to enter mediation to resolve the dispute.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "dispute",
+    "meaning_ko": "분쟁",
+    "pos": "noun",
+    "example": "The two countries are involved in a territorial dispute.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "poverty line",
+    "meaning_ko": "빈곤선",
+    "pos": "noun",
+    "example": "Millions of people live below the poverty line.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "social security",
+    "meaning_ko": "사회 보장",
+    "pos": "noun",
+    "example": "The government is planning cuts to social security benefits.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unemployment rate",
+    "meaning_ko": "실업률",
+    "pos": "noun",
+    "example": "The unemployment rate is the lowest in a decade.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "labor force",
+    "meaning_ko": "노동력",
+    "pos": "noun",
+    "example": "The aging population is shrinking the labor force.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "collective bargaining",
+    "meaning_ko": "단체 교섭",
+    "pos": "noun",
+    "example": "The union initiated collective bargaining with management.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "gender equality",
+    "meaning_ko": "성 평등",
+    "pos": "noun",
+    "example": "Gender equality in pay remains a major goal.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "housing crisis",
+    "meaning_ko": "주택 위기",
+    "pos": "noun",
+    "example": "The city is currently dealing with a severe housing crisis.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "affordable housing",
+    "meaning_ko": "저렴한 주택",
+    "pos": "noun",
+    "example": "The new policy aims to increase affordable housing options.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "suburb",
+    "meaning_ko": "교외",
+    "pos": "noun",
+    "example": "The cost of living in the suburb is lower than in the city center.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "urbanization",
+    "meaning_ko": "도시화",
+    "pos": "noun",
+    "example": "Rapid urbanization creates new challenges for city planning.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "rural area",
+    "meaning_ko": "시골 지역",
+    "pos": "noun",
+    "example": "More investment is needed in rural areas.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fossil fuel",
+    "meaning_ko": "화석 연료",
+    "pos": "noun",
+    "example": "The transition away from fossil fuels is slow.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "climate denier",
+    "meaning_ko": "기후 변화 부정론자",
+    "pos": "noun",
+    "example": "He is often criticized for being a prominent climate denier.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ecological disaster",
+    "meaning_ko": "생태 재앙",
+    "pos": "noun",
+    "example": "The oil spill caused a massive ecological disaster.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "biodiversity",
+    "meaning_ko": "생물 다양성",
+    "pos": "noun",
+    "example": "Protecting biodiversity is critical for the planet's health.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "carbon footprint",
+    "meaning_ko": "탄소 발자국",
+    "pos": "noun",
+    "example": "The company aims to reduce its carbon footprint to zero.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "environmental protection",
+    "meaning_ko": "환경 보호",
+    "pos": "noun",
+    "example": "Environmental protection is a key area of policy debate.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "natural resource",
+    "meaning_ko": "천연 자원",
+    "pos": "noun",
+    "example": "We must manage our natural resources responsibly.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "media bias",
+    "meaning_ko": "언론 편향",
+    "pos": "noun",
+    "example": "The article was criticized for exhibiting clear media bias.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "editorial",
+    "meaning_ko": "사설",
+    "pos": "noun",
+    "example": "The newspaper published a strongly worded editorial.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "feature article",
+    "meaning_ko": "특집 기사",
+    "pos": "noun",
+    "example": "The magazine ran a feature article on space exploration.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "press release",
+    "meaning_ko": "보도 자료",
+    "pos": "noun",
+    "example": "The company issued a press release denying the rumors.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "source material",
+    "meaning_ko": "자료 출처",
+    "pos": "noun",
+    "example": "Always verify your source material before quoting.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "quote",
+    "meaning_ko": "인용하다",
+    "pos": "verb",
+    "example": "Reporters must quote the source accurately.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "speculation",
+    "meaning_ko": "추측",
+    "pos": "noun",
+    "example": "The article is based purely on speculation.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "verified",
+    "meaning_ko": "검증된",
+    "pos": "adjective",
+    "example": "The information has been verified by multiple sources.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unverified",
+    "meaning_ko": "검증되지 않은",
+    "pos": "adjective",
+    "example": "Avoid sharing unverified claims on social media.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "critical thinking",
+    "meaning_ko": "비판적 사고",
+    "pos": "noun",
+    "example": "Developing critical thinking skills is vital for interpreting news.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "perspective",
+    "meaning_ko": "관점",
+    "pos": "noun",
+    "example": "Try to see the issue from a different perspective.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "nuance",
+    "meaning_ko": "뉘앙스",
+    "pos": "noun",
+    "example": "The debate captures the nuance of the complex situation.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "clarify",
+    "meaning_ko": "명확히 하다",
+    "pos": "verb",
+    "example": "I need to clarify the terms of the agreement.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "articulate",
+    "meaning_ko": "분명히 표현하다",
+    "pos": "verb",
+    "example": "She articulated her concerns clearly and precisely.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "elaborate",
+    "meaning_ko": "상세히 설명하다",
+    "pos": "verb",
+    "example": "Can you elaborate on your main argument?",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "counter-argument",
+    "meaning_ko": "반론",
+    "pos": "noun",
+    "example": "The opposition presented a strong counter-argument.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "proponent",
+    "meaning_ko": "옹호자",
+    "pos": "noun",
+    "example": "She is a strong proponent of universal healthcare.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "opponent",
+    "meaning_ko": "반대자",
+    "pos": "noun",
+    "example": "The opponent of the bill gave a powerful speech.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "rationale",
+    "meaning_ko": "논리적 근거",
+    "pos": "noun",
+    "example": "What is the rationale behind the change in policy?",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "premise",
+    "meaning_ko": "전제",
+    "pos": "noun",
+    "example": "The argument is based on a flawed premise.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "conclusion",
+    "meaning_ko": "결론",
+    "pos": "noun",
+    "example": "The report draws a clear conclusion about the findings.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "objective",
+    "meaning_ko": "객관적인",
+    "pos": "adjective",
+    "example": "Journalists must strive to remain objective.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "subjective",
+    "meaning_ko": "주관적인",
+    "pos": "adjective",
+    "example": "His interpretation of the data is highly subjective.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "biased",
+    "meaning_ko": "편향된",
+    "pos": "adjective",
+    "example": "The review was clearly biased in favor of the author's friend.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unbiased",
+    "meaning_ko": "편향되지 않은",
+    "pos": "adjective",
+    "example": "The jury must be unbiased to ensure a fair trial.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fact-check",
+    "meaning_ko": "사실 확인하다",
+    "pos": "verb",
+    "example": "Always fact-check sensational claims before believing them.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "viral",
+    "meaning_ko": "입소문이 난",
+    "pos": "adjective",
+    "example": "The story went viral immediately after it was posted.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "troll",
+    "meaning_ko": "악플러",
+    "pos": "noun",
+    "example": "Do not engage with internet trolls.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "influencer",
+    "meaning_ko": "인플루언서",
+    "pos": "noun",
+    "example": "Social media influencers promote various products.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "digital divide",
+    "meaning_ko": "정보 격차",
+    "pos": "noun",
+    "example": "The government is trying to bridge the digital divide.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "artificial intelligence",
+    "meaning_ko": "인공지능",
+    "pos": "noun",
+    "example": "Artificial intelligence is rapidly transforming industries.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "robotics",
+    "meaning_ko": "로봇 공학",
+    "pos": "noun",
+    "example": "The field of robotics is developing quickly.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "automation",
+    "meaning_ko": "자동화",
+    "pos": "noun",
+    "example": "Automation is affecting many manufacturing jobs.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "future-proof",
+    "meaning_ko": "미래에도 문제없도록 대비하다",
+    "pos": "verb",
+    "example": "We need to future-proof our skills to stay relevant.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "workplace culture",
+    "meaning_ko": "직장 문화",
+    "pos": "noun",
+    "example": "The company is focused on improving its workplace culture.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "remote work",
+    "meaning_ko": "재택 근무",
+    "pos": "noun",
+    "example": "Remote work has become the new normal for many.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "gig economy",
+    "meaning_ko": "긱 경제",
+    "pos": "noun",
+    "example": "The gig economy offers flexible but often unstable work.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "minimum wage",
+    "meaning_ko": "최저 임금",
+    "pos": "noun",
+    "example": "There is a debate over raising the minimum wage.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "income disparity",
+    "meaning_ko": "소득 격차",
+    "pos": "noun",
+    "example": "Reducing income disparity is a central policy goal.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "settlement",
+    "meaning_ko": "합의, 정착",
+    "pos": "noun",
+    "example": "The two parties reached a settlement after months of talks.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "hostage",
+    "meaning_ko": "인질",
+    "pos": "noun",
+    "example": "Authorities are trying to secure the release of the hostages.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "evacuate",
+    "meaning_ko": "대피시키다",
+    "pos": "verb",
+    "example": "Residents were asked to evacuate immediately due to the fire.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "mandate",
+    "meaning_ko": "의무화하다",
+    "pos": "verb",
+    "example": "The city council mandated the use of helmets for all cyclists.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "coalition",
+    "meaning_ko": "연합",
+    "pos": "noun",
+    "example": "The political coalition dissolved after policy disagreements.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "provisional",
+    "meaning_ko": "임시적인",
+    "pos": "adjective",
+    "example": "They established a provisional government until the next election.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vetting",
+    "meaning_ko": "심사",
+    "pos": "noun",
+    "example": "The background vetting process for new employees is strict.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "liability",
+    "meaning_ko": "책임",
+    "pos": "noun",
+    "example": "The company accepted full liability for the damage caused.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "reparations",
+    "meaning_ko": "배상금",
+    "pos": "noun",
+    "example": "The country demanded reparations for war damages.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "allegiance",
+    "meaning_ko": "충성",
+    "pos": "noun",
+    "example": "Citizens pledge their allegiance to the flag.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sovereignty",
+    "meaning_ko": "주권",
+    "pos": "noun",
+    "example": "The dispute challenges the nation's sovereignty over the territory.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "prelude",
+    "meaning_ko": "서막, 전조",
+    "pos": "noun",
+    "example": "The protests were a prelude to a wider social upheaval.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "deterrent",
+    "meaning_ko": "억제책",
+    "pos": "noun",
+    "example": "Strict penalties act as a deterrent to crime.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "amnesty",
+    "meaning_ko": "사면",
+    "pos": "noun",
+    "example": "The government granted general amnesty to political prisoners.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "bipartisan",
+    "meaning_ko": "초당적인",
+    "pos": "adjective",
+    "example": "The bill received bipartisan support in the legislature.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "grassroots",
+    "meaning_ko": "풀뿌리, 일반 대중의",
+    "pos": "adjective",
+    "example": "The campaign relies heavily on grassroots activism.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "endorse",
+    "meaning_ko": "지지하다",
+    "pos": "verb",
+    "example": "The former president chose to endorse the leading candidate.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "abstain",
+    "meaning_ko": "기권하다",
+    "pos": "verb",
+    "example": "Three members chose to abstain from the vote.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "secede",
+    "meaning_ko": "분리 독립하다",
+    "pos": "verb",
+    "example": "The region is holding a referendum on whether to secede.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sanction",
+    "meaning_ko": "승인하다, 허가하다",
+    "pos": "verb",
+    "example": "The board will sanction the new spending plan tomorrow.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "tariff",
+    "meaning_ko": "관세",
+    "pos": "noun",
+    "example": "The trade war involved imposing high tariffs on imported goods.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "subsidy",
+    "meaning_ko": "보조금",
+    "pos": "noun",
+    "example": "The government provides subsidies to local farmers.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "bailout",
+    "meaning_ko": "구제 금융",
+    "pos": "noun",
+    "example": "The bank requested a massive government bailout.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "liquidity",
+    "meaning_ko": "유동성",
+    "pos": "noun",
+    "example": "The central bank injected liquidity into the financial system.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "insolvency",
+    "meaning_ko": "지불 불능",
+    "pos": "noun",
+    "example": "The company declared insolvency after failing to meet its debts.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "venture capital",
+    "meaning_ko": "벤처 자본",
+    "pos": "noun",
+    "example": "The startup secured a large round of venture capital funding.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "monetary policy",
+    "meaning_ko": "통화 정책",
+    "pos": "noun",
+    "example": "The central bank adjusted its monetary policy to fight inflation.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fiscal policy",
+    "meaning_ko": "재정 정책",
+    "pos": "noun",
+    "example": "The government's fiscal policy involves tax hikes and spending cuts.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "commodity",
+    "meaning_ko": "상품, 원자재",
+    "pos": "noun",
+    "example": "The price of basic commodities like wheat and sugar has surged.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "consumer confidence",
+    "meaning_ko": "소비자 신뢰",
+    "pos": "noun",
+    "example": "Low consumer confidence signals a potential economic slowdown.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "prognosis",
+    "meaning_ko": "예후, 예측",
+    "pos": "noun",
+    "example": "The economic prognosis for the coming year is uncertain.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "prevalence",
+    "meaning_ko": "유행, 보급률",
+    "pos": "noun",
+    "example": "The prevalence of obesity is a major public health concern.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "rehabilitation",
+    "meaning_ko": "재활",
+    "pos": "noun",
+    "example": "The goal is the rehabilitation of patients back into society.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "chronic illness",
+    "meaning_ko": "만성 질환",
+    "pos": "noun",
+    "example": "The report addresses the rising costs of treating chronic illnesses.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "infant mortality",
+    "meaning_ko": "유아 사망률",
+    "pos": "noun",
+    "example": "The country has achieved a low infant mortality rate.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "palliative care",
+    "meaning_ko": "완화 치료",
+    "pos": "noun",
+    "example": "Palliative care focuses on relieving suffering.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "telemedicine",
+    "meaning_ko": "원격 의료",
+    "pos": "noun",
+    "example": "Telemedicine allows doctors to treat patients remotely.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "algorithm",
+    "meaning_ko": "알고리즘",
+    "pos": "noun",
+    "example": "The social media platform changed its content algorithm.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "biometrics",
+    "meaning_ko": "생체 인식",
+    "pos": "noun",
+    "example": "Biometrics are used for high-security identification.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "cryptocurrency",
+    "meaning_ko": "암호화폐",
+    "pos": "noun",
+    "example": "The volatility of cryptocurrency is a concern for investors.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "decentralized",
+    "meaning_ko": "분산된",
+    "pos": "adjective",
+    "example": "Blockchain technology is highly decentralized.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "interface",
+    "meaning_ko": "인터페이스",
+    "pos": "noun",
+    "example": "The user interface of the new app is very intuitive.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "cyber espionage",
+    "meaning_ko": "사이버 첩보",
+    "pos": "noun",
+    "example": "The country was accused of engaging in cyber espionage.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "data breach",
+    "meaning_ko": "데이터 유출",
+    "pos": "noun",
+    "example": "The massive data breach exposed millions of customer records.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "whistleblower",
+    "meaning_ko": "내부 고발자",
+    "pos": "noun",
+    "example": "The whistleblower revealed the company's illegal activities.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "defamation",
+    "meaning_ko": "명예 훼손",
+    "pos": "noun",
+    "example": "He filed a lawsuit for defamation against the newspaper.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "subpoena",
+    "meaning_ko": "소환장",
+    "pos": "noun",
+    "example": "The CEO was issued a subpoena to testify.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "habeas corpus",
+    "meaning_ko": "인신 보호 영장",
+    "pos": "noun",
+    "example": "The prisoner's lawyer filed a writ of habeas corpus.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "jurisdiction",
+    "meaning_ko": "관할권",
+    "pos": "noun",
+    "example": "The court ruled that it lacked jurisdiction over the case.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "testimony",
+    "meaning_ko": "증언",
+    "pos": "noun",
+    "example": "The testimony of the key witness was crucial.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "adjourn",
+    "meaning_ko": "휴회하다",
+    "pos": "verb",
+    "example": "The trial was adjourned until the following week.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "probation",
+    "meaning_ko": "보호 관찰",
+    "pos": "noun",
+    "example": "He was released from prison and put on probation.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "extradition",
+    "meaning_ko": "범인 인도",
+    "pos": "noun",
+    "example": "The two nations signed an extradition treaty.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "curfew",
+    "meaning_ko": "통행금지",
+    "pos": "noun",
+    "example": "A nightly curfew was imposed to restore order.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "dissident",
+    "meaning_ko": "반체제 인사",
+    "pos": "noun",
+    "example": "The famous dissident was finally released from jail.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "autonomy",
+    "meaning_ko": "자율성",
+    "pos": "noun",
+    "example": "The region is demanding greater political autonomy.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "coup d'état",
+    "meaning_ko": "쿠데타",
+    "pos": "noun",
+    "example": "The army staged a successful coup d'état.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "belligerent",
+    "meaning_ko": "교전 중인",
+    "pos": "adjective",
+    "example": "The neighboring countries have adopted a belligerent stance.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ceasefire",
+    "meaning_ko": "휴전",
+    "pos": "noun",
+    "example": "Both sides agreed to an immediate ceasefire.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "truce",
+    "meaning_ko": "정전",
+    "pos": "noun",
+    "example": "The temporary truce allowed aid workers into the zone.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "guerilla warfare",
+    "meaning_ko": "게릴라전",
+    "pos": "noun",
+    "example": "The rebels relied on guerilla warfare tactics.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "proxy war",
+    "meaning_ko": "대리전",
+    "pos": "noun",
+    "example": "The conflict has been described as a proxy war between major powers.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "annex",
+    "meaning_ko": "합병하다",
+    "pos": "verb",
+    "example": "The larger country threatened to annex the disputed territory.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "coalition",
+    "meaning_ko": "연립 정부",
+    "pos": "noun",
+    "example": "The ruling coalition holds a slim parliamentary majority.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "referendum",
+    "meaning_ko": "국민 투표",
+    "pos": "noun",
+    "example": "The country held a referendum on constitutional changes.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "polling station",
+    "meaning_ko": "투표소",
+    "pos": "noun",
+    "example": "Long queues were reported outside the polling station.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "turnout",
+    "meaning_ko": "투표율",
+    "pos": "noun",
+    "example": "Voter turnout was significantly higher than expected.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "lobbying",
+    "meaning_ko": "로비 활동",
+    "pos": "noun",
+    "example": "Industry groups spent millions on lobbying efforts.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "grassroots",
+    "meaning_ko": "풀뿌리 운동",
+    "pos": "noun",
+    "example": "The environmental movement started as a small grassroots campaign.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "protestor",
+    "meaning_ko": "시위자",
+    "pos": "noun",
+    "example": "Protestors gathered peacefully outside the capitol building.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "demonstration",
+    "meaning_ko": "시위",
+    "pos": "noun",
+    "example": "The student demonstration shut down the main street.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "civil unrest",
+    "meaning_ko": "시민 불안",
+    "pos": "noun",
+    "example": "The government struggled to contain the civil unrest.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "dissolution",
+    "meaning_ko": "해산",
+    "pos": "noun",
+    "example": "The dissolution of the parliament triggered snap elections.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "caucus",
+    "meaning_ko": "당원 대회",
+    "pos": "noun",
+    "example": "The party held a secret caucus to select its candidate.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "filibuster",
+    "meaning_ko": "의사진행 방해",
+    "pos": "noun",
+    "example": "The opposition used a filibuster to delay the vote.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "deforestation",
+    "meaning_ko": "산림 벌채",
+    "pos": "noun",
+    "example": "Deforestation contributes significantly to climate change.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "biodegradable",
+    "meaning_ko": "생분해성의",
+    "pos": "adjective",
+    "example": "Consumers prefer biodegradable packaging.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ecosystem",
+    "meaning_ko": "생태계",
+    "pos": "noun",
+    "example": "Pollution severely damaged the local marine ecosystem.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "finite resource",
+    "meaning_ko": "유한 자원",
+    "pos": "noun",
+    "example": "We need to conserve our finite resources.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "carbon neutrality",
+    "meaning_ko": "탄소 중립",
+    "pos": "noun",
+    "example": "The city aims to achieve carbon neutrality by 2050.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "subsidize",
+    "meaning_ko": "보조금을 지급하다",
+    "pos": "verb",
+    "example": "The government subsidizes solar power installation.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "infrastructure project",
+    "meaning_ko": "사회 기반 시설 사업",
+    "pos": "noun",
+    "example": "The new bond issue will fund major infrastructure projects.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "labor dispute",
+    "meaning_ko": "노동 쟁의",
+    "pos": "noun",
+    "example": "The negotiation aims to resolve the ongoing labor dispute.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "strike action",
+    "meaning_ko": "파업",
+    "pos": "noun",
+    "example": "The union threatened to take strike action next week.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "retiree",
+    "meaning_ko": "은퇴자",
+    "pos": "noun",
+    "example": "The rise in living costs affects many retirees.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pension fund",
+    "meaning_ko": "연금 기금",
+    "pos": "noun",
+    "example": "The stability of the national pension fund is a concern.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "demographics",
+    "meaning_ko": "인구 통계",
+    "pos": "noun",
+    "example": "Changing demographics are reshaping the consumer market.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "disparity",
+    "meaning_ko": "격차",
+    "pos": "noun",
+    "example": "The income disparity between urban and rural areas is widening.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "mismanagement",
+    "meaning_ko": "잘못된 관리",
+    "pos": "noun",
+    "example": "The inquiry revealed widespread financial mismanagement.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "oversight",
+    "meaning_ko": "감독",
+    "pos": "noun",
+    "example": "The committee provides oversight for public spending.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fraudulent",
+    "meaning_ko": "사기적인",
+    "pos": "adjective",
+    "example": "The executive was charged with fraudulent accounting practices.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "accountant",
+    "meaning_ko": "회계사",
+    "pos": "noun",
+    "example": "The company hired a new independent accountant.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "audit",
+    "meaning_ko": "감사",
+    "pos": "noun",
+    "example": "The internal audit uncovered several irregularities.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "transgressor",
+    "meaning_ko": "위반자",
+    "pos": "noun",
+    "example": "The law aims to punish financial transgressors severely.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "euphemism",
+    "meaning_ko": "완곡어법",
+    "pos": "noun",
+    "example": "'Downsizing' is often used as a euphemism for layoffs.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "hyperbole",
+    "meaning_ko": "과장법",
+    "pos": "noun",
+    "example": "The media often uses hyperbole to sensationalize stories.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sensationalism",
+    "meaning_ko": "선정주의",
+    "pos": "noun",
+    "example": "The newspaper was accused of harmful sensationalism.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pundit",
+    "meaning_ko": "전문가, 평론가",
+    "pos": "noun",
+    "example": "Political pundits offered their analysis after the debate.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "analyst",
+    "meaning_ko": "분석가",
+    "pos": "noun",
+    "example": "A financial analyst commented on the quarterly results.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "discourse",
+    "meaning_ko": "담론",
+    "pos": "noun",
+    "example": "The public discourse on immigration has become heated.",
+    "level": "표현력확장",
+    "category": "뉴스/회화"
+  }
+]

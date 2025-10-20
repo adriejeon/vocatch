@@ -1,0 +1,410 @@
+[
+  {
+    "word": "journalism",
+    "meaning_ko": "journalism",
+    "pos": "noun",
+    "example": "This is an example with journalism.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "reporter",
+    "meaning_ko": "reporter",
+    "pos": "noun",
+    "example": "This is an example with reporter.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "correspondent",
+    "meaning_ko": "correspondent",
+    "pos": "noun",
+    "example": "This is an example with correspondent.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "editor",
+    "meaning_ko": "editor",
+    "pos": "noun",
+    "example": "This is an example with editor.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "publisher",
+    "meaning_ko": "publisher",
+    "pos": "noun",
+    "example": "This is an example with publisher.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "broadcast",
+    "meaning_ko": "broadcast",
+    "pos": "noun",
+    "example": "This is an example with broadcast.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "media",
+    "meaning_ko": "media",
+    "pos": "noun",
+    "example": "This is an example with media.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "press",
+    "meaning_ko": "press",
+    "pos": "noun",
+    "example": "This is an example with press.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "newspaper",
+    "meaning_ko": "newspaper",
+    "pos": "noun",
+    "example": "This is an example with newspaper.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "magazine",
+    "meaning_ko": "magazine",
+    "pos": "noun",
+    "example": "This is an example with magazine.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "article",
+    "meaning_ko": "article",
+    "pos": "noun",
+    "example": "This is an example with article.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "headline",
+    "meaning_ko": "headline",
+    "pos": "noun",
+    "example": "This is an example with headline.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "coverage",
+    "meaning_ko": "coverage",
+    "pos": "noun",
+    "example": "This is an example with coverage.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "investigation",
+    "meaning_ko": "investigation",
+    "pos": "noun",
+    "example": "This is an example with investigation.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "interview",
+    "meaning_ko": "interview",
+    "pos": "noun",
+    "example": "This is an example with interview.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "statement",
+    "meaning_ko": "성명",
+    "pos": "noun",
+    "example": "This is an example with statement.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "announcement",
+    "meaning_ko": "announcement",
+    "pos": "noun",
+    "example": "This is an example with announcement.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "declaration",
+    "meaning_ko": "declaration",
+    "pos": "noun",
+    "example": "This is an example with declaration.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "disclosure",
+    "meaning_ko": "disclosure",
+    "pos": "noun",
+    "example": "This is an example with disclosure.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "revelation",
+    "meaning_ko": "revelation",
+    "pos": "noun",
+    "example": "This is an example with revelation.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "incident",
+    "meaning_ko": "incident",
+    "pos": "noun",
+    "example": "This is an example with incident.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "occurrence",
+    "meaning_ko": "occurrence",
+    "pos": "noun",
+    "example": "This is an example with occurrence.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "development",
+    "meaning_ko": "development",
+    "pos": "noun",
+    "example": "This is an example with development.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "situation",
+    "meaning_ko": "situation",
+    "pos": "noun",
+    "example": "This is an example with situation.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "circumstance",
+    "meaning_ko": "circumstance",
+    "pos": "noun",
+    "example": "This is an example with circumstance.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "condition",
+    "meaning_ko": "condition",
+    "pos": "noun",
+    "example": "This is an example with condition.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "politics",
+    "meaning_ko": "politics",
+    "pos": "noun",
+    "example": "This is an example with politics.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "government",
+    "meaning_ko": "government",
+    "pos": "noun",
+    "example": "This is an example with government.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "election",
+    "meaning_ko": "election",
+    "pos": "noun",
+    "example": "This is an example with election.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "policy",
+    "meaning_ko": "policy",
+    "pos": "noun",
+    "example": "This is an example with policy.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "economy",
+    "meaning_ko": "economy",
+    "pos": "noun",
+    "example": "This is an example with economy.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "market",
+    "meaning_ko": "market",
+    "pos": "noun",
+    "example": "This is an example with market.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "crisis",
+    "meaning_ko": "crisis",
+    "pos": "noun",
+    "example": "This is an example with crisis.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "conflict",
+    "meaning_ko": "conflict",
+    "pos": "noun",
+    "example": "This is an example with conflict.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "dispute",
+    "meaning_ko": "dispute",
+    "pos": "noun",
+    "example": "This is an example with dispute.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "controversy",
+    "meaning_ko": "controversy",
+    "pos": "noun",
+    "example": "This is an example with controversy.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "debate",
+    "meaning_ko": "토론하다",
+    "pos": "noun",
+    "example": "This is an example with debate.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "discussion",
+    "meaning_ko": "discussion",
+    "pos": "noun",
+    "example": "This is an example with discussion.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "opinion",
+    "meaning_ko": "의견",
+    "pos": "noun",
+    "example": "This is an example with opinion.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "perspective",
+    "meaning_ko": "perspective",
+    "pos": "noun",
+    "example": "This is an example with perspective.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "analysis",
+    "meaning_ko": "analysis",
+    "pos": "noun",
+    "example": "This is an example with analysis.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "commentary",
+    "meaning_ko": "commentary",
+    "pos": "noun",
+    "example": "This is an example with commentary.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "criticism",
+    "meaning_ko": "비판",
+    "pos": "noun",
+    "example": "This is an example with criticism.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "review",
+    "meaning_ko": "review",
+    "pos": "noun",
+    "example": "This is an example with review.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "evaluation",
+    "meaning_ko": "evaluation",
+    "pos": "noun",
+    "example": "This is an example with evaluation.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "assessment",
+    "meaning_ko": "assessment",
+    "pos": "noun",
+    "example": "This is an example with assessment.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "survey",
+    "meaning_ko": "survey",
+    "pos": "noun",
+    "example": "This is an example with survey.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "statistics",
+    "meaning_ko": "statistics",
+    "pos": "noun",
+    "example": "This is an example with statistics.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "data",
+    "meaning_ko": "data",
+    "pos": "noun",
+    "example": "This is an example with data.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "evidence",
+    "meaning_ko": "evidence",
+    "pos": "noun",
+    "example": "This is an example with evidence.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "proof",
+    "meaning_ko": "proof",
+    "pos": "noun",
+    "example": "This is an example with proof.",
+    "level": "표현력확장",
+    "category": "뉴스-시사"
+  }
+]

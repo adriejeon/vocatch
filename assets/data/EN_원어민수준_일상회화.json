@@ -1,0 +1,2202 @@
+[
+  {
+    "word": "abide",
+    "meaning_ko": "따르다, 준수하다",
+    "pos": "verb",
+    "example": "We must abide by the rules of the contract.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "adhere",
+    "meaning_ko": "고수하다",
+    "pos": "verb",
+    "example": "The committee adhered to the original plan.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "alleviate",
+    "meaning_ko": "완화시키다",
+    "pos": "verb",
+    "example": "A hot bath can alleviate muscle pain.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ambiguous",
+    "meaning_ko": "모호한",
+    "pos": "adjective",
+    "example": "His response to the question was rather ambiguous.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ameliorate",
+    "meaning_ko": "개선하다, 더 좋게 만들다",
+    "pos": "verb",
+    "example": "The new policy is intended to ameliorate working conditions.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "apprehension",
+    "meaning_ko": "불안, 염려",
+    "pos": "noun",
+    "example": "I felt a slight apprehension before the presentation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "arbitrary",
+    "meaning_ko": "임의적인, 독단적인",
+    "pos": "adjective",
+    "example": "The decision seemed arbitrary and unfair.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ascertain",
+    "meaning_ko": "확인하다, 알아내다",
+    "pos": "verb",
+    "example": "We need to ascertain the cause of the system failure.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "attribute",
+    "meaning_ko": "~의 탓으로 돌리다",
+    "pos": "verb",
+    "example": "She attributes her success to hard work.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "augment",
+    "meaning_ko": "증가시키다, 늘리다",
+    "pos": "verb",
+    "example": "He decided to augment his income with a second job.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "bias",
+    "meaning_ko": "편견",
+    "pos": "noun",
+    "example": "We must ensure there is no gender bias in the hiring process.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "calibrate",
+    "meaning_ko": "측정하다, 조정하다",
+    "pos": "verb",
+    "example": "The machine must be carefully calibrated for accurate results.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "cohesive",
+    "meaning_ko": "응집력 있는",
+    "pos": "adjective",
+    "example": "The team worked together to form a cohesive unit.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "commence",
+    "meaning_ko": "시작하다",
+    "pos": "verb",
+    "example": "The ceremony will commence shortly after six o'clock.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "concede",
+    "meaning_ko": "인정하다, 양보하다",
+    "pos": "verb",
+    "example": "I had to concede that his argument was stronger.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "concurrent",
+    "meaning_ko": "동시에 발생하는",
+    "pos": "adjective",
+    "example": "The two events happened at concurrent times.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "confine",
+    "meaning_ko": "제한하다, 국한시키다",
+    "pos": "verb",
+    "example": "Please confine your remarks to the topic.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "conjecture",
+    "meaning_ko": "추측",
+    "pos": "noun",
+    "example": "That's just a conjecture, not a fact.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "consensus",
+    "meaning_ko": "합의, 의견 일치",
+    "pos": "noun",
+    "example": "We need to reach a consensus on this matter.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "constrain",
+    "meaning_ko": "강요하다, 제약하다",
+    "pos": "verb",
+    "example": "Financial difficulties constrained their ability to expand.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "contemplate",
+    "meaning_ko": "심사숙고하다",
+    "pos": "verb",
+    "example": "I need time to contemplate his offer.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "conventional",
+    "meaning_ko": "관습적인, 전통적인",
+    "pos": "adjective",
+    "example": "The movie followed a conventional storyline.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "converge",
+    "meaning_ko": "모여들다, 수렴하다",
+    "pos": "verb",
+    "example": "The various theories converge on a single conclusion.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "corroborate",
+    "meaning_ko": "확증하다, 입증하다",
+    "pos": "verb",
+    "example": "Witness statements corroborated the victim's story.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "criterion",
+    "meaning_ko": "기준",
+    "pos": "noun",
+    "example": "What is the main criterion for success?",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "crucial",
+    "meaning_ko": "결정적인, 중대한",
+    "pos": "adjective",
+    "example": "Timing is crucial for this project.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "deduce",
+    "meaning_ko": "추론하다",
+    "pos": "verb",
+    "example": "I deduced his nationality from his accent.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "deficiency",
+    "meaning_ko": "결핍, 부족",
+    "pos": "noun",
+    "example": "Iron deficiency can lead to fatigue.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "deliberate",
+    "meaning_ko": "고의적인, 신중한",
+    "pos": "adjective",
+    "example": "The act was a deliberate attempt to mislead us.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "denote",
+    "meaning_ko": "나타내다, 의미하다",
+    "pos": "verb",
+    "example": "The symbol 'X' denotes an unknown quantity.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "depict",
+    "meaning_ko": "묘사하다, 그리다",
+    "pos": "verb",
+    "example": "The painting depicts a historical battle.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "derive",
+    "meaning_ko": "~에서 얻다, 유래하다",
+    "pos": "verb",
+    "example": "The word 'science' derives from a Latin word meaning 'knowledge'.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "deteriorate",
+    "meaning_ko": "악화되다",
+    "pos": "verb",
+    "example": "The quality of the product began to deteriorate.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "devise",
+    "meaning_ko": "고안하다, 발명하다",
+    "pos": "verb",
+    "example": "They devised a clever solution to the problem.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "diffuse",
+    "meaning_ko": "널리 퍼뜨리다, 확산시키다",
+    "pos": "verb",
+    "example": "The organization works to diffuse information about public health.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "dilemma",
+    "meaning_ko": "딜레마, 진퇴양난",
+    "pos": "noun",
+    "example": "I'm facing a moral dilemma about what to do.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "discrepancy",
+    "meaning_ko": "불일치, 차이",
+    "pos": "noun",
+    "example": "There's a noticeable discrepancy between the two reports.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "disseminate",
+    "meaning_ko": "퍼뜨리다, 전파하다",
+    "pos": "verb",
+    "example": "The media's job is to disseminate news quickly.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "distinguish",
+    "meaning_ko": "구별하다",
+    "pos": "verb",
+    "example": "It's hard to distinguish between the real and the fake.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "diverge",
+    "meaning_ko": "갈라지다, 벗어나다",
+    "pos": "verb",
+    "example": "The two paths diverge after the bridge.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "dynamic",
+    "meaning_ko": "역동적인, 활발한",
+    "pos": "adjective",
+    "example": "The industry is constantly changing in a dynamic way.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "elicit",
+    "meaning_ko": "끌어내다, 유도하다",
+    "pos": "verb",
+    "example": "The survey aims to elicit consumer feedback.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "elucidate",
+    "meaning_ko": "설명하다, 명확히 하다",
+    "pos": "verb",
+    "example": "Can you elucidate the key points of your proposal?",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "encompass",
+    "meaning_ko": "포괄하다, 포함하다",
+    "pos": "verb",
+    "example": "The course encompasses a wide range of subjects.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "entail",
+    "meaning_ko": "수반하다",
+    "pos": "verb",
+    "example": "The job will entail a lot of overseas travel.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "equitable",
+    "meaning_ko": "공정한, 공평한",
+    "pos": "adjective",
+    "example": "We seek an equitable distribution of resources.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "eradicate",
+    "meaning_ko": "근절하다",
+    "pos": "verb",
+    "example": "The goal is to eradicate poverty in this area.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "evade",
+    "meaning_ko": "피하다, 모면하다",
+    "pos": "verb",
+    "example": "He tried to evade answering the direct question.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "exacerbate",
+    "meaning_ko": "악화시키다",
+    "pos": "verb",
+    "example": "Running will only exacerbate your knee injury.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "explicate",
+    "meaning_ko": "상세히 설명하다",
+    "pos": "verb",
+    "example": "The teacher had to explicate the difficult poem.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "feasible",
+    "meaning_ko": "실현 가능한",
+    "pos": "adjective",
+    "example": "We need to check if the proposed plan is feasible.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "fluctuate",
+    "meaning_ko": "변동하다",
+    "pos": "verb",
+    "example": "Stock prices fluctuate throughout the day.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "foresee",
+    "meaning_ko": "예견하다",
+    "pos": "verb",
+    "example": "I could foresee the eventual outcome of the meeting.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "formulate",
+    "meaning_ko": "명확히 표현하다, 공식화하다",
+    "pos": "verb",
+    "example": "She carefully formulated her ideas into a clear statement.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "hinder",
+    "meaning_ko": "방해하다, 저해하다",
+    "pos": "verb",
+    "example": "Bad weather hindered the rescue efforts.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "homogenous",
+    "meaning_ko": "동종의, 균일한",
+    "pos": "adjective",
+    "example": "The village is a culturally homogenous community.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "hypothesize",
+    "meaning_ko": "가설을 세우다",
+    "pos": "verb",
+    "example": "Scientists hypothesize about the origins of the universe.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ignite",
+    "meaning_ko": "불을 붙이다, 촉발시키다",
+    "pos": "verb",
+    "example": "The speech ignited a wave of protests.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "impart",
+    "meaning_ko": "전달하다, 주다",
+    "pos": "verb",
+    "example": "She sought to impart her knowledge to her students.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "impeccable",
+    "meaning_ko": "흠 잡을 데 없는",
+    "pos": "adjective",
+    "example": "The service at the hotel was absolutely impeccable.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "imperative",
+    "meaning_ko": "필수적인, 의무적인",
+    "pos": "adjective",
+    "example": "It is imperative that we act immediately.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "implicit",
+    "meaning_ko": "암시적인, 내포된",
+    "pos": "adjective",
+    "example": "There was an implicit understanding between them.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "inadvertently",
+    "meaning_ko": "무심코, 부주의로",
+    "pos": "adverb",
+    "example": "I inadvertently deleted the important file.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "incentive",
+    "meaning_ko": "장려책, 동기 부여",
+    "pos": "noun",
+    "example": "The company offers financial incentives for high performance.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "indigenous",
+    "meaning_ko": "토착의, 고유의",
+    "pos": "adjective",
+    "example": "Koalas are indigenous to Australia.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "inevitable",
+    "meaning_ko": "피할 수 없는",
+    "pos": "adjective",
+    "example": "Change is an inevitable part of life.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "infringe",
+    "meaning_ko": "위반하다, 침해하다",
+    "pos": "verb",
+    "example": "Copying the work would infringe copyright laws.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "inherent",
+    "meaning_ko": "내재된, 고유의",
+    "pos": "adjective",
+    "example": "There is an inherent risk in almost all sports.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "innate",
+    "meaning_ko": "타고난",
+    "pos": "adjective",
+    "example": "She has an innate ability to connect with people.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "integrate",
+    "meaning_ko": "통합하다",
+    "pos": "verb",
+    "example": "We need to integrate the new system with the old one.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "intervene",
+    "meaning_ko": "개입하다",
+    "pos": "verb",
+    "example": "The government intervened to stop the strike.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "intricate",
+    "meaning_ko": "복잡한, 정교한",
+    "pos": "adjective",
+    "example": "The clock had an intricate mechanism.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "invoke",
+    "meaning_ko": "(법 등을) 발동하다, 언급하다",
+    "pos": "verb",
+    "example": "He invoked the Fifth Amendment.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "irrevocable",
+    "meaning_ko": "돌이킬 수 없는",
+    "pos": "adjective",
+    "example": "The decision to leave was irrevocable.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "legacy",
+    "meaning_ko": "유산",
+    "pos": "noun",
+    "example": "The company's legacy is one of innovation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "leverage",
+    "meaning_ko": "(영향력 등을) 활용하다",
+    "pos": "verb",
+    "example": "We can leverage our connections to get the deal.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "manifest",
+    "meaning_ko": "나타내다, 명백히 하다",
+    "pos": "verb",
+    "example": "The disease often manifests as a high fever.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "mitigate",
+    "meaning_ko": "완화시키다",
+    "pos": "verb",
+    "example": "We must take action to mitigate the environmental damage.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "modulate",
+    "meaning_ko": "조절하다, 바꾸다",
+    "pos": "verb",
+    "example": "The speaker needs to modulate his tone to sound sincere.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "mundane",
+    "meaning_ko": "평범한, 일상적인",
+    "pos": "adjective",
+    "example": "I'm tired of the mundane routine of office life.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "negate",
+    "meaning_ko": "무효화하다, 부정하다",
+    "pos": "verb",
+    "example": "The new evidence negated his previous testimony.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "nuance",
+    "meaning_ko": "미묘한 차이",
+    "pos": "noun",
+    "example": "She understood the subtle nuances of the language.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "oblige",
+    "meaning_ko": "의무적으로 만들다, 돕다",
+    "pos": "verb",
+    "example": "The law obliges parents to send their children to school.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "opaque",
+    "meaning_ko": "불투명한, 이해하기 어려운",
+    "pos": "adjective",
+    "example": "The technical jargon made the document opaque to laymen.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "paradigm",
+    "meaning_ko": "패러다임, 전형적인 예",
+    "pos": "noun",
+    "example": "The discovery shifted the existing scientific paradigm.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "perceive",
+    "meaning_ko": "인지하다, 인식하다",
+    "pos": "verb",
+    "example": "How do you perceive the current economic climate?",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "perplex",
+    "meaning_ko": "당황하게 하다, 난처하게 하다",
+    "pos": "verb",
+    "example": "The sudden question greatly perplexed the speaker.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "pertinent",
+    "meaning_ko": "적절한, 관련된",
+    "pos": "adjective",
+    "example": "Please stick to the facts pertinent to the case.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "pragmatic",
+    "meaning_ko": "실용적인",
+    "pos": "adjective",
+    "example": "She took a pragmatic approach to solving the problem.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "precede",
+    "meaning_ko": "선행하다, ~보다 앞서다",
+    "pos": "verb",
+    "example": "The introduction precedes the main body of the report.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "prevalent",
+    "meaning_ko": "널리 퍼져있는, 일반적인",
+    "pos": "adjective",
+    "example": "The disease is more prevalent in tropical areas.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "proliferate",
+    "meaning_ko": "증식하다, 급증하다",
+    "pos": "verb",
+    "example": "Rumors about the merger began to proliferate rapidly.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "proximity",
+    "meaning_ko": "근접성, 가까움",
+    "pos": "noun",
+    "example": "The school is valued for its proximity to the station.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "quantify",
+    "meaning_ko": "정량화하다",
+    "pos": "verb",
+    "example": "It is difficult to quantify happiness.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "recapitulate",
+    "meaning_ko": "요점을 되풀이하다, 요약하다",
+    "pos": "verb",
+    "example": "Let me briefly recapitulate the main points.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "reciprocity",
+    "meaning_ko": "상호 호혜",
+    "pos": "noun",
+    "example": "The trade agreement is based on reciprocity.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "reconcile",
+    "meaning_ko": "화해시키다, 일치시키다",
+    "pos": "verb",
+    "example": "It's difficult to reconcile these two opposing views.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "redundant",
+    "meaning_ko": "불필요한, 남아도는",
+    "pos": "adjective",
+    "example": "Using both 'past history' is completely redundant.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "reinforce",
+    "meaning_ko": "강화하다",
+    "pos": "verb",
+    "example": "The evidence helps to reinforce the theory.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "replicate",
+    "meaning_ko": "복제하다, 되풀이하다",
+    "pos": "verb",
+    "example": "The experiment results were difficult to replicate.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "resilience",
+    "meaning_ko": "회복력, 탄력",
+    "pos": "noun",
+    "example": "Her emotional resilience helped her cope with the loss.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "retrospect",
+    "meaning_ko": "회상, 회고",
+    "pos": "noun",
+    "example": "In retrospect, I should have taken the job offer.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "scrutinize",
+    "meaning_ko": "정밀 조사하다",
+    "pos": "verb",
+    "example": "The accountant scrutinized the financial records.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "skeptical",
+    "meaning_ko": "회의적인",
+    "pos": "adjective",
+    "example": "I'm skeptical about the company's bold claims.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "speculate",
+    "meaning_ko": "추측하다, 투기하다",
+    "pos": "verb",
+    "example": "We can only speculate about the reasons for his resignation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "substantiate",
+    "meaning_ko": "입증하다",
+    "pos": "verb",
+    "example": "You must substantiate your claims with data.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "subtlety",
+    "meaning_ko": "미묘함, 섬세함",
+    "pos": "noun",
+    "example": "The actress conveyed the emotional subtlety of the role.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "superficial",
+    "meaning_ko": "표면적인",
+    "pos": "adjective",
+    "example": "Avoid making superficial judgments based on appearance.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "surpass",
+    "meaning_ko": "능가하다",
+    "pos": "verb",
+    "example": "His performance surpassed all our expectations.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "synergy",
+    "meaning_ko": "시너지, 협력 작용",
+    "pos": "noun",
+    "example": "The merger created an unexpected synergy between the two departments.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "tangible",
+    "meaning_ko": "유형의, 만질 수 있는",
+    "pos": "adjective",
+    "example": "We need tangible evidence, not just rumors.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "tenuous",
+    "meaning_ko": "미약한, 보잘것없는",
+    "pos": "adjective",
+    "example": "The link between the two events is rather tenuous.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning_ko": "어디에나 있는",
+    "pos": "adjective",
+    "example": "Smartphones are becoming ubiquitous in modern society.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "unanimous",
+    "meaning_ko": "만장일치의",
+    "pos": "adjective",
+    "example": "The jury reached a unanimous verdict.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "underscore",
+    "meaning_ko": "강조하다",
+    "pos": "verb",
+    "example": "The recent tragedy underscores the need for better safety.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "unprecedented",
+    "meaning_ko": "전례 없는",
+    "pos": "adjective",
+    "example": "The crisis reached an unprecedented scale.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "validate",
+    "meaning_ko": "입증하다, 확인하다",
+    "pos": "verb",
+    "example": "The results of the study validate the new hypothesis.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "viable",
+    "meaning_ko": "실행 가능한",
+    "pos": "adjective",
+    "example": "We need to find a commercially viable strategy.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "volatile",
+    "meaning_ko": "변덕스러운, 불안정한",
+    "pos": "adjective",
+    "example": "The global oil market remains highly volatile.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "warrant",
+    "meaning_ko": "정당화하다, 영장",
+    "pos": "verb",
+    "example": "His poor performance warrants immediate dismissal.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "yield",
+    "meaning_ko": "산출하다, 양보하다",
+    "pos": "verb",
+    "example": "The experiment should yield interesting results.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "abstain",
+    "meaning_ko": "삼가다, 기권하다",
+    "pos": "verb",
+    "example": "I chose to abstain from voting on the controversial motion.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "accolade",
+    "meaning_ko": "칭찬, 영예",
+    "pos": "noun",
+    "example": "He received the highest accolade for his contribution to science.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "admonish",
+    "meaning_ko": "꾸짖다, 충고하다",
+    "pos": "verb",
+    "example": "The teacher had to admonish the student for cheating.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "altruism",
+    "meaning_ko": "이타심",
+    "pos": "noun",
+    "example": "Her work is driven by pure altruism.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "assimilate",
+    "meaning_ko": "동화시키다, 흡수하다",
+    "pos": "verb",
+    "example": "It takes time to assimilate into a new culture.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "capricious",
+    "meaning_ko": "변덕스러운",
+    "pos": "adjective",
+    "example": "The weather in spring can be quite capricious.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "commensurate",
+    "meaning_ko": "비례하는, 상응하는",
+    "pos": "adjective",
+    "example": "His salary is commensurate with his experience.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "compendium",
+    "meaning_ko": "요약, 개요",
+    "pos": "noun",
+    "example": "This book is a compendium of medieval philosophy.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "conducive",
+    "meaning_ko": "~에 도움이 되는",
+    "pos": "adjective",
+    "example": "The quiet atmosphere is conducive to studying.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "conundrum",
+    "meaning_ko": "난제",
+    "pos": "noun",
+    "example": "The question of eternal life remains a deep conundrum.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "deleterious",
+    "meaning_ko": "해로운",
+    "pos": "adjective",
+    "example": "Smoking has a clearly deleterious effect on health.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "demarcate",
+    "meaning_ko": "경계를 정하다, 한정하다",
+    "pos": "verb",
+    "example": "The new fence demarcates the property line.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "disparate",
+    "meaning_ko": "서로 전혀 다른",
+    "pos": "adjective",
+    "example": "The team members came from disparate backgrounds.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "disparity",
+    "meaning_ko": "격차, 불일치",
+    "pos": "noun",
+    "example": "There is a significant disparity between the rich and the poor.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "efficacy",
+    "meaning_ko": "효능, 유효성",
+    "pos": "noun",
+    "example": "The study confirmed the efficacy of the new drug.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "elicit",
+    "meaning_ko": "끌어내다, 유도하다",
+    "pos": "verb",
+    "example": "Her comments elicited a roar of laughter from the audience.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "embellish",
+    "meaning_ko": "장식하다, 꾸미다",
+    "pos": "verb",
+    "example": "He tended to embellish his stories to make them more exciting.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ephemeral",
+    "meaning_ko": "덧없는, 수명이 짧은",
+    "pos": "adjective",
+    "example": "Fame in the modern world is often ephemeral.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "equivocate",
+    "meaning_ko": "얼버무리다, 모호하게 말하다",
+    "pos": "verb",
+    "example": "The politician tried to equivocate when asked about the scandal.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "exorbitant",
+    "meaning_ko": "터무니없이 비싼",
+    "pos": "adjective",
+    "example": "The prices in that tourist area are exorbitant.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "expedite",
+    "meaning_ko": "신속히 처리하다",
+    "pos": "verb",
+    "example": "We need to expedite the delivery of the essential parts.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "fiduciary",
+    "meaning_ko": "신탁의, 수탁자",
+    "pos": "adjective",
+    "example": "He has a fiduciary duty to protect the client's assets.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "fortuitous",
+    "meaning_ko": "우연한, 행운의",
+    "pos": "adjective",
+    "example": "It was a fortuitous meeting that changed the course of my career.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "homogeneous",
+    "meaning_ko": "동종의, 균일한",
+    "pos": "adjective",
+    "example": "The sample group was intentionally homogeneous for the experiment.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "hypothetical",
+    "meaning_ko": "가설적인",
+    "pos": "adjective",
+    "example": "Let's consider a purely hypothetical scenario.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "incongruous",
+    "meaning_ko": "어울리지 않는, 부조화한",
+    "pos": "adjective",
+    "example": "The modern sculpture looked incongruous in the ancient temple.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "indispensable",
+    "meaning_ko": "필수 불가결한",
+    "pos": "adjective",
+    "example": "A good editor is indispensable to a successful book.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "infallible",
+    "meaning_ko": "결코 틀리지 않는",
+    "pos": "adjective",
+    "example": "No human system is entirely infallible.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "innuendo",
+    "meaning_ko": "암시, 넌지시 비춤",
+    "pos": "noun",
+    "example": "The article was full of malicious innuendo.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "insidious",
+    "meaning_ko": "교활한, 서서히 퍼지는",
+    "pos": "adjective",
+    "example": "The insidious spread of misinformation is a concern.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "intermittent",
+    "meaning_ko": "간헐적인",
+    "pos": "adjective",
+    "example": "We experienced intermittent rain showers all day.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "intrinsic",
+    "meaning_ko": "고유의, 본질적인",
+    "pos": "adjective",
+    "example": "The artwork has intrinsic beauty.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "juxtapose",
+    "meaning_ko": "병치하다, 나란히 놓다",
+    "pos": "verb",
+    "example": "The artist juxtaposed bright colors with dark shades.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "latent",
+    "meaning_ko": "잠재적인",
+    "pos": "adjective",
+    "example": "The therapy aims to unlock his latent talents.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "loquacious",
+    "meaning_ko": "말이 많은",
+    "pos": "adjective",
+    "example": "The normally loquacious host was unusually silent.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "magnanimous",
+    "meaning_ko": "도량이 넓은, 관대한",
+    "pos": "adjective",
+    "example": "He was magnanimous in his victory, praising his opponent.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "mandate",
+    "meaning_ko": "명령, 위임 사항",
+    "pos": "noun",
+    "example": "The company has a mandate to reduce its carbon footprint.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "mercurial",
+    "meaning_ko": "변덕스러운",
+    "pos": "adjective",
+    "example": "Her mercurial temper made her difficult to work with.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "nefarious",
+    "meaning_ko": "사악한, 부정한",
+    "pos": "adjective",
+    "example": "The villain's nefarious scheme was foiled by the hero.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "obfuscate",
+    "meaning_ko": "혼란스럽게 하다, 모호하게 하다",
+    "pos": "verb",
+    "example": "The politician tried to obfuscate the truth with vague statements.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ostensible",
+    "meaning_ko": "표면상의, 겉보기의",
+    "pos": "adjective",
+    "example": "The ostensible reason for his visit was to check on the progress.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "palliative",
+    "meaning_ko": "완화하는",
+    "pos": "adjective",
+    "example": "The medicine offers palliative care, but not a cure.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "paradoxical",
+    "meaning_ko": "역설적인",
+    "pos": "adjective",
+    "example": "It's a paradoxical situation where more choice leads to less satisfaction.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "penchant",
+    "meaning_ko": "강한 기호, 경향",
+    "pos": "noun",
+    "example": "He has a penchant for collecting rare books.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "perfunctory",
+    "meaning_ko": "형식적인, 마지못해 하는",
+    "pos": "adjective",
+    "example": "The security check was somewhat perfunctory.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "pernicious",
+    "meaning_ko": "치명적인, 해로운",
+    "pos": "adjective",
+    "example": "The internet can have a pernicious influence on young minds.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "plausible",
+    "meaning_ko": "그럴듯한, 타당한",
+    "pos": "adjective",
+    "example": "Her explanation was the most plausible one we heard.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "precarious",
+    "meaning_ko": "불안정한, 위태로운",
+    "pos": "adjective",
+    "example": "The climber was in a precarious position on the cliff edge.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "prescient",
+    "meaning_ko": "미리 아는, 선견지명이 있는",
+    "pos": "adjective",
+    "example": "The economist's warning proved prescient.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "proscribe",
+    "meaning_ko": "금지하다",
+    "pos": "verb",
+    "example": "The new regulations proscribe any public gathering over ten people.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "rebuttal",
+    "meaning_ko": "반박",
+    "pos": "noun",
+    "example": "The lawyer provided a strong rebuttal to the prosecution's claims.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "reclusive",
+    "meaning_ko": "은둔하는",
+    "pos": "adjective",
+    "example": "The writer led a reclusive life in the mountains.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "renounce",
+    "meaning_ko": "포기하다, 단념하다",
+    "pos": "verb",
+    "example": "He decided to renounce his claim to the throne.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "reproach",
+    "meaning_ko": "비난, 책망",
+    "pos": "noun",
+    "example": "He looked at her with a look of mild reproach.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "resplendent",
+    "meaning_ko": "눈부시게 빛나는",
+    "pos": "adjective",
+    "example": "The queen wore a resplendent gown for the coronation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "sanction",
+    "meaning_ko": "제재, 승인",
+    "pos": "noun",
+    "example": "The UN imposed sanctions on the rogue nation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "scrupulous",
+    "meaning_ko": "양심적인, 세심한",
+    "pos": "adjective",
+    "example": "She is scrupulous about keeping accurate records.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "servile",
+    "meaning_ko": "굽신거리는, 비굴한",
+    "pos": "adjective",
+    "example": "He disliked the way the staff were so servile to the manager.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "solicit",
+    "meaning_ko": "간청하다, 요청하다",
+    "pos": "verb",
+    "example": "The organization solicits donations from the public.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "stagnant",
+    "meaning_ko": "침체된, 고여있는",
+    "pos": "adjective",
+    "example": "The economy has been stagnant for the past decade.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "subvert",
+    "meaning_ko": "전복시키다, 뒤엎다",
+    "pos": "verb",
+    "example": "The group planned to subvert the political system.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "surmise",
+    "meaning_ko": "추측하다",
+    "pos": "verb",
+    "example": "I surmise that he missed the train.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "tacit",
+    "meaning_ko": "암묵적인",
+    "pos": "adjective",
+    "example": "There was a tacit agreement not to discuss the issue.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "transient",
+    "meaning_ko": "일시적인, 순간적인",
+    "pos": "adjective",
+    "example": "The feeling of happiness was transient.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "traverse",
+    "meaning_ko": "가로지르다, 횡단하다",
+    "pos": "verb",
+    "example": "The hikers traversed the mountain range in three days.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "trepidation",
+    "meaning_ko": "두려움, 떨림",
+    "pos": "noun",
+    "example": "She faced the difficult interview with trepidation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "unfathomable",
+    "meaning_ko": "헤아릴 수 없는",
+    "pos": "adjective",
+    "example": "The depths of the ocean are truly unfathomable.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "unwavering",
+    "meaning_ko": "흔들림 없는",
+    "pos": "adjective",
+    "example": "She showed unwavering commitment to her principles.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "vehement",
+    "meaning_ko": "격렬한, 열정적인",
+    "pos": "adjective",
+    "example": "He issued a vehement denial of the accusation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "venerable",
+    "meaning_ko": "존경할 만한",
+    "pos": "adjective",
+    "example": "The venerable professor retired after fifty years of service.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "vindicate",
+    "meaning_ko": "정당성을 입증하다",
+    "pos": "verb",
+    "example": "The new evidence vindicated the defendant.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "zealous",
+    "meaning_ko": "열성적인",
+    "pos": "adjective",
+    "example": "He is a zealous supporter of environmental causes.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "adroit",
+    "meaning_ko": "능숙한, 기민한",
+    "pos": "adjective",
+    "example": "He is adroit at handling difficult negotiations.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "curt",
+    "meaning_ko": "퉁명스러운",
+    "pos": "adjective",
+    "example": "I was surprised by her curt reply.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "delineate",
+    "meaning_ko": "윤곽을 그리다, 정확하게 묘사하다",
+    "pos": "verb",
+    "example": "The report clearly delineates the project goals.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "emulate",
+    "meaning_ko": "모방하다, 필적하다",
+    "pos": "verb",
+    "example": "She tried to emulate the success of her mentor.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "explicate",
+    "meaning_ko": "상세히 설명하다",
+    "pos": "verb",
+    "example": "The professor took time to explicate the complex theory.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "fastidious",
+    "meaning_ko": "까다로운, 세심한",
+    "pos": "adjective",
+    "example": "He is fastidious about keeping his workspace perfectly clean.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "gregarious",
+    "meaning_ko": "사교적인",
+    "pos": "adjective",
+    "example": "A gregarious person makes friends easily at parties.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "haughty",
+    "meaning_ko": "거만한",
+    "pos": "adjective",
+    "example": "His haughty attitude made him unpopular with his colleagues.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "impromptu",
+    "meaning_ko": "즉흥적인",
+    "pos": "adjective",
+    "example": "We had an impromptu meeting in the hallway.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "inculcate",
+    "meaning_ko": "주입하다, 심어주다",
+    "pos": "verb",
+    "example": "The school aims to inculcate respect for the elderly.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "indolent",
+    "meaning_ko": "게으른",
+    "pos": "adjective",
+    "example": "The indolent cat slept all day long.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "innocuous",
+    "meaning_ko": "무해한",
+    "pos": "adjective",
+    "example": "The remark seemed innocuous at the time.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "inscrutable",
+    "meaning_ko": "헤아릴 수 없는, 수수께끼 같은",
+    "pos": "adjective",
+    "example": "The man's motives remained inscrutable.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "languid",
+    "meaning_ko": "나른한, 활기 없는",
+    "pos": "adjective",
+    "example": "A languid afternoon by the pool was exactly what I needed.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "maverick",
+    "meaning_ko": "독불장군, 개성이 강한 사람",
+    "pos": "noun",
+    "example": "He's a corporate maverick who challenges traditional business models.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "misanthrope",
+    "meaning_ko": "인간 혐오자",
+    "pos": "noun",
+    "example": "The old recluse was known as a confirmed misanthrope.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "obsequious",
+    "meaning_ko": "아부하는",
+    "pos": "adjective",
+    "example": "The waiter was overly obsequious to the rich diners.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "panacea",
+    "meaning_ko": "만병통치약",
+    "pos": "noun",
+    "example": "Technology is often seen as a panacea for all educational problems.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "parsimonious",
+    "meaning_ko": "인색한",
+    "pos": "adjective",
+    "example": "The parsimonious man never spent money on anything unnecessary.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "penury",
+    "meaning_ko": "극빈",
+    "pos": "noun",
+    "example": "He rose from a life of penury to become a successful businessman.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "philanthropic",
+    "meaning_ko": "자선의",
+    "pos": "adjective",
+    "example": "The couple is known for their philanthropic endeavors.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "prodigal",
+    "meaning_ko": "낭비하는",
+    "pos": "adjective",
+    "example": "The prodigal son wasted his inheritance on frivolous pursuits.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "quixotic",
+    "meaning_ko": "돈키호테식의, 비현실적인",
+    "pos": "adjective",
+    "example": "His quixotic quest to save the local bookstore failed.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "recalcitrant",
+    "meaning_ko": "저항하는, 다루기 힘든",
+    "pos": "adjective",
+    "example": "The recalcitrant child refused to follow directions.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "satiate",
+    "meaning_ko": "충분히 만족시키다",
+    "pos": "verb",
+    "example": "A large meal was enough to satiate his hunger.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "somnolent",
+    "meaning_ko": "졸린, 최면성의",
+    "pos": "adjective",
+    "example": "The warm room made the audience somnolent.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "surreptitious",
+    "meaning_ko": "은밀한, 몰래 하는",
+    "pos": "adjective",
+    "example": "They had a surreptitious meeting in the park after dark.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "trenchant",
+    "meaning_ko": "정곡을 찌르는, 날카로운",
+    "pos": "adjective",
+    "example": "The critic's trenchant observations were widely discussed.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "vacillate",
+    "meaning_ko": "동요하다, 망설이다",
+    "pos": "verb",
+    "example": "He tends to vacillate between two career choices.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "wistful",
+    "meaning_ko": "애석해 하는, 생각에 잠긴",
+    "pos": "adjective",
+    "example": "She gave a wistful look at the old photograph.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "zenith",
+    "meaning_ko": "정점, 절정",
+    "pos": "noun",
+    "example": "He reached the zenith of his career in the 1990s.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "acumen",
+    "meaning_ko": "통찰력, 판단력",
+    "pos": "noun",
+    "example": "Her business acumen allowed her to spot profitable ventures.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "adverse",
+    "meaning_ko": "불리한, 역의",
+    "pos": "adjective",
+    "example": "Adverse weather conditions delayed the flight.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "apt",
+    "meaning_ko": "적절한, ~하는 경향이 있는",
+    "pos": "adjective",
+    "example": "The phrase was particularly apt for the situation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "coalesce",
+    "meaning_ko": "합쳐지다, 융합하다",
+    "pos": "verb",
+    "example": "Different groups coalesced to form a single opposition party.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "commiserate",
+    "meaning_ko": "동정하다, 위로하다",
+    "pos": "verb",
+    "example": "I called my friend to commiserate with her after her job loss.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "destitute",
+    "meaning_ko": "궁핍한",
+    "pos": "adjective",
+    "example": "The war left thousands of people destitute.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "disingenuous",
+    "meaning_ko": "솔직하지 못한, 불성실한",
+    "pos": "adjective",
+    "example": "His apologies felt somewhat disingenuous.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "duplicity",
+    "meaning_ko": "이중성, 표리부동",
+    "pos": "noun",
+    "example": "He was accused of duplicity in his financial dealings.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "emaciated",
+    "meaning_ko": "수척해진",
+    "pos": "adjective",
+    "example": "The rescue dog was severely emaciated when found.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ephemeral",
+    "meaning_ko": "덧없는, 수명이 짧은",
+    "pos": "adjective",
+    "example": "Enjoy the ephemeral beauty of the cherry blossoms.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "exigent",
+    "meaning_ko": "긴급한, 절박한",
+    "pos": "adjective",
+    "example": "The exigent circumstances required immediate action.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "fallacious",
+    "meaning_ko": "잘못된, 허위의",
+    "pos": "adjective",
+    "example": "The whole argument is based on a fallacious assumption.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "finesse",
+    "meaning_ko": "솜씨, 기교",
+    "pos": "noun",
+    "example": "She handled the delicate situation with great finesse.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "garrulous",
+    "meaning_ko": "수다스러운",
+    "pos": "adjective",
+    "example": "The garrulous passenger kept talking for the entire flight.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "inchoate",
+    "meaning_ko": "초기 단계의, 미완성의",
+    "pos": "adjective",
+    "example": "The project is still in an inchoate stage.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "invidious",
+    "meaning_ko": "불쾌한, 부당한",
+    "pos": "adjective",
+    "example": "It was an invidious task to select only one winner.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "itinerant",
+    "meaning_ko": "순회하는",
+    "pos": "adjective",
+    "example": "He worked as an itinerant farm laborer.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "mendacious",
+    "meaning_ko": "거짓말하는",
+    "pos": "adjective",
+    "example": "The jury quickly realized the witness was mendacious.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "nonchalant",
+    "meaning_ko": "태연한, 무관심한",
+    "pos": "adjective",
+    "example": "She tried to appear nonchalant despite her nervousness.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "obdurate",
+    "meaning_ko": "고집 센",
+    "pos": "adjective",
+    "example": "The government remained obdurate in its refusal to change the law.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "pertinacious",
+    "meaning_ko": "끈기 있는, 완고한",
+    "pos": "adjective",
+    "example": "His pertinacious efforts finally led to success.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "plethora",
+    "meaning_ko": "과다, 과잉",
+    "pos": "noun",
+    "example": "The report contained a plethora of data.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "proclivity",
+    "meaning_ko": "성향, 경향",
+    "pos": "noun",
+    "example": "He showed a natural proclivity for music.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "pulchritude",
+    "meaning_ko": "아름다움",
+    "pos": "noun",
+    "example": "The artist captured the natural pulchritude of the landscape.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "redress",
+    "meaning_ko": "바로잡다, 보상하다",
+    "pos": "verb",
+    "example": "We seek to redress the injustice caused by the accident.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "sycophant",
+    "meaning_ko": "아첨꾼",
+    "pos": "noun",
+    "example": "No one respected him because he was a sycophant.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "turgid",
+    "meaning_ko": "과장된, 부풀어 오른",
+    "pos": "adjective",
+    "example": "The politician's speech was turgid and difficult to follow.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "upbraid",
+    "meaning_ko": "비난하다, 나무라다",
+    "pos": "verb",
+    "example": "The coach had to upbraid the team for their poor performance.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "veracity",
+    "meaning_ko": "진실성",
+    "pos": "noun",
+    "example": "We questioned the veracity of the witness's statement.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "wanton",
+    "meaning_ko": "터무니없는, 제멋대로의",
+    "pos": "adjective",
+    "example": "The building was damaged by an act of wanton vandalism.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "aberrant",
+    "meaning_ko": "일탈적인, 변칙적인",
+    "pos": "adjective",
+    "example": "His aberrant behavior worried his parents.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "capitulate",
+    "meaning_ko": "항복하다, 굴복하다",
+    "pos": "verb",
+    "example": "The army was forced to capitulate after a long siege.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "contrived",
+    "meaning_ko": "억지로 꾸민 듯한",
+    "pos": "adjective",
+    "example": "The ending of the film felt contrived and unrealistic.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "deft",
+    "meaning_ko": "능숙한, 솜씨 좋은",
+    "pos": "adjective",
+    "example": "The surgeon performed the delicate operation with deft precision.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "deride",
+    "meaning_ko": "비웃다, 조롱하다",
+    "pos": "verb",
+    "example": "Critics derided his new play as a childish farce.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "eccentric",
+    "meaning_ko": "별난, 특이한",
+    "pos": "adjective",
+    "example": "The old woman was known for her eccentric fashion sense.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "extol",
+    "meaning_ko": "극찬하다",
+    "pos": "verb",
+    "example": "He constantly extolled the virtues of a healthy diet.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "fecund",
+    "meaning_ko": "비옥한, 다산의",
+    "pos": "adjective",
+    "example": "The Amazon is a fecund region for biological discovery.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "inane",
+    "meaning_ko": "어리석은, 무의미한",
+    "pos": "adjective",
+    "example": "We wasted the afternoon discussing inane celebrity gossip.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "inhibit",
+    "meaning_ko": "억제하다, 저해하다",
+    "pos": "verb",
+    "example": "Fear can inhibit your ability to perform well.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "meritorious",
+    "meaning_ko": "칭찬할 만한",
+    "pos": "adjective",
+    "example": "She was given an award for her meritorious service to the community.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "mitigate",
+    "meaning_ko": "완화시키다",
+    "pos": "verb",
+    "example": "New regulations were introduced to mitigate the risks.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "obviate",
+    "meaning_ko": "제거하다, 미연에 방지하다",
+    "pos": "verb",
+    "example": "The advance planning obviated any need for rushed decisions.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "paucity",
+    "meaning_ko": "소수, 부족",
+    "pos": "noun",
+    "example": "There is a paucity of reliable data on the subject.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "prosaic",
+    "meaning_ko": "평범한, 지루한",
+    "pos": "adjective",
+    "example": "The critics found the new novel rather prosaic.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "repartee",
+    "meaning_ko": "재치 있는 응답",
+    "pos": "noun",
+    "example": "The conversation was filled with witty repartee.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "reticent",
+    "meaning_ko": "말이 없는",
+    "pos": "adjective",
+    "example": "He remains reticent about the details of the scandal.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ruminate",
+    "meaning_ko": "심사숙고하다",
+    "pos": "verb",
+    "example": "I spent the weekend ruminating on the meaning of life.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "solipsism",
+    "meaning_ko": "유아론, 자기중심주의",
+    "pos": "noun",
+    "example": "The philosophy criticizes excessive individualism as solipsism.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "tenet",
+    "meaning_ko": "주의, 교리",
+    "pos": "noun",
+    "example": "A core tenet of democracy is the right to vote.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning_ko": "어디에나 있는",
+    "pos": "adjective",
+    "example": "Coffee shops are ubiquitous in the downtown area.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  }
+]

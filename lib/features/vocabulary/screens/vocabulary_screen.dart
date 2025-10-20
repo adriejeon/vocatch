@@ -56,6 +56,11 @@ class _VocabularyScreenState extends ConsumerState<VocabularyScreen> {
       backgroundColor: AppColors.background,
       appBar: AppBar(
         title: Text(AppStrings.get('vocabulary_title', uiLang)),
+        leading: IconButton(
+          icon: const Icon(Icons.create_new_folder_outlined),
+          onPressed: () => _showCreateGroupDialog(context, ref),
+          tooltip: AppStrings.get('create_group', uiLang),
+        ),
         actions: [
           IconButton(
             icon: const Icon(Icons.refresh),
@@ -71,9 +76,9 @@ class _VocabularyScreenState extends ConsumerState<VocabularyScreen> {
             tooltip: 'Refresh',
           ),
           IconButton(
-            icon: const Icon(Icons.create_new_folder_outlined),
-            onPressed: () => _showCreateGroupDialog(context, ref),
-            tooltip: AppStrings.get('create_group', uiLang),
+            icon: const Icon(Icons.language),
+            onPressed: () => _showLanguageDialog(context),
+            tooltip: '언어 설정',
           ),
         ],
       ),
@@ -264,6 +269,189 @@ class _VocabularyScreenState extends ConsumerState<VocabularyScreen> {
               style: AppTextStyles.labelMedium.copyWith(
                 color: AppColors.textSecondary,
               ),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  void _showLanguageDialog(BuildContext context) {
+    final settings = ref.read(languageProvider);
+    final currentUiLang = settings.uiLanguage;
+    final currentLearningLang = settings.learningLanguage;
+
+    // 임시 선택 상태를 위한 변수들
+    String tempUiLang = currentUiLang;
+    String tempLearningLang = currentLearningLang;
+
+    showDialog(
+      context: context,
+      builder: (context) => StatefulBuilder(
+        builder: (context, setState) => AlertDialog(
+          title: Text('언어 설정', style: AppTextStyles.headline4),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              // 앱 언어 설정
+              Align(
+                alignment: Alignment.centerLeft,
+                child: Text(
+                  '앱 언어',
+                  style: AppTextStyles.labelLarge.copyWith(
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ),
+              const SizedBox(height: 8),
+              Row(
+                children: [
+                  Expanded(
+                    child: _buildLanguageButton(
+                      'ko',
+                      '한국어',
+                      '🇰🇷',
+                      tempUiLang == 'ko',
+                      () {
+                        setState(() {
+                          tempUiLang = 'ko';
+                        });
+                      },
+                    ),
+                  ),
+                  const SizedBox(width: AppSpacing.paddingSmall),
+                  Expanded(
+                    child: _buildLanguageButton(
+                      'en',
+                      'English',
+                      '🇺🇸',
+                      tempUiLang == 'en',
+                      () {
+                        setState(() {
+                          tempUiLang = 'en';
+                        });
+                      },
+                    ),
+                  ),
+                ],
+              ),
+              const SizedBox(height: 16),
+              // 학습 언어 설정
+              Align(
+                alignment: Alignment.centerLeft,
+                child: Text(
+                  '학습할 언어',
+                  style: AppTextStyles.labelLarge.copyWith(
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+              ),
+              const SizedBox(height: 8),
+              Row(
+                children: [
+                  Expanded(
+                    child: _buildLanguageButton(
+                      'ko',
+                      '한국어',
+                      '🇰🇷',
+                      tempLearningLang == 'ko',
+                      () {
+                        setState(() {
+                          tempLearningLang = 'ko';
+                        });
+                      },
+                    ),
+                  ),
+                  const SizedBox(width: AppSpacing.paddingSmall),
+                  Expanded(
+                    child: _buildLanguageButton(
+                      'en',
+                      'English',
+                      '🇺🇸',
+                      tempLearningLang == 'en',
+                      () {
+                        setState(() {
+                          tempLearningLang = 'en';
+                        });
+                      },
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: Text(
+                '취소',
+                style: AppTextStyles.labelMedium.copyWith(
+                  color: AppColors.textSecondary,
+                ),
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () async {
+                // 앱 언어 변경
+                if (tempUiLang != currentUiLang) {
+                  await ref
+                      .read(languageProvider.notifier)
+                      .changeUiLanguage(tempUiLang);
+                }
+
+                // 학습 언어 변경
+                if (tempLearningLang != currentLearningLang) {
+                  await ref
+                      .read(languageProvider.notifier)
+                      .changeLearningLanguage(tempLearningLang);
+                }
+
+                if (mounted) {
+                  Navigator.pop(context);
+                }
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: AppColors.primary,
+                foregroundColor: AppColors.grey00,
+              ),
+              child: Text(
+                '적용',
+                style: AppTextStyles.labelMedium.copyWith(
+                  color: AppColors.grey00,
+                  fontWeight: FontWeight.w600,
+                ),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildLanguageButton(
+    String languageCode,
+    String label,
+    String flag,
+    bool isSelected,
+    VoidCallback onTap,
+  ) {
+    return ElevatedButton(
+      onPressed: onTap,
+      style: ElevatedButton.styleFrom(
+        backgroundColor: isSelected ? AppColors.grey80 : AppColors.grey20,
+        foregroundColor: isSelected ? AppColors.grey00 : AppColors.textPrimary,
+        elevation: 0,
+        padding: const EdgeInsets.symmetric(vertical: AppSpacing.paddingMedium),
+      ),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Text(flag, style: const TextStyle(fontSize: 20)),
+          const SizedBox(width: AppSpacing.paddingSmall),
+          Text(
+            label,
+            style: AppTextStyles.labelMedium.copyWith(
+              color: isSelected ? AppColors.grey00 : AppColors.textPrimary,
             ),
           ),
         ],

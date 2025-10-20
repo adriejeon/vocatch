@@ -1,0 +1,1826 @@
+[
+  {
+    "word": "alleviate",
+    "meaning_ko": "완화하다",
+    "pos": "verb",
+    "example": "The aid package aims to alleviate the suffering of the victims.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ameliorate",
+    "meaning_ko": "개선하다",
+    "pos": "verb",
+    "example": "Efforts are underway to ameliorate the long-term economic prospects.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "precedent",
+    "meaning_ko": "선례",
+    "pos": "noun",
+    "example": "The court's ruling sets an important legal precedent.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "conundrum",
+    "meaning_ko": "난제",
+    "pos": "noun",
+    "example": "The rapid spread of fake news presents a complex social conundrum.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "paradigm",
+    "meaning_ko": "패러다임",
+    "pos": "noun",
+    "example": "The shift to remote work marks a paradigm change in employment.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "dichotomy",
+    "meaning_ko": "양분, 이분법",
+    "pos": "noun",
+    "example": "The media often creates a false dichotomy between security and liberty.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "veracity",
+    "meaning_ko": "진실성",
+    "pos": "noun",
+    "example": "The veracity of the leaked documents has yet to be confirmed.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "mandate",
+    "meaning_ko": "권한, 위임 사항",
+    "pos": "noun",
+    "example": "The election gave the new leader a clear mandate for reform.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "consensus",
+    "meaning_ko": "합의, 의견 일치",
+    "pos": "noun",
+    "example": "Achieving a global consensus on climate targets is proving difficult.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "eschew",
+    "meaning_ko": "피하다, 삼가다",
+    "pos": "verb",
+    "example": "The politician deliberately chose to eschew inflammatory rhetoric.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "exacerbate",
+    "meaning_ko": "악화시키다",
+    "pos": "verb",
+    "example": "The drought will only exacerbate the food shortage in the region.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "mitigate",
+    "meaning_ko": "완화하다",
+    "pos": "verb",
+    "example": "Governments are seeking ways to mitigate the economic impact of the virus.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "disseminate",
+    "meaning_ko": "퍼뜨리다",
+    "pos": "verb",
+    "example": "The news agencies quickly disseminated the official statement.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "scrutinize",
+    "meaning_ko": "정밀 조사하다",
+    "pos": "verb",
+    "example": "The finance committee will scrutinize the company's annual report.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "elucidate",
+    "meaning_ko": "명확히 설명하다",
+    "pos": "verb",
+    "example": "The expert was asked to elucidate the complex technical details.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "demarcate",
+    "meaning_ko": "경계를 정하다, 한정하다",
+    "pos": "verb",
+    "example": "The new treaty serves to demarcate the maritime borders.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "incumbent",
+    "meaning_ko": "현직의",
+    "pos": "adjective",
+    "example": "The incumbent leader is facing a strong challenge from the opposition.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "conducive",
+    "meaning_ko": "도움이 되는",
+    "pos": "adjective",
+    "example": "A climate of trust is conducive to effective negotiations.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "irrevocable",
+    "meaning_ko": "돌이킬 수 없는",
+    "pos": "adjective",
+    "example": "The decision to abandon the project was deemed irrevocable.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "imperative",
+    "meaning_ko": "필수적인, 긴급한",
+    "pos": "adjective",
+    "example": "It is imperative that we address the root cause of the problem.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "substantiate",
+    "meaning_ko": "입증하다",
+    "pos": "verb",
+    "example": "The prosecutor failed to substantiate the claims of corruption.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "tenuous",
+    "meaning_ko": "미약한, 빈약한",
+    "pos": "adjective",
+    "example": "The link between the scandal and the high office is tenuous.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "proponent",
+    "meaning_ko": "옹호자",
+    "pos": "noun",
+    "example": "She is a vocal proponent of universal basic income.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "detractor",
+    "meaning_ko": "비방자, 폄훼자",
+    "pos": "noun",
+    "example": "The policy has many detractors who argue it is too costly.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "rhetoric",
+    "meaning_ko": "수사(학)",
+    "pos": "noun",
+    "example": "Political rhetoric has become increasingly polarized.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "acumen",
+    "meaning_ko": "통찰력, 판단력",
+    "pos": "noun",
+    "example": "Her sharp political acumen helped her navigate the crisis.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "efficacy",
+    "meaning_ko": "효능, 유효성",
+    "pos": "noun",
+    "example": "The efficacy of the new economic measures is still being debated.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ostensible",
+    "meaning_ko": "표면상의, 겉보기의",
+    "pos": "adjective",
+    "example": "The ostensible reason for the meeting was ignored by the hidden agenda.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "inadvertently",
+    "meaning_ko": "무심코, 부주의로",
+    "pos": "adverb",
+    "example": "The official inadvertently revealed classified information during the interview.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "predicament",
+    "meaning_ko": "곤경, 궁지",
+    "pos": "noun",
+    "example": "The nation is in a financial predicament due to soaring national debt.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vicissitude",
+    "meaning_ko": "변천, 우여곡절",
+    "pos": "noun",
+    "example": "The party has endured the political vicissitudes of the past decade.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "polemic",
+    "meaning_ko": "논쟁, 비판",
+    "pos": "noun",
+    "example": "The article was a fierce polemic against military intervention.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "adverse",
+    "meaning_ko": "불리한, 역의",
+    "pos": "adjective",
+    "example": "The company reported adverse market conditions last quarter.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "synergy",
+    "meaning_ko": "시너지 효과",
+    "pos": "noun",
+    "example": "The merger aims to create synergy between the two technological branches.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fluctuate",
+    "meaning_ko": "변동하다",
+    "pos": "verb",
+    "example": "Global oil prices continue to fluctuate based on geopolitical events.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ubiquitous",
+    "meaning_ko": "어디에나 있는",
+    "pos": "adjective",
+    "example": "The threat of cyber attacks is ubiquitous in the digital age.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unprecedented",
+    "meaning_ko": "전례 없는",
+    "pos": "adjective",
+    "example": "The government took unprecedented measures to stabilize the economy.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "aberrant",
+    "meaning_ko": "일탈적인",
+    "pos": "adjective",
+    "example": "The official's aberrant behavior was quickly condemned by his party.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "capricious",
+    "meaning_ko": "변덕스러운",
+    "pos": "adjective",
+    "example": "The central bank's capricious decisions led to market instability.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "denounce",
+    "meaning_ko": "맹렬히 비난하다",
+    "pos": "verb",
+    "example": "The opposition leader publicly denounced the new policy.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "disparage",
+    "meaning_ko": "폄하하다",
+    "pos": "verb",
+    "example": "It is unprofessional to disparage the work of your competitors.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "equivocal",
+    "meaning_ko": "모호한",
+    "pos": "adjective",
+    "example": "The president's statement on the conflict remained equivocal.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "exonerate",
+    "meaning_ko": "무죄임을 입증하다",
+    "pos": "verb",
+    "example": "New DNA evidence is expected to exonerate the wrongly convicted man.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fallacious",
+    "meaning_ko": "잘못된, 허위의",
+    "pos": "adjective",
+    "example": "The entire media narrative was based on a fallacious premise.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fortuitous",
+    "meaning_ko": "우연한, 행운의",
+    "pos": "adjective",
+    "example": "The discovery of new oil reserves was a fortuitous boost to the economy.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "fiduciary",
+    "meaning_ko": "신탁의, 수탁의",
+    "pos": "adjective",
+    "example": "Company directors have a strict fiduciary duty to the shareholders.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "incendiary",
+    "meaning_ko": "선동적인",
+    "pos": "adjective",
+    "example": "His incendiary speech only served to inflame the public.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "inherent",
+    "meaning_ko": "내재된",
+    "pos": "adjective",
+    "example": "There is an inherent conflict of interest in the current system.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "inimical",
+    "meaning_ko": "해로운, 적대적인",
+    "pos": "adjective",
+    "example": "The new regulations proved inimical to small businesses.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "judicious",
+    "meaning_ko": "현명한, 신중한",
+    "pos": "adjective",
+    "example": "A judicious use of public funds is necessary during a crisis.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "nascent",
+    "meaning_ko": "초기의, 발생기의",
+    "pos": "adjective",
+    "example": "The nascent technology industry is rapidly expanding in the region.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "obfuscate",
+    "meaning_ko": "혼란스럽게 하다",
+    "pos": "verb",
+    "example": "He attempted to obfuscate the facts during the cross-examination.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pervasive",
+    "meaning_ko": "널리 퍼지는",
+    "pos": "adjective",
+    "example": "The pervasive influence of social media on politics is undeniable.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pertinent",
+    "meaning_ko": "적절한, 관련된",
+    "pos": "adjective",
+    "example": "The lawyer raised several pertinent questions about the timeline.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "plethora",
+    "meaning_ko": "과다, 과잉",
+    "pos": "noun",
+    "example": "The article was criticized for its plethora of statistical errors.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "precarious",
+    "meaning_ko": "불안정한, 위태로운",
+    "pos": "adjective",
+    "example": "The economy remains in a precarious state, needing careful management.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "prescient",
+    "meaning_ko": "선견지명이 있는",
+    "pos": "adjective",
+    "example": "The economist's warnings in the 1990s proved remarkably prescient.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "proscribe",
+    "meaning_ko": "금지하다",
+    "pos": "verb",
+    "example": "The regulatory body moved to proscribe certain financial practices.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "rebuttal",
+    "meaning_ko": "반박",
+    "pos": "noun",
+    "example": "The defense attorney prepared a strong rebuttal to the prosecution's claims.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "renounce",
+    "meaning_ko": "포기하다, 단념하다",
+    "pos": "verb",
+    "example": "The former dictator decided to renounce all political claims.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "salient",
+    "meaning_ko": "가장 중요한",
+    "pos": "adjective",
+    "example": "The salient point of the argument is the question of funding.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sanguine",
+    "meaning_ko": "낙관적인",
+    "pos": "adjective",
+    "example": "Despite the evidence, the spokesperson remained sanguine about the company's future.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "speculation",
+    "meaning_ko": "추측, 투기",
+    "pos": "noun",
+    "example": "The sudden rise in stock price led to mass market speculation.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "stagnant",
+    "meaning_ko": "침체된",
+    "pos": "adjective",
+    "example": "The job market has remained stagnant despite government interventions.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "subterfuge",
+    "meaning_ko": "속임수, 술책",
+    "pos": "noun",
+    "example": "The political party used a legal subterfuge to bypass the rules.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "tenet",
+    "meaning_ko": "주의, 교리",
+    "pos": "noun",
+    "example": "A core tenet of the party's platform is fiscal responsibility.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "trenchant",
+    "meaning_ko": "날카로운, 신랄한",
+    "pos": "adjective",
+    "example": "The editorial offered a trenchant critique of the president's speech.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unassailable",
+    "meaning_ko": "공격할 수 없는",
+    "pos": "adjective",
+    "example": "The witness's testimony was considered unassailable.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "untenable",
+    "meaning_ko": "옹호할 수 없는",
+    "pos": "adjective",
+    "example": "The company's defense against the charges was entirely untenable.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "viable",
+    "meaning_ko": "실행 가능한",
+    "pos": "adjective",
+    "example": "They are searching for a financially viable alternative to the current system.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vindicate",
+    "meaning_ko": "정당성을 입증하다",
+    "pos": "verb",
+    "example": "The final report completely vindicated the former director.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "volatile",
+    "meaning_ko": "변동성이 큰, 불안정한",
+    "pos": "adjective",
+    "example": "The region remains politically volatile following the coup attempt.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "warrant",
+    "meaning_ko": "정당화하다",
+    "pos": "verb",
+    "example": "The sheer scale of the crisis warrants immediate international attention.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "abstain",
+    "meaning_ko": "기권하다",
+    "pos": "verb",
+    "example": "Several members chose to abstain from the final vote.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "arbitrary",
+    "meaning_ko": "임의적인, 독단적인",
+    "pos": "adjective",
+    "example": "The new regulations were criticized as arbitrary and unfair.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "beleaguered",
+    "meaning_ko": "포위된, 곤경에 처한",
+    "pos": "adjective",
+    "example": "The beleaguered minister resigned amid heavy pressure.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "collusion",
+    "meaning_ko": "공모",
+    "pos": "noun",
+    "example": "The two firms were investigated for price collusion.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "de facto",
+    "meaning_ko": "사실상의",
+    "pos": "adjective",
+    "example": "He has been the de facto leader since the president's illness.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "de jure",
+    "meaning_ko": "법률상의",
+    "pos": "adjective",
+    "example": "The new government is not yet recognized as the de jure authority.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "expropriate",
+    "meaning_ko": "수용하다",
+    "pos": "verb",
+    "example": "The state decided to expropriate the land for public use.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "gerrymander",
+    "meaning_ko": "게리맨더링(선거구 개편)",
+    "pos": "verb",
+    "example": "The ruling party was accused of trying to gerrymander the districts.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "impeachment",
+    "meaning_ko": "탄핵",
+    "pos": "noun",
+    "example": "The threat of impeachment looms over the presidential office.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "inchoate",
+    "meaning_ko": "초기의, 미완성의",
+    "pos": "adjective",
+    "example": "The movement is still in an inchoate stage of organization.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "litigation",
+    "meaning_ko": "소송",
+    "pos": "noun",
+    "example": "The dispute is likely to result in costly litigation.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "moratorium",
+    "meaning_ko": "일시 중지",
+    "pos": "noun",
+    "example": "The government imposed a moratorium on new factory construction.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "nefarious",
+    "meaning_ko": "사악한, 부정한",
+    "pos": "adjective",
+    "example": "The press uncovered the company's nefarious financial activities.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "perjury",
+    "meaning_ko": "위증",
+    "pos": "noun",
+    "example": "The witness was charged with perjury after giving false testimony.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "polarize",
+    "meaning_ko": "양극화하다",
+    "pos": "verb",
+    "example": "The controversial topic threatens to further polarize public opinion.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "quagmire",
+    "meaning_ko": "진퇴양난, 수렁",
+    "pos": "noun",
+    "example": "The country is sinking into an economic quagmire.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "reciprocity",
+    "meaning_ko": "상호 호혜",
+    "pos": "noun",
+    "example": "The trade agreement is based on the principle of reciprocity.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "redact",
+    "meaning_ko": "편집하여 삭제하다",
+    "pos": "verb",
+    "example": "Key parts of the classified report were heavily redacted.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "stipulate",
+    "meaning_ko": "규정하다, 명기하다",
+    "pos": "verb",
+    "example": "The contract stipulates a penalty for late delivery.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "subpoena",
+    "meaning_ko": "소환장",
+    "pos": "noun",
+    "example": "The journalist received a subpoena to testify before the grand jury.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "suffrage",
+    "meaning_ko": "투표권",
+    "pos": "noun",
+    "example": "The debate over universal suffrage lasted decades.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "surreptitious",
+    "meaning_ko": "은밀한",
+    "pos": "adjective",
+    "example": "The investigation uncovered surreptitious payments to foreign officials.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "transcend",
+    "meaning_ko": "초월하다",
+    "pos": "verb",
+    "example": "The message of peace must transcend political differences.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "triage",
+    "meaning_ko": "우선순위를 정하다",
+    "pos": "noun",
+    "example": "Emergency teams had to perform triage at the disaster site.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unilateral",
+    "meaning_ko": "일방적인",
+    "pos": "adjective",
+    "example": "The country made a unilateral decision to withdraw from the treaty.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "veto",
+    "meaning_ko": "거부권",
+    "pos": "noun",
+    "example": "The president threatened to use his veto power on the bill.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vituperation",
+    "meaning_ko": "비난, 욕설",
+    "pos": "noun",
+    "example": "The online debate quickly descended into mutual vituperation.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "wry",
+    "meaning_ko": "비꼬는, 씁쓸한",
+    "pos": "adjective",
+    "example": "The commentator offered a wry observation on the state of political affairs.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "zeitgeist",
+    "meaning_ko": "시대정신",
+    "pos": "noun",
+    "example": "The social unrest captured the turbulent zeitgeist of the era.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "adjudicate",
+    "meaning_ko": "판결을 내리다",
+    "pos": "verb",
+    "example": "The international court will adjudicate the border dispute.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "amalgamate",
+    "meaning_ko": "합병하다, 통합하다",
+    "pos": "verb",
+    "example": "The two state agencies will amalgamate to form a single department.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "buttress",
+    "meaning_ko": "강화하다, 지지하다",
+    "pos": "verb",
+    "example": "New data was introduced to buttress the scientific findings.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "censure",
+    "meaning_ko": "불신임, 비난",
+    "pos": "noun",
+    "example": "The minister faced a vote of censure after the scandal.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "conflate",
+    "meaning_ko": "융합하다, 뒤섞다",
+    "pos": "verb",
+    "example": "The article tends to conflate economic growth with national well-being.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "conjecture",
+    "meaning_ko": "추측",
+    "pos": "noun",
+    "example": "The report is based more on conjecture than on hard evidence.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "deleterious",
+    "meaning_ko": "해로운",
+    "pos": "adjective",
+    "example": "The long-term deleterious effects of pollution are becoming clear.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "delineate",
+    "meaning_ko": "윤곽을 그리다, 명확히 묘사하다",
+    "pos": "verb",
+    "example": "The white paper clearly delineates the government's future policy goals.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "depose",
+    "meaning_ko": "퇴위시키다",
+    "pos": "verb",
+    "example": "The military attempted to depose the elected president.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "disingenuous",
+    "meaning_ko": "솔직하지 못한",
+    "pos": "adjective",
+    "example": "His claim of ignorance was entirely disingenuous.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "duplicity",
+    "meaning_ko": "이중성, 표리부동",
+    "pos": "noun",
+    "example": "The official was fired for his financial duplicity.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "encompass",
+    "meaning_ko": "포괄하다",
+    "pos": "verb",
+    "example": "The new bill is designed to encompass all areas of environmental law.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "exigency",
+    "meaning_ko": "긴급 사태",
+    "pos": "noun",
+    "example": "The budget was passed due to financial exigency.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "inculcate",
+    "meaning_ko": "주입하다, 심어주다",
+    "pos": "verb",
+    "example": "The media plays a role in inculcating civic responsibility.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "infallible",
+    "meaning_ko": "결코 틀리지 않는",
+    "pos": "adjective",
+    "example": "No political system is infallible; mistakes will always be made.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "juxtapose",
+    "meaning_ko": "병치하다, 대비시키다",
+    "pos": "verb",
+    "example": "The journalist juxtaposed the two leaders' competing statements.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "lackluster",
+    "meaning_ko": "활기 없는, 부진한",
+    "pos": "adjective",
+    "example": "The recent economic growth has been widely described as lackluster.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "obtrusive",
+    "meaning_ko": "눈에 띄는, 방해하는",
+    "pos": "adjective",
+    "example": "The constant presence of security forces was somewhat obtrusive.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pithy",
+    "meaning_ko": "간결하지만 강력한",
+    "pos": "adjective",
+    "example": "The leader ended his speech with a pithy summary of his goals.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "redress",
+    "meaning_ko": "바로잡다, 보상하다",
+    "pos": "verb",
+    "example": "The committee was formed to redress historical injustices.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "repartee",
+    "meaning_ko": "재치 있는 응답",
+    "pos": "noun",
+    "example": "The political interview turned into a sharp exchange of repartee.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "reprobate",
+    "meaning_ko": "타락한 사람, 비난하다",
+    "pos": "noun",
+    "example": "The media portrayed the disgraced executive as a financial reprobate.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "stentorian",
+    "meaning_ko": "목소리가 우렁찬",
+    "pos": "adjective",
+    "example": "The speaker used a stentorian voice to address the huge crowd.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "truculent",
+    "meaning_ko": "공격적인, 호전적인",
+    "pos": "adjective",
+    "example": "The press conference ended after the truculent behavior of a few reporters.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "umbrage",
+    "meaning_ko": "불쾌, 분개",
+    "pos": "noun",
+    "example": "The minister took umbrage at the direct question about his assets.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unremitting",
+    "meaning_ko": "끊임없는",
+    "pos": "adjective",
+    "example": "The government faces unremitting pressure from environmental groups.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "anachronism",
+    "meaning_ko": "시대착오",
+    "pos": "noun",
+    "example": "His views on global trade seemed like an anachronism.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ascribe",
+    "meaning_ko": "돌리다, ~의 탓으로 하다",
+    "pos": "verb",
+    "example": "Experts ascribe the instability to systemic failures.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "cabal",
+    "meaning_ko": "음모단",
+    "pos": "noun",
+    "example": "Rumors circulated about a political cabal manipulating the markets.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "chicanery",
+    "meaning_ko": "속임수, 교묘한 수법",
+    "pos": "noun",
+    "example": "The scandal involved complex financial chicanery.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "cogent",
+    "meaning_ko": "설득력 있는",
+    "pos": "adjective",
+    "example": "The diplomat presented a cogent argument for peace talks.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "demagogue",
+    "meaning_ko": "선동 정치가",
+    "pos": "noun",
+    "example": "The media warned against the influence of populist demagogues.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ephemeral",
+    "meaning_ko": "덧없는, 수명이 짧은",
+    "pos": "adjective",
+    "example": "The political victory proved to be ephemeral.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "exegesis",
+    "meaning_ko": "해설, 주해",
+    "pos": "noun",
+    "example": "Scholars offered a deep exegesis of the ancient treaty.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "inculcate",
+    "meaning_ko": "주입하다, 심어주다",
+    "pos": "verb",
+    "example": "The media plays a crucial role in inculcating civic virtues.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "infallible",
+    "meaning_ko": "결코 틀리지 않는",
+    "pos": "adjective",
+    "example": "No single institution is infallible in its judgment.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "lachrymose",
+    "meaning_ko": "눈물이 많은, 구슬픈",
+    "pos": "adjective",
+    "example": "The commentary was unnecessarily lachrymose about the defeat.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "largesse",
+    "meaning_ko": "아낌없는 기부",
+    "pos": "noun",
+    "example": "The government's unexpected largesse was met with skepticism.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "maverick",
+    "meaning_ko": "독불장군, 이단아",
+    "pos": "noun",
+    "example": "She is known as a political maverick who challenges the status quo.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "obstreperous",
+    "meaning_ko": "다루기 힘든, 시끄러운",
+    "pos": "adjective",
+    "example": "The parliament session was disrupted by obstreperous hecklers.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "paucity",
+    "meaning_ko": "부족",
+    "pos": "noun",
+    "example": "There is a paucity of reliable data on the true environmental cost.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pejorative",
+    "meaning_ko": "경멸적인",
+    "pos": "adjective",
+    "example": "The term 'elite' is often used pejorative in political debates.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "puerile",
+    "meaning_ko": "어리석은, 유치한",
+    "pos": "adjective",
+    "example": "The exchange between the two leaders was unnecessarily puerile.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "quandary",
+    "meaning_ko": "진퇴양난, 곤경",
+    "pos": "noun",
+    "example": "The court is in a quandary over the complex jurisdiction issues.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "recalcitrant",
+    "meaning_ko": "저항하는",
+    "pos": "adjective",
+    "example": "The recalcitrant provinces refused to comply with the federal law.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "repatriate",
+    "meaning_ko": "본국으로 송환하다",
+    "pos": "verb",
+    "example": "The government worked to repatriate citizens stranded overseas.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "reprobate",
+    "meaning_ko": "타락한 사람",
+    "pos": "noun",
+    "example": "The financial media exposed him as a corporate reprobate.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sycophant",
+    "meaning_ko": "아첨꾼",
+    "pos": "noun",
+    "example": "The leader was surrounded by sycophants who offered no honest advice.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "truculent",
+    "meaning_ko": "공격적인, 호전적인",
+    "pos": "adjective",
+    "example": "The neighboring state adopted a truculent tone in the negotiations.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "turpitude",
+    "meaning_ko": "타락, 비열",
+    "pos": "noun",
+    "example": "The politician was convicted of moral turpitude.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vacillate",
+    "meaning_ko": "동요하다, 망설이다",
+    "pos": "verb",
+    "example": "The central bank continued to vacillate on its interest rate decision.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "veneer",
+    "meaning_ko": "겉모습",
+    "pos": "noun",
+    "example": "The apparent calm was merely a thin veneer over deep internal divisions.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vitiate",
+    "meaning_ko": "손상시키다, 무효화하다",
+    "pos": "verb",
+    "example": "The technical error could vitiate the entire election result.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "zeitgeist",
+    "meaning_ko": "시대정신",
+    "pos": "noun",
+    "example": "The new policy captures the current populist zeitgeist.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "amalgamate",
+    "meaning_ko": "통합하다",
+    "pos": "verb",
+    "example": "The two government departments will amalgamate next year.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "buttress",
+    "meaning_ko": "강화하다, 지지하다",
+    "pos": "verb",
+    "example": "The new evidence served to buttress the legal team's defense.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "censure",
+    "meaning_ko": "불신임, 비난",
+    "pos": "noun",
+    "example": "The body issued a formal censure against the member for misconduct.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "conflate",
+    "meaning_ko": "융합하다, 뒤섞다",
+    "pos": "verb",
+    "example": "Critics argue the report conflates correlation with causation.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "conjecture",
+    "meaning_ko": "추측",
+    "pos": "noun",
+    "example": "The cause of the fire remains conjecture, pending investigation.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "deleterious",
+    "meaning_ko": "해로운",
+    "pos": "adjective",
+    "example": "The long-term deleterious effects of deregulation are visible now.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "delineate",
+    "meaning_ko": "윤곽을 그리다",
+    "pos": "verb",
+    "example": "The agreement carefully delineates the responsibilities of each state.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "depose",
+    "meaning_ko": "퇴위시키다",
+    "pos": "verb",
+    "example": "The ruling party had the power to depose the prime minister.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "duplicity",
+    "meaning_ko": "이중성",
+    "pos": "noun",
+    "example": "His public statements contrasted sharply with his financial duplicity.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "encompass",
+    "meaning_ko": "포괄하다",
+    "pos": "verb",
+    "example": "The proposed treaty would encompass all aspects of trade and security.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "exigency",
+    "meaning_ko": "긴급 사태",
+    "pos": "noun",
+    "example": "The emergency funding was released due to financial exigency.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "imminent",
+    "meaning_ko": "임박한",
+    "pos": "adjective",
+    "example": "The threat of military intervention appears imminent.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "juxtapose",
+    "meaning_ko": "병치하다",
+    "pos": "verb",
+    "example": "The report juxtaposes the promises with the reality of the situation.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "lackluster",
+    "meaning_ko": "활기 없는",
+    "pos": "adjective",
+    "example": "The economic performance has been disappointingly lackluster.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "obtrusive",
+    "meaning_ko": "눈에 띄는, 방해하는",
+    "pos": "adjective",
+    "example": "Security measures at the summit were highly obtrusive.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pithy",
+    "meaning_ko": "간결하지만 강력한",
+    "pos": "adjective",
+    "example": "The leader made a pithy comment that resonated with voters.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "redress",
+    "meaning_ko": "바로잡다, 보상하다",
+    "pos": "verb",
+    "example": "The committee was formed to redress historical injustices.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "repartee",
+    "meaning_ko": "재치 있는 응답",
+    "pos": "noun",
+    "example": "The political interview turned into a sharp exchange of repartee.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "reprobate",
+    "meaning_ko": "타락한 사람, 비난하다",
+    "pos": "noun",
+    "example": "The media portrayed the disgraced executive as a financial reprobate.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "stentorian",
+    "meaning_ko": "목소리가 우렁찬",
+    "pos": "adjective",
+    "example": "The speaker used a stentorian voice to address the huge crowd.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "truculent",
+    "meaning_ko": "공격적인, 호전적인",
+    "pos": "adjective",
+    "example": "The press conference ended after the truculent behavior of a few reporters.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "umbrage",
+    "meaning_ko": "불쾌, 분개",
+    "pos": "noun",
+    "example": "The minister took umbrage at the direct question about his assets.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unremitting",
+    "meaning_ko": "끊임없는",
+    "pos": "adjective",
+    "example": "The government faces unremitting pressure from environmental groups.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vapid",
+    "meaning_ko": "흥미롭지 못한",
+    "pos": "adjective",
+    "example": "The political speech was a vapid recitation of old promises.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sycophantic",
+    "meaning_ko": "아첨하는",
+    "pos": "adjective",
+    "example": "The politician was surrounded by sycophantic aides.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "mendacious",
+    "meaning_ko": "거짓말하는",
+    "pos": "adjective",
+    "example": "The news source was flagged for its mendacious reporting.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "churlish",
+    "meaning_ko": "무례한",
+    "pos": "adjective",
+    "example": "His churlish response to the question drew wide criticism.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "charlatan",
+    "meaning_ko": "사기꾼",
+    "pos": "noun",
+    "example": "The financial expert turned out to be a mere charlatan.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "capitulate",
+    "meaning_ko": "굴복하다",
+    "pos": "verb",
+    "example": "The rebellious faction refused to capitulate to the government's demands.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "perfidious",
+    "meaning_ko": "불성실한, 배신하는",
+    "pos": "adjective",
+    "example": "The foreign minister was accused of perfidious dealings with the enemy state.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ignominious",
+    "meaning_ko": "불명예스러운",
+    "pos": "adjective",
+    "example": "The country suffered an ignominious defeat in the trade war.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "inscrutable",
+    "meaning_ko": "헤아릴 수 없는",
+    "pos": "adjective",
+    "example": "The dictator's intentions remain inscrutable to foreign analysts.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "malfeasance",
+    "meaning_ko": "불법 행위",
+    "pos": "noun",
+    "example": "The CEO was indicted for gross financial malfeasance.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "turgid",
+    "meaning_ko": "과장된",
+    "pos": "adjective",
+    "example": "The legal brief was a turgid, overly technical document.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pusillanimous",
+    "meaning_ko": "소심한",
+    "pos": "adjective",
+    "example": "The politician was criticized as pusillanimous for avoiding the debate.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "quiescent",
+    "meaning_ko": "정지한, 조용한",
+    "pos": "adjective",
+    "example": "The once-volatile region has been strangely quiescent recently.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "recalcitrance",
+    "meaning_ko": "저항",
+    "pos": "noun",
+    "example": "The union's recalcitrance delayed the signing of the new contract.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "sacrosanct",
+    "meaning_ko": "신성불가침의",
+    "pos": "adjective",
+    "example": "The principle of free speech is considered sacrosanct.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "stultify",
+    "meaning_ko": "무효화하다, 바보처럼 보이게 하다",
+    "pos": "verb",
+    "example": "The new bureaucracy serves only to stultify innovation.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "subliminal",
+    "meaning_ko": "잠재의식적인",
+    "pos": "adjective",
+    "example": "The campaign used subliminal messages to influence voters.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "tacit",
+    "meaning_ko": "암묵적인",
+    "pos": "adjective",
+    "example": "The agreement was reached through tacit consent, not formal talks.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "ubiquity",
+    "meaning_ko": "편재",
+    "pos": "noun",
+    "example": "The ubiquity of smart devices has changed political campaigning.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unfettered",
+    "meaning_ko": "제한 없는",
+    "pos": "adjective",
+    "example": "The report warns of the dangers of unfettered market capitalism.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "venerable",
+    "meaning_ko": "존경할 만한",
+    "pos": "adjective",
+    "example": "The venerable institution celebrated its 200th anniversary.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "wanton",
+    "meaning_ko": "부주의한, 무자비한",
+    "pos": "adjective",
+    "example": "The article accused the firm of wanton disregard for environmental law.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "winsome",
+    "meaning_ko": "매력 있는",
+    "pos": "adjective",
+    "example": "The candidate's winsome personality appealed to swing voters.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "antipathy",
+    "meaning_ko": "반감",
+    "pos": "noun",
+    "example": "There is growing public antipathy toward the ruling party.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "autocratic",
+    "meaning_ko": "독재적인",
+    "pos": "adjective",
+    "example": "The company operates under an autocratic management style.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "bereft",
+    "meaning_ko": "결여된",
+    "pos": "adjective",
+    "example": "The official statement was completely bereft of factual support.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "chicanery",
+    "meaning_ko": "속임수",
+    "pos": "noun",
+    "example": "The election results were allegedly manipulated through legal chicanery.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "demarcation",
+    "meaning_ko": "경계 설정",
+    "pos": "noun",
+    "example": "The committee is working on the precise demarcation of responsibilities.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "discursive",
+    "meaning_ko": "산만한",
+    "pos": "adjective",
+    "example": "The reporter’s style was often criticized for being too discursive.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "enervate",
+    "meaning_ko": "기력을 떨어뜨리다",
+    "pos": "verb",
+    "example": "The prolonged crisis threatens to enervate the economy.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "inculpate",
+    "meaning_ko": "죄를 씌우다",
+    "pos": "verb",
+    "example": "The leaked emails could potentially inculpate the minister.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "insidious",
+    "meaning_ko": "음흉한, 교활한",
+    "pos": "adjective",
+    "example": "The rise of insidious propaganda is a global concern.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "lassitude",
+    "meaning_ko": "나른함, 권태",
+    "pos": "noun",
+    "example": "Political lassitude led to low turnout in the recent elections.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "litigious",
+    "meaning_ko": "소송을 좋아하는",
+    "pos": "adjective",
+    "example": "The company is known for its highly litigious nature.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "mercurial",
+    "meaning_ko": "변덕스러운",
+    "pos": "adjective",
+    "example": "The market is often mercurial in response to uncertain news.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "obviate",
+    "meaning_ko": "미연에 방지하다",
+    "pos": "verb",
+    "example": "The new security protocol should obviate the need for further monitoring.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "parochial",
+    "meaning_ko": "편협한",
+    "pos": "adjective",
+    "example": "The political debate often descends into parochial concerns.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "pecuniary",
+    "meaning_ko": "금전상의",
+    "pos": "adjective",
+    "example": "He denied receiving any pecuniary benefits from the contract.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "perspicacious",
+    "meaning_ko": "통찰력 있는",
+    "pos": "adjective",
+    "example": "The perspicacious analyst correctly predicted the market crash.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "platitude",
+    "meaning_ko": "뻔한 말",
+    "pos": "noun",
+    "example": "The leader's speech was full of empty political platitudes.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "profligate",
+    "meaning_ko": "낭비하는",
+    "pos": "adjective",
+    "example": "The government was accused of profligate spending on luxury items.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "specious",
+    "meaning_ko": "허울 좋은",
+    "pos": "adjective",
+    "example": "The company offered a specious argument for its controversial labor practices.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "stigmatize",
+    "meaning_ko": "낙인찍다",
+    "pos": "verb",
+    "example": "The media's coverage threatened to stigmatize the whole community.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "subversive",
+    "meaning_ko": "체제 전복적인",
+    "pos": "adjective",
+    "example": "The group was investigated for engaging in subversive activities.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "tendentious",
+    "meaning_ko": "편향적인",
+    "pos": "adjective",
+    "example": "The news report was criticized for being highly tendentious.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "undermine",
+    "meaning_ko": "약화시키다",
+    "pos": "verb",
+    "example": "The scandal threatened to undermine the public's trust in the government.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "unflappable",
+    "meaning_ko": "동요하지 않는",
+    "pos": "adjective",
+    "example": "The CEO remained unflappable during the intense cross-examination.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "vituperative",
+    "meaning_ko": "욕설을 퍼붓는",
+    "pos": "adjective",
+    "example": "The journalist resigned after a vituperative online exchange.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  },
+  {
+    "word": "xenophobia",
+    "meaning_ko": "외국인 혐오",
+    "pos": "noun",
+    "example": "The rise of nationalism fueled xenophobia in the border region.",
+    "level": "원어민수준",
+    "category": "뉴스/회화"
+  }
+]

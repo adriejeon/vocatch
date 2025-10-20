@@ -14,7 +14,7 @@ publish_to: "none" # Remove this line if you wish to publish to pub.dev
 # In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 1.0.0+2
+version: 1.0.0+3
 
 environment:
   sdk: ^3.9.0
@@ -90,6 +90,30 @@ flutter:
   assets:
     - assets/data/core_words.json
     - assets/data/word_frequency.json
+    - assets/data/EN_기초다지기_일상회화.json
+    - assets/data/EN_기초다지기_여행.json
+    - assets/data/EN_기초다지기_비즈니스.json
+    - assets/data/EN_기초다지기_뉴스-시사.json
+    - assets/data/EN_표현력확장_일상회화.json
+    - assets/data/EN_표현력확장_여행.json
+    - assets/data/EN_표현력확장_비즈니스.json
+    - assets/data/EN_표현력확장_뉴스-시사.json
+    - assets/data/EN_원어민수준_일상회화.json
+    - assets/data/EN_원어민수준_여행.json
+    - assets/data/EN_원어민수준_비즈니스.json
+    - assets/data/EN_원어민수준_뉴스-시사.json
+    - assets/data/KO_기초다지기_일상회화.json
+    - assets/data/KO_기초다지기_여행.json
+    - assets/data/KO_기초다지기_비즈니스.json
+    - assets/data/KO_기초다지기_뉴스-시사.json
+    - assets/data/KO_표현력확장_일상회화.json
+    - assets/data/KO_표현력확장_여행.json
+    - assets/data/KO_표현력확장_비즈니스.json
+    - assets/data/KO_표현력확장_뉴스-시사.json
+    - assets/data/KO_원어민수준_일상회화.json
+    - assets/data/KO_원어민수준_여행.json
+    - assets/data/KO_원어민수준_비즈니스.json
+    - assets/data/KO_원어민수준_뉴스-시사.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

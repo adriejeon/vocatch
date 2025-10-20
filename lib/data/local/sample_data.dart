@@ -2,7 +2,7 @@ import '../models/word_model.dart';
 
 /// 샘플 데이터를 생성합니다.
 class SampleData {
-  /// 영어 학습용 초급 단어 (한국어로 의미)
+  /// 영어 학습용 기초다지기 단어 (한국어로 의미)
   static List<WordModel> get englishBeginnerWords => [
     WordModel(
       id: 'en_beginner_1',
@@ -58,7 +58,7 @@ class SampleData {
     ),
   ];
 
-  /// 영어 학습용 중급 단어
+  /// 영어 학습용 표현력확장 단어
   static List<WordModel> get englishIntermediateWords => [
     WordModel(
       id: 'en_intermediate_1',
@@ -88,7 +88,7 @@ class SampleData {
     ),
   ];
 
-  /// 영어 학습용 고급 단어
+  /// 영어 학습용 원어민수준 단어
   static List<WordModel> get englishAdvancedWords => [
     WordModel(
       id: 'en_advanced_1',
@@ -105,7 +105,7 @@ class SampleData {
     ),
   ];
 
-  /// 한국어 학습용 초급 단어
+  /// 한국어 학습용 기초다지기 단어
   static List<WordModel> get koreanBeginnerWords => [
     WordModel(
       id: 'ko_beginner_1',
@@ -161,7 +161,7 @@ class SampleData {
     ),
   ];
 
-  /// 한국어 학습용 중급 단어
+  /// 한국어 학습용 표현력확장 단어
   static List<WordModel> get koreanIntermediateWords => [
     WordModel(
       id: 'ko_intermediate_1',
@@ -191,7 +191,7 @@ class SampleData {
     ),
   ];
 
-  /// 한국어 학습용 고급 단어
+  /// 한국어 학습용 원어민수준 단어
   static List<WordModel> get koreanAdvancedWords => [
     WordModel(
       id: 'ko_advanced_1',

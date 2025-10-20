@@ -25,9 +25,9 @@ class AppStrings {
     'level_foundation': '기초 다지기',
     'level_expression': '표현력 확장',
     'level_native': '원어민 수준',
-    'level_beginner': '초급',
-    'level_intermediate': '중급',
-    'level_advanced': '고급',
+    'level_beginner': '기초다지기',
+    'level_intermediate': '표현력확장',
+    'level_advanced': '원어민수준',
     'no_words_today': '오늘 학습할 단어가 없습니다',
     'add_to_vocabulary': '단어장에 추가',
     'remove_from_vocabulary': '단어장에서 제거',
@@ -38,6 +38,24 @@ class AppStrings {
     'pronunciation': '발음',
     'verb_conjugations': '동사 변화형',
 
+    // Parts of Speech
+    'pos_noun': '명사',
+    'pos_verb': '동사',
+    'pos_adjective': '형용사',
+    'pos_adverb': '부사',
+    'pos_pronoun': '대명사',
+    'pos_preposition': '전치사',
+    'pos_conjunction': '접속사',
+    'pos_interjection': '감탄사',
+    'pos_article': '관사',
+    'pos_determiner': '한정사',
+    'pos_auxiliary': '조동사',
+    'pos_modal': '조동사',
+    'pos_particle': '조사',
+    'pos_numeral': '수사',
+    'pos_cardinal': '기수',
+    'pos_ordinal': '서수',
+
     // Vocabulary
     'vocabulary_title': '단어장',
     'create_group': '그룹 생성',
@@ -47,6 +65,9 @@ class AppStrings {
     'no_vocabulary': '저장된 단어가 없습니다',
     'all_words': '모든 단어',
     'delete_group': '그룹 삭제',
+    'delete_group_confirm': '이 그룹을 삭제하시겠습니까',
+    'group_deleted': '그룹이 삭제되었습니다',
+    'delete_failed': '삭제 실패',
     'edit_group': '그룹 수정',
 
     // Card Matching
@@ -160,6 +181,24 @@ class AppStrings {
     'pronunciation': 'Pronunciation',
     'verb_conjugations': 'Verb Conjugations',
 
+    // Parts of Speech
+    'pos_noun': 'Noun',
+    'pos_verb': 'Verb',
+    'pos_adjective': 'Adjective',
+    'pos_adverb': 'Adverb',
+    'pos_pronoun': 'Pronoun',
+    'pos_preposition': 'Preposition',
+    'pos_conjunction': 'Conjunction',
+    'pos_interjection': 'Interjection',
+    'pos_article': 'Article',
+    'pos_determiner': 'Determiner',
+    'pos_auxiliary': 'Auxiliary',
+    'pos_modal': 'Modal',
+    'pos_particle': 'Particle',
+    'pos_numeral': 'Numeral',
+    'pos_cardinal': 'Cardinal',
+    'pos_ordinal': 'Ordinal',
+
     // Vocabulary
     'vocabulary_title': 'My Vocabulary',
     'create_group': 'Create Group',
@@ -169,6 +208,9 @@ class AppStrings {
     'no_vocabulary': 'No saved words',
     'all_words': 'All Words',
     'delete_group': 'Delete Group',
+    'delete_group_confirm': 'Are you sure you want to delete this group',
+    'group_deleted': 'Group deleted successfully',
+    'delete_failed': 'Delete failed',
     'edit_group': 'Edit Group',
 
     // Card Matching

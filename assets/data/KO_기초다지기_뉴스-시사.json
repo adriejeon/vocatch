@@ -1,0 +1,402 @@
+[
+  {
+    "word": "news",
+    "meaning_ko": "뉴스",
+    "pos": "noun",
+    "example": "This is an example with news.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "report",
+    "meaning_ko": "보고서",
+    "pos": "noun",
+    "example": "This is an example with report.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "story",
+    "meaning_ko": "이야기",
+    "pos": "noun",
+    "example": "This is an example with story.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "read",
+    "meaning_ko": "읽다",
+    "pos": "noun",
+    "example": "This is an example with read.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "watch",
+    "meaning_ko": "보다",
+    "pos": "noun",
+    "example": "This is an example with watch.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "listen",
+    "meaning_ko": "듣다",
+    "pos": "verb",
+    "example": "This is an example with listen.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "tell",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "This is an example with tell.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "know",
+    "meaning_ko": "알다",
+    "pos": "verb",
+    "example": "This is an example with know.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "hear",
+    "meaning_ko": "듣다",
+    "pos": "verb",
+    "example": "This is an example with hear.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "see",
+    "meaning_ko": "보다",
+    "pos": "verb",
+    "example": "This is an example with see.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "today",
+    "meaning_ko": "오늘",
+    "pos": "adverb",
+    "example": "This is an example with today.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "now",
+    "meaning_ko": "지금",
+    "pos": "noun",
+    "example": "This is an example with now.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "new",
+    "meaning_ko": "새로운",
+    "pos": "noun",
+    "example": "This is an example with new.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "old",
+    "meaning_ko": "오래된",
+    "pos": "noun",
+    "example": "This is an example with old.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "big",
+    "meaning_ko": "큰",
+    "pos": "noun",
+    "example": "This is an example with big.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "small",
+    "meaning_ko": "작은",
+    "pos": "noun",
+    "example": "This is an example with small.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "important",
+    "meaning_ko": "중요한",
+    "pos": "noun",
+    "example": "This is an example with important.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "happen",
+    "meaning_ko": "일어나다",
+    "pos": "noun",
+    "example": "This is an example with happen.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "event",
+    "meaning_ko": "사건",
+    "pos": "noun",
+    "example": "This is an example with event.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "thing",
+    "meaning_ko": "것",
+    "pos": "noun",
+    "example": "This is an example with thing.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "people",
+    "meaning_ko": "사람들",
+    "pos": "noun",
+    "example": "This is an example with people.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "person",
+    "meaning_ko": "사람",
+    "pos": "noun",
+    "example": "This is an example with person.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "man",
+    "meaning_ko": "남자",
+    "pos": "noun",
+    "example": "This is an example with man.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "woman",
+    "meaning_ko": "여자",
+    "pos": "noun",
+    "example": "This is an example with woman.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "child",
+    "meaning_ko": "아이",
+    "pos": "noun",
+    "example": "This is an example with child.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "place",
+    "meaning_ko": "장소",
+    "pos": "noun",
+    "example": "This is an example with place.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "city",
+    "meaning_ko": "도시",
+    "pos": "noun",
+    "example": "This is an example with city.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "country",
+    "meaning_ko": "나라",
+    "pos": "noun",
+    "example": "This is an example with country.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "world",
+    "meaning_ko": "세계",
+    "pos": "noun",
+    "example": "This is an example with world.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "home",
+    "meaning_ko": "집",
+    "pos": "noun",
+    "example": "This is an example with home.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "good",
+    "meaning_ko": "좋은",
+    "pos": "adjective",
+    "example": "This is an example with good.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "bad",
+    "meaning_ko": "나쁜",
+    "pos": "adjective",
+    "example": "This is an example with bad.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "right",
+    "meaning_ko": "옳은",
+    "pos": "noun",
+    "example": "This is an example with right.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "wrong",
+    "meaning_ko": "틀린",
+    "pos": "noun",
+    "example": "This is an example with wrong.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "true",
+    "meaning_ko": "진실",
+    "pos": "noun",
+    "example": "This is an example with true.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "false",
+    "meaning_ko": "거짓",
+    "pos": "noun",
+    "example": "This is an example with false.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "say",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "This is an example with say.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "talk",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "This is an example with talk.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "speak",
+    "meaning_ko": "말하다",
+    "pos": "verb",
+    "example": "This is an example with speak.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "ask",
+    "meaning_ko": "묻다",
+    "pos": "verb",
+    "example": "This is an example with ask.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "answer",
+    "meaning_ko": "대답하다",
+    "pos": "verb",
+    "example": "This is an example with answer.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "think",
+    "meaning_ko": "생각하다",
+    "pos": "verb",
+    "example": "This is an example with think.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "believe",
+    "meaning_ko": "믿다",
+    "pos": "noun",
+    "example": "This is an example with believe.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "feel",
+    "meaning_ko": "느끼다",
+    "pos": "verb",
+    "example": "This is an example with feel.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "like",
+    "meaning_ko": "좋아하다",
+    "pos": "verb",
+    "example": "This is an example with like.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "want",
+    "meaning_ko": "원하다",
+    "pos": "verb",
+    "example": "This is an example with want.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "need",
+    "meaning_ko": "필요하다",
+    "pos": "verb",
+    "example": "This is an example with need.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "help",
+    "meaning_ko": "도움",
+    "pos": "verb",
+    "example": "This is an example with help.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "problem",
+    "meaning_ko": "문제",
+    "pos": "noun",
+    "example": "This is an example with problem.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  },
+  {
+    "word": "change",
+    "meaning_ko": "변화",
+    "pos": "noun",
+    "example": "This is an example with change.",
+    "level": "기초다지기",
+    "category": "뉴스-시사"
+  }
+]

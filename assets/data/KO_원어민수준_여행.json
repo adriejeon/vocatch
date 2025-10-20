@@ -1,0 +1,386 @@
+[
+  {
+    "word": "expedition",
+    "meaning_ko": "expedition",
+    "pos": "noun",
+    "example": "This is an example with expedition.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "pilgrimage",
+    "meaning_ko": "pilgrimage",
+    "pos": "noun",
+    "example": "This is an example with pilgrimage.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "odyssey",
+    "meaning_ko": "odyssey",
+    "pos": "noun",
+    "example": "This is an example with odyssey.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "sojourn",
+    "meaning_ko": "sojourn",
+    "pos": "noun",
+    "example": "This is an example with sojourn.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "itinerant",
+    "meaning_ko": "itinerant",
+    "pos": "noun",
+    "example": "This is an example with itinerant.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "nomadic",
+    "meaning_ko": "nomadic",
+    "pos": "noun",
+    "example": "This is an example with nomadic.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "cosmopolitan",
+    "meaning_ko": "cosmopolitan",
+    "pos": "noun",
+    "example": "This is an example with cosmopolitan.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "expatriate",
+    "meaning_ko": "expatriate",
+    "pos": "noun",
+    "example": "This is an example with expatriate.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "diaspora",
+    "meaning_ko": "diaspora",
+    "pos": "noun",
+    "example": "This is an example with diaspora.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "displacement",
+    "meaning_ko": "displacement",
+    "pos": "noun",
+    "example": "This is an example with displacement.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "migration",
+    "meaning_ko": "migration",
+    "pos": "noun",
+    "example": "This is an example with migration.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "emigration",
+    "meaning_ko": "emigration",
+    "pos": "noun",
+    "example": "This is an example with emigration.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "colonization",
+    "meaning_ko": "colonization",
+    "pos": "noun",
+    "example": "This is an example with colonization.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "exploration",
+    "meaning_ko": "exploration",
+    "pos": "noun",
+    "example": "This is an example with exploration.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "pioneering",
+    "meaning_ko": "pioneering",
+    "pos": "noun",
+    "example": "This is an example with pioneering.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "traversal",
+    "meaning_ko": "traversal",
+    "pos": "noun",
+    "example": "This is an example with traversal.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "circumnavigation",
+    "meaning_ko": "circumnavigation",
+    "pos": "noun",
+    "example": "This is an example with circumnavigation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "embarkation",
+    "meaning_ko": "embarkation",
+    "pos": "noun",
+    "example": "This is an example with embarkation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "disembarkation",
+    "meaning_ko": "disembarkation",
+    "pos": "noun",
+    "example": "This is an example with disembarkation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "layover",
+    "meaning_ko": "layover",
+    "pos": "noun",
+    "example": "This is an example with layover.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "stopover",
+    "meaning_ko": "stopover",
+    "pos": "noun",
+    "example": "This is an example with stopover.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "transit",
+    "meaning_ko": "transit",
+    "pos": "noun",
+    "example": "This is an example with transit.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "consulate",
+    "meaning_ko": "consulate",
+    "pos": "noun",
+    "example": "This is an example with consulate.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "embassy",
+    "meaning_ko": "embassy",
+    "pos": "noun",
+    "example": "This is an example with embassy.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "jurisdiction",
+    "meaning_ko": "jurisdiction",
+    "pos": "noun",
+    "example": "This is an example with jurisdiction.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "sovereignty",
+    "meaning_ko": "sovereignty",
+    "pos": "noun",
+    "example": "This is an example with sovereignty.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "territory",
+    "meaning_ko": "territory",
+    "pos": "noun",
+    "example": "This is an example with territory.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "frontier",
+    "meaning_ko": "frontier",
+    "pos": "noun",
+    "example": "This is an example with frontier.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "boundary",
+    "meaning_ko": "boundary",
+    "pos": "noun",
+    "example": "This is an example with boundary.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "demarcation",
+    "meaning_ko": "demarcation",
+    "pos": "noun",
+    "example": "This is an example with demarcation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "infrastructure",
+    "meaning_ko": "infrastructure",
+    "pos": "noun",
+    "example": "This is an example with infrastructure.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "logistics",
+    "meaning_ko": "logistics",
+    "pos": "noun",
+    "example": "This is an example with logistics.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "provisions",
+    "meaning_ko": "provisions",
+    "pos": "noun",
+    "example": "This is an example with provisions.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "sustenance",
+    "meaning_ko": "sustenance",
+    "pos": "noun",
+    "example": "This is an example with sustenance.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "subsistence",
+    "meaning_ko": "subsistence",
+    "pos": "noun",
+    "example": "This is an example with subsistence.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "indigenous",
+    "meaning_ko": "indigenous",
+    "pos": "noun",
+    "example": "This is an example with indigenous.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "aboriginal",
+    "meaning_ko": "aboriginal",
+    "pos": "noun",
+    "example": "This is an example with aboriginal.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "ethnic",
+    "meaning_ko": "ethnic",
+    "pos": "noun",
+    "example": "This is an example with ethnic.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "multicultural",
+    "meaning_ko": "multicultural",
+    "pos": "noun",
+    "example": "This is an example with multicultural.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "intercultural",
+    "meaning_ko": "intercultural",
+    "pos": "noun",
+    "example": "This is an example with intercultural.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "transnational",
+    "meaning_ko": "transnational",
+    "pos": "noun",
+    "example": "This is an example with transnational.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "globalization",
+    "meaning_ko": "globalization",
+    "pos": "noun",
+    "example": "This is an example with globalization.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "acculturation",
+    "meaning_ko": "acculturation",
+    "pos": "noun",
+    "example": "This is an example with acculturation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "assimilation",
+    "meaning_ko": "assimilation",
+    "pos": "noun",
+    "example": "This is an example with assimilation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "adaptation",
+    "meaning_ko": "adaptation",
+    "pos": "noun",
+    "example": "This is an example with adaptation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "orientation",
+    "meaning_ko": "orientation",
+    "pos": "noun",
+    "example": "This is an example with orientation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "disorientation",
+    "meaning_ko": "disorientation",
+    "pos": "noun",
+    "example": "This is an example with disorientation.",
+    "level": "원어민수준",
+    "category": "여행"
+  },
+  {
+    "word": "alienation",
+    "meaning_ko": "alienation",
+    "pos": "noun",
+    "example": "This is an example with alienation.",
+    "level": "원어민수준",
+    "category": "여행"
+  }
+]

@@ -120,22 +120,53 @@ class _ApiTodayLearningScreenState
       ),
       body: Column(
         children: [
-          // Category Selection Tabs (새로운 스타일)
+          // Category Selection Tabs (반응형)
           Container(
             padding: const EdgeInsets.symmetric(
-              horizontal: AppSpacing.paddingMedium,
+              horizontal: 12, // 좌우 12px 패딩으로 조정
               vertical: AppSpacing.paddingSmall,
             ),
-            child: Row(
-              children: [
-                Expanded(child: _buildCategoryButton('conversation', uiLang)),
-                const SizedBox(width: 4),
-                Expanded(child: _buildCategoryButton('travel', uiLang)),
-                const SizedBox(width: 4),
-                Expanded(child: _buildCategoryButton('business', uiLang)),
-                const SizedBox(width: 4),
-                Expanded(child: _buildCategoryButton('news', uiLang)),
-              ],
+            child: LayoutBuilder(
+              builder: (context, constraints) {
+                // 카테고리 개수
+                const int categoryCount = 4;
+                // 각 탭의 최소 너비 (패딩 포함)
+                const double minTabWidth = 80.0; // 최소 너비 줄임
+                // 전체 최소 너비
+                final double totalMinWidth = categoryCount * minTabWidth;
+
+                // 화면 너비가 충분하면 전체 너비 사용, 아니면 스크롤
+                if (constraints.maxWidth >= totalMinWidth) {
+                  return Row(
+                    children: [
+                      Expanded(
+                        child: _buildCategoryButton('conversation', uiLang),
+                      ),
+                      const SizedBox(width: 4), // 간격 줄임
+                      Expanded(child: _buildCategoryButton('travel', uiLang)),
+                      const SizedBox(width: 4),
+                      Expanded(child: _buildCategoryButton('business', uiLang)),
+                      const SizedBox(width: 4),
+                      Expanded(child: _buildCategoryButton('news', uiLang)),
+                    ],
+                  );
+                } else {
+                  return SingleChildScrollView(
+                    scrollDirection: Axis.horizontal,
+                    child: Row(
+                      children: [
+                        _buildCategoryButton('conversation', uiLang),
+                        const SizedBox(width: 4),
+                        _buildCategoryButton('travel', uiLang),
+                        const SizedBox(width: 4),
+                        _buildCategoryButton('business', uiLang),
+                        const SizedBox(width: 4),
+                        _buildCategoryButton('news', uiLang),
+                      ],
+                    ),
+                  );
+                }
+              },
             ),
           ),
 
@@ -228,6 +259,7 @@ class _ApiTodayLearningScreenState
           vertical: AppSpacing.paddingSmall,
           horizontal: AppSpacing.paddingMedium,
         ),
+        minimumSize: const Size(80, 40), // 최소 크기 설정
       ),
       child: Text(
         AppStrings.get(categoryKey, uiLang),
@@ -238,6 +270,7 @@ class _ApiTodayLearningScreenState
         ),
         textAlign: TextAlign.center,
         maxLines: 1,
+        overflow: TextOverflow.ellipsis,
       ),
     );
   }

@@ -23,8 +23,8 @@ class _MainScreenState extends ConsumerState<MainScreen> {
     final uiLang = settings.uiLanguage;
 
     final screens = [
-      const ApiTodayLearningScreen(),
       const VocabularyScreen(),
+      const ApiTodayLearningScreen(),
       const CardMatchingScreen(),
     ];
 
@@ -43,14 +43,14 @@ class _MainScreenState extends ConsumerState<MainScreen> {
           },
           items: [
             BottomNavigationBarItem(
-              icon: const Icon(Icons.book_outlined),
-              activeIcon: const Icon(Icons.book),
-              label: AppStrings.get('nav_today_learning', uiLang),
-            ),
-            BottomNavigationBarItem(
               icon: const Icon(Icons.folder_outlined),
               activeIcon: const Icon(Icons.folder),
               label: AppStrings.get('nav_vocabulary', uiLang),
+            ),
+            BottomNavigationBarItem(
+              icon: const Icon(Icons.book_outlined),
+              activeIcon: const Icon(Icons.book),
+              label: AppStrings.get('nav_today_learning', uiLang),
             ),
             BottomNavigationBarItem(
               icon: const Icon(Icons.style_outlined),

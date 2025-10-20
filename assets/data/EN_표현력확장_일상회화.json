@@ -1,0 +1,2530 @@
+[
+  {
+    "word": "appreciate",
+    "meaning_ko": "감사히 여기다",
+    "pos": "verb",
+    "example": "I appreciate your understanding.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "arrange",
+    "meaning_ko": "준비하다",
+    "pos": "verb",
+    "example": "I'll arrange the meeting for tomorrow.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "assume",
+    "meaning_ko": "가정하다",
+    "pos": "verb",
+    "example": "I assume you're familiar with the project.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "attempt",
+    "meaning_ko": "시도하다",
+    "pos": "verb",
+    "example": "I attempted to fix the problem.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "achieve",
+    "meaning_ko": "달성하다",
+    "pos": "verb",
+    "example": "She achieved her goal through hard work.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "avoid",
+    "meaning_ko": "피하다",
+    "pos": "verb",
+    "example": "Try to avoid unnecessary stress.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "balance",
+    "meaning_ko": "균형을 맞추다",
+    "pos": "verb",
+    "example": "I need to balance work and family.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "benefit",
+    "meaning_ko": "이익을 얻다",
+    "pos": "verb",
+    "example": "Everyone benefits from this new policy.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "blame",
+    "meaning_ko": "탓하다",
+    "pos": "verb",
+    "example": "Don't blame yourself for the mistake.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "borrow",
+    "meaning_ko": "빌리다",
+    "pos": "verb",
+    "example": "Can I borrow your pen?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "celebrate",
+    "meaning_ko": "축하하다",
+    "pos": "verb",
+    "example": "We celebrate our anniversary every year.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "challenge",
+    "meaning_ko": "도전하다",
+    "pos": "verb",
+    "example": "I challenge you to a game.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "change",
+    "meaning_ko": "바꾸다",
+    "pos": "verb",
+    "example": "I need to change my plans.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "check",
+    "meaning_ko": "확인하다",
+    "pos": "verb",
+    "example": "Check if the door is locked.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "choose",
+    "meaning_ko": "선택하다",
+    "pos": "verb",
+    "example": "You can choose any color you like.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "claim",
+    "meaning_ko": "주장하다",
+    "pos": "verb",
+    "example": "He claims to be an expert.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "communicate",
+    "meaning_ko": "소통하다",
+    "pos": "verb",
+    "example": "We communicate via email.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "compare",
+    "meaning_ko": "비교하다",
+    "pos": "verb",
+    "example": "Compare these two options carefully.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "compete",
+    "meaning_ko": "경쟁하다",
+    "pos": "verb",
+    "example": "Athletes compete for medals.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "complain",
+    "meaning_ko": "불평하다",
+    "pos": "verb",
+    "example": "Don't complain about the weather.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "complete",
+    "meaning_ko": "완성하다",
+    "pos": "verb",
+    "example": "I completed the project on time.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "concern",
+    "meaning_ko": "걱정하다",
+    "pos": "verb",
+    "example": "I'm concerned about your health.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "conclude",
+    "meaning_ko": "결론 내리다",
+    "pos": "verb",
+    "example": "We concluded the meeting at 5 PM.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "confirm",
+    "meaning_ko": "확인하다",
+    "pos": "verb",
+    "example": "Can you confirm the reservation?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "connect",
+    "meaning_ko": "연결하다",
+    "pos": "verb",
+    "example": "Connect the cable to the device.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "consider",
+    "meaning_ko": "고려하다",
+    "pos": "verb",
+    "example": "Consider all the options before deciding.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "consist",
+    "meaning_ko": "구성되다",
+    "pos": "verb",
+    "example": "The team consists of five members.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "contribute",
+    "meaning_ko": "기여하다",
+    "pos": "verb",
+    "example": "Everyone contributes to the project.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "control",
+    "meaning_ko": "조절하다",
+    "pos": "verb",
+    "example": "Control your emotions.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "convince",
+    "meaning_ko": "설득하다",
+    "pos": "verb",
+    "example": "I convinced him to join us.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "cooperate",
+    "meaning_ko": "협력하다",
+    "pos": "verb",
+    "example": "We cooperated to solve the problem.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "copy",
+    "meaning_ko": "복사하다",
+    "pos": "verb",
+    "example": "Copy this file to your computer.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "create",
+    "meaning_ko": "만들다",
+    "pos": "verb",
+    "example": "Artists create beautiful paintings.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "deal",
+    "meaning_ko": "다루다",
+    "pos": "verb",
+    "example": "How do you deal with stress?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "decide",
+    "meaning_ko": "결정하다",
+    "pos": "verb",
+    "example": "I decided to study abroad.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "decrease",
+    "meaning_ko": "감소하다",
+    "pos": "verb",
+    "example": "The price decreased this month.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "defend",
+    "meaning_ko": "방어하다",
+    "pos": "verb",
+    "example": "He defended his opinion strongly.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "define",
+    "meaning_ko": "정의하다",
+    "pos": "verb",
+    "example": "Define the problem before solving it.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "delay",
+    "meaning_ko": "지연시키다",
+    "pos": "verb",
+    "example": "The flight was delayed by two hours.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "deliver",
+    "meaning_ko": "배송하다",
+    "pos": "verb",
+    "example": "The package will be delivered tomorrow.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "demand",
+    "meaning_ko": "요구하다",
+    "pos": "verb",
+    "example": "He demands perfection from his team.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "deny",
+    "meaning_ko": "부정하다",
+    "pos": "verb",
+    "example": "He denied all the accusations.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "depend",
+    "meaning_ko": "의존하다",
+    "pos": "verb",
+    "example": "I depend on my friends for support.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "describe",
+    "meaning_ko": "묘사하다",
+    "pos": "verb",
+    "example": "Describe what you saw.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "deserve",
+    "meaning_ko": "마땅하다",
+    "pos": "verb",
+    "example": "You deserve a vacation.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "design",
+    "meaning_ko": "설계하다",
+    "pos": "verb",
+    "example": "She designed a new building.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "desire",
+    "meaning_ko": "원하다",
+    "pos": "verb",
+    "example": "I desire to travel the world.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "destroy",
+    "meaning_ko": "파괴하다",
+    "pos": "verb",
+    "example": "The storm destroyed many houses.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "detect",
+    "meaning_ko": "감지하다",
+    "pos": "verb",
+    "example": "Can you detect the problem?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "develop",
+    "meaning_ko": "개발하다",
+    "pos": "verb",
+    "example": "They develop new software.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "discover",
+    "meaning_ko": "발견하다",
+    "pos": "verb",
+    "example": "I discovered a new restaurant.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "discuss",
+    "meaning_ko": "논의하다",
+    "pos": "verb",
+    "example": "Let's discuss the project.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "dismiss",
+    "meaning_ko": "해고하다",
+    "pos": "verb",
+    "example": "He was dismissed from his job.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "display",
+    "meaning_ko": "전시하다",
+    "pos": "verb",
+    "example": "The museum displays ancient artifacts.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "disturb",
+    "meaning_ko": "방해하다",
+    "pos": "verb",
+    "example": "Don't disturb me while I'm working.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "divide",
+    "meaning_ko": "나누다",
+    "pos": "verb",
+    "example": "Divide the cake into eight pieces.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "document",
+    "meaning_ko": "기록하다",
+    "pos": "verb",
+    "example": "Document all your expenses.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "doubt",
+    "meaning_ko": "의심하다",
+    "pos": "verb",
+    "example": "I doubt that's true.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "draw",
+    "meaning_ko": "그리다",
+    "pos": "verb",
+    "example": "She draws beautiful pictures.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "drive",
+    "meaning_ko": "운전하다",
+    "pos": "verb",
+    "example": "I drive to work every day.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "during",
+    "meaning_ko": "~동안",
+    "pos": "preposition",
+    "example": "I'll call you during lunch.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "earn",
+    "meaning_ko": "벌다",
+    "pos": "verb",
+    "example": "He earns a good salary.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "emphasize",
+    "meaning_ko": "강조하다",
+    "pos": "verb",
+    "example": "I want to emphasize this point.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "enable",
+    "meaning_ko": "가능하게 하다",
+    "pos": "verb",
+    "example": "This feature enables better communication.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "encounter",
+    "meaning_ko": "만나다",
+    "pos": "verb",
+    "example": "I encountered some difficulties.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "encourage",
+    "meaning_ko": "격려하다",
+    "pos": "verb",
+    "example": "I encourage you to try again.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "ensure",
+    "meaning_ko": "보장하다",
+    "pos": "verb",
+    "example": "Ensure the windows are closed.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "enter",
+    "meaning_ko": "들어가다",
+    "pos": "verb",
+    "example": "Enter your password here.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "establish",
+    "meaning_ko": "설립하다",
+    "pos": "verb",
+    "example": "The company was established in 1990.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "evaluate",
+    "meaning_ko": "평가하다",
+    "pos": "verb",
+    "example": "Teachers evaluate student performance.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "eventually",
+    "meaning_ko": "결국",
+    "pos": "adverb",
+    "example": "He eventually succeeded after many tries.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "evidence",
+    "meaning_ko": "증거",
+    "pos": "noun",
+    "example": "What evidence do you have?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "examine",
+    "meaning_ko": "조사하다",
+    "pos": "verb",
+    "example": "The doctor examined me carefully.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "exceed",
+    "meaning_ko": "초과하다",
+    "pos": "verb",
+    "example": "Don't exceed the speed limit.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "exchange",
+    "meaning_ko": "교환하다",
+    "pos": "verb",
+    "example": "I exchanged the defective item.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "excuse",
+    "meaning_ko": "변명하다",
+    "pos": "verb",
+    "example": "Excuse me, where's the restroom?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "execute",
+    "meaning_ko": "실행하다",
+    "pos": "verb",
+    "example": "Execute the plan carefully.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "expand",
+    "meaning_ko": "확장하다",
+    "pos": "verb",
+    "example": "The company plans to expand.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "expect",
+    "meaning_ko": "기대하다",
+    "pos": "verb",
+    "example": "I expect you at 3 PM.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "experience",
+    "meaning_ko": "경험하다",
+    "pos": "verb",
+    "example": "I experienced culture shock.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "explain",
+    "meaning_ko": "설명하다",
+    "pos": "verb",
+    "example": "Can you explain this to me?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "expose",
+    "meaning_ko": "노출시키다",
+    "pos": "verb",
+    "example": "Don't expose your skin to the sun.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "express",
+    "meaning_ko": "표현하다",
+    "pos": "verb",
+    "example": "Express your feelings openly.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "extend",
+    "meaning_ko": "연장하다",
+    "pos": "verb",
+    "example": "Can you extend the deadline?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "extract",
+    "meaning_ko": "추출하다",
+    "pos": "verb",
+    "example": "Extract the important information.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "factor",
+    "meaning_ko": "요인",
+    "pos": "noun",
+    "example": "Cost is an important factor.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "fail",
+    "meaning_ko": "실패하다",
+    "pos": "verb",
+    "example": "I failed the test.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "fairly",
+    "meaning_ko": "꽤, 공정하게",
+    "pos": "adverb",
+    "example": "Treat everyone fairly.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "favor",
+    "meaning_ko": "호의, 부탁",
+    "pos": "noun",
+    "example": "Can you do me a favor?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "feature",
+    "meaning_ko": "특징",
+    "pos": "noun",
+    "example": "What are the main features?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "figure",
+    "meaning_ko": "알아내다, 계산하다",
+    "pos": "verb",
+    "example": "I figured out the answer.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "final",
+    "meaning_ko": "최종의",
+    "pos": "adjective",
+    "example": "This is my final decision.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "focus",
+    "meaning_ko": "집중하다",
+    "pos": "verb",
+    "example": "Focus on the main goal.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "follow",
+    "meaning_ko": "따르다",
+    "pos": "verb",
+    "example": "Follow me to the office.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "force",
+    "meaning_ko": "강요하다",
+    "pos": "verb",
+    "example": "Don't force your opinion on others.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "foreign",
+    "meaning_ko": "외국의",
+    "pos": "adjective",
+    "example": "I speak foreign languages.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "formal",
+    "meaning_ko": "공식적인",
+    "pos": "adjective",
+    "example": "Wear formal clothes to the event.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "former",
+    "meaning_ko": "전의",
+    "pos": "adjective",
+    "example": "My former teacher visited us.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "formula",
+    "meaning_ko": "공식",
+    "pos": "noun",
+    "example": "Use this formula to calculate.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "forward",
+    "meaning_ko": "앞으로",
+    "pos": "adverb",
+    "example": "Move forward with the plan.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "frequent",
+    "meaning_ko": "빈번한",
+    "pos": "adjective",
+    "example": "Frequent visitors are welcome.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "function",
+    "meaning_ko": "기능하다",
+    "pos": "verb",
+    "example": "Does this machine function well?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "further",
+    "meaning_ko": "더 나아가, 더욱",
+    "pos": "adverb",
+    "example": "I need further information.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "gather",
+    "meaning_ko": "모으다",
+    "pos": "verb",
+    "example": "Gather all the documents.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "general",
+    "meaning_ko": "일반적인",
+    "pos": "adjective",
+    "example": "In general, I enjoy reading.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "generate",
+    "meaning_ko": "생성하다",
+    "pos": "verb",
+    "example": "Generate new ideas.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "gesture",
+    "meaning_ko": "몸짓",
+    "pos": "noun",
+    "example": "She made a friendly gesture.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "global",
+    "meaning_ko": "전 세계의",
+    "pos": "adjective",
+    "example": "This is a global issue.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "goal",
+    "meaning_ko": "목표",
+    "pos": "noun",
+    "example": "What's your main goal?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "grade",
+    "meaning_ko": "등급, 성적",
+    "pos": "noun",
+    "example": "What grade did you get?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "grant",
+    "meaning_ko": "부여하다, 승인하다",
+    "pos": "verb",
+    "example": "The university granted him a scholarship.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "grateful",
+    "meaning_ko": "감사하는",
+    "pos": "adjective",
+    "example": "I'm grateful for your help.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "guarantee",
+    "meaning_ko": "보증하다",
+    "pos": "verb",
+    "example": "We guarantee quality products.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "guard",
+    "meaning_ko": "지키다, 경비하다",
+    "pos": "verb",
+    "example": "Guard your personal information.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "guide",
+    "meaning_ko": "안내하다",
+    "pos": "verb",
+    "example": "I'll guide you through the process.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "guilty",
+    "meaning_ko": "유죄의, 죄책감을 느끼는",
+    "pos": "adjective",
+    "example": "He pleaded guilty.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "habit",
+    "meaning_ko": "습관",
+    "pos": "noun",
+    "example": "Reading is my daily habit.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "handle",
+    "meaning_ko": "다루다, 처리하다",
+    "pos": "verb",
+    "example": "Handle with care.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "harbor",
+    "meaning_ko": "품다, 항구",
+    "pos": "verb",
+    "example": "Don't harbor negative thoughts.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "harsh",
+    "meaning_ko": "가혹한, 거친",
+    "pos": "adjective",
+    "example": "The weather is harsh.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "harvest",
+    "meaning_ko": "수확하다",
+    "pos": "verb",
+    "example": "Farmers harvest crops in autumn.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "hazard",
+    "meaning_ko": "위험",
+    "pos": "noun",
+    "example": "Beware of potential hazards.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "hesitate",
+    "meaning_ko": "망설이다",
+    "pos": "verb",
+    "example": "Don't hesitate to ask questions.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "highlight",
+    "meaning_ko": "강조하다",
+    "pos": "verb",
+    "example": "Highlight the important parts.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "hire",
+    "meaning_ko": "고용하다",
+    "pos": "verb",
+    "example": "We hired a new manager.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "historic",
+    "meaning_ko": "역사적인",
+    "pos": "adjective",
+    "example": "This is a historic building.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "honor",
+    "meaning_ko": "명예, 존경",
+    "pos": "noun",
+    "example": "It's an honor to meet you.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "hostile",
+    "meaning_ko": "적대적인",
+    "pos": "adjective",
+    "example": "He has a hostile attitude.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "huge",
+    "meaning_ko": "거대한",
+    "pos": "adjective",
+    "example": "That's a huge opportunity.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "human",
+    "meaning_ko": "인간의",
+    "pos": "adjective",
+    "example": "Human rights are important.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "humble",
+    "meaning_ko": "겸손한",
+    "pos": "adjective",
+    "example": "He's a humble person.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "humor",
+    "meaning_ko": "유머",
+    "pos": "noun",
+    "example": "She has a good sense of humor.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "hurry",
+    "meaning_ko": "서둘다",
+    "pos": "verb",
+    "example": "Hurry up, we're late!",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "identify",
+    "meaning_ko": "식별하다, 확인하다",
+    "pos": "verb",
+    "example": "Can you identify this plant?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "ignore",
+    "meaning_ko": "무시하다",
+    "pos": "verb",
+    "example": "Don't ignore the warning signs.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "illustrate",
+    "meaning_ko": "설명하다, 삽화를 넣다",
+    "pos": "verb",
+    "example": "The example illustrates the point.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "impact",
+    "meaning_ko": "영향",
+    "pos": "noun",
+    "example": "What's the impact of this decision?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "implement",
+    "meaning_ko": "실행하다",
+    "pos": "verb",
+    "example": "Implement the new system.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "imply",
+    "meaning_ko": "암시하다",
+    "pos": "verb",
+    "example": "What are you trying to imply?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "improve",
+    "meaning_ko": "개선하다",
+    "pos": "verb",
+    "example": "I want to improve my skills.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "incident",
+    "meaning_ko": "사건, 일",
+    "pos": "noun",
+    "example": "There was an incident at work.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "include",
+    "meaning_ko": "포함하다",
+    "pos": "verb",
+    "example": "Does the price include tax?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "income",
+    "meaning_ko": "수입",
+    "pos": "noun",
+    "example": "What's your annual income?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "increase",
+    "meaning_ko": "증가하다",
+    "pos": "verb",
+    "example": "Sales increased this quarter.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "indicate",
+    "meaning_ko": "나타내다, 지적하다",
+    "pos": "verb",
+    "example": "The signs indicate danger.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "indirect",
+    "meaning_ko": "간접적인",
+    "pos": "adjective",
+    "example": "Take the indirect route.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "individual",
+    "meaning_ko": "개인",
+    "pos": "noun",
+    "example": "Each individual has rights.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "influence",
+    "meaning_ko": "영향을 미치다",
+    "pos": "verb",
+    "example": "Don't let others influence you.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "inform",
+    "meaning_ko": "알리다",
+    "pos": "verb",
+    "example": "I'll inform you of the changes.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "initial",
+    "meaning_ko": "초기의",
+    "pos": "adjective",
+    "example": "What was your initial reaction?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "injury",
+    "meaning_ko": "부상",
+    "pos": "noun",
+    "example": "He suffered a serious injury.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "innocent",
+    "meaning_ko": "무죄의, 순진한",
+    "pos": "adjective",
+    "example": "He was declared innocent.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "inquire",
+    "meaning_ko": "문의하다",
+    "pos": "verb",
+    "example": "Inquire about the job details.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "insect",
+    "meaning_ko": "곤충",
+    "pos": "noun",
+    "example": "That's a beautiful insect.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "insight",
+    "meaning_ko": "통찰",
+    "pos": "noun",
+    "example": "That's a valuable insight.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "inspect",
+    "meaning_ko": "검사하다",
+    "pos": "verb",
+    "example": "We inspect the goods carefully.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "inspire",
+    "meaning_ko": "영감을 주다",
+    "pos": "verb",
+    "example": "Her success inspires me.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "institute",
+    "meaning_ko": "기관, 협회",
+    "pos": "noun",
+    "example": "They work for a research institute.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "insist",
+    "meaning_ko": "주장하다, 고집하다",
+    "pos": "verb",
+    "example": "She insisted on paying the bill.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "intend",
+    "meaning_ko": "~할 작정이다",
+    "pos": "verb",
+    "example": "I intend to finish this today.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "interact",
+    "meaning_ko": "상호작용하다",
+    "pos": "verb",
+    "example": "Children interact with each other.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "interpret",
+    "meaning_ko": "해석하다, 통역하다",
+    "pos": "verb",
+    "example": "How do you interpret this data?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "interrupt",
+    "meaning_ko": "가로막다, 방해하다",
+    "pos": "verb",
+    "example": "Don't interrupt me while I'm talking.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "involve",
+    "meaning_ko": "관련시키다, 수반하다",
+    "pos": "verb",
+    "example": "The job involves a lot of travel.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "issue",
+    "meaning_ko": "쟁점, 문제",
+    "pos": "noun",
+    "example": "We need to discuss this issue.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "justify",
+    "meaning_ko": "정당화하다",
+    "pos": "verb",
+    "example": "How can you justify your actions?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "launch",
+    "meaning_ko": "출시하다, 발사하다",
+    "pos": "verb",
+    "example": "They will launch a new product next month.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "lean",
+    "meaning_ko": "기대다, 기울이다",
+    "pos": "verb",
+    "example": "Don't lean against the wall.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "legal",
+    "meaning_ko": "법률적인",
+    "pos": "adjective",
+    "example": "Seek legal advice before signing.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "limit",
+    "meaning_ko": "제한하다",
+    "pos": "verb",
+    "example": "We should limit the spending.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "locate",
+    "meaning_ko": "위치를 찾다",
+    "pos": "verb",
+    "example": "Can you locate the nearest train station?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "maintain",
+    "meaning_ko": "유지하다",
+    "pos": "verb",
+    "example": "It's hard to maintain a perfect balance.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "manage",
+    "meaning_ko": "관리하다",
+    "pos": "verb",
+    "example": "I can manage this task easily.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "mature",
+    "meaning_ko": "성숙한",
+    "pos": "adjective",
+    "example": "She is mature for her age.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "mention",
+    "meaning_ko": "언급하다",
+    "pos": "verb",
+    "example": "Did he mention the party?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "merely",
+    "meaning_ko": "단지, 그저",
+    "pos": "adverb",
+    "example": "It was merely a misunderstanding.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "minimum",
+    "meaning_ko": "최소한의",
+    "pos": "adjective",
+    "example": "We need a minimum of three people.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "mutual",
+    "meaning_ko": "상호적인",
+    "pos": "adjective",
+    "example": "We have a mutual agreement.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "narrow",
+    "meaning_ko": "좁은",
+    "pos": "adjective",
+    "example": "The road is too narrow for two cars.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "negotiate",
+    "meaning_ko": "협상하다",
+    "pos": "verb",
+    "example": "They need to negotiate a new contract.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "observe",
+    "meaning_ko": "관찰하다, 준수하다",
+    "pos": "verb",
+    "example": "Observe the rules carefully.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "obtain",
+    "meaning_ko": "얻다, 획득하다",
+    "pos": "verb",
+    "example": "I obtained the necessary permits.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "obvious",
+    "meaning_ko": "분명한",
+    "pos": "adjective",
+    "example": "The answer is obvious.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "occasion",
+    "meaning_ko": "경우, 특별한 일",
+    "pos": "noun",
+    "example": "This calls for a special occasion.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "occupy",
+    "meaning_ko": "차지하다, 점유하다",
+    "pos": "verb",
+    "example": "The new furniture occupies too much space.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "oppose",
+    "meaning_ko": "반대하다",
+    "pos": "verb",
+    "example": "I strongly oppose that idea.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "option",
+    "meaning_ko": "선택권",
+    "pos": "noun",
+    "example": "You have two options.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "ordinary",
+    "meaning_ko": "평범한",
+    "pos": "adjective",
+    "example": "It was just an ordinary day.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "organize",
+    "meaning_ko": "준비하다, 조직하다",
+    "pos": "verb",
+    "example": "Let's organize the party.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "outcome",
+    "meaning_ko": "결과",
+    "pos": "noun",
+    "example": "What was the outcome of the meeting?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "overall",
+    "meaning_ko": "전반적인",
+    "pos": "adjective",
+    "example": "The overall situation is good.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "overcome",
+    "meaning_ko": "극복하다",
+    "pos": "verb",
+    "example": "She overcame her fear of heights.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "participate",
+    "meaning_ko": "참가하다",
+    "pos": "verb",
+    "example": "I want to participate in the race.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "particular",
+    "meaning_ko": "특정한",
+    "pos": "adjective",
+    "example": "Is there a particular reason?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "passenger",
+    "meaning_ko": "승객",
+    "pos": "noun",
+    "example": "All passengers must fasten their seatbelts.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "pattern",
+    "meaning_ko": "양식, 무늬",
+    "pos": "noun",
+    "example": "We noticed a clear pattern in the data.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "perform",
+    "meaning_ko": "수행하다, 공연하다",
+    "pos": "verb",
+    "example": "He performs well under pressure.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "permanent",
+    "meaning_ko": "영구적인",
+    "pos": "adjective",
+    "example": "We are looking for a permanent solution.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "persist",
+    "meaning_ko": "지속하다, 고집하다",
+    "pos": "verb",
+    "example": "He persisted despite the difficulties.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "perspective",
+    "meaning_ko": "관점",
+    "pos": "noun",
+    "example": "Try to see it from my perspective.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "phase",
+    "meaning_ko": "단계, 국면",
+    "pos": "noun",
+    "example": "We are in the final phase of the project.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "physical",
+    "meaning_ko": "신체적인",
+    "pos": "adjective",
+    "example": "He enjoys physical activity.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "plenty",
+    "meaning_ko": "많은, 풍부한",
+    "pos": "adverb",
+    "example": "We have plenty of time.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "possess",
+    "meaning_ko": "소유하다",
+    "pos": "verb",
+    "example": "He possesses great courage.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "potential",
+    "meaning_ko": "잠재적인",
+    "pos": "adjective",
+    "example": "She has great potential.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "preserve",
+    "meaning_ko": "보존하다",
+    "pos": "verb",
+    "example": "We must preserve our traditions.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "pressure",
+    "meaning_ko": "압력, 부담",
+    "pos": "noun",
+    "example": "I feel under a lot of pressure.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "prevent",
+    "meaning_ko": "막다, 예방하다",
+    "pos": "verb",
+    "example": "You should prevent further damage.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "previous",
+    "meaning_ko": "이전의",
+    "pos": "adjective",
+    "example": "The previous chapter was difficult.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "primary",
+    "meaning_ko": "주된, 주요한",
+    "pos": "adjective",
+    "example": "My primary concern is safety.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "prior",
+    "meaning_ko": "이전의, 앞선",
+    "pos": "adjective",
+    "example": "I have a prior engagement.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "process",
+    "meaning_ko": "과정",
+    "pos": "noun",
+    "example": "The application process is simple.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "prohibit",
+    "meaning_ko": "금지하다",
+    "pos": "verb",
+    "example": "Smoking is prohibited here.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "promote",
+    "meaning_ko": "홍보하다, 승진시키다",
+    "pos": "verb",
+    "example": "We need to promote this event.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "propose",
+    "meaning_ko": "제안하다",
+    "pos": "verb",
+    "example": "I propose a toast to the happy couple.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "prove",
+    "meaning_ko": "증명하다",
+    "pos": "verb",
+    "example": "Can you prove your innocence?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "purchase",
+    "meaning_ko": "구매하다",
+    "pos": "verb",
+    "example": "I need to purchase new equipment.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "qualify",
+    "meaning_ko": "자격을 얻다",
+    "pos": "verb",
+    "example": "She qualified for the final round.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "range",
+    "meaning_ko": "범위",
+    "pos": "noun",
+    "example": "The prices range from $10 to $50.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "ratio",
+    "meaning_ko": "비율",
+    "pos": "noun",
+    "example": "The ratio of men to women is 2:1.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "react",
+    "meaning_ko": "반응하다",
+    "pos": "verb",
+    "example": "How did he react to the news?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "realize",
+    "meaning_ko": "깨닫다",
+    "pos": "verb",
+    "example": "I suddenly realized my mistake.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "recall",
+    "meaning_ko": "기억해내다, 회수하다",
+    "pos": "verb",
+    "example": "I can't recall his name right now.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "receive",
+    "meaning_ko": "받다",
+    "pos": "verb",
+    "example": "Did you receive my email?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "recognize",
+    "meaning_ko": "알아보다, 인정하다",
+    "pos": "verb",
+    "example": "I didn't recognize you at first.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "recommend",
+    "meaning_ko": "추천하다",
+    "pos": "verb",
+    "example": "I highly recommend this book.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "reduce",
+    "meaning_ko": "줄이다",
+    "pos": "verb",
+    "example": "We need to reduce waste.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "refer",
+    "meaning_ko": "참조하다, 언급하다",
+    "pos": "verb",
+    "example": "Please refer to the manual.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "reflect",
+    "meaning_ko": "반영하다, 반성하다",
+    "pos": "verb",
+    "example": "His work reflects his dedication.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "regret",
+    "meaning_ko": "후회하다",
+    "pos": "verb",
+    "example": "I regret not telling the truth.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "reject",
+    "meaning_ko": "거절하다",
+    "pos": "verb",
+    "example": "They rejected my application.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "relate",
+    "meaning_ko": "관련시키다",
+    "pos": "verb",
+    "example": "This problem relates to the budget.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "release",
+    "meaning_ko": "풀어주다, 출시하다",
+    "pos": "verb",
+    "example": "The movie will be released soon.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "relevant",
+    "meaning_ko": "관련된, 적절한",
+    "pos": "adjective",
+    "example": "Is this information relevant?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "rely",
+    "meaning_ko": "의지하다",
+    "pos": "verb",
+    "example": "You can rely on me.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "remain",
+    "meaning_ko": "남아있다, ~인 상태로 있다",
+    "pos": "verb",
+    "example": "Please remain seated.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "remote",
+    "meaning_ko": "먼, 외딴",
+    "pos": "adjective",
+    "example": "We visited a remote island.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "repeat",
+    "meaning_ko": "반복하다",
+    "pos": "verb",
+    "example": "Could you please repeat that?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "replace",
+    "meaning_ko": "대체하다",
+    "pos": "verb",
+    "example": "We need to replace the old computer.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "represent",
+    "meaning_ko": "대표하다",
+    "pos": "verb",
+    "example": "She represents our company.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "require",
+    "meaning_ko": "요구하다, 필요로 하다",
+    "pos": "verb",
+    "example": "This job requires creativity.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "reserve",
+    "meaning_ko": "예약하다",
+    "pos": "verb",
+    "example": "I'd like to reserve a table.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "resolve",
+    "meaning_ko": "해결하다, 결심하다",
+    "pos": "verb",
+    "example": "We need to resolve the conflict.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "resource",
+    "meaning_ko": "자원",
+    "pos": "noun",
+    "example": "We should use our resources wisely.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "respond",
+    "meaning_ko": "응답하다",
+    "pos": "verb",
+    "example": "Please respond to the invitation.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "restore",
+    "meaning_ko": "복구하다",
+    "pos": "verb",
+    "example": "They restored the old painting.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "reveal",
+    "meaning_ko": "드러내다, 폭로하다",
+    "pos": "verb",
+    "example": "Don't reveal the secret to anyone.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "reverse",
+    "meaning_ko": "뒤바꾸다, 반전시키다",
+    "pos": "verb",
+    "example": "The decision can be reversed.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "review",
+    "meaning_ko": "검토하다, 후기",
+    "pos": "verb",
+    "example": "Review the report before submission.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "sacrifice",
+    "meaning_ko": "희생하다",
+    "pos": "verb",
+    "example": "Parents often sacrifice for their children.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "satisfy",
+    "meaning_ko": "만족시키다",
+    "pos": "verb",
+    "example": "The results satisfied the customer.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "schedule",
+    "meaning_ko": "일정",
+    "pos": "noun",
+    "example": "What's your schedule for today?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "scheme",
+    "meaning_ko": "계획, 책략",
+    "pos": "noun",
+    "example": "They developed a new marketing scheme.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "search",
+    "meaning_ko": "검색하다",
+    "pos": "verb",
+    "example": "Search for the information online.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "secure",
+    "meaning_ko": "확보하다, 안전한",
+    "pos": "verb",
+    "example": "Secure your documents in the safe.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "seize",
+    "meaning_ko": "붙잡다, 기회를 포착하다",
+    "pos": "verb",
+    "example": "We must seize this opportunity.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "select",
+    "meaning_ko": "선택하다",
+    "pos": "verb",
+    "example": "Select the best candidate.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "sense",
+    "meaning_ko": "감각, 의미",
+    "pos": "noun",
+    "example": "She has a good sense of direction.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "separate",
+    "meaning_ko": "분리하다",
+    "pos": "verb",
+    "example": "Separate the garbage for recycling.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "settle",
+    "meaning_ko": "해결하다, 정착하다",
+    "pos": "verb",
+    "example": "Let's settle this argument now.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "severe",
+    "meaning_ko": "심각한, 엄격한",
+    "pos": "adjective",
+    "example": "The cold weather is severe.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "shift",
+    "meaning_ko": "변화, 이동하다",
+    "pos": "noun",
+    "example": "There has been a big shift in public opinion.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "shortage",
+    "meaning_ko": "부족",
+    "pos": "noun",
+    "example": "There is a shortage of water.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "significant",
+    "meaning_ko": "중요한, 상당한",
+    "pos": "adjective",
+    "example": "This is a significant event.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "simplify",
+    "meaning_ko": "단순화하다",
+    "pos": "verb",
+    "example": "Can you simplify the instructions?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "skill",
+    "meaning_ko": "기술, 능력",
+    "pos": "noun",
+    "example": "She has excellent communication skills.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "solution",
+    "meaning_ko": "해결책",
+    "pos": "noun",
+    "example": "We found a simple solution to the problem.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "source",
+    "meaning_ko": "출처, 근원",
+    "pos": "noun",
+    "example": "What is the source of this rumor?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "specific",
+    "meaning_ko": "특정한",
+    "pos": "adjective",
+    "example": "Be more specific about your request.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "stage",
+    "meaning_ko": "단계, 무대",
+    "pos": "noun",
+    "example": "We are at a crucial stage of the development.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "standard",
+    "meaning_ko": "표준",
+    "pos": "noun",
+    "example": "We must maintain high standards.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "statement",
+    "meaning_ko": "성명, 진술",
+    "pos": "noun",
+    "example": "The company released a formal statement.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "status",
+    "meaning_ko": "상태, 지위",
+    "pos": "noun",
+    "example": "What is the status of the order?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "storage",
+    "meaning_ko": "저장, 창고",
+    "pos": "noun",
+    "example": "I need more cloud storage.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "strategy",
+    "meaning_ko": "전략",
+    "pos": "noun",
+    "example": "We need a new business strategy.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "stress",
+    "meaning_ko": "강조하다, 스트레스",
+    "pos": "verb",
+    "example": "I want to stress the importance of safety.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "structure",
+    "meaning_ko": "구조",
+    "pos": "noun",
+    "example": "The structure of the building is solid.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "succeed",
+    "meaning_ko": "성공하다",
+    "pos": "verb",
+    "example": "She succeeded in finding a job.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "sufficient",
+    "meaning_ko": "충분한",
+    "pos": "adjective",
+    "example": "Is this amount sufficient?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "suggest",
+    "meaning_ko": "제안하다",
+    "pos": "verb",
+    "example": "I suggest we take a break.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "support",
+    "meaning_ko": "지지하다",
+    "pos": "verb",
+    "example": "I support your decision.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "suppose",
+    "meaning_ko": "가정하다, 생각하다",
+    "pos": "verb",
+    "example": "I suppose you're right.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "survive",
+    "meaning_ko": "생존하다",
+    "pos": "verb",
+    "example": "Only a few people survived the accident.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "sustain",
+    "meaning_ko": "유지하다, 지탱하다",
+    "pos": "verb",
+    "example": "Can we sustain this level of growth?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "sympathy",
+    "meaning_ko": "동정, 공감",
+    "pos": "noun",
+    "example": "I offered my sympathy to the family.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "target",
+    "meaning_ko": "목표",
+    "pos": "noun",
+    "example": "We hit our sales target.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "technique",
+    "meaning_ko": "기술, 기법",
+    "pos": "noun",
+    "example": "He uses a unique painting technique.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "temporary",
+    "meaning_ko": "일시적인",
+    "pos": "adjective",
+    "example": "This is only a temporary solution.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "tension",
+    "meaning_ko": "긴장, 갈등",
+    "pos": "noun",
+    "example": "There was a lot of tension in the room.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "theory",
+    "meaning_ko": "이론",
+    "pos": "noun",
+    "example": "Can you explain the theory?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "threat",
+    "meaning_ko": "위협",
+    "pos": "noun",
+    "example": "Climate change is a global threat.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "tolerate",
+    "meaning_ko": "용인하다, 참다",
+    "pos": "verb",
+    "example": "I can't tolerate rude behavior.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "total",
+    "meaning_ko": "총계",
+    "pos": "noun",
+    "example": "What is the total cost?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "trace",
+    "meaning_ko": "흔적을 찾다",
+    "pos": "verb",
+    "example": "The police tried to trace the source.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "tradition",
+    "meaning_ko": "전통",
+    "pos": "noun",
+    "example": "It's an old family tradition.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "transfer",
+    "meaning_ko": "이동하다, 전근하다",
+    "pos": "verb",
+    "example": "I need to transfer money to my bank account.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "transform",
+    "meaning_ko": "변형시키다",
+    "pos": "verb",
+    "example": "The renovation transformed the house.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "trend",
+    "meaning_ko": "추세, 유행",
+    "pos": "noun",
+    "example": "This is the latest fashion trend.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "ultimate",
+    "meaning_ko": "궁극적인, 최종의",
+    "pos": "adjective",
+    "example": "His ultimate goal is to retire early.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "undertake",
+    "meaning_ko": "착수하다, 맡다",
+    "pos": "verb",
+    "example": "We will undertake the challenge.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "unique",
+    "meaning_ko": "독특한",
+    "pos": "adjective",
+    "example": "She has a unique sense of style.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "universal",
+    "meaning_ko": "보편적인",
+    "pos": "adjective",
+    "example": "Love is a universal language.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "update",
+    "meaning_ko": "갱신하다",
+    "pos": "verb",
+    "example": "Please update your software.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "urgent",
+    "meaning_ko": "긴급한",
+    "pos": "adjective",
+    "example": "This is an urgent matter.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "valid",
+    "meaning_ko": "유효한, 타당한",
+    "pos": "adjective",
+    "example": "Your passport is still valid.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "value",
+    "meaning_ko": "가치",
+    "pos": "noun",
+    "example": "What value do you place on honesty?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "vary",
+    "meaning_ko": "다르다, 다양하다",
+    "pos": "verb",
+    "example": "Prices vary depending on the season.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "victim",
+    "meaning_ko": "피해자",
+    "pos": "noun",
+    "example": "He was a victim of fraud.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "violent",
+    "meaning_ko": "폭력적인, 격렬한",
+    "pos": "adjective",
+    "example": "The storm was extremely violent.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "virtual",
+    "meaning_ko": "가상의",
+    "pos": "adjective",
+    "example": "We had a virtual meeting.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "visible",
+    "meaning_ko": "보이는",
+    "pos": "adjective",
+    "example": "The stars are clearly visible tonight.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "vital",
+    "meaning_ko": "필수적인, 활력 있는",
+    "pos": "adjective",
+    "example": "Sleep is vital for health.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "volunteer",
+    "meaning_ko": "자원하다",
+    "pos": "verb",
+    "example": "I volunteered to help at the event.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "widespread",
+    "meaning_ko": "광범위한",
+    "pos": "adjective",
+    "example": "The rumor is widespread.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "withdraw",
+    "meaning_ko": "철회하다, 인출하다",
+    "pos": "verb",
+    "example": "I need to withdraw some cash.",
+    "level": "표현력확장",
+    "category": "일상회화"
+  },
+  {
+    "word": "witness",
+    "meaning_ko": "목격하다",
+    "pos": "verb",
+    "example": "Did anyone witness the accident?",
+    "level": "표현력확장",
+    "category": "일상회화"
+  }
+]

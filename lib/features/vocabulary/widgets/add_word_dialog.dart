@@ -240,7 +240,7 @@ class _AddWordDialogState extends ConsumerState<AddWordDialog> {
         example: _exampleController.text.trim().isNotEmpty
             ? _exampleController.text.trim()
             : null,
-        level: 'beginner', // 기본값으로 초급 설정
+        level: 'beginner', // 기본값으로 기초다지기 설정
         type: _selectedType,
         learningLanguage: learningLang,
         nativeLanguage: nativeLang,

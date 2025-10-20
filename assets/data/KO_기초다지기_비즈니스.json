@@ -1,0 +1,402 @@
+[
+  {
+    "word": "work",
+    "meaning_ko": "일",
+    "pos": "noun",
+    "example": "This is an example with work.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "job",
+    "meaning_ko": "직업",
+    "pos": "noun",
+    "example": "This is an example with job.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "office",
+    "meaning_ko": "사무실",
+    "pos": "noun",
+    "example": "This is an example with office.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "company",
+    "meaning_ko": "회사",
+    "pos": "noun",
+    "example": "This is an example with company.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "boss",
+    "meaning_ko": "상사",
+    "pos": "noun",
+    "example": "This is an example with boss.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "manager",
+    "meaning_ko": "관리자",
+    "pos": "noun",
+    "example": "This is an example with manager.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "worker",
+    "meaning_ko": "직원",
+    "pos": "noun",
+    "example": "This is an example with worker.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "team",
+    "meaning_ko": "팀",
+    "pos": "noun",
+    "example": "This is an example with team.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "meeting",
+    "meaning_ko": "회의",
+    "pos": "noun",
+    "example": "This is an example with meeting.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "email",
+    "meaning_ko": "이메일",
+    "pos": "noun",
+    "example": "This is an example with email.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "call",
+    "meaning_ko": "전화",
+    "pos": "noun",
+    "example": "This is an example with call.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "phone",
+    "meaning_ko": "전화기",
+    "pos": "noun",
+    "example": "This is an example with phone.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "computer",
+    "meaning_ko": "컴퓨터",
+    "pos": "noun",
+    "example": "This is an example with computer.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "paper",
+    "meaning_ko": "종이",
+    "pos": "noun",
+    "example": "This is an example with paper.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "pen",
+    "meaning_ko": "펜",
+    "pos": "noun",
+    "example": "This is an example with pen.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "desk",
+    "meaning_ko": "책상",
+    "pos": "noun",
+    "example": "This is an example with desk.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "chair",
+    "meaning_ko": "의자",
+    "pos": "noun",
+    "example": "This is an example with chair.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "file",
+    "meaning_ko": "파일",
+    "pos": "noun",
+    "example": "This is an example with file.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "document",
+    "meaning_ko": "문서",
+    "pos": "noun",
+    "example": "This is an example with document.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "report",
+    "meaning_ko": "보고서",
+    "pos": "noun",
+    "example": "This is an example with report.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "money",
+    "meaning_ko": "돈",
+    "pos": "noun",
+    "example": "This is an example with money.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "pay",
+    "meaning_ko": "지불하다",
+    "pos": "noun",
+    "example": "This is an example with pay.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "salary",
+    "meaning_ko": "급여",
+    "pos": "noun",
+    "example": "This is an example with salary.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "price",
+    "meaning_ko": "가격",
+    "pos": "noun",
+    "example": "This is an example with price.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "sell",
+    "meaning_ko": "팔다",
+    "pos": "noun",
+    "example": "This is an example with sell.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "buy",
+    "meaning_ko": "사다",
+    "pos": "noun",
+    "example": "This is an example with buy.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "customer",
+    "meaning_ko": "고객",
+    "pos": "noun",
+    "example": "This is an example with customer.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "client",
+    "meaning_ko": "클라이언트",
+    "pos": "noun",
+    "example": "This is an example with client.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "service",
+    "meaning_ko": "서비스",
+    "pos": "noun",
+    "example": "This is an example with service.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "product",
+    "meaning_ko": "제품",
+    "pos": "noun",
+    "example": "This is an example with product.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "time",
+    "meaning_ko": "시간",
+    "pos": "noun",
+    "example": "This is an example with time.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "schedule",
+    "meaning_ko": "일정",
+    "pos": "noun",
+    "example": "This is an example with schedule.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "early",
+    "meaning_ko": "이른",
+    "pos": "noun",
+    "example": "This is an example with early.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "late",
+    "meaning_ko": "늦은",
+    "pos": "noun",
+    "example": "This is an example with late.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "busy",
+    "meaning_ko": "바쁜",
+    "pos": "noun",
+    "example": "This is an example with busy.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "free",
+    "meaning_ko": "자유로운",
+    "pos": "noun",
+    "example": "This is an example with free.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "start",
+    "meaning_ko": "시작하다",
+    "pos": "noun",
+    "example": "This is an example with start.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "finish",
+    "meaning_ko": "끝내다",
+    "pos": "noun",
+    "example": "This is an example with finish.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "break",
+    "meaning_ko": "휴식",
+    "pos": "noun",
+    "example": "This is an example with break.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "lunch",
+    "meaning_ko": "점심",
+    "pos": "noun",
+    "example": "This is an example with lunch.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "week",
+    "meaning_ko": "주",
+    "pos": "noun",
+    "example": "This is an example with week.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "month",
+    "meaning_ko": "월",
+    "pos": "noun",
+    "example": "This is an example with month.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "year",
+    "meaning_ko": "년",
+    "pos": "noun",
+    "example": "This is an example with year.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "plan",
+    "meaning_ko": "계획",
+    "pos": "noun",
+    "example": "This is an example with plan.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "goal",
+    "meaning_ko": "목표",
+    "pos": "noun",
+    "example": "This is an example with goal.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "problem",
+    "meaning_ko": "문제",
+    "pos": "noun",
+    "example": "This is an example with problem.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "solution",
+    "meaning_ko": "해결책",
+    "pos": "noun",
+    "example": "This is an example with solution.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "help",
+    "meaning_ko": "도움",
+    "pos": "verb",
+    "example": "This is an example with help.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "thank",
+    "meaning_ko": "감사하다",
+    "pos": "verb",
+    "example": "This is an example with thank.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  },
+  {
+    "word": "sorry",
+    "meaning_ko": "미안하다",
+    "pos": "adjective",
+    "example": "This is an example with sorry.",
+    "level": "기초다지기",
+    "category": "비즈니스"
+  }
+]

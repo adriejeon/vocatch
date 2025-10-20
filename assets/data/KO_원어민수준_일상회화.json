@@ -1,0 +1,386 @@
+[
+  {
+    "word": "articulate",
+    "meaning_ko": "articulate",
+    "pos": "noun",
+    "example": "This is an example with articulate.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "eloquent",
+    "meaning_ko": "eloquent",
+    "pos": "noun",
+    "example": "This is an example with eloquent.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "rhetoric",
+    "meaning_ko": "rhetoric",
+    "pos": "noun",
+    "example": "This is an example with rhetoric.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "diplomatic",
+    "meaning_ko": "diplomatic",
+    "pos": "noun",
+    "example": "This is an example with diplomatic.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "tactful",
+    "meaning_ko": "tactful",
+    "pos": "noun",
+    "example": "This is an example with tactful.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "assertive",
+    "meaning_ko": "assertive",
+    "pos": "noun",
+    "example": "This is an example with assertive.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "confrontation",
+    "meaning_ko": "confrontation",
+    "pos": "noun",
+    "example": "This is an example with confrontation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "mediation",
+    "meaning_ko": "mediation",
+    "pos": "noun",
+    "example": "This is an example with mediation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "reconciliation",
+    "meaning_ko": "reconciliation",
+    "pos": "noun",
+    "example": "This is an example with reconciliation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "discourse",
+    "meaning_ko": "discourse",
+    "pos": "noun",
+    "example": "This is an example with discourse.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "dialogue",
+    "meaning_ko": "dialogue",
+    "pos": "noun",
+    "example": "This is an example with dialogue.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "monologue",
+    "meaning_ko": "monologue",
+    "pos": "noun",
+    "example": "This is an example with monologue.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "soliloquy",
+    "meaning_ko": "soliloquy",
+    "pos": "noun",
+    "example": "This is an example with soliloquy.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "vernacular",
+    "meaning_ko": "vernacular",
+    "pos": "noun",
+    "example": "This is an example with vernacular.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "colloquial",
+    "meaning_ko": "colloquial",
+    "pos": "noun",
+    "example": "This is an example with colloquial.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "jargon",
+    "meaning_ko": "jargon",
+    "pos": "noun",
+    "example": "This is an example with jargon.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "euphemism",
+    "meaning_ko": "euphemism",
+    "pos": "noun",
+    "example": "This is an example with euphemism.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "metaphor",
+    "meaning_ko": "metaphor",
+    "pos": "noun",
+    "example": "This is an example with metaphor.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "analogy",
+    "meaning_ko": "analogy",
+    "pos": "noun",
+    "example": "This is an example with analogy.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "inference",
+    "meaning_ko": "inference",
+    "pos": "noun",
+    "example": "This is an example with inference.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "connotation",
+    "meaning_ko": "connotation",
+    "pos": "noun",
+    "example": "This is an example with connotation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "denotation",
+    "meaning_ko": "denotation",
+    "pos": "noun",
+    "example": "This is an example with denotation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "ambiguity",
+    "meaning_ko": "ambiguity",
+    "pos": "noun",
+    "example": "This is an example with ambiguity.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "nuance",
+    "meaning_ko": "nuance",
+    "pos": "noun",
+    "example": "This is an example with nuance.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "subtlety",
+    "meaning_ko": "subtlety",
+    "pos": "noun",
+    "example": "This is an example with subtlety.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "implication",
+    "meaning_ko": "implication",
+    "pos": "noun",
+    "example": "This is an example with implication.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "persuasion",
+    "meaning_ko": "persuasion",
+    "pos": "noun",
+    "example": "This is an example with persuasion.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "manipulation",
+    "meaning_ko": "manipulation",
+    "pos": "noun",
+    "example": "This is an example with manipulation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "propaganda",
+    "meaning_ko": "propaganda",
+    "pos": "noun",
+    "example": "This is an example with propaganda.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "eloquence",
+    "meaning_ko": "eloquence",
+    "pos": "noun",
+    "example": "This is an example with eloquence.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "articulation",
+    "meaning_ko": "articulation",
+    "pos": "noun",
+    "example": "This is an example with articulation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "deliberation",
+    "meaning_ko": "deliberation",
+    "pos": "noun",
+    "example": "This is an example with deliberation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "contemplation",
+    "meaning_ko": "contemplation",
+    "pos": "noun",
+    "example": "This is an example with contemplation.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "rumination",
+    "meaning_ko": "rumination",
+    "pos": "noun",
+    "example": "This is an example with rumination.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "introspection",
+    "meaning_ko": "introspection",
+    "pos": "noun",
+    "example": "This is an example with introspection.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "retrospection",
+    "meaning_ko": "retrospection",
+    "pos": "noun",
+    "example": "This is an example with retrospection.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "philosophical",
+    "meaning_ko": "philosophical",
+    "pos": "noun",
+    "example": "This is an example with philosophical.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "theoretical",
+    "meaning_ko": "theoretical",
+    "pos": "noun",
+    "example": "This is an example with theoretical.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "abstract",
+    "meaning_ko": "abstract",
+    "pos": "noun",
+    "example": "This is an example with abstract.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "conceptual",
+    "meaning_ko": "conceptual",
+    "pos": "noun",
+    "example": "This is an example with conceptual.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "hypothetical",
+    "meaning_ko": "hypothetical",
+    "pos": "noun",
+    "example": "This is an example with hypothetical.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "speculative",
+    "meaning_ko": "speculative",
+    "pos": "noun",
+    "example": "This is an example with speculative.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "intellectual",
+    "meaning_ko": "intellectual",
+    "pos": "noun",
+    "example": "This is an example with intellectual.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "cognitive",
+    "meaning_ko": "cognitive",
+    "pos": "noun",
+    "example": "This is an example with cognitive.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "analytical",
+    "meaning_ko": "analytical",
+    "pos": "noun",
+    "example": "This is an example with analytical.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "critical",
+    "meaning_ko": "critical",
+    "pos": "noun",
+    "example": "This is an example with critical.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "rational",
+    "meaning_ko": "rational",
+    "pos": "noun",
+    "example": "This is an example with rational.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  },
+  {
+    "word": "logical",
+    "meaning_ko": "logical",
+    "pos": "noun",
+    "example": "This is an example with logical.",
+    "level": "원어민수준",
+    "category": "일상회화"
+  }
+]

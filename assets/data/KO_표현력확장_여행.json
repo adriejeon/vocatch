@@ -1,0 +1,402 @@
+[
+  {
+    "word": "destination",
+    "meaning_ko": "destination",
+    "pos": "noun",
+    "example": "This is an example with destination.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "itinerary",
+    "meaning_ko": "itinerary",
+    "pos": "noun",
+    "example": "This is an example with itinerary.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "reservation",
+    "meaning_ko": "reservation",
+    "pos": "noun",
+    "example": "This is an example with reservation.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "accommodation",
+    "meaning_ko": "accommodation",
+    "pos": "noun",
+    "example": "This is an example with accommodation.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "departure",
+    "meaning_ko": "departure",
+    "pos": "noun",
+    "example": "This is an example with departure.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "arrival",
+    "meaning_ko": "arrival",
+    "pos": "noun",
+    "example": "This is an example with arrival.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "boarding",
+    "meaning_ko": "boarding",
+    "pos": "noun",
+    "example": "This is an example with boarding.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "customs",
+    "meaning_ko": "customs",
+    "pos": "noun",
+    "example": "This is an example with customs.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "immigration",
+    "meaning_ko": "immigration",
+    "pos": "noun",
+    "example": "This is an example with immigration.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "security",
+    "meaning_ko": "security",
+    "pos": "noun",
+    "example": "This is an example with security.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "baggage",
+    "meaning_ko": "baggage",
+    "pos": "noun",
+    "example": "This is an example with baggage.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "suitcase",
+    "meaning_ko": "suitcase",
+    "pos": "noun",
+    "example": "This is an example with suitcase.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "backpack",
+    "meaning_ko": "backpack",
+    "pos": "noun",
+    "example": "This is an example with backpack.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "traveler",
+    "meaning_ko": "traveler",
+    "pos": "noun",
+    "example": "This is an example with traveler.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "tourist",
+    "meaning_ko": "tourist",
+    "pos": "noun",
+    "example": "This is an example with tourist.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "vacation",
+    "meaning_ko": "vacation",
+    "pos": "noun",
+    "example": "This is an example with vacation.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "holiday",
+    "meaning_ko": "holiday",
+    "pos": "noun",
+    "example": "This is an example with holiday.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "adventure",
+    "meaning_ko": "adventure",
+    "pos": "noun",
+    "example": "This is an example with adventure.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "excursion",
+    "meaning_ko": "excursion",
+    "pos": "noun",
+    "example": "This is an example with excursion.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "sightseeing",
+    "meaning_ko": "sightseeing",
+    "pos": "noun",
+    "example": "This is an example with sightseeing.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "landmark",
+    "meaning_ko": "landmark",
+    "pos": "noun",
+    "example": "This is an example with landmark.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "monument",
+    "meaning_ko": "monument",
+    "pos": "noun",
+    "example": "This is an example with monument.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "museum",
+    "meaning_ko": "museum",
+    "pos": "noun",
+    "example": "This is an example with museum.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "gallery",
+    "meaning_ko": "gallery",
+    "pos": "noun",
+    "example": "This is an example with gallery.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "attraction",
+    "meaning_ko": "attraction",
+    "pos": "noun",
+    "example": "This is an example with attraction.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "scenic",
+    "meaning_ko": "scenic",
+    "pos": "noun",
+    "example": "This is an example with scenic.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "hospitality",
+    "meaning_ko": "hospitality",
+    "pos": "noun",
+    "example": "This is an example with hospitality.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "reception",
+    "meaning_ko": "reception",
+    "pos": "noun",
+    "example": "This is an example with reception.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "concierge",
+    "meaning_ko": "concierge",
+    "pos": "noun",
+    "example": "This is an example with concierge.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "amenities",
+    "meaning_ko": "amenities",
+    "pos": "noun",
+    "example": "This is an example with amenities.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "facilities",
+    "meaning_ko": "facilities",
+    "pos": "noun",
+    "example": "This is an example with facilities.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "transportation",
+    "meaning_ko": "transportation",
+    "pos": "noun",
+    "example": "This is an example with transportation.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "schedule",
+    "meaning_ko": "일정",
+    "pos": "noun",
+    "example": "This is an example with schedule.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "delay",
+    "meaning_ko": "delay",
+    "pos": "noun",
+    "example": "This is an example with delay.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "cancellation",
+    "meaning_ko": "cancellation",
+    "pos": "noun",
+    "example": "This is an example with cancellation.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "refund",
+    "meaning_ko": "refund",
+    "pos": "noun",
+    "example": "This is an example with refund.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "exchange",
+    "meaning_ko": "exchange",
+    "pos": "noun",
+    "example": "This is an example with exchange.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "currency",
+    "meaning_ko": "currency",
+    "pos": "noun",
+    "example": "This is an example with currency.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "souvenir",
+    "meaning_ko": "souvenir",
+    "pos": "noun",
+    "example": "This is an example with souvenir.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "local",
+    "meaning_ko": "local",
+    "pos": "noun",
+    "example": "This is an example with local.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "native",
+    "meaning_ko": "native",
+    "pos": "noun",
+    "example": "This is an example with native.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "foreign",
+    "meaning_ko": "foreign",
+    "pos": "noun",
+    "example": "This is an example with foreign.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "international",
+    "meaning_ko": "international",
+    "pos": "noun",
+    "example": "This is an example with international.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "domestic",
+    "meaning_ko": "domestic",
+    "pos": "noun",
+    "example": "This is an example with domestic.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "culture",
+    "meaning_ko": "culture",
+    "pos": "noun",
+    "example": "This is an example with culture.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "tradition",
+    "meaning_ko": "tradition",
+    "pos": "noun",
+    "example": "This is an example with tradition.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "explore",
+    "meaning_ko": "explore",
+    "pos": "noun",
+    "example": "This is an example with explore.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "discover",
+    "meaning_ko": "discover",
+    "pos": "noun",
+    "example": "This is an example with discover.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "wander",
+    "meaning_ko": "wander",
+    "pos": "noun",
+    "example": "This is an example with wander.",
+    "level": "표현력확장",
+    "category": "여행"
+  },
+  {
+    "word": "navigate",
+    "meaning_ko": "navigate",
+    "pos": "noun",
+    "example": "This is an example with navigate.",
+    "level": "표현력확장",
+    "category": "여행"
+  }
+]

@@ -53,6 +53,39 @@ class WordCard extends ConsumerWidget {
                               style: AppTextStyles.headline4,
                             ),
                           ),
+                          // 품사 칩
+                          if (currentWord.synonyms != null &&
+                              currentWord.synonyms!.isNotEmpty)
+                            Container(
+                              margin: const EdgeInsets.only(
+                                right: AppSpacing.paddingSmall,
+                              ),
+                              padding: const EdgeInsets.symmetric(
+                                horizontal: AppSpacing.paddingSmall,
+                                vertical: 4,
+                              ),
+                              decoration: BoxDecoration(
+                                color: AppColors.primary.withOpacity(0.1),
+                                borderRadius: BorderRadius.circular(
+                                  AppSpacing.radiusSmall,
+                                ),
+                                border: Border.all(
+                                  color: AppColors.primary.withOpacity(0.3),
+                                  width: 1,
+                                ),
+                              ),
+                              child: Text(
+                                _getPosLabel(
+                                  currentWord.synonyms!.first,
+                                  uiLang,
+                                ),
+                                style: AppTextStyles.bodySmall.copyWith(
+                                  color: AppColors.primary,
+                                  fontWeight: FontWeight.w600,
+                                  fontSize: 11,
+                                ),
+                              ),
+                            ),
                           // 발음 듣기 버튼
                           IconButton(
                             onPressed: () => _speakWord(word, uiLang),
@@ -89,16 +122,19 @@ class WordCard extends ConsumerWidget {
             // Example
             if (currentWord.example != null) ...[
               const SizedBox(height: AppSpacing.paddingSmall),
-              Container(
-                padding: const EdgeInsets.all(AppSpacing.paddingSmall),
-                decoration: BoxDecoration(
-                  color: AppColors.grey10,
-                  borderRadius: BorderRadius.circular(AppSpacing.radiusSmall),
-                ),
-                child: Text(
-                  '${AppStrings.get('example', uiLang)}: ${currentWord.example}',
-                  style: AppTextStyles.bodySmall.copyWith(
-                    color: AppColors.textSecondary,
+              SizedBox(
+                width: double.infinity,
+                child: Container(
+                  padding: const EdgeInsets.all(AppSpacing.paddingSmall),
+                  decoration: BoxDecoration(
+                    color: AppColors.grey10,
+                    borderRadius: BorderRadius.circular(AppSpacing.radiusSmall),
+                  ),
+                  child: Text(
+                    '${AppStrings.get('example', uiLang)}: ${currentWord.example}',
+                    style: AppTextStyles.bodySmall.copyWith(
+                      color: AppColors.textSecondary,
+                    ),
                   ),
                 ),
               ),
@@ -321,5 +357,19 @@ class WordCard extends ConsumerWidget {
   void _showPronunciationFeedback(String word) {
     // 콘솔에 발음 피드백 표시
     print('🔊 "$word" 발음 재생 중...');
+  }
+
+  /// 품사 라벨 변환 (다국어 지원)
+  String _getPosLabel(String pos, String uiLang) {
+    final posKey = 'pos_${pos.toLowerCase()}';
+    final translatedPos = AppStrings.get(posKey, uiLang);
+
+    // 번역이 있으면 사용, 없으면 원본 반환
+    if (translatedPos != posKey) {
+      return translatedPos;
+    }
+
+    // 기본값으로 원본을 대문자로 반환
+    return pos.toUpperCase();
   }
 }

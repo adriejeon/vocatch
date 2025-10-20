@@ -1,0 +1,426 @@
+[
+  {
+    "word": "conglomerate",
+    "meaning_ko": "conglomerate",
+    "pos": "noun",
+    "example": "This is an example with conglomerate.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "subsidiary",
+    "meaning_ko": "subsidiary",
+    "pos": "noun",
+    "example": "This is an example with subsidiary.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "affiliate",
+    "meaning_ko": "affiliate",
+    "pos": "noun",
+    "example": "This is an example with affiliate.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "merger",
+    "meaning_ko": "merger",
+    "pos": "noun",
+    "example": "This is an example with merger.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "acquisition",
+    "meaning_ko": "acquisition",
+    "pos": "noun",
+    "example": "This is an example with acquisition.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "consolidation",
+    "meaning_ko": "consolidation",
+    "pos": "noun",
+    "example": "This is an example with consolidation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "restructuring",
+    "meaning_ko": "restructuring",
+    "pos": "noun",
+    "example": "This is an example with restructuring.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "diversification",
+    "meaning_ko": "diversification",
+    "pos": "noun",
+    "example": "This is an example with diversification.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "specialization",
+    "meaning_ko": "specialization",
+    "pos": "noun",
+    "example": "This is an example with specialization.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "monopoly",
+    "meaning_ko": "monopoly",
+    "pos": "noun",
+    "example": "This is an example with monopoly.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "oligopoly",
+    "meaning_ko": "oligopoly",
+    "pos": "noun",
+    "example": "This is an example with oligopoly.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "entrepreneurship",
+    "meaning_ko": "entrepreneurship",
+    "pos": "noun",
+    "example": "This is an example with entrepreneurship.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "venture",
+    "meaning_ko": "venture",
+    "pos": "noun",
+    "example": "This is an example with venture.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "startup",
+    "meaning_ko": "startup",
+    "pos": "noun",
+    "example": "This is an example with startup.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "innovation",
+    "meaning_ko": "innovation",
+    "pos": "noun",
+    "example": "This is an example with innovation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "disruption",
+    "meaning_ko": "disruption",
+    "pos": "noun",
+    "example": "This is an example with disruption.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "transformation",
+    "meaning_ko": "transformation",
+    "pos": "noun",
+    "example": "This is an example with transformation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "sustainability",
+    "meaning_ko": "sustainability",
+    "pos": "noun",
+    "example": "This is an example with sustainability.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "scalability",
+    "meaning_ko": "scalability",
+    "pos": "noun",
+    "example": "This is an example with scalability.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "optimization",
+    "meaning_ko": "optimization",
+    "pos": "noun",
+    "example": "This is an example with optimization.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "automation",
+    "meaning_ko": "automation",
+    "pos": "noun",
+    "example": "This is an example with automation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "digitalization",
+    "meaning_ko": "digitalization",
+    "pos": "noun",
+    "example": "This is an example with digitalization.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "stakeholder",
+    "meaning_ko": "stakeholder",
+    "pos": "noun",
+    "example": "This is an example with stakeholder.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "shareholder",
+    "meaning_ko": "shareholder",
+    "pos": "noun",
+    "example": "This is an example with shareholder.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "dividend",
+    "meaning_ko": "dividend",
+    "pos": "noun",
+    "example": "This is an example with dividend.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "equity",
+    "meaning_ko": "equity",
+    "pos": "noun",
+    "example": "This is an example with equity.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "liability",
+    "meaning_ko": "liability",
+    "pos": "noun",
+    "example": "This is an example with liability.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "asset",
+    "meaning_ko": "asset",
+    "pos": "noun",
+    "example": "This is an example with asset.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "depreciation",
+    "meaning_ko": "depreciation",
+    "pos": "noun",
+    "example": "This is an example with depreciation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "amortization",
+    "meaning_ko": "amortization",
+    "pos": "noun",
+    "example": "This is an example with amortization.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "valuation",
+    "meaning_ko": "valuation",
+    "pos": "noun",
+    "example": "This is an example with valuation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "liquidation",
+    "meaning_ko": "liquidation",
+    "pos": "noun",
+    "example": "This is an example with liquidation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "bankruptcy",
+    "meaning_ko": "bankruptcy",
+    "pos": "noun",
+    "example": "This is an example with bankruptcy.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "insolvency",
+    "meaning_ko": "insolvency",
+    "pos": "noun",
+    "example": "This is an example with insolvency.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "foreclosure",
+    "meaning_ko": "foreclosure",
+    "pos": "noun",
+    "example": "This is an example with foreclosure.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "compliance",
+    "meaning_ko": "compliance",
+    "pos": "noun",
+    "example": "This is an example with compliance.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "regulation",
+    "meaning_ko": "regulation",
+    "pos": "noun",
+    "example": "This is an example with regulation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "legislation",
+    "meaning_ko": "legislation",
+    "pos": "noun",
+    "example": "This is an example with legislation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "litigation",
+    "meaning_ko": "litigation",
+    "pos": "noun",
+    "example": "This is an example with litigation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "arbitration",
+    "meaning_ko": "arbitration",
+    "pos": "noun",
+    "example": "This is an example with arbitration.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "mediation",
+    "meaning_ko": "mediation",
+    "pos": "noun",
+    "example": "This is an example with mediation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "intellectual",
+    "meaning_ko": "intellectual",
+    "pos": "noun",
+    "example": "This is an example with intellectual.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "proprietary",
+    "meaning_ko": "proprietary",
+    "pos": "noun",
+    "example": "This is an example with proprietary.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "patent",
+    "meaning_ko": "patent",
+    "pos": "noun",
+    "example": "This is an example with patent.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "trademark",
+    "meaning_ko": "trademark",
+    "pos": "noun",
+    "example": "This is an example with trademark.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "copyright",
+    "meaning_ko": "copyright",
+    "pos": "noun",
+    "example": "This is an example with copyright.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "franchise",
+    "meaning_ko": "franchise",
+    "pos": "noun",
+    "example": "This is an example with franchise.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "syndicate",
+    "meaning_ko": "syndicate",
+    "pos": "noun",
+    "example": "This is an example with syndicate.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "consortium",
+    "meaning_ko": "consortium",
+    "pos": "noun",
+    "example": "This is an example with consortium.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "collaboration",
+    "meaning_ko": "collaboration",
+    "pos": "noun",
+    "example": "This is an example with collaboration.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "partnership",
+    "meaning_ko": "partnership",
+    "pos": "noun",
+    "example": "This is an example with partnership.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "alliance",
+    "meaning_ko": "alliance",
+    "pos": "noun",
+    "example": "This is an example with alliance.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  },
+  {
+    "word": "cooperation",
+    "meaning_ko": "cooperation",
+    "pos": "noun",
+    "example": "This is an example with cooperation.",
+    "level": "원어민수준",
+    "category": "비즈니스"
+  }
+]
